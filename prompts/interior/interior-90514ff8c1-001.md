@@ -1,0 +1,34 @@
+---
+id: "interior-90514ff8c1-001"
+title: "水果兄弟搞怪榨汁秀"
+category: interior
+subcategory: "04_创意脑洞特效合成"
+aesthetic: null
+tags: ["拟人", "香蕉", "厨房", "棒球帽", "球鞋", "果汁", "创意", "滑稽"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+提示词：
+
+替换里面的水果名称即可
+
+一个滑稽的拟人化橙子角色出现在厨房里，视角是从背后拍摄的。这个橙子有着逼真的拟人化手臂和腿，以及标志性的亮橙色皮肤纹理。它戴着橙色棒球帽，手里拿着橙色篮球。
+
+## 来源备注
+- 源站作者：imxiaohu
+- 源站 UUID：90514ff8c1
+- 源站分类：04_创意脑洞特效合成

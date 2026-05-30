@@ -1,0 +1,30 @@
+---
+id: "portrait-cf0338127c-001"
+title: "陈奕迅谢霆锋夜拍维港"
+category: portrait
+subcategory: "05_人物肖像与写实摄影"
+aesthetic: null
+tags: ["陈奕迅", "谢霆锋", "香港", "夜晚", "夜景", "会展中心", "自拍", "模糊"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "9:21"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+请画一张极其平凡无奇的iPhone 自拍照，没有明确的主体或构图感，就像是随手一拍的快照。照片略带运动模糊，阳光或店内灯光不均导致轻微曝光过度。角度尴尬、构图混乱，整体呈现出一种刻意的平庸感-就像是从口袋里拿手机时不小心拍到的一张自拍。主角是陈奕迅和谢霆锋，晚上，旁边是香港会展中心，在香港维多利亚港旁边。
+
+## 来源备注
+- 源站作者：@jiamimao 猫叔宏观
+- 源站 UUID：cf0338127c
+- 源站分类：05_人物肖像与写实摄影

@@ -1,0 +1,30 @@
+---
+id: "architecture-81d93b83e5-001"
+title: "复古动漫幻想"
+category: architecture
+subcategory: "14_社交媒体营销"
+aesthetic: japanese-zen-garden
+tags: ["复古", "日式", "女性", "卷发", "水手服", "咖啡馆", "怀旧", "少女漫"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "16:9"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+一位美丽的东亚女性，有着令人羡慕的白嫩光滑肌肤，留着蓬松的90年代风格卷发。她穿着复古的水手服风格连衣裙，坐在一家充满怀旧感的日式咖啡馆里，眼神梦幻。照片被密集的80-90年代少女漫画元素覆盖：闪烁的星星、魔法少女变身效果、粉彩色的机甲怪兽、玫瑰花框和巨大的漫画拟声词（如“DOKI DOKI”）。艺术风格是扁平的赛璐璐色彩和粗糙的线条，环绕着她写实的身体。柔和、梦幻的午后光线。
+
+## 来源备注
+- 源站作者：songguoxiansen
+- 源站 UUID：81d93b83e5
+- 源站分类：14_社交媒体营销

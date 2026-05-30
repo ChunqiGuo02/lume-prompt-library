@@ -1,0 +1,30 @@
+---
+id: "misc-ce8a42b8a5-001"
+title: "T恤印花平面化设计提取"
+category: misc
+subcategory: "11_图像编辑与修复增强"
+aesthetic: null
+tags: ["简约", "矢量", "平面", "印花", "饮品", "果汁", "草莓", "橙子"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+将T恤上的印花图案进行平面化设计，基于可见部分智能补全图案缺失的细节，生成一个完整、平整的图案设计，无阴影无褶皱，简约矢量风格，纯色背景。
+
+## 来源备注
+- 源站作者：LeaderAI
+- 源站 UUID：ce8a42b8a5
+- 源站分类：11_图像编辑与修复增强

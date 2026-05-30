@@ -1,0 +1,30 @@
+---
+id: "landscape-e9d578e176-001"
+title: "梦幻鲸鱼彩虹壁纸"
+category: landscape
+subcategory: "04_创意脑洞特效合成"
+aesthetic: null
+tags: ["蓝鲸", "云海", "海水", "鱼群", "彩虹", "阳光", "超现实", "壮观"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "16:9"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+黄金时刻，一只巨大的、半透明的蓝鲸在洁白蓬松的云海中游动。鲸鱼的身体由海水构成，里面还可以看到游动的鱼群。阳光穿透水做的鲸鱼，折射出彩虹。画面超现实且宏伟壮观。
+
+## 来源备注
+- 源站作者：松果先森
+- 源站 UUID：e9d578e176
+- 源站分类：04_创意脑洞特效合成

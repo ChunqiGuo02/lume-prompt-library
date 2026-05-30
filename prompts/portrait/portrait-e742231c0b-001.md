@@ -1,0 +1,30 @@
+---
+id: "portrait-e742231c0b-001"
+title: "美团兔耳骑手活力写真"
+category: portrait
+subcategory: "05_人物肖像与写实摄影"
+aesthetic: null
+tags: ["美团", "外卖", "制服", "头盔", "兔耳", "女孩", "黄色", "写真"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "16:9"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+在明亮的摄影棚内拍摄的半身写真。美丽的东亚女孩，有着如瓷娃娃般无瑕的肌肤和闪烁的大眼睛，正俏皮地歪着头，用手轻轻触碰头盔上的黄色兔耳朵。她穿着整套带有美团Logo的黄色外卖制服。采用柔和、均匀的商业摄影棚打光，营造出清新、活力的氛围，背景深暗，突出主体。在图片最右面搭配上一列文字“我的人生可以用另外一种方式打开”，字体与照片风格相近。
+
+## 来源备注
+- 源站作者：songguoxiansen
+- 源站 UUID：e742231c0b
+- 源站分类：05_人物肖像与写实摄影

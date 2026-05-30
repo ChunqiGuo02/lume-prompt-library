@@ -1,0 +1,30 @@
+---
+id: "interior-29cf310a62-001"
+title: "室内草模生成效果图"
+category: interior
+subcategory: "01_建筑室内空间设计"
+aesthetic: null
+tags: ["现代", "客厅", "简约", "轻奢", "电视柜", "沙发", "地毯", "落地窗"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+按照图片的结构生成一个精美的现代别墅客厅，左侧为电视柜，右侧为沙发区域，地面上摆放地毯，窗户外是繁华的城市背景
+
+## 来源备注
+- 源站作者：leaderai
+- 源站 UUID：29cf310a62
+- 源站分类：01_建筑室内空间设计

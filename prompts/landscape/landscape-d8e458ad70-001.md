@@ -1,0 +1,30 @@
+---
+id: "landscape-d8e458ad70-001"
+title: "图像外扩修复"
+category: landscape
+subcategory: "11_图像编辑与修复增强"
+aesthetic: null
+tags: ["海岛", "海洋", "椰树", "木屋", "码头", "帆船", "沙滩", "俯视"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+将图像的棋盘格部分进行修复，恢复为完整图像
+
+## 来源备注
+- 源站作者：bwabbage
+- 源站 UUID：d8e458ad70
+- 源站分类：11_图像编辑与修复增强

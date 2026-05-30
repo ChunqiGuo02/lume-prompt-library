@@ -1,0 +1,148 @@
+---
+id: "graphic-text-name-argument-001"
+title: "SNS学校招生广告"
+category: graphic
+subcategory: "03_创意广告品牌设计"
+aesthetic: null
+tags: ["日系", "拼贴", "紫色", "青春", "学生", "社交", "培训", "数据"]
+recommended_models: []
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+{
+  "type": "2x2 grid of banner advertisements",
+  "theme": "{argument name=\"school name\" default=\"SNSスクール\"}",
+  "target_audience": "{argument name=\"target audience\" default=\"学生\"}",
+  "layout": {
+    "grid": "2x2",
+    "panels": [
+      {
+        "position": "top-left",
+        "style": "dark neon, blue and purple",
+        "subject": "young woman looking up hopefully, holding a smartphone, wearing a purple sweatshirt",
+        "main_text": "{argument name=\"banner 1 headline\" default=\"SNSを仕事にしたい人へ\"}",
+        "sub_text": "“好き”をカタチに。未来を変える一歩を、今。",
+        "elements": [
+          "white and yellow typography",
+          "yellow call-to-action button: チェックする >",
+          "hand-drawn neon accents (crown, stars, heart)"
+        ]
+      },
+      {
+        "position": "top-right",
+        "style": "bright, pop, cyan and white",
+        "subject": "young woman smiling directly at camera, holding a smartphone, wearing a teal hoodie, hair in a bun",
+        "main_text": "{argument name=\"banner 2 headline\" default=\"好きな発信を武器にする\"}",
+        "sub_text": "企画・編集・投稿を学ぶ",
+        "elements": [
+          "torn paper texture backgrounds for text",
+          "yellow starburst sticker: 無料体験",
+          "3 feature icons with text: lightbulb (企画力), pencil (編集力), paper plane (投稿力)"
+        ]
+      },
+      {
+        "position": "bottom-left",
+        "style": "dark, analytical, neon purple and green",
+        "subject": "young man looking thoughtfully at his smartphone, wearing a black hoodie",
+        "main_text": "{argument name=\"banner 3 headline\" default=\"バズるだけじゃない 分析まで学べる\"}",
+        "sub_text": "#伸びる理由がわかると、もっと伸ばせる。",
+        "elements": [
+          "3 floating holographic data panels with line graphs and stats (125.6万, 23.8%, 12.6%)",
+          "3 feature icons at bottom: bar chart (データ分析), magnifying glass (改善提案), target (成果につなげる)",
+          "yellow call-to-action button: 詳しく見る >"
+        ]
+      },
+      {
+        "position": "bottom-right",
+        "style": "bright, friendly, purple and white",
+        "subject": "group of 4 young people (3 women, 1 man) huddled together smiling at a smartphone",
+        "main_text": "SNSで未来の可能性を広げよう",
+        "sub_text": "仲間と学べるコミュニティ",
+        "elements": [
+          "torn paper texture backgrounds for text",
+          "3 bullet points with icons (people, speech bubbles, rising chart)",
+          "2 polaroid-style inset photos showing students studying at a desk",
+          "yellow call-to-action button: 今すぐ参加 >"
+        ]
+      }
+    ]
+  }
+}
+
+## 中文译文（源站提供）
+{
+  "type": "2x2 grid of banner advertisements",
+  "theme": "{argument name=\"school name\" default=\"SNSスクール\"}",
+  "target_audience": "{argument name=\"target audience\" default=\"学生\"}",
+  "layout": {
+    "grid": "2x2",
+    "panels": [
+      {
+        "position": "top-left",
+        "style": "dark neon, blue and purple",
+        "subject": "young woman looking up hopefully, holding a smartphone, wearing a purple sweatshirt",
+        "main_text": "{argument name=\"banner 1 headline\" default=\"SNSを仕事にしたい人へ\"}",
+        "sub_text": "“好き”をカタチに。未来を変える一歩を、今。",
+        "elements": [
+          "white and yellow typography",
+          "yellow call-to-action button: チェックする >",
+          "hand-drawn neon accents (crown, stars, heart)"
+        ]
+      },
+      {
+        "position": "top-right",
+        "style": "bright, pop, cyan and white",
+        "subject": "young woman smiling directly at camera, holding a smartphone, wearing a teal hoodie, hair in a bun",
+        "main_text": "{argument name=\"banner 2 headline\" default=\"好きな発信を武器にする\"}",
+        "sub_text": "企画・編集・投稿を学ぶ",
+        "elements": [
+          "torn paper texture backgrounds for text",
+          "yellow starburst sticker: 無料体験",
+          "3 feature icons with text: lightbulb (企画力), pencil (編集力), paper plane (投稿力)"
+        ]
+      },
+      {
+        "position": "bottom-left",
+        "style": "dark, analytical, neon purple and green",
+        "subject": "young man looking thoughtfully at his smartphone, wearing a black hoodie",
+        "main_text": "{argument name=\"banner 3 headline\" default=\"バズるだけじゃない 分析まで学べる\"}",
+        "sub_text": "#伸びる理由がわかると、もっと伸ばせる。",
+        "elements": [
+          "3 floating holographic data panels with line graphs and stats (125.6万, 23.8%, 12.6%)",
+          "3 feature icons at bottom: bar chart (データ分析), magnifying glass (改善提案), target (成果につなげる)",
+          "yellow call-to-action button: 詳しく見る >"
+        ]
+      },
+      {
+        "position": "bottom-right",
+        "style": "bright, friendly, purple and white",
+        "subject": "group of 4 young people (3 women, 1 man) huddled together smiling at a smartphone",
+        "main_text": "SNSで未来の可能性を広げよう",
+        "sub_text": "仲間と学べるコミュニティ",
+        "elements": [
+          "torn paper texture backgrounds for text",
+          "3 bullet points with icons (people, speech bubbles, rising chart)",
+          "2 polaroid-style inset photos showing students studying at a desk",
+          "yellow call-to-action button: 今すぐ参加 >"
+        ]
+      }
+    ]
+  }
+}
+
+## 来源备注
+- 源站作者：パク🎈動画広告分析Pro × AI
+- 源站 UUID：XGIcaZoVQu
+- 源站分类：03_创意广告品牌设计

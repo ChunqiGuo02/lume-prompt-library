@@ -1,0 +1,30 @@
+---
+id: "landscape-3c85dc583a-001"
+title: "减弱ai感加强皮肤质感"
+category: landscape
+subcategory: "11_图像编辑与修复增强"
+aesthetic: null
+tags: ["红色", "人像", "写真", "丸子头", "黑发", "胶片", "细腻", "写实"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+对图片中人像的皮肤进行专业级润饰：增强真实的皮肤肌理，包括极细微的毛孔、自然的纹理起伏、以及脸颊与鼻梁处极轻微的红润血色。确保皮肤具有逼真的透光感，并在高光区域（如颧骨、唇峰）呈现柔和而非过度的光泽。彻底消除塑料感、蜡像感和过度平滑的AI痕迹。保留人物所有特征，仅优化肤质与光影的真实性。最终呈现电影级肤色，带有柯达Portra 400胶片的细腻颗粒与色彩层次。
+
+## 来源备注
+- 源站作者：Leader AI
+- 源站 UUID：3c85dc583a
+- 源站分类：11_图像编辑与修复增强

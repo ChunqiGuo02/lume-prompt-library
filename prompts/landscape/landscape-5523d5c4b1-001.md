@@ -1,0 +1,34 @@
+---
+id: "landscape-5523d5c4b1-001"
+title: "车站电影海报"
+category: landscape
+subcategory: "03_创意广告品牌设计"
+aesthetic: null
+tags: ["二次元", "海报", "美少女", "武士刀", "地铁站", "日系", "夏日", "写实"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "3:4"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+使用原图制作电影海报。电影类型将根据原图的氛围确定。
+无论原图是动画还是真人版，原图的风格和角色设计都将尽可能完美地保留。但姿势和表情可能会根据海报设计进行调整。此外，还可能添加其他人物和物体。
+最终生成的图像将具有照片级真实感。但海报设计除外，因为它将基于原图进行制作。
+海报所贴日本车站地下通道的场景将以逼真的图像进行重现，并添加穿过地下通道的人物。
+海报的反射角度经过调整，使其看起来更加逼真。
+
+## 来源备注
+- 源站作者：AI_Kei75
+- 源站 UUID：5523d5c4b1
+- 源站分类：03_创意广告品牌设计

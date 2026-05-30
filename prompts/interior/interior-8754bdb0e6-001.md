@@ -1,0 +1,62 @@
+---
+id: "interior-8754bdb0e6-001"
+title: "用一张图生成16张写真姿势图片"
+category: interior
+subcategory: "11_图像编辑与修复增强"
+aesthetic: null
+tags: ["写真", "女生", "长裙", "碎花", "暖调", "室内", "光影", "优雅"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+用这张图生成16张写真姿势图片：
+
+改变动作姿势，跪地姿势
+
+改变动作姿势，人物双手做出互动姿态
+
+改变动作姿势，手臂向前伸展，手指比出v字手势
+
+改变动作姿势，变成俯视拍摄，握拳的手向前伸展
+
+改变动作姿势，变成俯视拍摄，带上黑色墨镜，双手抬起
+
+改变动作姿势，变成俯视拍摄，跪地姿势
+
+改变动作姿势，变成俯视拍摄，人物面部呈现单眼眨眼
+
+改变动作姿势，侧躺坐姿
+
+改变动作姿势，变成仰视拍摄，手掌朝镜头伸展
+
+改变动作姿势，俯身姿态
+
+改变动作姿势，坐在地上双腿交叉伸展
+
+改变动作姿势，单膝跪地姿态
+
+改变动作姿势，坐在高脚凳上，双腿优雅交叠
+
+改变动作姿势，一只手向前撑地
+
+改变动作姿势，站立姿态，双臂交叉抱于胸前
+
+改变动作姿势，变成俯视拍摄，双手在镜头前巧妙组合
+
+## 来源备注
+- 源站作者：Leader AI
+- 源站 UUID：8754bdb0e6
+- 源站分类：11_图像编辑与修复增强

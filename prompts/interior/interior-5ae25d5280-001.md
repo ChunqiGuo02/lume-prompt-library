@@ -1,0 +1,30 @@
+---
+id: "interior-5ae25d5280-001"
+title: "替换客厅沙发为绿色新款"
+category: interior
+subcategory: "13_虚拟购物试穿试用"
+aesthetic: null
+tags: ["客厅", "沙发", "绿色", "简约", "家居", "软装", "奶油风", "地毯"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+将图1中的沙发换成图2的沙发，保持房间内其他家具不变
+
+## 来源备注
+- 源站作者：阿真
+- 源站 UUID：5ae25d5280
+- 源站分类：13_虚拟购物试穿试用

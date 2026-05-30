@@ -1,0 +1,30 @@
+---
+id: "portrait-77d3a4d126-001"
+title: "插画绘画过程四格"
+category: portrait
+subcategory: "11_图像编辑与修复增强"
+aesthetic: null
+tags: ["人物", "插画", "绘画", "步骤", "线稿", "平涂", "阴影", "细化"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: null
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+为人物生成绘画过程四宫格，第一步：线稿，第二步平铺颜色，第三步：增加阴影，第四步：细化成型。不要文字
+
+## 来源备注
+- 源站作者：ZHO_ZHO_ZHO
+- 源站 UUID：77d3a4d126
+- 源站分类：11_图像编辑与修复增强

@@ -1,0 +1,34 @@
+---
+id: "interior-04780c57bc-001"
+title: "少年跃入漫画救少女"
+category: interior
+subcategory: "04_创意脑洞特效合成"
+aesthetic: null
+tags: ["漫画", "写实", "少年", "修仙", "穿越", "次元", "书桌", "卧室"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "2:3"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+超逼真的 8K 场景，以四分之三后背视角呈现：一位照片般逼真的年轻少年在温馨雅致的卧室里，英勇地向前跃入一本竖立在桌子上木制书架上的大型漫画书《修仙记》。
+关键方向——真人进入漫画世界：少年是从现实卧室跳进漫画书页的，而不是反过来。我们从他身后/侧面看到他向前跃进。他的移动方向是：现实世界→ 一→漫画世界（进入书页）。
+关键 - 深度入侵，且转化方向正确：
+他身体的前部（头部、面部、双臂、胸部、前腿）已经进入书页表面，并转化为漫画风格 = 黑白二维，粗线条勾勒轮廓，网点效果，扁平化的动漫美学。
+他身体的后半部分（后腿、臀部、背部、飘逸)
+
+## 来源备注
+- 源站作者：John Wilson
+- 源站 UUID：04780c57bc
+- 源站分类：04_创意脑洞特效合成

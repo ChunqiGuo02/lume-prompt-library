@@ -1,0 +1,35 @@
+---
+id: "landscape-c8a765fc43-001"
+title: "九宫格少女写真生成器"
+category: landscape
+subcategory: "16_表情包趣味拼图"
+aesthetic: null
+tags: ["九宫格", "少女", "肖像", "日系", "可爱", "黑发", "发夹", "毛衣"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "3:4"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+この女性の1枚の写真をもとに、3×3のグリッドとして配置する、合計9枚の画像を生成してください。 9枚より多く生成しないでください。
+すべての画像はバストアップ、またはそれより近い構図（バストアップ、クローズアップ、ポートレート構図）にしてください。 ワイドショット、全身、ロン
+
+## 中文译文（源站提供）
+请根据这张女性的照片，生成9张图像，这些图像需要按照3×3的网格布局进行排列。请不要生成超过9张图像。  
+所有图像都应采用上半身或类似上半身的构图（包括上半身、特写、肖像构图）。禁止使用宽景、全身或全身下半身的构图。
+
+## 来源备注
+- 源站作者：so_ainsight
+- 源站 UUID：c8a765fc43
+- 源站分类：16_表情包趣味拼图

@@ -1,0 +1,31 @@
+---
+id: "portrait-9280b04ce6-001"
+title: "第一人称视角牵手刘亦菲化妆间写真"
+category: portrait
+subcategory: "05_人物肖像与写实摄影"
+aesthetic: null
+tags: ["刘亦菲", "红色", "牵手", "化妆间", "第一人称", "男友视角", "超写实", "闪光灯"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "9:16"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+说明：知名名人可能会生成失败，可换图片模型试试
+一张超写实的第一人称男友视角照片，画面前景是男性的一只手正牵着长发造型的刘亦菲的手，她身穿红色吊带紧身胸衣短裙搭配红色薄透丝袜，佩戴金色项链，在后台化妆间内眼神迷人地注视着镜头，背景可见摆满化妆品的桌子及带灯泡的化妆镜（映出背影），采用直射闪光灯摄影风格，8K极致细节真实质感。
+
+## 来源备注
+- 源站作者：songguoxiansen
+- 源站 UUID：9280b04ce6
+- 源站分类：05_人物肖像与写实摄影

@@ -1,0 +1,30 @@
+---
+id: "portrait-bcb96a4412-001"
+title: "色卡线稿上色"
+category: portrait
+subcategory: "11_图像编辑与修复增强"
+aesthetic: null
+tags: ["二次元", "少女", "耳机", "金发", "蓝色", "休闲", "插画", "连帽衫"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "3:4"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+准确使用图2色卡为图1人物上色
+
+## 来源备注
+- 源站作者：ZHO_ZHO_ZHO
+- 源站 UUID：bcb96a4412
+- 源站分类：11_图像编辑与修复增强

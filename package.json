@@ -1,0 +1,10 @@
+{
+  "name": "psyche-prompt-library",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-library.mjs",
+    "validate": "node scripts/validate-library.mjs"
+  }
+}

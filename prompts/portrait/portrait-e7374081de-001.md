@@ -1,0 +1,30 @@
+---
+id: "portrait-e7374081de-001"
+title: "微型自画像"
+category: portrait
+subcategory: "04_创意脑洞特效合成"
+aesthetic: null
+tags: ["写实", "名人", "人偶", "绘画", "肖像", "简约", "影棚", "白背景"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+创作一幅人物肖像，描绘此人作为艺术家正在绘制一个微型人偶。此人身着其最具标志性的服装，自信地直视镜头，一手拿着一支小画笔。一个迷你版的自己被醒目地放置在面前干净的工作台上——将人偶放大一些，使其比实际比例更显眼，从而更加突出。人偶也穿着同样的标志性服装，摆出标志性的姿势。工作台上摆放的绘画用品极简，避免杂乱——只有两三瓶小颜料和一支备用画笔，使画面焦点集中在人物和人偶上。柔和的中性白色背景，专业的影棚灯光，浅景深。构图突出了人物看向镜头的面部表情以及他正在绘制的人偶。画面风格简洁明快，追求照片级的写实效果，人物和人偶的细节都需高度还原。
+
+## 来源备注
+- 源站作者：TechieBySA
+- 源站 UUID：e7374081de
+- 源站分类：04_创意脑洞特效合成

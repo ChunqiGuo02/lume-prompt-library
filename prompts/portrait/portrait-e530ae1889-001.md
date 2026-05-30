@@ -1,0 +1,32 @@
+---
+id: "portrait-e530ae1889-001"
+title: "镰仓冬日神社少女写真"
+category: portrait
+subcategory: "05_人物肖像与写实摄影"
+aesthetic: null
+tags: ["镰仓", "神社", "鸟居", "冬日", "雪景", "少女", "日系", "写真"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "3:4"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+在经纬度为35.31721720077321, 139.5357227423284的位置，根据当地当前时间氛围和实时天气制作图片。请让指定的角色在该地点游览，使其融入场景。
+中文提示词（写真集版）：
+在纬度35.31721720077321，经度139.5357227423284的位置，制作一本符合当地当前时间氛围和实时天气的女性的写真集。请让指定的角色看起来像是在那个地方旅游。像写真集一样美地布局。
+
+## 来源备注
+- 源站作者：qisi_ai
+- 源站 UUID：e530ae1889
+- 源站分类：05_人物肖像与写实摄影

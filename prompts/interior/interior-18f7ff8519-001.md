@@ -1,0 +1,30 @@
+---
+id: "interior-18f7ff8519-001"
+title: "毛坯房通过指令装修为新家"
+category: interior
+subcategory: "01_建筑室内空间设计"
+aesthetic: biophilic
+tags: ["现代", "客厅", "简约", "中性色", "绿植", "沙发", "餐桌", "写实"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+将这张毛坯房室内照片改造成现代设计风格室内场景，保留原始空间结构关系，消除毛坯粗糙感，中性色为主调，平整墙面+简约瓷砖地面，配简约沙发、餐桌、柜体，搭浅窗帘、绿植与柔和细腻的灯光，布局符合空间尺度，具有高度的室内设计审美，画面呈现令人惊叹的细节写实感。
+
+## 来源备注
+- 源站作者：leaderai
+- 源站 UUID：18f7ff8519
+- 源站分类：01_建筑室内空间设计

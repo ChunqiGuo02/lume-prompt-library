@@ -1,0 +1,30 @@
+---
+id: "architecture-170a1d863a-001"
+title: "AI生成内部结构图2"
+category: architecture
+subcategory: "02_电商产品虚拟摄影"
+aesthetic: null
+tags: ["烹饪", "器具", "透明", "鸡汤", "食材", "暖光", "热气", "科技感"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: null
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+生成产品的内部效果图，产品改成一款透明外观的烹饪器具，按键控件面板区域不变，内部有一锅食材鸡汤在烹制热气腾腾，食材周围有环形暖光动态光效，器具顶部有灯光照射下来，底部有发光的加热装置，整体散发着热气，背景为简洁的浅棕色，突出烹饪器具的科技感与烹饪时的热烈状态。
+
+## 来源备注
+- 源站作者：雏田小姐
+- 源站 UUID：170a1d863a
+- 源站分类：02_电商产品虚拟摄影

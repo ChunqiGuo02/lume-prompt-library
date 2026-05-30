@@ -1,0 +1,40 @@
+---
+id: "portrait-6c75c2737f-001"
+title: "恶搞达尔文教科书页"
+category: portrait
+subcategory: "04_创意脑洞特效合成"
+aesthetic: null
+tags: ["课本", "涂鸦", "达尔文", "生物", "进化", "日语", "搞笑", "手绘"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "3:2"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+日本の中学生が使う歴史の教科書のページ。偉人のプロフィールの顔写真に生徒が鉛筆で落書きして変な顔にしたページ。教科書の文章は正しい日本語表記になるよう添削して修正し、史実に基づく内容にすること。
+-----
+💡「文章は正しい日本語表記になるよう添削して修正」
+このプロンプトは他でも結構有能なキラーワードにな
+
+## 中文译文（源站提供）
+这是日本中学生使用的历史教科书中的一页。在这一页上，学生们用铅笔在伟人肖像的脸上涂鸦，把他们的脸画成了奇怪的样子。需要将教科书中的文字修改为正确的日语表达，并确保内容基于历史事实。
+
+-----
+💡“将教科书中的文字修改为正确的日语表达”
+这个提示在其他场景中也相当实用，可以成为一个非常有效的“杀手锏”（即能够解决问题的关键信息）。
+
+## 来源备注
+- 源站作者：SSSS_CRYPTOMAN
+- 源站 UUID：6c75c2737f
+- 源站分类：04_创意脑洞特效合成

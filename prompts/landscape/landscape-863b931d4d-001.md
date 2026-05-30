@@ -1,0 +1,59 @@
+---
+id: "landscape-863b931d4d-001"
+title: "卡通人物主题火车"
+category: landscape
+subcategory: "12_手工玩具手办"
+aesthetic: null
+tags: ["东京", "列车", "cos", "红发", "周边", "手办", "公仔", "海报"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "3:4"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+插画处理：
+背景被擦除，角色被转化为手办和周边商品。
+
+主题 / 概述：
+逼真的东京列车内部。整个车厢布置了角色广告和周边商品，打造一个专门为联动活动定制的特殊空间。
+
+角色 / 陈列：
+几名角色扮演者站在画面前景。
+等身板和等身手办展示在列车中部和后部。
+100cm 高的角色手办陈列其中。
+许多角色毛绒玩具排放在空座位上。
+
+广告 / 展示：
+角色插画反映在车厢吊环广告上。
+角色插画展示在列车内部的海报广告上。
+额外安装的 LED 屏上展示角色插画和动画。
+
+插画处理细节：
+背景被擦除，角色转化为手办和周边商品。
+近等身手办、100cm 手办、Q版手办和毛绒玩具被逼真描绘。
+
+摄影角度：
+正面构图，突出列车内部的繁忙氛围。
+前景为角色扮演者的全景镜头，背景为手办、展示板和毛绒玩具。
+低角度拍摄，突出吊环广告和 LED 屏。
+
+画质 / 氛围：
+逼真且细致。
+都市真实光泽感。
+分辨率 4K，长宽比 4:3。
+
+## 来源备注
+- 源站作者：tokyo_Valentine
+- 源站 UUID：863b931d4d
+- 源站分类：12_手工玩具手办

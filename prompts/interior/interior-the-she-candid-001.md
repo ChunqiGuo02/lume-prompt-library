@@ -1,0 +1,32 @@
+---
+id: "interior-the-she-candid-001"
+title: "城市夜景街头人像"
+category: interior
+subcategory: "05_人物肖像与写实摄影"
+aesthetic: null
+tags: ["夜景", "街拍", "人像", "随性", "黑发", "直闪", "都市", "胶片"]
+recommended_models: []
+recommended_params:
+  aspect_ratio: "3:4"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: en
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+A candid nighttime street portrait of 【a young woman】 sitting casually on a woven bistro café chair outside a small urban restaurant. She has long 【black】 hair worn loose and slightly tousled, tan skin, and minimal natural makeup with a soft flash-lit glow. She wears a fitted white tank top layered over a visible black lace bralette and high-waisted relaxed blue jeans, with subtle gold jewelry: 2 thin bracelets on one wrist, 1 delicate necklace with a tiny heart pendant, and 1 slim bracelet on the other wrist. She leans diagonally toward the camera with one arm draped over the curved chair back and the other hand resting near her lap, giving an off-camera calm, detached expression. Shot vertically as a medium portrait from about thigh-up, slightly close and intimate, direct on-camera flash creating bright skin highlights, deep shadows, and a raw film-snapshot look with slight grain. The setting is a dark city sidewalk at night with storefront windows, black-painted exterior walls, warm interior reflections, and a glowing yellow sign in the upper left reading 【KOZY KORNER RESTAURANT】, with a smaller lit sign below reading LIQUORS. Add a narrow red vertical neon glow in the background, distant streetlights and blurred city bokeh along the left side, and faint gold lettering on the glass door to the right. Include a clear glass bottle on the table edge at the far right. Authentic nightlife mood, stylish but unfiltered, shallow depth of field, realistic proportions, flash photography aesthetic, cinematic urban candid.
+
+## 中文译文（源站提供）
+一张抓拍的夜间街头人像，画面中 【一位年轻女性】 随意地坐在城市小餐馆外编织材质的法式餐椅上。她留着一头 【黑色】 的长发，发丝略显蓬松，肤色呈小麦色，妆容自然简约，在柔和的闪光灯下透出光泽。她身穿修身白色背心，内搭黑色蕾丝抹胸，下身穿着高腰宽松蓝色牛仔裤，佩戴着精致的金色首饰：一只手腕上戴着 2 条细手链，颈间是一条带有微型心形吊坠的精致项链，另一只手腕上戴着 1 条纤细手链。她身体斜向镜头，一只手臂搭在弯曲的椅背上，另一只手放在大腿附近，表情平静且看向镜头外。采用竖构图，拍摄范围约为大腿以上的半身像，视角略近，充满亲密感。机顶直闪光灯营造出明亮的高光、深邃的阴影，以及带有轻微颗粒感的原始胶片抓拍效果。背景是黑暗的城市人行道，可见店面橱窗、黑色外墙、温暖的室内倒影，左上方有一个发着黄光的招牌，上面写着 【KOZY KORNER RESTAURANT】，下方有一个较小的发光招牌写着 LIQUORS。背景中加入一道狭长的红色垂直霓虹光影，左侧是远处的路灯和模糊的城市光斑，右侧玻璃门上有隐约的金色字样。画面最右侧的桌边放着一个透明玻璃瓶。营造真实的夜生活氛围，时尚且不加修饰，浅景深，比例真实，具备闪光灯摄影美学，呈现出电影级的城市抓拍质感。
+
+## 来源备注
+- 源站作者：Keskin
+- 源站 UUID：b8khZ0pEYe
+- 源站分类：05_人物肖像与写实摄影
