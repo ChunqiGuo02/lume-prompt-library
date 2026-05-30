@@ -1,0 +1,30 @@
+---
+id: architecture-63844f5f81-0091
+title: "建筑添加极光环境氛围"
+category: architecture
+subcategory: "01_建筑室内空间设计"
+aesthetic: null
+tags: ["极光", "银河", "星空", "建筑", "湖泊", "雪山", "绿色", "粉色"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+将图片的建筑环境氛围转为在冰岛或挪威背景下的真实极光摄影，绿色与粉色极光舞动，银河清晰可见
+
+## 来源备注
+- 源站作者：LeaderAI
+- 源站 UUID：63844f5f81
+- 源站分类：01_建筑室内空间设计

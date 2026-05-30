@@ -1,0 +1,32 @@
+---
+id: branding-the-crave-familiar-0477
+title: "麦当劳风格三联画广告海报"
+category: branding
+subcategory: "03_创意广告品牌设计"
+aesthetic: null
+tags: ["麦当劳", "快餐", "广告", "海报", "红色", "黄色", "汉堡", "薯条"]
+recommended_models: []
+recommended_params:
+  aspect_ratio: "16:9"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: en
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+{"type":"triptych fast-food advertising poster","brand_style":"bold premium McDonald's-inspired campaign art","aspect_ratio":"16:9 landscape","background":{"color":"deep saturated red","finish":"smooth studio backdrop with subtle tonal variation"},"layout":{"sections":[{"title":"left portrait panel","position":"left third","count":1,"subject":"cropped fashion portrait of a young woman from chest up, face intentionally obscured by a large soft-edged vertical blur block centered over the face","details":{"hair":"dark curly hair gathered up with loose curls framing the head","jewelry_count":4,"jewelry":["large gold hoop earring left","large gold hoop earring right","short gold chain necklace","longer layered gold chain necklace"],"clothing":["red satin zip-up jacket","yellow tank top underneath","small golden arches logo on left chest"],"microtext_count":5,"microtext":["crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar."],"graphic_elements_count":2,"graphic_elements":["thin yellow corner line motif near top right of panel","small yellow dotted grid near lower right of panel"]}},{"title":"center food panel","position":"middle third","count":1,"subject":"hero shot of a sesame-seed double-decker burger in an open red carton on a red tabletop","details":{"burger_layers_count":9,"burger_layers":["top sesame bun","top beef patty","pickle slices","shredded lettuce","middle bun with sauce","bottom beef patty","melted cheese","more lettuce and sauce","bottom bun"],"hand":"manicured feminine hand reaching down and touching the top bun with two fingers, wearing thin gold rings","background_items_count":4,"background_items":["red fries carton filled with french fries in upper left background","white drink cup in upper right background","one loose fry on tabletop foreground","one loose fry peeking from lower left edge"],"lighting":"dramatic warm studio lighting, glossy food styling, shallow depth of field"}},{"title":"right typography panel","position":"right third","count":1,"subject":"large typographic slogan poster","details":{"headline":"{argument name=\"headline text\" default=\"Crave the familiar.\"}","headline_style":"oversized condensed bold sans-serif in golden yellow, stacked over three lines and filling most of the panel","small_text_count":9,"small_text":["crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar."],"brand_marks_count":4,"brand_marks":["golden arches logo near lower left","thin yellow corner line motif near top right","thin yellow horizontal line near bottom","small yellow dotted grid with short horizontal bar marks near lower right"]}}],"gutters":"narrow vertical separations between the three panels"},"color_palette":{"primary":"{argument name=\"background color\" default=\"deep McDonald's red\"}","secondary":"{argument name=\"accent color\" default=\"golden yellow\"}","supporting":["warm brown skin tones","gold metallic highlights","toasted bun brown","lettuce green"]},"style":{"mood":"confident, craveable, stylish, editorial, modern commercial photography","composition":"clean graphic triptych with fashion on the left, product in the center, message on the right","branding":"use McDonald's visual language including the golden arches and packaging","print_finish":"premium poster look with high contrast and sharp detail"},"subject_customization":{"model_clothing":"{argument name=\"jacket color\" default=\"red satin\"}","food_item":"{argument name=\"burger type\" default=\"Big Mac-style double burger\"}"}}
+
+## 中文译文（源站提供）
+{"type":"三联画快餐广告海报","brand_style":"醒目的高端麦当劳风格宣传艺术","aspect_ratio":"16:9 横屏","background":{"color":"深饱和红色","finish":"带有细微色调变化的平滑摄影棚背景"},"layout":{"sections":[{"title":"左侧人像面板","position":"左侧三分之一","count":1,"subject":"年轻女性胸部以上的时尚人像剪裁，面部中心位置有明显的垂直柔边模糊遮挡","details":{"hair":"深色卷发盘起，松散的卷发修饰头部轮廓","jewelry_count":4,"jewelry":["左侧大金圈耳环","右侧大金圈耳环","短金链项链","较长的叠戴金链项链"],"clothing":["红色缎面拉链夹克","内搭黄色背心","左胸前有小型金色拱门标志"],"microtext_count":5,"microtext":["crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar."],"graphic_elements_count":2,"graphic_elements":["面板右上角附近的细黄色转角线条图案","面板右下角附近的小型黄色点阵网格"]}},{"title":"中央食物面板","position":"中间三分之一","count":1,"subject":"红色桌面上打开的红色纸盒中，双层芝麻汉堡的主打特写","details":{"burger_layers_count":9,"burger_layers":["顶部芝麻面包","上层牛肉饼","酸黄瓜片","碎生菜","带酱汁的中层面包","下层牛肉饼","融化的芝士","更多生菜和酱汁","底部面包"],"hand":"修剪整齐的女性手部向下伸出，用两根手指轻触顶部面包，佩戴细金戒指","background_items_count":4,"background_items":["左上背景中装满薯条的红色薯条盒","右上背景中的白色饮料杯","桌面前景的一根薯条","左下边缘露出的一根薯条"],"lighting":"戏剧性的暖色摄影棚灯光，光泽感食物造型，浅景深"}},{"title":"右侧排版面板","position":"右侧三分之一","count":1,"subject":"大型标语排版海报","details":{"headline":"{argument name=\"headline text\" default=\"Crave the familiar.\"}","headline_style":"超大号加粗无衬线字体，金黄色，分三行堆叠，填满面板大部分区域","small_text_count":9,"small_text":["crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar.","crave the familiar."],"brand_marks_count":4,"brand_marks":["左下角的金色拱门标志","右上角附近的细黄色转角线条图案","底部附近的细黄色水平线","右下角附近带有短横条标记的小型黄色点阵网格"]}}],"gutters":"三个面板之间狭窄的垂直分隔"},"color_palette":{"primary":"{argument name=\"background color\" default=\"深麦当劳红\"}","secondary":"{argument name=\"accent color\" default=\"金黄色\"}","supporting":["暖棕色肤色","金色金属高光","烤面包棕色","生菜绿色"]},"style":{"mood":"自信、诱人、时尚、编辑风格、现代商业摄影","composition":"简洁的图形三联画，左侧为时尚，中间为产品，右侧为信息","branding":"使用麦当劳视觉语言，包括金色拱门和包装","print_finish":"具有高对比度和清晰细节的高端海报外观"},"subject_customization":{"model_clothing":"{argument name=\"jacket color\" default=\"红色缎面\"}","food_item":"{argument name=\"burger type\" default=\"巨无霸风格双层汉堡\"}"}}
+
+## 来源备注
+- 源站作者：Drew Brucker
+- 源站 UUID：dSlrUaWBUD
+- 源站分类：03_创意广告品牌设计

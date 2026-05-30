@@ -28,15 +28,22 @@ const REQUIRED_TOP_LEVEL_KEYS = [
   "related_to"
 ];
 const REQUIRED_PARAM_KEYS = ["aspect_ratio", "quality", "style_strength"];
+// Phase B-1 后的新 13 大类 + misc（去 video 因为已迁出，全部 304 条按主题归位到对应大类）。
 const ALLOWED_CATEGORIES = new Set([
-  "landscape",
+  "portrait",
+  "graphic",
+  "3d_concept",
+  "illustration",
+  "branding",
+  "product",
+  "story_board",
+  "character",
+  "ip_design",
+  "meme",
   "architecture",
   "interior",
-  "product",
-  "graphic",
-  "portrait",
-  "video",
-  "misc"
+  "landscape",
+  "misc",
 ]);
 
 function normalizeSlashes(value) {

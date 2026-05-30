@@ -1,0 +1,32 @@
+---
+id: 3d_concept-the-pink-street-0864
+title: "超现实时尚摄影"
+category: 3d_concept
+subcategory: "04_创意脑洞特效合成"
+aesthetic: null
+tags: ["超现实", "华尔街", "粉色", "灰调", "长颈鹿", "羊驼", "猫咪", "气球"]
+recommended_models: []
+recommended_params:
+  aspect_ratio: "3:4"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: en
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+A surreal fashion editorial photograph on a city street modeled after Wall Street, shot from a slightly elevated front-facing angle in a tall vertical composition. The entire environment is nearly monochrome white and pale gray, with only selective pink accents standing out vividly. In the foreground, a faceless 【adult man】 stands in the middle of a crosswalk wearing a crisp white suit, white shirt, 【pink】 tie, and glossy 【pink】 dress shoes, holding 1 pink balloon in his right hand and 1 pink briefcase in his left hand. To his left, 1 surreal pink giraffe emerges vertically from a round manhole in the street, wearing a white top hat and a white collar with a pink tie, smiling playfully. Behind him in the center-left lane stands 1 pink alpaca or llama dressed in a white suit with a pink tie, and perched on its head is 1 small white cat wearing a tiny pink accessory, posed upright and looking forward. The street is lined with tall classical stone buildings, repeated columns, storefront windows, rows of identical potted shrubs, and multiple pale luxury cars and taxis receding into the distance. Include visible Wall Street-style street signs near the upper left corner. The road surface, cars, buildings, and sky should all be bleached white-gray for a dreamlike high-key look, while the pink elements remain saturated: the giraffe, the alpaca, the balloon, the briefcase, the tie, and the shoes. Style: whimsical surrealism, luxury editorial photography, immaculate symmetry, soft overcast light, clean cinematic realism, uncanny yet elegant atmosphere, ultra-detailed textures, shallow facial detail on the human with the face intentionally obscured or blurred.
+
+## 中文译文（源站提供）
+一张超现实主义时尚社论摄影作品，背景为仿照华尔街的城市街道，采用略微仰视的正面视角和高耸的垂直构图。整个环境几乎呈单色调的白色和浅灰色，只有精选的粉色点缀格外醒目。在前景中，一位没有面部的 【成年男性】 站在人行横道中央，身穿干练的白色西装、白色衬衫、【粉色】 领带和亮面 【粉色】 正装皮鞋，右手拿着 1 个粉色气球，左手提着 1 个粉色公文包。在他左侧，1 只超现实的粉色长颈鹿从街道的圆形井盖中垂直探出，戴着白色高礼帽和带有粉色领带的白色领圈，神情俏皮。在他身后左侧车道上站着 1 只粉色羊驼，身穿白色西装并系着粉色领带，头上蹲着 1 只戴着微型粉色配饰的小白猫，姿态挺拔，目视前方。街道两旁林立着高大的古典石砌建筑、重复的立柱、店面橱窗、成排相同的盆栽灌木，以及多辆向远处延伸的浅色豪华轿车和出租车。左上角附近包含清晰可见的华尔街风格路牌。路面、汽车、建筑和天空均呈现出漂白般的灰白色，营造出梦幻般的高调视觉效果，同时粉色元素保持高饱和度：长颈鹿、羊驼、气球、公文包、领带和鞋子。风格：奇幻超现实主义、奢侈品社论摄影、完美的对称性、柔和的阴天光线、干净的电影级写实感、诡异而优雅的氛围、超精细的纹理，人物面部细节较浅，面部特征被刻意遮挡或模糊处理。
+
+## 来源备注
+- 源站作者：Dakota Mau
+- 源站 UUID：vaNUMe6FXQ
+- 源站分类：04_创意脑洞特效合成

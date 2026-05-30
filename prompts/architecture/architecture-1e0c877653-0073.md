@@ -1,0 +1,30 @@
+---
+id: architecture-1e0c877653-0073
+title: "建筑室内热环境分析"
+category: architecture
+subcategory: "01_建筑室内空间设计"
+aesthetic: null
+tags: ["室内", "户型", "平面", "分析", "四季", "温度", "空调", "供暖"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+请对图片中平面图进行室内四季热环境分析，用四种不同颜色代表四季热环境分析，2行2列，并且在下面加入文字及分析图，要求汉字必须正确，并且保持平面图结构内容完全一致。
+
+## 来源备注
+- 源站作者：LeaderAI
+- 源站 UUID：1e0c877653
+- 源站分类：01_建筑室内空间设计

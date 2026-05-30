@@ -1,0 +1,214 @@
+---
+id: branding-name-product-features-0158
+title: "四格讽刺产品广告"
+category: branding
+subcategory: "03_创意广告品牌设计"
+aesthetic: japanese-zen-garden
+tags: ["奇葩", "日式", "广告", "创意", "恶搞", "趣味", "石头", "牙刷"]
+recommended_models: []
+recommended_params:
+  aspect_ratio: "2:3"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+{
+  "type": "4-panel satirical product advertisement grid",
+  "layout": {
+    "grid": "2x2",
+    "panels": [
+      {
+        "position": "top-left",
+        "product_name": "{argument name=\"top left product name\" default=\"座る石\"}",
+        "visual": "man in white shirt and dark pants sitting on a large round stone in a park",
+        "catchphrase": "いつでも、どこでも、落ち着ける。",
+        "sales_badge": "累計販売数 12,000個 突破!",
+        "vertical_text": "公園のベンチが埋まっていた日に。",
+        "features_count": 3,
+        "features_labels": [
+          "重さ約8kgで安定感抜群",
+          "底面フェルト加工で傷つけにくい",
+          "付属の専用ベルトで持ち運び簡単"
+        ],
+        "extra_visual": "small inset image of the stone with a leather carrying strap",
+        "specs": [
+          "耐荷重 150kg",
+          "安心の日本製"
+        ]
+      },
+      {
+        "position": "top-right",
+        "product_name": "{argument name=\"top right product name\" default=\"磨きたくない人の歯ブラシ\"}",
+        "visual": "sleek light blue toothbrush angled diagonally on a dark blue background",
+        "toothbrush_text": "I don't want to brush my yeeth.",
+        "catchphrase": "持っているだけで安心感",
+        "vertical_text": "歯を磨く代わりに、これを持つ。",
+        "sales_badge": "シリーズ累計販売数 85,000本 突破!",
+        "features_count": 3,
+        "features_labels": [
+          "気持ちを落ち着けるお守り代わりに",
+          "会議や商談前のエチケットに",
+          "磨かない選択を、もっと自由に。"
+        ],
+        "bottom_banner": "歯磨きストレスから、あなたを解放する。"
+      },
+      {
+        "position": "bottom-left",
+        "product_name": "{argument name=\"bottom left product name\" default=\"雲の貯金箱\"}",
+        "visual": "hand inserting a coin into a fluffy white cloud-shaped piggy bank",
+        "catchphrase": "空気より軽い、安心感。",
+        "sales_badge": "累計販売数 23,567個 突破!",
+        "features_count": 3,
+        "features_labels": [
+          "ふわふわの触り心地",
+          "割れないから安心",
+          "インテリアに馴染むデザイン"
+        ],
+        "color_variants_count": 3,
+        "color_variants_labels": [
+          "blue",
+          "pink",
+          "white"
+        ],
+        "price": "¥2,980 (税込)",
+        "bottom_text": "今日から、空に向かってコツコツ貯めよう。"
+      },
+      {
+        "position": "bottom-right",
+        "product_name": "{argument name=\"bottom right product name\" default=\"叱ってくれる石\"}",
+        "visual": "round stone on a wooden desk with a pen, text written on the stone",
+        "stone_text": "{argument name=\"scolding phrase\" default=\"いいかげんやれ\"}",
+        "catchphrase": "やる気が出ないあなたへ。",
+        "sales_badge": "累計販売数 18,000個 突破!",
+        "features_count": 3,
+        "features_labels": [
+          "見るたびに心を奮い立たせる",
+          "厳選された言葉をランダム表示",
+          "電池不要、半永久的に叱ってくれる"
+        ],
+        "phrase_variants_count": 10,
+        "phrase_variants_labels": [
+          "甘えるな",
+          "考えるな",
+          "動け",
+          "現実を見ろ",
+          "逃げるな",
+          "寝るな",
+          "やればできる",
+          "お前ならできる",
+          "寝るな",
+          "もう言い訳するな"
+        ],
+        "price": "¥3,500 (税込)"
+      }
+    ]
+  }
+}
+
+## 中文译文（源站提供）
+{
+  "type": "4-panel satirical product advertisement grid",
+  "layout": {
+    "grid": "2x2",
+    "panels": [
+      {
+        "position": "top-left",
+        "product_name": "{argument name=\"top left product name\" default=\"座る石\"}",
+        "visual": "man in white shirt and dark pants sitting on a large round stone in a park",
+        "catchphrase": "いつでも、どこでも、落ち着ける。",
+        "sales_badge": "累計販売数 12,000個 突破!",
+        "vertical_text": "公園のベンチが埋まっていた日に。",
+        "features_count": 3,
+        "features_labels": [
+          "重さ約8kgで安定感抜群",
+          "底面フェルト加工で傷つけにくい",
+          "付属の専用ベルトで持ち運び簡単"
+        ],
+        "extra_visual": "small inset image of the stone with a leather carrying strap",
+        "specs": [
+          "耐荷重 150kg",
+          "安心の日本製"
+        ]
+      },
+      {
+        "position": "top-right",
+        "product_name": "{argument name=\"top right product name\" default=\"磨きたくない人の歯ブラシ\"}",
+        "visual": "sleek light blue toothbrush angled diagonally on a dark blue background",
+        "toothbrush_text": "I don't want to brush my yeeth.",
+        "catchphrase": "持っているだけで安心感",
+        "vertical_text": "歯を磨く代わりに、これを持つ。",
+        "sales_badge": "シリーズ累計販売数 85,000本 突破!",
+        "features_count": 3,
+        "features_labels": [
+          "気持ちを落ち着けるお守り代わりに",
+          "会議や商談前のエチケットに",
+          "磨かない選択を、もっと自由に。"
+        ],
+        "bottom_banner": "歯磨きストレスから、あなたを解放する。"
+      },
+      {
+        "position": "bottom-left",
+        "product_name": "{argument name=\"bottom left product name\" default=\"雲の貯金箱\"}",
+        "visual": "hand inserting a coin into a fluffy white cloud-shaped piggy bank",
+        "catchphrase": "空気より軽い、安心感。",
+        "sales_badge": "累計販売数 23,567個 突破!",
+        "features_count": 3,
+        "features_labels": [
+          "ふわふわの触り心地",
+          "割れないから安心",
+          "インテリアに馴染むデザイン"
+        ],
+        "color_variants_count": 3,
+        "color_variants_labels": [
+          "blue",
+          "pink",
+          "white"
+        ],
+        "price": "¥2,980 (税込)",
+        "bottom_text": "今日から、空に向かってコツコツ貯めよう。"
+      },
+      {
+        "position": "bottom-right",
+        "product_name": "{argument name=\"bottom right product name\" default=\"叱ってくれる石\"}",
+        "visual": "round stone on a wooden desk with a pen, text written on the stone",
+        "stone_text": "{argument name=\"scolding phrase\" default=\"いいかげんやれ\"}",
+        "catchphrase": "やる気が出ないあなたへ。",
+        "sales_badge": "累計販売数 18,000個 突破!",
+        "features_count": 3,
+        "features_labels": [
+          "見るたびに心を奮い立たせる",
+          "厳選された言葉をランダム表示",
+          "電池不要、半永久的に叱ってくれる"
+        ],
+        "phrase_variants_count": 10,
+        "phrase_variants_labels": [
+          "甘えるな",
+          "考えるな",
+          "動け",
+          "現実を見ろ",
+          "逃げるな",
+          "寝るな",
+          "やればできる",
+          "お前ならできる",
+          "寝るな",
+          "もう言い訳するな"
+        ],
+        "price": "¥3,500 (税込)"
+      }
+    ]
+  }
+}
+
+## 来源备注
+- 源站作者：ふくみー｜人がすり減らない仕組みを設計する人
+- 源站 UUID：sqccbGL34x
+- 源站分类：03_创意广告品牌设计

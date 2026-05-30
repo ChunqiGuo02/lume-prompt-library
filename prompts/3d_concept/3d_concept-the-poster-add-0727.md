@@ -1,0 +1,32 @@
+---
+id: 3d_concept-the-poster-add-0727
+title: "肌肉柴犬深蹲举重电影海报"
+category: 3d_concept
+subcategory: "04_创意脑洞特效合成"
+aesthetic: japanese-zen-garden
+tags: ["柴犬", "电影", "海报", "恶搞", "健身", "肌肉", "深蹲", "夜景"]
+recommended_models: []
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: en
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+Create a hyper-detailed cinematic parody movie poster featuring an anthropomorphic Shiba Inu as an extreme bodybuilding powerlifting hero, centered in a full frontal deep squat while holding a massively overloaded barbell across his shoulders. The dog has a realistic Shiba Inu head with a calm, confident expression, warm orange-and-cream fur, upright ears, and direct eye contact. The body is exaggeratedly muscular and humanlike, with huge deltoids, chest, arms, abs, quads, and calves, rendered with glossy dramatic highlights and dense texture in the fur and skin. He wears only tight black lifting shorts and a dark lifting belt. The squat stance is low and powerful, knees bent wide, feet planted on a wet reflective rooftop or industrial platform at night. Put a modern city skyline in the background with illuminated skyscrapers, bluish haze, smoke, and two bright stadium floodlights in the upper left and upper right creating strong rim light and a heroic sports-arena mood. The composition should be perfectly centered and symmetrical, with the barbell extending horizontally across the frame and stacked with many large black weight plates on both sides. Use a high-contrast teal, amber, black, and gold color palette with intense cinematic grading, sharp focus on the character, and atmospheric glow around the lights. Add stylized poster typography: at the very top, a gold all-caps tagline reading 【NO PAIN. MUCH GAIN. SUCH LEGEND.】. Add 2 blocks of small white Japanese copy, 1 on the left of the character and 1 on the right, each set in 2 lines. At the bottom, place a gigantic cracked stone-textured gold title in all caps reading 【SQUAT HERO】. Beneath it, add a red all-caps subtitle reading 【LEG DAY IS DESTINY.】. Add a small red stamp-like Japanese label near the lower right of the title. Include dense tiny mock film-poster credits in white across the lower center, a ratings box in the lower left, 3 tiny studio or audio logos in the lower right, and a centered release line near the bottom reading 【COMING SOON TO A GYM NEAR YOU】. Make it look like a polished blockbuster action-comedy sports film poster with absurdly epic intensity, photoreal rendering, dramatic shadows, volumetric smoke, reflective ground, and premium theatrical poster design.
+
+## 中文译文（源站提供）
+创作一张超高细节的电影感恶搞海报，主角是一只拟人化的柴犬，化身为极限健美力量举英雄。画面中心，他正处于全正面深蹲姿势，肩扛沉重的超负荷杠铃。这只狗拥有逼真的柴犬头部，表情冷静自信，毛色为温暖的橙奶油色，耳朵竖立，目光直视前方。身体呈现出夸张的肌肉感和人类特征，拥有巨大的三角肌、胸肌、手臂、腹肌、股四头肌和小腿，毛发和皮肤呈现出光泽的戏剧性高光和致密质感。他仅穿着紧身黑色举重短裤和深色举重腰带。深蹲姿势低沉有力，双膝宽展，双脚稳稳地踏在夜晚湿润反光的屋顶或工业平台上。背景为现代城市天际线，点缀着发光的摩天大楼、蓝色薄雾、烟雾，左上角和右上角各有一盏明亮的体育场泛光灯，营造出强烈的轮廓光和英雄般的体育竞技场氛围。构图应保持完美的居中对称，杠铃水平贯穿画面，两侧堆叠着许多大型黑色杠铃片。采用高对比度的青色、琥珀色、黑色和金色调，配合强烈的电影级调色，角色焦点清晰，灯光周围带有大气光晕。添加风格化的海报排版：在最顶部，使用金色大写字母添加标语 【NO PAIN. MUCH GAIN. SUCH LEGEND.】。在角色左右两侧各添加 2 段小型白色日文文案，每段分 2 行排列。在底部，放置一个巨大的裂纹石质感金色大写标题 【SQUAT HERO】。在其下方，添加一行红色大写副标题 【LEG DAY IS DESTINY.】。在标题右下方添加一个红色印章风格的日文标签。在底部中心添加密集的微型仿电影海报演职员表，左下角放置评级框，右下角放置 3 个微型工作室或音频标志，并在底部中心添加上映信息 【COMING SOON TO A GYM NEAR YOU】。使其看起来像一张精致的动作喜剧体育大片海报，具有荒诞的史诗感、照片级渲染、戏剧性阴影、体积烟雾、反光地面以及高级院线海报设计。
+
+## 来源备注
+- 源站作者：bicycle80
+- 源站 UUID：1xIsbBaa9l
+- 源站分类：04_创意脑洞特效合成

@@ -1,0 +1,30 @@
+---
+id: architecture-5f4a798658-0139
+title: "汇报文本写意作品封面"
+category: architecture
+subcategory: "01_建筑室内空间设计"
+aesthetic: null
+tags: ["建筑", "极简", "城市", "风光", "中式", "美学", "抽象", "拼接"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+请帮我将图中的主体建筑转为大师级设计的极简主义城市风光写意作品，以已有建筑主体为背景，融合基础几何图形的抽象拼接，展现出独特的中式美学。画面采用微粒子像素多重晕染技术，营造出细腻的颗粒感与透明像素弥散效果，带来一种朦胧而神秘的视觉体验。“建筑”两大文字以大师级排版艺术嵌入画面，与极简构图相得益彰，彰显时尚杂志封面的高级质感。整幅作品通过笔触感与肌理感的巧妙运用，呈现出一种调性和朦胧美学，完美捕捉城市的现代与传统交织之美。
+
+## 来源备注
+- 源站作者：LeaderAI
+- 源站 UUID：5f4a798658
+- 源站分类：01_建筑室内空间设计

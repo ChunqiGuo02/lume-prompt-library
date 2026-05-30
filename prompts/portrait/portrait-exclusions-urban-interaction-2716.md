@@ -1,0 +1,215 @@
+---
+id: portrait-exclusions-urban-interaction-2716
+title: "霓虹都市夜景人像摄影预设"
+category: portrait
+subcategory: "05_人物肖像与写实摄影"
+aesthetic: null
+tags: ["人像", "女性", "都市", "夜晚", "霓虹", "街景", "写实", "电影"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: "9:16"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: A
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: en
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: ["product-exclusions-urban-interaction-001"]
+---
+
+# 正文 prompt
+{
+  "request_id": "portrait_neon_urban_001",
+  "configuration": {
+    "model": "v6. 0_or_latest",
+    "output_settings": {
+      "dimensions": {
+        "width": 1080,
+        "height": 1920,
+        "aspect_ratio": "9:16",
+        "target_resolution": "64K DSLR"
+      }
+    }
+  },
+  "scene_composition": {
+    "subject": {
+      "entity": "Young woman",
+      "pose": "Standing confidently",
+      "action": "Extending index finger forward toward camera lens",
+      "interaction": "Dynamic gesture / POV interaction",
+      "wardrobe": {
+        "outerwear": "{"outerwear color" "dark crimson red"} striped baseball-style shirt",
+        "undergarment": "Light inner shirt",
+        "bottoms": "Cargo pants",
+        "accessories": [
+          "Necklace",
+          "Crossbody bag"
+        ]
+      }
+    },
+    "environment": {
+      "location": "Urban street",
+      "time_of_day": "Night",
+      "ambience": "Neon-lit",
+      "background_elements": [
+        "Colorful city lights",
+        "Blurred passersby"
+      ]
+    },
+    "cinematography": {
+      "camera": {
+        "perspective": "Wide-angle",
+        "depth_of_field": "Soft bokeh",
+        "motion": "Slight motion blur"
+      },
+      "lighting": {
+        "style": "Cinematic",
+        "primary_sources": ["cyber punk street lights", "City glow"]
+      },
+      "ui_overlay": {
+        "enabled": true,
+        "aesthetic": "Smartphone video recording",
+        "on_screen_elements": [
+          "REC 00:00:00",
+          "8K/60fps",
+          "Frame brackets",
+          "VIDEO indicator",
+          "CINEMATIC indicator"
+        ]
+      }
+    }
+  },
+  "technical_rendering": {
+    "style": "Hyper-realistic",
+    "engines": [
+      "Octane Render",
+      "Unreal Engine 5"
+    ]
+  },
+  "negative_prompt": {
+    "stylistic_exclusions": [
+      "cartoon",
+      "illustration",
+      "anime"
+    ],
+    "quality_exclusions": [
+      "low quality",
+      "pixelated",
+      "blurry"
+    ],
+    "anatomical_exclusions": [
+      "bad anatomy",
+      "deformed hands",
+      "extra fingers",
+      "missing limbs",
+      "bad proportions"
+    ],
+    "branding_exclusions": [
+      "watermark (except for requested UI overlays)"
+    ]
+  }
+}
+
+## 中文译文（源站提供）
+```json
+{
+  "request_id": "portrait_neon_urban_001",
+  "configuration": {
+    "model": "v6. 0_or_latest",
+    "output_settings": {
+      "dimensions": {
+        "width": 1080,
+        "height": 1920,
+        "aspect_ratio": "9:16",
+        "target_resolution": "64K DSLR"
+      }
+    }
+  },
+  "scene_composition": {
+    "subject": {
+      "entity": "年轻女性",
+      "pose": "自信地站立",
+      "action": "食指向前伸向镜头",
+      "interaction": "动态手势 / 第一人称视角互动",
+      "wardrobe": {
+        "outerwear": "{\"outerwear color\" \"dark crimson red\"} 条纹棒球衫",
+        "undergarment": "浅色内搭",
+        "bottoms": "工装裤",
+        "accessories": [
+          "项链",
+          "斜挎包"
+        ]
+      }
+    },
+    "environment": {
+      "location": "城市街道",
+      "time_of_day": "夜晚",
+      "ambience": "霓虹灯光",
+      "background_elements": [
+        "五彩斑斓的城市灯光",
+        "模糊的路人"
+      ]
+    },
+    "cinematography": {
+      "camera": {
+        "perspective": "广角",
+        "depth_of_field": "柔和的散景",
+        "motion": "轻微的运动模糊"
+      },
+      "lighting": {
+        "style": "电影级",
+        "primary_sources": ["赛博朋克街灯", "城市光晕"]
+      },
+      "ui_overlay": {
+        "enabled": true,
+        "aesthetic": "智能手机视频录制",
+        "on_screen_elements": [
+          "REC 00:00:00",
+          "8K/60fps",
+          "画面边框",
+          "VIDEO 指示器",
+          "CINEMATIC 指示器"
+        ]
+      }
+    }
+  },
+  "technical_rendering": {
+    "style": "超现实主义",
+    "engines": [
+      "Octane Render",
+      "Unreal Engine 5"
+    ]
+  },
+  "negative_prompt": {
+    "stylistic_exclusions": [
+      "卡通",
+      "插画",
+      "动漫"
+    ],
+    "quality_exclusions": [
+      "低质量",
+      "像素化",
+      "模糊"
+    ],
+    "anatomical_exclusions": [
+      "糟糕的解剖结构",
+      "变形的手",
+      "多余的手指",
+      "缺失的肢体",
+      "比例失调"
+    ],
+    "branding_exclusions": [
+      "水印（请求的 UI 叠加层除外）"
+    ]
+  }
+}
+```
+
+## 来源备注
+- 源站作者：ANKIT PATEL 🇮🇳 | AI
+- 源站 UUID：NbkaMEQkOE
+- 源站分类：05_人物肖像与写实摄影

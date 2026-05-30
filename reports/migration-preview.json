@@ -1,0 +1,181 @@
+{
+  "generated_at": "2026-05-30T22:09:55.386Z",
+  "distribution": {
+    "architecture": 207,
+    "interior": 59,
+    "landscape": 193,
+    "product": 763,
+    "branding": 723,
+    "3d_concept": 1019,
+    "portrait": 3019,
+    "graphic": 1240,
+    "illustration": 275,
+    "misc": 252,
+    "story_board": 366,
+    "character": 203,
+    "meme": 129,
+    "ip_design": 224
+  },
+  "sample_changes": [
+    {
+      "old_id": "landscape-bdbf9675f4-001",
+      "new_id": "architecture-bdbf9675f4-0001",
+      "old_path": "\\prompts\\landscape\\landscape-bdbf9675f4-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-bdbf9675f4-0001.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "3D卡通天气城市景观"
+    },
+    {
+      "old_id": "interior-hdih4vzu6g-001",
+      "new_id": "interior-hdih4vzu6g-0001",
+      "old_path": "\\prompts\\interior\\interior-hdih4vzu6g-001.md",
+      "new_path": "\\prompts\\interior\\interior-hdih4vzu6g-0001.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "CAD平面家具布置设计"
+    },
+    {
+      "old_id": "landscape-igf4zkj6oq-001",
+      "new_id": "architecture-igf4zkj6oq-0002",
+      "old_path": "\\prompts\\landscape\\landscape-igf4zkj6oq-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-igf4zkj6oq-0002.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "CAD线稿转暗黑风格平面图"
+    },
+    {
+      "old_id": "interior-the-outer-ring-001",
+      "new_id": "landscape-the-outer-ring-0001",
+      "old_path": "\\prompts\\interior\\interior-the-outer-ring-001.md",
+      "new_path": "\\prompts\\landscape\\landscape-the-outer-ring-0001.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "GH数据可视化--和弦图"
+    },
+    {
+      "old_id": "landscape-the-for-architectural-001",
+      "new_id": "architecture-the-for-architectural-0003",
+      "old_path": "\\prompts\\landscape\\landscape-the-for-architectural-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-the-for-architectural-0003.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "SASAKI分析图绘制"
+    },
+    {
+      "old_id": "landscape-2f35991870-001",
+      "new_id": "landscape-2f35991870-0002",
+      "old_path": "\\prompts\\landscape\\landscape-2f35991870-001.md",
+      "new_path": "\\prompts\\landscape\\landscape-2f35991870-0002.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "上海四时画卷"
+    },
+    {
+      "old_id": "landscape-the-weather-city-001",
+      "new_id": "architecture-the-weather-city-0004",
+      "old_path": "\\prompts\\landscape\\landscape-the-weather-city-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-the-weather-city-0004.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "上海城市天气插画"
+    },
+    {
+      "old_id": "landscape-08b51ccea3-001",
+      "new_id": "landscape-08b51ccea3-0003",
+      "old_path": "\\prompts\\landscape\\landscape-08b51ccea3-001.md",
+      "new_path": "\\prompts\\landscape\\landscape-08b51ccea3-0003.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "世界博物馆微缩景观系列"
+    },
+    {
+      "old_id": "landscape-attributes-type-description-001",
+      "new_id": "architecture-attributes-type-description-0005",
+      "old_path": "\\prompts\\landscape\\landscape-attributes-type-description-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-attributes-type-description-0005.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "东方园林日景氛围"
+    },
+    {
+      "old_id": "landscape-5mtohggie8-001",
+      "new_id": "architecture-5mtohggie8-0006",
+      "old_path": "\\prompts\\landscape\\landscape-5mtohggie8-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-5mtohggie8-0006.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "中式园林薄雾氛围"
+    },
+    {
+      "old_id": "landscape-07nk43wuir-001",
+      "new_id": "landscape-07nk43wuir-0004",
+      "old_path": "\\prompts\\landscape\\landscape-07nk43wuir-001.md",
+      "new_path": "\\prompts\\landscape\\landscape-07nk43wuir-0004.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "中式景观庭院清晨渲染效果图"
+    },
+    {
+      "old_id": "landscape-zfyvirj70x-001",
+      "new_id": "landscape-zfyvirj70x-0005",
+      "old_path": "\\prompts\\landscape\\landscape-zfyvirj70x-001.md",
+      "new_path": "\\prompts\\landscape\\landscape-zfyvirj70x-0005.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "中式禅意雪景效果图"
+    },
+    {
+      "old_id": "interior-google-minecraft-nano-001",
+      "new_id": "architecture-google-minecraft-nano-0007",
+      "old_path": "\\prompts\\interior\\interior-google-minecraft-nano-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-google-minecraft-nano-0007.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "仙台佛舍利塔像素风等距图"
+    },
+    {
+      "old_id": "landscape-the-information-map-001",
+      "new_id": "architecture-the-information-map-0008",
+      "old_path": "\\prompts\\landscape\\landscape-the-information-map-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-the-information-map-0008.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "任务书快题设计"
+    },
+    {
+      "old_id": "interior-the-building-illustration-001",
+      "new_id": "architecture-the-building-illustration-0009",
+      "old_path": "\\prompts\\interior\\interior-the-building-illustration-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-the-building-illustration-0009.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "任意照片变小清新轴测图"
+    },
+    {
+      "old_id": "landscape-quality-led-balance-001",
+      "new_id": "architecture-quality-led-balance-0010",
+      "old_path": "\\prompts\\landscape\\landscape-quality-led-balance-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-quality-led-balance-0010.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "任意风格转换夜景效果"
+    },
+    {
+      "old_id": "landscape-quality-balance-gear-001",
+      "new_id": "architecture-quality-balance-gear-0011",
+      "old_path": "\\prompts\\landscape\\landscape-quality-balance-gear-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-quality-balance-gear-0011.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "任意风格转换日景效果"
+    },
+    {
+      "old_id": "landscape-primary-json-cladding-001",
+      "new_id": "architecture-primary-json-cladding-0012",
+      "old_path": "\\prompts\\landscape\\landscape-primary-json-cladding-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-primary-json-cladding-0012.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "任意风格转换阴天效果"
+    },
+    {
+      "old_id": "landscape-quality-balance-json-001",
+      "new_id": "architecture-quality-balance-json-0013",
+      "old_path": "\\prompts\\landscape\\landscape-quality-balance-json-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-quality-balance-json-0013.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "任意风格转换黄昏效果"
+    },
+    {
+      "old_id": "interior-1103c25dba-001",
+      "new_id": "architecture-1103c25dba-0014",
+      "old_path": "\\prompts\\interior\\interior-1103c25dba-001.md",
+      "new_path": "\\prompts\\architecture\\architecture-1103c25dba-0014.md",
+      "subcategory": "01_建筑室内空间设计",
+      "title": "体块分析图"
+    }
+  ]
+}

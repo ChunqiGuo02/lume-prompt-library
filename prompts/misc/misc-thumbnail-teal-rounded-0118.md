@@ -1,0 +1,32 @@
+---
+id: misc-thumbnail-teal-rounded-0118
+title: "记录变化可视化的SaaS功能"
+category: misc
+subcategory: "08_图像分析信息拆解"
+aesthetic: japanese-zen-garden
+tags: ["现代", "简约", "科技", "日式", "可视化", "记录", "对比", "时间线"]
+recommended_models: []
+recommended_params:
+  aspect_ratio: "1:1"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: mixed
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+{"type":"SaaS feature update banner infographic","style":"clean modern Japanese tech marketing, premium UI, dark navy gradient background, subtle dotted halftone texture in the top-left and bottom-right corners, soft curved line accents, glossy neon teal highlights, polished high-quality product announcement visual","canvas":{"aspect_ratio":"1:1"},"headline":{"icon":"rounded square app icon with a white camera symbol on a teal gradient background, small sparkle accent","title":"{argument name=\"headline text\" default=\"写真で記録、変化を可視化\"}","subtitle":"{argument name=\"subtitle text\" default=\"ビフォーアフターを時系列で管理\"}","language":"Japanese","title_style":"large bold sans-serif, first phrase in white and second phrase in bright teal","subtitle_style":"medium bold sans-serif in white with teal and gold sparkle-divider ornaments on both sides"},"layout":{"sections":[{"title":"comparison cards","position":"center","count":2,"labels":["Before","After"]},{"title":"timeline entries","position":"bottom","count":5,"labels":["04/01 10:30","04/15 10:30","04/29 10:30","05/13 10:30","05/27 10:30"]}],"centerpiece":"side-by-side before and after portrait cards connected by a circular teal arrow button","bottom_panel":"rounded rectangular timeline module with five dated thumbnails connected by a dashed horizontal progress line"},"comparison":{"subject":"same adult woman in left-facing side profile with dark brown hair in a neat low bun, light skin, thin shoulder strap top, studio lighting, pale gray background","privacy":"face area covered by a vertical rectangular blur block in both large cards and all five thumbnails","before_card":{"label":"Before","frame":"rounded rectangle with light gray border and soft shadow","image":"neutral clinical-style portrait"},"after_card":{"label":"After","frame":"rounded rectangle with bright teal border and soft shadow","image":"similar portrait with a subtly refined jawline/neck contour to imply visible improvement","decorations":"2 teal sparkle stars near the lower-right of the after card"},"connector":"small circular teal button centered between cards with a white right-pointing chevron"},"timeline":{"panel_style":"dark translucent rounded container with inner glow","line":"white dashed horizontal line","entries":[{"date":"04/01","time":"10:30","state":"small circular blue node above thumbnail","thumbnail":"woman side-profile thumbnail with blur block and tiny camera icon button in bottom-right corner","frame":"light gray rounded border"},{"date":"04/15","time":"10:30","state":"small circular blue node above thumbnail","thumbnail":"woman side-profile thumbnail with blur block and tiny camera icon button in bottom-right corner","frame":"light gray rounded border"},{"date":"04/29","time":"10:30","state":"current selection with teal-and-white ring node","thumbnail":"woman side-profile thumbnail with blur block and tiny camera icon button in bottom-right corner","frame":"bright teal rounded border"},{"date":"05/13","time":"10:30","state":"small circular blue node above thumbnail","thumbnail":"woman side-profile thumbnail with blur block and tiny camera icon button in bottom-right corner","frame":"light gray rounded border"},{"date":"05/27","time":"10:30","state":"highlighted milestone with gold-and-white ring node","thumbnail":"woman side-profile thumbnail with blur block and tiny camera icon button in bottom-right corner","frame":"gold rounded border"}],"extra_decorations":"2 small gold sparkle stars on the far right edge of the timeline panel"},"color_palette":{"background":"deep navy to indigo gradient","primary":"bright teal","secondary":"white","accent":"gold","support":"soft gray and blue-violet"},"rendering":"crisp vector-meets-UI design with embedded realistic portrait photography, balanced spacing, centered composition, startup landing-page banner quality"}
+
+## 中文译文（源站提供）
+{"type":"SaaS 功能更新横幅信息图","style":"简洁现代的日式科技营销风格，高级 UI，深海军蓝渐变背景，左上角和右下角带有微妙的圆点半调纹理，柔和的曲线装饰，亮眼的霓虹青色高光，精致的高质量产品发布视觉效果","canvas":{"aspect_ratio":"1:1"},"headline":{"icon":"带有白色相机符号的圆角方形应用图标，背景为青色渐变，带有小闪光装饰","title":"{argument name=\"headline text\" default=\"照片记录，可视化变化\"}","subtitle":"{argument name=\"subtitle text\" default=\"按时间轴管理前后对比\"}","language":"Chinese","title_style":"大号粗体无衬线字体，第一短语为白色，第二短语为亮青色","subtitle_style":"中号粗体白色无衬线字体，两侧带有青色和金色闪光装饰分隔符"},"layout":{"sections":[{"title":"对比卡片","position":"center","count":2,"labels":["之前","之后"]},{"title":"时间轴条目","position":"bottom","count":5,"labels":["04/01 10:30","04/15 10:30","04/29 10:30","05/13 10:30","05/27 10:30"]}],"centerpiece":"并排的前后对比肖像卡片，由一个圆形的青色箭头按钮连接","bottom_panel":"圆角矩形时间轴模块，包含五个带日期的缩略图，由虚线水平进度条连接"},"comparison":{"subject":"同一位成年女性，左侧侧面轮廓，深棕色头发扎成整洁的低发髻，肤色白皙，穿着细肩带上衣，摄影棚灯光，浅灰色背景","privacy":"大卡片和所有五个缩略图中的面部区域均覆盖有垂直矩形模糊块","before_card":{"label":"之前","frame":"带浅灰色边框和柔和阴影的圆角矩形","image":"中性临床风格肖像"},"after_card":{"label":"之后","frame":"带亮青色边框和柔和阴影的圆角矩形","image":"相似的肖像，下颌线/颈部轮廓有细微改善，暗示可见的变化","decorations":"之后卡片右下角有 2 颗青色闪光星"},"connector":"位于卡片中间的小型圆形青色按钮，带有白色向右箭头"},"timeline":{"panel_style":"深色半透明圆角容器，带有内发光效果","line":"白色水平虚线","entries":[{"date":"04/01","time":"10:30","state":"缩略图上方的小型圆形蓝色节点","thumbnail":"女性侧面轮廓缩略图，带模糊块，右下角有微型相机图标按钮","frame":"浅灰色圆角边框"},{"date":"04/15","time":"10:30","state":"缩略图上方的小型圆形蓝色节点","thumbnail":"女性侧面轮廓缩略图，带模糊块，右下角有微型相机图标按钮","frame":"浅灰色圆角边框"},{"date":"04/29","time":"10:30","state":"当前选中状态，带有青白色环形节点","thumbnail":"女性侧面轮廓缩略图，带模糊块，右下角有微型相机图标按钮","frame":"亮青色圆角边框"},{"date":"05/13","time":"10:30","state":"缩略图上方的小型圆形蓝色节点","thumbnail":"女性侧面轮廓缩略图，带模糊块，右下角有微型相机图标按钮","frame":"浅灰色圆角边框"},{"date":"05/27","time":"10:30","state":"高亮里程碑，带有金白色环形节点","thumbnail":"女性侧面轮廓缩略图，带模糊块，右下角有微型相机图标按钮","frame":"金色圆角边框"}],"extra_decorations":"时间轴面板最右侧边缘有 2 颗小型金色闪光星"},"color_palette":{"background":"深海军蓝至靛蓝渐变","primary":"亮青色","secondary":"白色","accent":"金色","support":"柔和的灰色和蓝紫色"},"rendering":"清晰的矢量与 UI 设计结合，嵌入逼真的肖像摄影，间距平衡，居中构图，初创公司落地页横幅品质"}
+
+## 来源备注
+- 源站作者：サトウヒデキ LINEミニアプリを創る人
+- 源站 UUID：d9wCPudHCA
+- 源站分类：08_图像分析信息拆解

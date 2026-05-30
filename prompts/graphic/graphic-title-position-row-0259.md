@@ -1,0 +1,32 @@
+---
+id: graphic-title-position-row-0259
+title: "Teenage Engineering品牌指南展示板"
+category: graphic
+subcategory: "06_图文排版视觉传达"
+aesthetic: null
+tags: ["极简", "黑白", "网格", "品牌", "设计", "色彩", "简约", "排版"]
+recommended_models: []
+recommended_params:
+  aspect_ratio: "3:2"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: en
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+{"type":"modern brand guideline presentation board","style":"minimal Swiss editorial design, monochrome with selective accent colors, clean grid system, lots of white space, thin sans-serif typography, crisp product-render aesthetic","brand":{"name":"{argument name=\"brand name\" default=\"teenage engineering\"}","subtitle":"brand kit","issue":"v18 - may 2024","logo_style":"bold geometric abstract wordmark with chunky angular forms"},"canvas":{"aspect_ratio":"16:9","background":"light gray outer background with a centered presentation board framed by a thick black border"},"layout":{"structure":"4 columns by 3 rows","total_panels":12,"sections":[{"title":"cover","position":"row 1, column 1","count":1,"theme":"black background cover page with small white text and oversized white logo at bottom right"},{"title":"contents","position":"row 1, column 2","count":1,"theme":"table of contents page with a centered handheld calculator product image and a vertical list of sections with page numbers"},{"title":"01 brand overview","position":"row 1, column 3","count":1,"theme":"introductory text block on the left and a realistic compact camera render on the right"},{"title":"02 our values","position":"row 1, column 4","count":1,"theme":"four-value list with simple outline icons","labels":["curiosity","creativity","engineering","individuality"]},{"title":"03 logo","position":"row 2, column 1","count":1,"theme":"logo explanation text on the left and one large black logo on white background"},{"title":"logo variations","position":"row 2, column 2","count":1,"theme":"three logo tiles shown side by side","labels":["black","white","grey"]},{"title":"logo clear space & minimum size","position":"row 2, column 3","count":1,"theme":"diagram page showing protected area around logo and two minimum-size examples"},{"title":"04 color","position":"row 2, column 4","count":1,"theme":"color palette page with 6 rectangular swatches arranged in two rows of three","labels":["black","white","light grey","mid grey","orange","blue","yellow"]},{"title":"05 typography","position":"row 3, column 1","count":1,"theme":"font specimen page showing three weights with sample alphabet and numerals","labels":["65 medium","55 roman","45 light"]},{"title":"typography usage","position":"row 3, column 2","count":1,"theme":"large editorial type composition with stacked words and smaller supporting body copy"},{"title":"06 grid & layout","position":"row 3, column 3","count":1,"theme":"page showing a pink vertical-column grid overlay, alignment notes, and a product image placed on the right"},{"title":"07 iconography","position":"row 3, column 4","count":1,"theme":"black background page with a matrix of 24 minimalist line icons in white","labels":["wave","pause","speaker","stop","arrow right","rewind","volume down","circle","plus","record","play","download","close","check","minus","upload","link","menu","and 6 more simple media/system icons"]}]},"visual_details":{"products":[{"type":"calculator/synth-style handheld device","appearance":"small black rectangular device with circular buttons and a hanging retail tab"},{"type":"compact camera","appearance":"white body with a large black lens, photographed at a slight angle"}],"typography":"neutral grotesk sans serif, very small captions, neat alignment, magazine-like hierarchy","color_palette":"primarily black and white, with accents of light gray, orange, blue, yellow, and faint pink grid lines","rendering":"high-resolution presentation mockup, perfectly straight-on view, sharp edges, professional branding case-study aesthetic"},"text_treatment":"use mostly small editorial placeholder text and concise branding copy, preserving the minimalist corporate design language","quality":"clean, premium, contemporary, design-award presentation board"}
+
+## 中文译文（源站提供）
+{"type":"现代品牌指南展示项目","style":"极简瑞士编辑设计，单色调配以精选强调色，清晰的网格系统，大量的留白，纤细的无衬线字体，清爽的产品渲染美学","brand":{"name":"{argument name=\"brand name\" default=\"teenage engineering\"}","subtitle":"品牌工具包","issue":"v18 - 2024 年 5 月","logo_style":"粗体几何抽象文字标识，带有厚实的棱角形状"},"canvas":{"aspect_ratio":"16:9","background":"浅灰色外背景，中心展示项目由粗黑边框包围"},"layout":{"structure":"4 列 3 行","total_panels":12,"sections":[{"title":"封面","position":"第 1 行，第 1 列","count":1,"theme":"黑色背景封面，底部右侧配有小号白色文字和超大白色 Logo"},{"title":"目录","position":"第 1 行，第 2 列","count":1,"theme":"目录页，中心为手持计算器产品图，右侧为带页码的垂直章节列表"},{"title":"01 品牌概览","position":"第 1 行，第 3 列","count":1,"theme":"左侧为介绍性文本块，右侧为逼真的紧凑型相机渲染图"},{"title":"02 我们的价值观","position":"第 1 行，第 4 列","count":1,"theme":"包含四个价值观的列表，配有简单的轮廓图标","labels":["好奇心","创造力","工程","个性"]},{"title":"03 Logo","position":"第 2 行，第 1 列","count":1,"theme":"左侧为 Logo 说明文字，右侧为白色背景上的一个大型黑色 Logo"},{"title":"Logo 变体","position":"第 2 行，第 2 列","count":1,"theme":"并排展示的三个 Logo 磁贴","labels":["黑色","白色","灰色"]},{"title":"Logo 安全空间与最小尺寸","position":"第 2 行，第 3 列","count":1,"theme":"图表页，显示 Logo 周围的保护区域及两个最小尺寸示例"},{"title":"04 色彩","position":"第 2 行，第 4 列","count":1,"theme":"调色板页面，包含 6 个矩形色块，排列为两行三列","labels":["黑色","白色","浅灰","中灰","橙色","蓝色","黄色"]},{"title":"05 排版","position":"第 3 行，第 1 列","count":1,"theme":"字体样本页，展示三种字重及字母和数字示例","labels":["65 medium","55 roman","45 light"]},{"title":"排版应用","position":"第 3 行，第 2 列","count":1,"theme":"大型编辑排版构图，包含堆叠文字和较小的辅助正文"},{"title":"06 网格与布局","position":"第 3 行，第 3 列","count":1,"theme":"页面显示粉色垂直列网格叠加层、对齐注释，以及放置在右侧的产品图"},{"title":"07 图标","position":"第 3 行，第 4 列","count":1,"theme":"黑色背景页面，包含 24 个白色极简线条图标矩阵","labels":["波形","暂停","扬声器","停止","向右箭头","快退","调低音量","圆形","加号","录制","播放","下载","关闭","勾选","减号","上传","链接","菜单","以及其他 6 个简单的媒体/系统图标"]}]},"visual_details":{"products":[{"type":"计算器/合成器风格手持设备","appearance":"带有圆形按钮和悬挂式零售标签的小型黑色矩形设备"},{"type":"紧凑型相机","appearance":"白色机身配有大型黑色镜头，以微小角度拍摄"}],"typography":"中性 Grotesk 无衬线字体，极小的说明文字，整齐的对齐方式，杂志般的层级感","color_palette":"以黑白为主，辅以浅灰、橙色、蓝色、黄色和淡淡的粉色网格线","rendering":"高分辨率展示样机，完美的正视图，边缘锐利，专业的品牌案例研究美学"},"text_treatment":"主要使用小型编辑占位文本和简洁的品牌文案，保留极简主义的企业设计语言","quality":"整洁、高端、现代、设计奖级别的展示项目"}
+
+## 来源备注
+- 源站作者：Franrome
+- 源站 UUID：t8WaFkil4D
+- 源站分类：06_图文排版视觉传达

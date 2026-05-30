@@ -1,0 +1,32 @@
+---
+id: meme-cat-count-gray-0053
+title: "可爱猫咪贴纸插画"
+category: meme
+subcategory: "16_表情包趣味拼图"
+aesthetic: null
+tags: ["简笔画", "猫咪", "贴纸", "可爱", "手绘", "卡通", "治愈", "萌系"]
+recommended_models: []
+recommended_params:
+  aspect_ratio: "5:4"
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: en
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+{"type":"cute sticker sheet illustration","style":"simple hand-drawn kawaii cat doodles, thick black outlines, minimal flat colors, white cat character, clean light gray background, LINE sticker style, playful and expressive","subject":{"character":"a chubby white cartoon cat with tiny dot eyes, small smiling mouth, triangular ears, rounded body, short limbs, and a consistent simple mascot design"},"layout":{"grid":{"rows":5,"columns":5,"count":25},"sections":[{"title":"row 1","position":"top","count":5,"labels":["cat sitting in a cardboard box","cat standing and holding a pink heart","cat walking with a musical note above its head","cat using a gray laptop with a paw-print logo","cat sleeping under a yellow blanket with Zzz marks"]},{"title":"row 2","position":"upper middle","count":5,"labels":["cat sitting in a flowerpot with a green sprout on its head","cat rolling on its back playfully","cat standing and holding a blue fish","cat running stretched out at high speed","cat raising both paws with colorful confetti around it"]},{"title":"row 3","position":"middle","count":5,"labels":["cat beside a pink mug with steam","sparkly happy cat with blushing cheeks and paws up near its face","cat curled around a small gray mouse","cat peeking over a horizontal ledge with both paws visible","rear view of cat with tail raised and X-shaped butt mark"]},{"title":"row 4","position":"lower middle","count":5,"labels":["cat dressed as a chef holding a frying pan and spatula with a red neckerchief and chef hat","cat riding a red bicycle with a front basket","cat standing in rain holding a yellow umbrella with blue raindrops falling","cat wearing a red hachimaki headband and shouting through a yellow megaphone","cat sitting on a green cushion"]},{"title":"row 5","position":"bottom","count":5,"labels":["cat inside a jack-o'-lantern pumpkin costume with an orange hood","cat sleeping under a blue polka-dot blanket","cat hugging a brown teddy bear with a pink heart nearby","cat cheering with yellow pom-poms","cat wearing a Santa hat and carrying a large white sack"]}],"spacing":"evenly spaced icons with generous margins, no borders, no text"},"color_palette":{"background":"{argument name=\"background color\" default=\"light gray\"}","accent_colors":["pink","yellow","blue","red","orange","green","brown","gray"]},"quality":"clean sticker-sheet composition, consistent proportions across all 25 poses, charming and commercially usable for messaging stickers","size":"1024x1024"}
+
+## 中文译文（源站提供）
+{"type":"可爱贴纸集插画","style":"简约手绘风格可爱猫咪涂鸦，粗黑色轮廓，极简平涂配色，白色猫咪角色，干净的浅灰色背景，LINE 贴纸风格，生动活泼","subject":{"character":"一只圆滚滚的白色卡通猫，有着小圆点眼睛、微小的笑嘴、三角形耳朵、圆润的身体、短小的四肢，以及统一的简约吉祥物设计"},"layout":{"grid":{"rows":5,"columns":5,"count":25},"sections":[{"title":"第一行","position":"顶部","count":5,"labels":["猫咪坐在纸箱里","猫咪站立并拿着一颗粉色爱心","猫咪行走，头顶上方有一个音符","猫咪使用带有爪印标志的灰色笔记本电脑","猫咪在黄色毯子下睡觉，带有 Zzz 标记"]},{"title":"第二行","position":"中上部","count":5,"labels":["猫咪坐在花盆里，头上长着一棵绿色嫩芽","猫咪调皮地翻滚","猫咪站立并拿着一条蓝色小鱼","猫咪高速奔跑的拉伸姿态","猫咪举起双爪，周围环绕着彩色纸屑"]},{"title":"第三行","position":"中部","count":5,"labels":["猫咪在冒热气的粉色马克杯旁","闪闪发光的快乐猫咪，脸颊泛红，双爪靠近脸部","猫咪蜷缩在小灰鼠周围","猫咪从水平边缘探出头，可见双爪","猫咪背影，尾巴竖起，带有 X 形屁股标记"]},{"title":"第四行","position":"中下部","count":5,"labels":["猫咪打扮成厨师，拿着平底锅和铲子，戴着红色领巾和厨师帽","猫咪骑着带有前篮的红色自行车","猫咪在雨中站立，撑着一把黄色雨伞，蓝色雨滴落下","猫咪戴着红色头带，通过黄色扩音器大喊","猫咪坐在绿色坐垫上"]},{"title":"第五行","position":"底部","count":5,"labels":["猫咪穿着南瓜灯服装，戴着橙色兜帽","猫咪在蓝色波点毯子下睡觉","猫咪拥抱棕色泰迪熊，旁边有一颗粉色爱心","猫咪挥舞黄色啦啦队彩球加油","猫咪戴着圣诞帽，背着一个白色大袋子"]}],"spacing":"图标间距均匀，留白充裕，无边框，无文字"},"color_palette":{"background":"{argument name=\"background color\" default=\"light gray\"}","accent_colors":["粉色","黄色","蓝色","红色","橙色","绿色","棕色","灰色"]},"quality":"干净的贴纸集构图，25 种姿态比例一致，迷人且具有商业用途的聊天贴纸","size":"1024x1024"}
+
+## 来源备注
+- 源站作者：ねこポン＠フリーWebデザイナー
+- 源站 UUID：wesdLS5w2f
+- 源站分类：16_表情包趣味拼图

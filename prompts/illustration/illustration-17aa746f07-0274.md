@@ -1,0 +1,30 @@
+---
+id: illustration-17aa746f07-0274
+title: "黑白进化图"
+category: illustration
+subcategory: "07_艺术插画创意风格"
+aesthetic: null
+tags: ["黑白", "极简", "进化", "猿猴", "人类", "香蕉", "剪影", "恶搞"]
+recommended_models: 
+  - banana-pro
+recommended_params:
+  aspect_ratio: null
+  quality: null
+  style_strength: null
+sample_outputs: []
+quality_tier: B
+author: "ChunqiGuo02"
+source: "Leader Prompt Gallery (https://www.leaderai.top/mid-api/lab/image_prompt/index.html)"
+language: zh
+created_at: 2026-05-30
+version: "1.0.0"
+related_to: []
+---
+
+# 正文 prompt
+生成 进化的行进 图，极简黑白风格，从最早的猿猴逐渐进化为人再进化为最后的 香蕉
+
+## 来源备注
+- 源站作者：ZHO_ZHO_ZHO
+- 源站 UUID：17aa746f07
+- 源站分类：07_艺术插画创意风格
