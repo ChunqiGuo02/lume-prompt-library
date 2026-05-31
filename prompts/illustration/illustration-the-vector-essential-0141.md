@@ -3,7 +3,7 @@ id: illustration-the-vector-essential-0141
 title: "极简矢量风格图像转换"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["极简", "扁平", "矢量", "海报", "女性", "篮球", "户外", "自然"]
 recommended_models: 
   - banana-pro

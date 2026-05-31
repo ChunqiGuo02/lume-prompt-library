@@ -3,7 +3,7 @@ id: portrait-the-texture-sharp-0922
 title: "安娜·德·阿玛斯艺术时尚大片拍摄指南"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["电影感", "时尚", "写真", "写实", "卷发", "美女", "浅紫", "亮片"]
 recommended_models: 
   - banana-pro

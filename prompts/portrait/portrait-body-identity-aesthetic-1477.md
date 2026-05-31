@@ -3,7 +3,7 @@ id: portrait-body-identity-aesthetic-1477
 title: "法式奢华海岸时尚大片写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["时尚", "写真", "卡其色", "奢侈", "香奈儿", "户外", "露台", "欧式"]
 recommended_models: 
   - banana-pro

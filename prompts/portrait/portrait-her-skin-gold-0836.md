@@ -3,7 +3,7 @@ id: portrait-her-skin-gold-0836
 title: "奢侈品牌与拳击运动融合的时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["拳击", "运动", "时尚", "奢华", "黑色", "白色", "金色", "特写"]
 recommended_models: 
   - banana-pro

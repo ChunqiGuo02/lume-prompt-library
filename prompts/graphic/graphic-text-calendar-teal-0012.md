@@ -3,7 +3,7 @@ id: graphic-text-calendar-teal-0012
 title: "2026年2月冬季阿尔卑斯山风景日历海报设计"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["日历", "2026", "二月", "冬季", "雪山", "森林", "现代", "简约"]
 recommended_models: 
   - banana-pro

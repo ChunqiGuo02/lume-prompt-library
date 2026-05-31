@@ -3,7 +3,7 @@ id: illustration-create-paper-object-0211
 title: "纸艺风格极简插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["暖色调", "剪纸风", "纸艺", "简约", "现代", "立体", "茶杯", "红茶"]
 recommended_models: 
   - banana-pro

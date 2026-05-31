@@ -3,7 +3,7 @@ id: portrait-her-the-leather-1203
 title: "时尚大片：复古西装女郎的慵懒诱惑"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["时尚", "棚拍", "极简", "棕色", "眼镜", "西装", "高跟", "皮椅"]
 recommended_models: 
   - banana-pro

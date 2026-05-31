@@ -3,7 +3,7 @@ id: 3d_concept-prompt-fluid-share-0495
 title: "梦幻动漫风格插画创作"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["动漫", "二次元", "手绘", "水彩", "少女", "竖琴", "金发", "暖色调"]
 recommended_models: 
   - banana-pro

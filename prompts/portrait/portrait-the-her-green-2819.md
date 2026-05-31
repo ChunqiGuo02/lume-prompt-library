@@ -3,7 +3,7 @@ id: portrait-the-her-green-2819
 title: "高定礼服时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["时尚", "写真", "影棚", "礼服", "薄荷绿", "红色", "白背景", "卷发"]
 recommended_models: 
   - banana-pro

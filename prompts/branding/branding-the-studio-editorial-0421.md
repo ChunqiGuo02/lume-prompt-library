@@ -3,7 +3,7 @@ id: branding-the-studio-editorial-0421
 title: "高定时尚大片创作提示"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["女性", "时尚", "棚拍", "灰色", "纯色", "西装", "黑色", "手套"]
 recommended_models: 
   - banana-pro

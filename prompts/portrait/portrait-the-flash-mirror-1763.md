@@ -3,7 +3,7 @@ id: portrait-the-flash-mirror-1763
 title: "电梯镜前补妆的黑白时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["黑白", "复古", "奢华", "电梯", "镜子", "女星", "礼服", "钻石"]
 recommended_models: 
   - banana-pro

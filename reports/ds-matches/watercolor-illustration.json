@@ -1,0 +1,634 @@
+{
+  "ds_slug": "watercolor-illustration",
+  "ds_label": "水彩插画",
+  "matched_total": 50,
+  "candidate_pool": 368,
+  "top_tags": [
+    {
+      "tag": "手绘",
+      "count": 29
+    },
+    {
+      "tag": "水彩",
+      "count": 20
+    },
+    {
+      "tag": "插画",
+      "count": 14
+    },
+    {
+      "tag": "水墨",
+      "count": 9
+    },
+    {
+      "tag": "女性",
+      "count": 9
+    },
+    {
+      "tag": "肖像",
+      "count": 8
+    },
+    {
+      "tag": "国风",
+      "count": 8
+    },
+    {
+      "tag": "国画",
+      "count": 6
+    },
+    {
+      "tag": "暖色调",
+      "count": 6
+    },
+    {
+      "tag": "黑白",
+      "count": 6
+    },
+    {
+      "tag": "水墨画",
+      "count": 5
+    },
+    {
+      "tag": "古风",
+      "count": 5
+    },
+    {
+      "tag": "素描",
+      "count": 5
+    },
+    {
+      "tag": "涂鸦",
+      "count": 5
+    },
+    {
+      "tag": "男性",
+      "count": 4
+    },
+    {
+      "tag": "仕女",
+      "count": 4
+    },
+    {
+      "tag": "地图",
+      "count": 4
+    },
+    {
+      "tag": "彩铅",
+      "count": 4
+    },
+    {
+      "tag": "蓝色",
+      "count": 4
+    },
+    {
+      "tag": "速写",
+      "count": 4
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "暖色调",
+      "count": 6
+    },
+    {
+      "tag": "黑白",
+      "count": 6
+    },
+    {
+      "tag": "蓝色",
+      "count": 4
+    },
+    {
+      "tag": "绿色",
+      "count": 3
+    },
+    {
+      "tag": "红色",
+      "count": 3
+    },
+    {
+      "tag": "黄色",
+      "count": 3
+    },
+    {
+      "tag": "复古",
+      "count": 2
+    },
+    {
+      "tag": "黑色",
+      "count": 1
+    },
+    {
+      "tag": "粉色",
+      "count": 1
+    },
+    {
+      "tag": "金色",
+      "count": 1
+    },
+    {
+      "tag": "霓虹",
+      "count": 1
+    },
+    {
+      "tag": "白色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "插画",
+      "count": 14
+    },
+    {
+      "tag": "女性",
+      "count": 9
+    },
+    {
+      "tag": "肖像",
+      "count": 8
+    },
+    {
+      "tag": "男性",
+      "count": 4
+    },
+    {
+      "tag": "少女",
+      "count": 3
+    },
+    {
+      "tag": "动漫",
+      "count": 2
+    },
+    {
+      "tag": "可爱",
+      "count": 2
+    },
+    {
+      "tag": "自拍",
+      "count": 2
+    },
+    {
+      "tag": "时尚",
+      "count": 2
+    },
+    {
+      "tag": "人像",
+      "count": 1
+    },
+    {
+      "tag": "户外",
+      "count": 1
+    },
+    {
+      "tag": "建筑",
+      "count": 1
+    },
+    {
+      "tag": "二次元",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 32,
+    "B": 18,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "illustration-the-watercolor-ink-0154",
+      "title": "水彩墨线肖像画创作",
+      "path": "prompts/illustration/illustration-the-watercolor-ink-0154.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "水彩",
+        "插画",
+        "艺术",
+        "晕染",
+        "手绘"
+      ]
+    },
+    {
+      "id": "illustration-the-watercolor-reference-0207",
+      "title": "精准复刻人脸的水墨融合艺术肖像",
+      "path": "prompts/illustration/illustration-the-watercolor-reference-0207.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "水彩",
+        "插画",
+        "艺术",
+        "手绘",
+        "水墨"
+      ]
+    },
+    {
+      "id": "illustration-watercolor-pencil-rounded-illustration-0214",
+      "title": "绘本风格女性肖像插画，柔和水彩铅笔质感",
+      "path": "prompts/illustration/illustration-watercolor-pencil-rounded-illustration-0214.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "水彩",
+        "插画",
+        "艺术",
+        "手绘",
+        "绘本"
+      ]
+    },
+    {
+      "id": "illustration-the-her-one-0024",
+      "title": "中国传统水墨彩画",
+      "path": "prompts/illustration/illustration-the-her-one-0024.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "插画",
+        "艺术",
+        "水墨",
+        "国风"
+      ]
+    },
+    {
+      "id": "illustration-the-red-stool-0072",
+      "title": "古今错位幽默融合",
+      "path": "prompts/illustration/illustration-the-red-stool-0072.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "插画",
+        "艺术",
+        "水墨",
+        "国风"
+      ]
+    },
+    {
+      "id": "illustration-watercolor-the-doodle-0155",
+      "title": "水彩涂鸦风格人物肖像转换",
+      "path": "prompts/illustration/illustration-watercolor-the-doodle-0155.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "水彩",
+        "插画",
+        "艺术",
+        "手绘"
+      ]
+    },
+    {
+      "id": "illustration-the-facial-watercolor-0159",
+      "title": "水彩风格印度女性肖像插画生成",
+      "path": "prompts/illustration/illustration-the-facial-watercolor-0159.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "水彩",
+        "插画",
+        "艺术",
+        "手绘"
+      ]
+    },
+    {
+      "id": "illustration-illustration-ink-illustrated-0212",
+      "title": "纸页幻化裙裳的诗意浮空少女插画",
+      "path": "prompts/illustration/illustration-illustration-ink-illustrated-0212.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "水彩",
+        "插画",
+        "艺术",
+        "手绘"
+      ]
+    },
+    {
+      "id": "illustration-the-traditional-chinese-0235",
+      "title": "西游记师徒四人组成了一个摇滚乐队",
+      "path": "prompts/illustration/illustration-the-traditional-chinese-0235.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "插画",
+        "艺术",
+        "水墨",
+        "国风"
+      ]
+    },
+    {
+      "id": "graphic-description-the-map-1030",
+      "title": "缙云山野美食地图",
+      "path": "prompts/graphic/graphic-description-the-map-1030.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "水彩",
+        "手绘",
+        "水墨",
+        "国风"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "illustration-the-watercolor-ink-0154",
+      "path": "prompts/illustration/illustration-the-watercolor-ink-0154.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-watercolor-reference-0207",
+      "path": "prompts/illustration/illustration-the-watercolor-reference-0207.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-watercolor-pencil-rounded-illustration-0214",
+      "path": "prompts/illustration/illustration-watercolor-pencil-rounded-illustration-0214.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-her-one-0024",
+      "path": "prompts/illustration/illustration-the-her-one-0024.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-red-stool-0072",
+      "path": "prompts/illustration/illustration-the-red-stool-0072.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-watercolor-the-doodle-0155",
+      "path": "prompts/illustration/illustration-watercolor-the-doodle-0155.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-facial-watercolor-0159",
+      "path": "prompts/illustration/illustration-the-facial-watercolor-0159.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-illustration-ink-illustrated-0212",
+      "path": "prompts/illustration/illustration-illustration-ink-illustrated-0212.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-traditional-chinese-0235",
+      "path": "prompts/illustration/illustration-the-traditional-chinese-0235.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-description-the-map-1030",
+      "path": "prompts/graphic/graphic-description-the-map-1030.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-prompt-character-drawing-0036",
+      "path": "prompts/illustration/illustration-prompt-character-drawing-0036.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-305272e132-0093",
+      "path": "prompts/illustration/illustration-305272e132-0093.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-r59iqogeve-0101",
+      "path": "prompts/illustration/illustration-r59iqogeve-0101.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-8b0c76cb2e-0105",
+      "path": "prompts/illustration/illustration-8b0c76cb2e-0105.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-erzeuge-eine-karte-0110",
+      "path": "prompts/illustration/illustration-erzeuge-eine-karte-0110.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-ink-traditional-japanese-0132",
+      "path": "prompts/illustration/illustration-ink-traditional-japanese-0132.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-s7v98fowob-0150",
+      "path": "prompts/illustration/illustration-s7v98fowob-0150.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-watercolor-wildlife-the-0157",
+      "path": "prompts/illustration/illustration-watercolor-wildlife-the-0157.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-this-for-the-0160",
+      "path": "prompts/illustration/illustration-this-for-the-0160.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-subject-charcoal-sketch-0178",
+      "path": "prompts/illustration/illustration-subject-charcoal-sketch-0178.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-type-hair-clothing-0189",
+      "path": "prompts/illustration/illustration-type-hair-clothing-0189.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-nano-banana-pro-0200",
+      "path": "prompts/illustration/illustration-nano-banana-pro-0200.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-2txqbv9yes-0234",
+      "path": "prompts/illustration/illustration-2txqbv9yes-0234.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-bfc4dc02fa-0272",
+      "path": "prompts/illustration/illustration-bfc4dc02fa-0272.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-the-ink-figure-0029",
+      "path": "prompts/illustration/illustration-the-ink-figure-0029.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-her-ink-she-0030",
+      "path": "prompts/illustration/illustration-her-ink-she-0030.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-turtle-queen-0031",
+      "path": "prompts/illustration/illustration-the-turtle-queen-0031.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-should-doodle-0033",
+      "path": "prompts/illustration/illustration-the-should-doodle-0033.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-watercolor-winter-0044",
+      "path": "prompts/illustration/illustration-the-watercolor-winter-0044.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-art-pencil-brown-0045",
+      "path": "prompts/illustration/illustration-art-pencil-brown-0045.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-doodle-line-0062",
+      "path": "prompts/illustration/illustration-the-doodle-line-0062.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-watercolor-landscape-rendered-0066",
+      "path": "prompts/illustration/illustration-watercolor-landscape-rendered-0066.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-ink-scroll-0068",
+      "path": "prompts/illustration/illustration-the-ink-scroll-0068.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-9affd288b7-0092",
+      "path": "prompts/illustration/illustration-9affd288b7-0092.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-exaggerated-lines-shading-0094",
+      "path": "prompts/illustration/illustration-exaggerated-lines-shading-0094.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-pencil-illustration-coloring-0115",
+      "path": "prompts/illustration/illustration-pencil-illustration-coloring-0115.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-task-notebook-speech-0116",
+      "path": "prompts/illustration/illustration-task-notebook-speech-0116.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-pastel-simple-0118",
+      "path": "prompts/illustration/illustration-the-pastel-simple-0118.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-ink-preserve-0151",
+      "path": "prompts/illustration/illustration-the-ink-preserve-0151.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-subject-watercolor-0158",
+      "path": "prompts/illustration/illustration-the-subject-watercolor-0158.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-movie-baazigar-name-0161",
+      "path": "prompts/illustration/illustration-movie-baazigar-name-0161.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-face-lehenga-divine-0199",
+      "path": "prompts/illustration/illustration-face-lehenga-divine-0199.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-pen-doodle-the-0205",
+      "path": "prompts/illustration/illustration-pen-doodle-the-0205.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-marble-object-0229",
+      "path": "prompts/illustration/illustration-the-marble-object-0229.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-hyper-wajah-pen-0247",
+      "path": "prompts/illustration/illustration-hyper-wajah-pen-0247.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-oil-painting-0266",
+      "path": "prompts/illustration/illustration-the-oil-painting-0266.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-ink-art-reference-0267",
+      "path": "prompts/illustration/illustration-ink-art-reference-0267.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-something-make-this-0082",
+      "path": "prompts/3d_concept/3d_concept-something-make-this-0082.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-labubu-ootd-0304",
+      "path": "prompts/3d_concept/3d_concept-labubu-ootd-0304.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-prompt-fluid-share-0495",
+      "path": "prompts/3d_concept/3d_concept-prompt-fluid-share-0495.md",
+      "score": 31,
+      "quality": "B"
+    }
+  ]
+}

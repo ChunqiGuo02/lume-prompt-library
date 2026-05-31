@@ -3,7 +3,7 @@ id: 3d_concept-the-illustrated-figures-0051
 title: "“奇思妙想的和谐”——在温馨的空间中通过线条描绘生活。"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["现代", "简约", "线描", "人物", "室内", "吧台", "暖色调", "橙色"]
 recommended_models: 
   - banana-pro

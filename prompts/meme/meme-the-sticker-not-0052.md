@@ -3,7 +3,7 @@ id: meme-the-sticker-not-0052
 title: "可爱少女贴纸套装"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["贴纸", "写实", "女生", "可爱", "清新", "长发", "牛仔", "装饰"]
 recommended_models: 
   - banana-pro

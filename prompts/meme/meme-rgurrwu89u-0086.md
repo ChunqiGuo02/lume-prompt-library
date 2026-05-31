@@ -3,7 +3,7 @@ id: meme-rgurrwu89u-0086
 title: "搞笑LINE表情包合集_1"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["Q版", "可爱", "二次元", "贴纸", "表情包", "日系", "蓝发", "搞笑"]
 recommended_models: 
   - banana-pro

@@ -35,6 +35,11 @@ const DS_PRIORITY = [
   "surreal-dreamy",
   "anime-style",
   "chibi-character",
+  // Tier 4
+  "flat-illustration",
+  "watercolor-illustration",
+  "meme-pop-funny",
+  "editorial-fashion-shoot",
 ];
 
 // 收集 path -> best DS

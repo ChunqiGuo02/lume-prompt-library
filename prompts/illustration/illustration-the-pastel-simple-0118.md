@@ -3,7 +3,7 @@ id: illustration-the-pastel-simple-0118
 title: "手绘风格少女公园写真插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["手绘", "插画", "彩铅", "美女", "长发", "户外", "草地", "树木"]
 recommended_models: 
   - banana-pro

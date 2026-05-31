@@ -3,7 +3,7 @@ id: meme-you-hair-prompt-0095
 title: "欢快3D卡通女孩贴纸"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["3D", "卡通", "可爱", "贴纸", "九宫格", "暖色调", "女生", "感谢"]
 recommended_models: 
   - banana-pro

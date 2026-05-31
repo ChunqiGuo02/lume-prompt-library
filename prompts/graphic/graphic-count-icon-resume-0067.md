@@ -3,7 +3,7 @@ id: graphic-count-icon-resume-0067
 title: "AI智能简历构建器"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["简历", "AI", "简约", "现代", "青绿色", "白色", "网页", "产品"]
 recommended_models: []
 recommended_params:

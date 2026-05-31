@@ -3,7 +3,7 @@ id: illustration-r59iqogeve-0101
 title: "将插画风格人物转化为写实照片"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩", "手绘", "女生", "辫子", "眼镜", "书籍", "温柔", "暖色调"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: illustration-illustration-ink-illustrated-0212
 title: "纸页幻化裙裳的诗意浮空少女插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["插画", "手绘", "水彩", "少女", "纸张", "书籍", "卷发", "裸足"]
 recommended_models: 
   - banana-pro

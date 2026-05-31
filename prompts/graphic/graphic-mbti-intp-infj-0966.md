@@ -3,7 +3,7 @@ id: graphic-mbti-intp-infj-0966
 title: "知名戏曲片段的MBTI人格类型卡片"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["扁平风", "国风", "插画", "MBTI", "INTP", "逻辑学家", "戏曲人物", "古装"]
 recommended_models: 
   - banana-pro

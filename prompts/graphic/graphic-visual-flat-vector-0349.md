@@ -3,7 +3,7 @@ id: graphic-visual-flat-vector-0349
 title: "从AI引擎到全能编程助手"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["扁平化", "矢量图", "极简风", "卡片", "糖果色", "浅色系", "AI", "大模型"]
 recommended_models: 
   - banana-pro

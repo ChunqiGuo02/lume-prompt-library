@@ -3,7 +3,7 @@ id: illustration-the-use-all-0084
 title: "复古卡通风格扁平图标"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["汉堡", "美食", "快餐", "复古风", "卡通", "描边", "扁平", "矢量"]
 recommended_models: 
   - banana-pro

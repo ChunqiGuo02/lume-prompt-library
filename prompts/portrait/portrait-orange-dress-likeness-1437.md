@@ -3,7 +3,7 @@ id: portrait-orange-dress-likeness-1437
 title: "橙色羽毛礼服时尚大片拍摄指南"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["橙色", "时尚", "写真", "纯色", "华丽", "自信", "羽毛", "短裙"]
 recommended_models: 
   - banana-pro

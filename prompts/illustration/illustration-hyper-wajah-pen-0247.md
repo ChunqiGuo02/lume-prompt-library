@@ -3,7 +3,7 @@ id: illustration-hyper-wajah-pen-0247
 title: "超写实蓝笔素描肖像"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["超写实", "素描", "手绘", "蓝色", "圆珠笔", "肖像", "人物", "纸张"]
 recommended_models: 
   - banana-pro

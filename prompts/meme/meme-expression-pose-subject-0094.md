@@ -3,7 +3,7 @@ id: meme-expression-pose-subject-0094
 title: "橙衣绿眼Q版角色俏皮眨眼吐舌姿势"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["Q版", "动漫", "可爱", "俏皮", "棕发", "绿瞳", "橙色", "卫衣"]
 recommended_models: 
   - banana-pro

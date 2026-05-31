@@ -3,7 +3,7 @@ id: 3d_concept-subject-the-illustrate-0999
 title: "黏土风格3D插画：简约柔和的童趣场景"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["黏土", "3D", "可爱", "简约", "暖色调", "治愈", "童趣", "浇花"]
 recommended_models: 
   - banana-pro

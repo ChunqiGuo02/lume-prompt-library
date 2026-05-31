@@ -3,7 +3,7 @@ id: illustration-subject-charcoal-sketch-0178
 title: "炭笔素描战士，粗犷笔触与阴影营造原始质感"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["素描", "炭笔", "手绘", "骑士", "盔甲", "黑白", "粗粝", "速写"]
 recommended_models: 
   - banana-pro

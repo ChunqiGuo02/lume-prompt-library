@@ -3,7 +3,7 @@ id: graphic-body-face-text-0444
 title: "半山腰的风景：内容创作者肖像"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["写实", "肖像", "男性", "衬衫", "皮鞋", "插画", "黑白", "几何"]
 recommended_models: 
   - banana-pro

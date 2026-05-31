@@ -3,7 +3,7 @@ id: portrait-editorial-winter-her-2625
 title: "雪地奢华冬装时尚大片，模特倚栏篝火旁"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["冬季", "雪景", "时尚", "穿搭", "户外", "木屋", "篝火", "白色"]
 recommended_models: 
   - banana-pro

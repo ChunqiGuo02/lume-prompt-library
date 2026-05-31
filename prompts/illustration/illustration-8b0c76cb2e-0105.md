@@ -3,7 +3,7 @@ id: illustration-8b0c76cb2e-0105
 title: "山巅茶馆仙踪"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水墨画", "黑白色", "国风", "茶馆", "深山", "云雾", "悬崖", "对联"]
 recommended_models: 
   - banana-pro

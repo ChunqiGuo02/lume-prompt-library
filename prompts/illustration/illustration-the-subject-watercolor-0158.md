@@ -3,7 +3,7 @@ id: illustration-the-subject-watercolor-0158
 title: "水彩风格人物肖像插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩", "插画", "线描", "肖像", "光头", "青色", "珊瑚色", "米色"]
 recommended_models: 
   - banana-pro

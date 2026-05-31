@@ -3,7 +3,7 @@ id: meme-cartoon-expressive-minimal-0046
 title: "卡通插图"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["拟人", "涂鸦", "创意", "幽默", "柔和", "淡彩", "美食", "趣味"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: meme-vwtfzdyfy6-0114
 title: "经典影视鬼畜表情包"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["表情包", "经典", "影视", "鬼畜", "搞笑", "赞同", "敷衍", "古装"]
 recommended_models: []
 recommended_params:

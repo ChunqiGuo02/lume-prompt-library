@@ -3,7 +3,7 @@ id: portrait-gucci-car-photorealistic-1844
 title: "米兰街头奢华时尚大片：花衬衫男倚古董车"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["复古", "红色", "汽车", "男装", "花卉", "奢侈品", "阳光", "建筑"]
 recommended_models: 
   - banana-pro

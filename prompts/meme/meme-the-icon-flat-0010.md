@@ -3,7 +3,7 @@ id: meme-the-icon-flat-0010
 title: "Gumroad样式图标"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["卡通", "贴纸", "头像", "女生", "黑发", "大眼睛", "可爱", "黑背景"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: meme-the-product-name-0121
 title: "虚构制药风格创意包装"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["极简", "创意", "药盒", "包装", "趣味", "图标", "咖啡", "汉堡"]
 recommended_models: 
   - banana-pro

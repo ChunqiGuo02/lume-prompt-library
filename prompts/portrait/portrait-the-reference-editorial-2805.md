@@ -3,7 +3,7 @@ id: portrait-the-reference-editorial-2805
 title: "高定时尚大片：灰西装男模倚柱写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["男士", "西装", "灰色", "正装", "时尚", "肖像", "摄影", "极简"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: illustration-the-facial-watercolor-0159
 title: "水彩风格印度女性肖像插画生成"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩", "插画", "手绘", "女性", "红色", "绿色", "红花", "绿叶"]
 recommended_models: 
   - banana-pro

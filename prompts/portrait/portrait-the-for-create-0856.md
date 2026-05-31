@@ -3,7 +3,7 @@ id: portrait-the-for-create-0856
 title: "奢华泳池时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["泳池", "海滨", "度假", "时尚", "休闲", "男装", "白天", "阳光"]
 recommended_models: 
   - banana-pro

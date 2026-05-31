@@ -3,7 +3,7 @@ id: graphic-the-product-exactly-0202
 title: "KeyForge机械键盘详情页"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["电商", "网页", "简约", "现代", "键盘", "数码", "外设", "紫色"]
 recommended_models: []
 recommended_params:

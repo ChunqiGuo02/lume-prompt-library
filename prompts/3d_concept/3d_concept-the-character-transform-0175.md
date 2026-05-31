@@ -3,7 +3,7 @@ id: 3d_concept-the-character-transform-0175
 title: "卡通照片转换"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["卡通", "插画", "矢量", "可爱", "半身像", "女性", "大眼睛", "暖色调"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: illustration-the-world-hieronymus-0106
 title: "希罗尼穆斯·博斯与现代科技力量的碰撞：一部由人工智能创作的超现实主义作品"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["怪诞", "超现实", "古典", "油画", "讽刺", "政治", "科技", "艺术"]
 recommended_models: 
   - banana-pro

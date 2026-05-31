@@ -3,7 +3,7 @@ id: illustration-subject-illustration-minimal-0143
 title: "柔和极简风格插画，圆润造型，渐变色调，现代UI设计"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["猫咪", "睡觉", "简约", "渐变", "柔和", "浅色调", "治愈", "现代"]
 recommended_models: 
   - banana-pro

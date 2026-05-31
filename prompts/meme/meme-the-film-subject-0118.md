@@ -3,7 +3,7 @@ id: meme-the-film-subject-0118
 title: "胶片 Kontakt 表情捕捉"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["胶片", "复古", "红色", "人像", "快照", "闪光灯", "颗粒感", "千禧"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: meme-option-project-settings-0059
 title: "圣诞主题九宫格表情包"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["九宫格", "肖像", "圣诞节", "圣诞帽", "鹿角", "围巾", "简约", "纯色"]
 recommended_models: 
   - banana-pro

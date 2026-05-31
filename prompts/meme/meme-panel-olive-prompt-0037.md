@@ -3,7 +3,7 @@ id: meme-panel-olive-prompt-0037
 title: "六表情3D卡通女孩拼贴"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["3D", "卡通", "拼贴", "多格", "女性", "卫衣", "橄榄绿", "情绪"]
 recommended_models: 
   - banana-pro

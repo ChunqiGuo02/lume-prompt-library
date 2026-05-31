@@ -3,7 +3,7 @@ id: meme-film-the-red-0067
 title: "复古胶片接触印相风格人像摄影预设"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["复古", "时尚", "人像", "红色", "胶片", "颗粒", "皮衣", "牛仔"]
 recommended_models: 
   - banana-pro

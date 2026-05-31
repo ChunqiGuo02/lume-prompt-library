@@ -3,7 +3,7 @@ id: illustration-this-for-the-0160
 title: "水彩风格美国州地图"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["美国", "地图", "水彩", "手绘", "插画", "创意", "海洋", "航海"]
 recommended_models: 
   - banana-pro

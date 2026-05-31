@@ -3,7 +3,7 @@ id: 3d_concept-input-directive-twitter-0019
 title: "AI创作者品牌视觉套装"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["简约", "现代", "干净", "高级", "米色", "T恤", "布袋", "水杯"]
 recommended_models: 
   - banana-pro

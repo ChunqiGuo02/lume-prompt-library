@@ -3,7 +3,7 @@ id: portrait-paolo-roversi-c8402b-0537
 title: "国风时尚大片：现代东方女性返乡寻根，黄山云海间松弛自在"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["国风", "电影感", "摄影", "人像", "红色", "黄山", "云雾", "山水"]
 recommended_models: 
   - banana-pro

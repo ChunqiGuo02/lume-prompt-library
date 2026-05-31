@@ -3,7 +3,7 @@ id: illustration-dynamic-vectorial-explosion-0057
 title: "动态矢量爆炸艺术设计"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["吉他", "几何", "橙色", "青色", "动态", "爆炸", "抽象", "矢量"]
 recommended_models: 
   - banana-pro

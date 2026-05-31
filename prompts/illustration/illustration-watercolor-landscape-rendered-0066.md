@@ -3,7 +3,7 @@ id: illustration-watercolor-landscape-rendered-0066
 title: "印象派水彩风景画生成器"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩画", "印象派", "雪景", "村庄", "房屋", "黄昏", "冬日", "冷色调"]
 recommended_models: 
   - banana-pro

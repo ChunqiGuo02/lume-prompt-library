@@ -3,7 +3,7 @@ id: graphic-a47s3rgal5-0322
 title: "中小企业AI应用入门指南"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["AI", "企业", "统计", "饼图", "简约", "扁平", "柔和", "现代"]
 recommended_models: 
   - banana-pro

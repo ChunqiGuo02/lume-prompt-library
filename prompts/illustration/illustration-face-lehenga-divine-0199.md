@@ -3,7 +3,7 @@ id: illustration-face-lehenga-divine-0199
 title: "神爱情侣水彩幻想画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩", "神话", "印度", "神明", "女神", "宁静", "橙色调", "青蓝色"]
 recommended_models: 
   - banana-pro

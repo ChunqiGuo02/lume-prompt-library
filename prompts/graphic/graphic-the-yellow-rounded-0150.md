@@ -3,7 +3,7 @@ id: graphic-the-yellow-rounded-0150
 title: "DMIT涨价后VPS购买参考"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["简约", "现代", "科技", "VPS", "测评", "服务器", "数据", "面板"]
 recommended_models: []
 recommended_params:

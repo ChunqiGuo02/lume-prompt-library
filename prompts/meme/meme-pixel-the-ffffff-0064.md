@@ -3,7 +3,7 @@ id: meme-pixel-the-ffffff-0064
 title: "复古像素UI图标"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["像素画", "复古", "图标", "低分辨率", "描边", "甜筒", "地球", "饼干"]
 recommended_models: 
   - banana-pro

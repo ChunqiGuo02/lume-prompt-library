@@ -3,7 +3,7 @@ id: illustration-the-sofa-walls-0122
 title: "折纸风格现代客厅剖面图生成提示"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["客厅", "暖色调", "折纸", "现代", "简约", "模型", "室内", "柔和"]
 recommended_models: 
   - banana-pro

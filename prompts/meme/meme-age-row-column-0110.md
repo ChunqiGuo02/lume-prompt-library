@@ -3,7 +3,7 @@ id: meme-age-row-column-0110
 title: "穿越时空的旅程：16幅肖像画，记录了151年的历史"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["写实", "肖像", "网格", "男性", "摄影", "棚拍", "灰背景", "人脸"]
 recommended_models: 
   - banana-pro

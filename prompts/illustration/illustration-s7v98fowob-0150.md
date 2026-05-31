@@ -3,7 +3,7 @@ id: illustration-s7v98fowob-0150
 title: "水墨仕女图AI生成器"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水墨", "仕女", "团扇", "古装", "国风", "写意", "粉色", "娴静"]
 recommended_models: 
   - banana-pro

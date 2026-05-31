@@ -3,7 +3,7 @@ id: illustration-ink-art-reference-0267
 title: "高精度肖像重构：墨迹与手稿交织的内心风暴"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["男性", "肖像", "速写", "水墨", "插画", "概念", "旧纸", "墨迹"]
 recommended_models: 
   - banana-pro

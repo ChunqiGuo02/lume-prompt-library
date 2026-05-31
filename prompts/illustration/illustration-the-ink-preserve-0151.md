@@ -3,7 +3,7 @@ id: illustration-the-ink-preserve-0151
 title: "水墨时尚肖像重塑"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水墨", "黑白", "插画", "男性", "乡村", "房屋", "树木", "小路"]
 recommended_models: 
   - banana-pro

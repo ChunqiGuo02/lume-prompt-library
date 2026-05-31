@@ -3,7 +3,7 @@ id: illustration-prompt-character-drawing-0036
 title: "儿童绘本风格角色插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["爱丽丝", "可爱", "插画", "彩铅", "手绘", "蘑菇", "花朵", "童话"]
 recommended_models: 
   - banana-pro

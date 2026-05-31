@@ -3,7 +3,7 @@ id: graphic-description-the-map-1030
 title: "缙云山野美食地图"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["手绘", "水彩", "水墨", "国风", "复古", "缙云", "美食", "地图"]
 recommended_models: []
 recommended_params:

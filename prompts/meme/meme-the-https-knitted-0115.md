@@ -3,7 +3,7 @@ id: meme-the-https-knitted-0115
 title: "编织艺术图像生成提示词"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["the", "https", "knitted", "textile", "portrait"]
 recommended_models: 
   - banana-pro

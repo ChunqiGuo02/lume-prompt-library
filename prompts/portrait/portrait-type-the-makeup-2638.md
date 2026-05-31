@@ -3,7 +3,7 @@ id: portrait-type-the-makeup-2638
 title: "雪地时尚大片拍摄指南"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["女性", "冬季", "雪地", "户外", "时尚", "人像", "皮帽", "米白"]
 recommended_models: 
   - banana-pro

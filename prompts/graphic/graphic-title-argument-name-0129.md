@@ -3,7 +3,7 @@ id: graphic-title-argument-name-0129
 title: "ChatGPT图像生成提示词技巧"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["ChatGPT", "AI绘画", "图像生成", "提示词", "技巧", "信息图", "简约风", "扁平化"]
 recommended_models: []
 recommended_params:

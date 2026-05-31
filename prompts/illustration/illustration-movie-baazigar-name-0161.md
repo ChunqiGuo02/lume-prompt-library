@@ -3,7 +3,7 @@ id: illustration-movie-baazigar-name-0161
 title: "沙鲁克汗《Baazigar》电影手绘自拍插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["手绘", "红色", "黄色", "暖色调", "素描", "明星", "自拍", "涂鸦"]
 recommended_models: 
   - banana-pro

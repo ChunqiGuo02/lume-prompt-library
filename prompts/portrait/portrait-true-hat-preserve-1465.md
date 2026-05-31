@@ -3,7 +3,7 @@ id: portrait-true-hat-preserve-1465
 title: "沙漠时尚大片：棕裙草帽女性写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["沙漠", "岩石", "草帽", "棕色", "长裙", "蓝天", "时尚", "写真"]
 recommended_models: 
   - banana-pro

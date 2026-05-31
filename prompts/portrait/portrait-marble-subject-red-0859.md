@@ -3,7 +3,7 @@ id: portrait-marble-subject-red-0859
 title: "奢华浴室派对后慵懒写真，霓虹光影下的迷幻时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["时尚", "写真", "浴室", "性感", "奢华", "鎏金", "亮片", "胶片"]
 recommended_models: 
   - banana-pro

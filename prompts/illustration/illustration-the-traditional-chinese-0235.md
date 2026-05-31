@@ -3,7 +3,7 @@ id: illustration-the-traditional-chinese-0235
 title: "西游记师徒四人组成了一个摇滚乐队"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["国画", "水墨", "国风", "摇滚", "西游记", "幽默", "创意", "复古"]
 recommended_models: 
   - banana-pro

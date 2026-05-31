@@ -3,7 +3,7 @@ id: illustration-pen-doodle-the-0205
 title: "笔记本手绘风格人物肖像生成"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["手绘", "涂鸦", "笔记本", "少女", "休闲", "简约", "可爱", "随性"]
 recommended_models: 
   - banana-pro

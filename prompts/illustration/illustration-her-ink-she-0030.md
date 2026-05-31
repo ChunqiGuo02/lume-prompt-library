@@ -3,7 +3,7 @@ id: illustration-her-ink-she-0030
 title: "传统的中国工笔水墨画-仙女"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["国画", "工笔", "古风", "混搭", "仕女", "牡丹", "冰淇淋", "机器人"]
 recommended_models: 
   - banana-pro

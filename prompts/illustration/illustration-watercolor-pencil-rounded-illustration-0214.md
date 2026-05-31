@@ -3,7 +3,7 @@ id: illustration-watercolor-pencil-rounded-illustration-0214
 title: "绘本风格女性肖像插画，柔和水彩铅笔质感"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["手绘", "绘本", "图书馆", "女性", "绿色", "柔和", "温馨", "水彩"]
 recommended_models: 
   - banana-pro

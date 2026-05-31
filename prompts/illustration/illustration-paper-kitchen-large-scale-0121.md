@@ -3,7 +3,7 @@ id: illustration-paper-kitchen-large-scale-0121
 title: "折纸风格现代厨房剖面图提示词"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["折纸", "厨房", "微缩", "模型", "浅色调", "简约", "现代", "清新"]
 recommended_models: 
   - banana-pro

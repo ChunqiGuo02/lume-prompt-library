@@ -3,7 +3,7 @@ id: illustration-the-marble-object-0229
 title: "蓝宝石眼珠的极简混合媒介插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["手绘", "线描", "眼睛", "眉毛", "蓝色", "弹珠", "简约", "白色"]
 recommended_models: 
   - banana-pro

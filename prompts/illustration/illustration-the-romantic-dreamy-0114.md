@@ -3,7 +3,7 @@ id: illustration-the-romantic-dreamy-0114
 title: "情侣肖像转梦幻柔彩插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["插画", "矢量风", "情侣", "浪漫", "亲密", "暖色调", "淡粉色", "淡紫色"]
 recommended_models: 
   - banana-pro

@@ -1,0 +1,619 @@
+{
+  "ds_slug": "editorial-fashion-shoot",
+  "ds_label": "时尚大片摄影",
+  "matched_total": 50,
+  "candidate_pool": 63,
+  "top_tags": [
+    {
+      "tag": "时尚",
+      "count": 37
+    },
+    {
+      "tag": "女性",
+      "count": 11
+    },
+    {
+      "tag": "摄影",
+      "count": 8
+    },
+    {
+      "tag": "奢华",
+      "count": 8
+    },
+    {
+      "tag": "写真",
+      "count": 7
+    },
+    {
+      "tag": "户外",
+      "count": 6
+    },
+    {
+      "tag": "人像",
+      "count": 6
+    },
+    {
+      "tag": "写实",
+      "count": 6
+    },
+    {
+      "tag": "肖像",
+      "count": 6
+    },
+    {
+      "tag": "黑白",
+      "count": 6
+    },
+    {
+      "tag": "西装",
+      "count": 5
+    },
+    {
+      "tag": "复古",
+      "count": 5
+    },
+    {
+      "tag": "礼服",
+      "count": 5
+    },
+    {
+      "tag": "优雅",
+      "count": 5
+    },
+    {
+      "tag": "黑色",
+      "count": 4
+    },
+    {
+      "tag": "冬季",
+      "count": 4
+    },
+    {
+      "tag": "电影感",
+      "count": 4
+    },
+    {
+      "tag": "红色",
+      "count": 4
+    },
+    {
+      "tag": "白色",
+      "count": 4
+    },
+    {
+      "tag": "高级",
+      "count": 4
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "黑白",
+      "count": 6
+    },
+    {
+      "tag": "复古",
+      "count": 5
+    },
+    {
+      "tag": "黑色",
+      "count": 4
+    },
+    {
+      "tag": "红色",
+      "count": 4
+    },
+    {
+      "tag": "白色",
+      "count": 4
+    },
+    {
+      "tag": "灰色",
+      "count": 3
+    },
+    {
+      "tag": "金色",
+      "count": 3
+    },
+    {
+      "tag": "粉色",
+      "count": 3
+    },
+    {
+      "tag": "胶片",
+      "count": 2
+    },
+    {
+      "tag": "暖光",
+      "count": 2
+    },
+    {
+      "tag": "棕色",
+      "count": 2
+    },
+    {
+      "tag": "蓝色",
+      "count": 2
+    },
+    {
+      "tag": "暖色调",
+      "count": 1
+    },
+    {
+      "tag": "银色",
+      "count": 1
+    },
+    {
+      "tag": "黄色",
+      "count": 1
+    },
+    {
+      "tag": "暖调",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "时尚",
+      "count": 37
+    },
+    {
+      "tag": "女性",
+      "count": 11
+    },
+    {
+      "tag": "户外",
+      "count": 6
+    },
+    {
+      "tag": "人像",
+      "count": 6
+    },
+    {
+      "tag": "肖像",
+      "count": 6
+    },
+    {
+      "tag": "夜景",
+      "count": 2
+    },
+    {
+      "tag": "街头",
+      "count": 2
+    },
+    {
+      "tag": "自拍",
+      "count": 1
+    },
+    {
+      "tag": "男性",
+      "count": 1
+    },
+    {
+      "tag": "城市",
+      "count": 1
+    },
+    {
+      "tag": "建筑",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 50,
+    "B": 0,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "branding-the-studio-editorial-0421",
+      "title": "高定时尚大片创作提示",
+      "path": "prompts/branding/branding-the-studio-editorial-0421.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "时尚大片",
+        "大片"
+      ]
+    },
+    {
+      "id": "portrait-the-face-central-0152",
+      "title": "七位相同女性身着多样街头服饰，对称排列，展现超现实时尚大片效",
+      "path": "prompts/portrait/portrait-the-face-central-0152.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "时尚大片",
+        "大片"
+      ]
+    },
+    {
+      "id": "portrait-the-subject-slightly-0269",
+      "title": "低角度时尚大片：红裙白袜高跟造型",
+      "path": "prompts/portrait/portrait-the-subject-slightly-0269.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "时尚大片",
+        "大片"
+      ]
+    },
+    {
+      "id": "portrait-subject-texture-reference-0371",
+      "title": "冬日街拍时尚大片",
+      "path": "prompts/portrait/portrait-subject-texture-reference-0371.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "时尚大片",
+        "大片"
+      ]
+    },
+    {
+      "id": "portrait-the-model-brown-0385",
+      "title": "冰岛河畔人马静谧时尚大片",
+      "path": "prompts/portrait/portrait-the-model-brown-0385.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "时尚大片",
+        "大片"
+      ]
+    },
+    {
+      "id": "portrait-shallow-gold-hyper-realistic-0474",
+      "title": "古罗马浴场中的冷艳时尚大片",
+      "path": "prompts/portrait/portrait-shallow-gold-hyper-realistic-0474.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "时尚大片",
+        "大片"
+      ]
+    },
+    {
+      "id": "portrait-paolo-roversi-c8402b-0537",
+      "title": "国风时尚大片：现代东方女性返乡寻根，黄山云海间松弛自在",
+      "path": "prompts/portrait/portrait-paolo-roversi-c8402b-0537.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "时尚大片",
+        "大片"
+      ]
+    },
+    {
+      "id": "portrait-court-model-stretching-0664",
+      "title": "复古网球风时尚大片拍摄指南",
+      "path": "prompts/portrait/portrait-court-model-stretching-0664.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "时尚大片",
+        "大片"
+      ]
+    },
+    {
+      "id": "portrait-face-ref-scheme-0823",
+      "title": "大唐贵妃巴黎封面大片",
+      "path": "prompts/portrait/portrait-face-ref-scheme-0823.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "大片",
+        "封面大片"
+      ]
+    },
+    {
+      "id": "portrait-her-skin-gold-0836",
+      "title": "奢侈品牌与拳击运动融合的时尚大片",
+      "path": "prompts/portrait/portrait-her-skin-gold-0836.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "时尚大片",
+        "大片"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "branding-the-studio-editorial-0421",
+      "path": "prompts/branding/branding-the-studio-editorial-0421.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-face-central-0152",
+      "path": "prompts/portrait/portrait-the-face-central-0152.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-subject-slightly-0269",
+      "path": "prompts/portrait/portrait-the-subject-slightly-0269.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-subject-texture-reference-0371",
+      "path": "prompts/portrait/portrait-subject-texture-reference-0371.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-model-brown-0385",
+      "path": "prompts/portrait/portrait-the-model-brown-0385.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-shallow-gold-hyper-realistic-0474",
+      "path": "prompts/portrait/portrait-shallow-gold-hyper-realistic-0474.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-paolo-roversi-c8402b-0537",
+      "path": "prompts/portrait/portrait-paolo-roversi-c8402b-0537.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-court-model-stretching-0664",
+      "path": "prompts/portrait/portrait-court-model-stretching-0664.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-face-ref-scheme-0823",
+      "path": "prompts/portrait/portrait-face-ref-scheme-0823.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-her-skin-gold-0836",
+      "path": "prompts/portrait/portrait-her-skin-gold-0836.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-dark-model-0849",
+      "path": "prompts/portrait/portrait-the-dark-model-0849.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-text-prompt-0852",
+      "path": "prompts/portrait/portrait-the-text-prompt-0852.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-subject-side-0855",
+      "path": "prompts/portrait/portrait-the-subject-side-0855.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-for-create-0856",
+      "path": "prompts/portrait/portrait-the-for-create-0856.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-marble-subject-red-0859",
+      "path": "prompts/portrait/portrait-marble-subject-red-0859.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-hair-pose-subject-0878",
+      "path": "prompts/portrait/portrait-hair-pose-subject-0878.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-texture-sharp-0922",
+      "path": "prompts/portrait/portrait-the-texture-sharp-0922.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-editorial-jacket-terrain-0962",
+      "path": "prompts/portrait/portrait-editorial-jacket-terrain-0962.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-dress-resolution-one-1201",
+      "path": "prompts/portrait/portrait-dress-resolution-one-1201.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-pink-type-makeup-1202",
+      "path": "prompts/portrait/portrait-pink-type-makeup-1202.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-her-the-leather-1203",
+      "path": "prompts/portrait/portrait-her-the-leather-1203.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-fashion-short-wavy-1204",
+      "path": "prompts/portrait/portrait-fashion-short-wavy-1204.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-subject-her-1205",
+      "path": "prompts/portrait/portrait-the-subject-her-1205.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-item-texture-details-1372",
+      "path": "prompts/portrait/portrait-item-texture-details-1372.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-orange-dress-likeness-1437",
+      "path": "prompts/portrait/portrait-orange-dress-likeness-1437.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-editorial-intensity-facial-1451",
+      "path": "prompts/portrait/portrait-editorial-intensity-facial-1451.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-true-hat-preserve-1465",
+      "path": "prompts/portrait/portrait-true-hat-preserve-1465.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-body-identity-aesthetic-1477",
+      "path": "prompts/portrait/portrait-body-identity-aesthetic-1477.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-denim-her-1673",
+      "path": "prompts/portrait/portrait-the-denim-her-1673.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-flash-mirror-1763",
+      "path": "prompts/portrait/portrait-the-flash-mirror-1763.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-paolo-roversi-shang-1807",
+      "path": "prompts/portrait/portrait-paolo-roversi-shang-1807.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-gucci-car-photorealistic-1844",
+      "path": "prompts/portrait/portrait-gucci-car-photorealistic-1844.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-western-fashion-luxury-1971",
+      "path": "prompts/portrait/portrait-western-fashion-luxury-1971.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-hai-aur-par-1998",
+      "path": "prompts/portrait/portrait-hai-aur-par-1998.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-type-subject-2099",
+      "path": "prompts/portrait/portrait-the-type-subject-2099.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-face-texture-perspective-2121",
+      "path": "prompts/portrait/portrait-face-texture-perspective-2121.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-neon-pink-fashion-2181",
+      "path": "prompts/portrait/portrait-neon-pink-fashion-2181.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-dior-the-editorial-2322",
+      "path": "prompts/portrait/portrait-dior-the-editorial-2322.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-that-frame-2340",
+      "path": "prompts/portrait/portrait-the-that-frame-2340.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-street-busy-subject-2398",
+      "path": "prompts/portrait/portrait-street-busy-subject-2398.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-detail-skin-street-2472",
+      "path": "prompts/portrait/portrait-detail-skin-street-2472.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-editorial-winter-her-2625",
+      "path": "prompts/portrait/portrait-editorial-winter-her-2625.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-type-the-makeup-2638",
+      "path": "prompts/portrait/portrait-type-the-makeup-2638.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-reference-editorial-2805",
+      "path": "prompts/portrait/portrait-the-reference-editorial-2805.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-maintain-reference-studio-2806",
+      "path": "prompts/portrait/portrait-maintain-reference-studio-2806.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-maintain-reference-studio-2807",
+      "path": "prompts/portrait/portrait-maintain-reference-studio-2807.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-studio-floor-grey-2814",
+      "path": "prompts/portrait/portrait-studio-floor-grey-2814.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-green-2819",
+      "path": "prompts/portrait/portrait-the-her-green-2819.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-stone-text-2820",
+      "path": "prompts/portrait/portrait-the-stone-text-2820.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-dark-2964",
+      "path": "prompts/portrait/portrait-the-her-dark-2964.md",
+      "score": 22,
+      "quality": "A"
+    }
+  ]
+}

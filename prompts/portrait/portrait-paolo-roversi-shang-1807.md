@@ -3,7 +3,7 @@ id: portrait-paolo-roversi-shang-1807
 title: "秋日国风时尚大片：红墙银杏间，朱砂红裙映衬东方优雅与电影质感"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["国风", "秋日", "时尚", "红裙", "银杏", "红墙", "框景", "优雅"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: illustration-the-red-stool-0072
 title: "古今错位幽默融合"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["国风", "水墨画", "龙珠", "搞笑", "混搭", "反差", "创意", "动漫"]
 recommended_models: 
   - banana-pro

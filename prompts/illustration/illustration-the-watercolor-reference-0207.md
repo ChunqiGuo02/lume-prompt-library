@@ -3,7 +3,7 @@ id: illustration-the-watercolor-reference-0207
 title: "精准复刻人脸的水墨融合艺术肖像"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩", "水墨", "手绘", "女性", "肖像", "坐姿", "传统", "服饰"]
 recommended_models: 
   - banana-pro

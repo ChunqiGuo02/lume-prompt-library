@@ -3,7 +3,7 @@ id: illustration-9affd288b7-0092
 title: "大唐长安插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["国风", "唐代", "工笔", "仕女图", "古画", "长安", "地图", "暖色调"]
 recommended_models: 
   - banana-pro

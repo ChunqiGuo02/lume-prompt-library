@@ -3,7 +3,7 @@ id: meme-the-frame-reference-0080
 title: "情侣复古照相亭四连拍"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["情侣", "复古", "红色", "拼贴", "浪漫", "甜蜜", "闪光灯", "牛仔"]
 recommended_models: 
   - banana-pro

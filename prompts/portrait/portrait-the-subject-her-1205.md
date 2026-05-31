@@ -3,7 +3,7 @@ id: portrait-the-subject-her-1205
 title: "时尚大片：魅惑金发女郎"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["金发", "蓝眼", "玫红", "露肩", "沙发", "肖像", "电影感", "浅景深"]
 recommended_models: 
   - banana-pro

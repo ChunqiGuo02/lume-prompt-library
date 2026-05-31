@@ -3,7 +3,7 @@ id: graphic-shading-text-notebook-0390
 title: "创意灵感少女插画"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["插画", "速写", "现代", "暖色调", "大地色", "女性", "创意", "灵感"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: illustration-the-watercolor-ink-0154
 title: "水彩墨线肖像画创作"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩", "肖像", "男性", "淡蓝", "暖粉", "手绘", "线条", "晕染"]
 recommended_models: 
   - banana-pro

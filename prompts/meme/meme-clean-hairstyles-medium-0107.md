@@ -3,7 +3,7 @@ id: meme-clean-hairstyles-medium-0107
 title: "男士发型九宫格对比图"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["拼贴", "肖像", "发型", "男士", "暖色调", "米色", "简约", "干净"]
 recommended_models: 
   - banana-pro

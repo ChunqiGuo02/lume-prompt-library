@@ -3,7 +3,7 @@ id: 3d_concept-the-illustration-base-0898
 title: "透明亚克力动漫画作展示"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["动漫", "插画", "男生", "侧颜", "双色发", "暖色调", "透明", "亚克力"]
 recommended_models: 
   - banana-pro

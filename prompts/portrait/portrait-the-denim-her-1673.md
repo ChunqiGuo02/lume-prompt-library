@@ -3,7 +3,7 @@ id: portrait-the-denim-her-1673
 title: "现代西部风高定时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["西部", "时尚", "户外", "牛仔", "帽子", "比基尼", "蓝天", "山地"]
 recommended_models: 
   - banana-pro

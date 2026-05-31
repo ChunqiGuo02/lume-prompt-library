@@ -3,7 +3,7 @@ id: illustration-subject-illustration-minimal-0140
 title: "极简扁平插画风格设计模板"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["骑行", "自行车", "运动", "扁平化", "极简", "插画", "几何", "暖色调"]
 recommended_models: 
   - banana-pro

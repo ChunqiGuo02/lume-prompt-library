@@ -3,7 +3,7 @@ id: meme-the-top-she-0096
 title: "每幅肖像画中都蕴含着温暖与亲切的“低语”……"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["人像", "四宫格", "女孩", "暖色调", "温柔", "居家", "粉色", "马克杯"]
 recommended_models: 
   - banana-pro

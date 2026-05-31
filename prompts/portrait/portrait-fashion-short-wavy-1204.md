@@ -3,7 +3,7 @@ id: portrait-fashion-short-wavy-1204
 title: "时尚大片：橙镜红衣女郎蓝天写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["时尚", "肖像", "女性", "短发", "橙色", "墨镜", "珍珠", "耳饰"]
 recommended_models: 
   - banana-pro

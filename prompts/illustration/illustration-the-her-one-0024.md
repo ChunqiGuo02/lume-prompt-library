@@ -3,7 +3,7 @@ id: illustration-the-her-one-0024
 title: "中国传统水墨彩画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["工笔画", "国画", "国风", "古画", "小黄人", "仕女", "反差萌", "混搭"]
 recommended_models: 
   - banana-pro

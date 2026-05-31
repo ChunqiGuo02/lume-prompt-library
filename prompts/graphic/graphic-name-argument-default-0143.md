@@ -3,7 +3,7 @@ id: graphic-name-argument-default-0143
 title: "CodePilot AI编程副驾驶"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["简约", "现代", "蓝色", "编程", "AI", "开源", "工具", "科技"]
 recommended_models: []
 recommended_params:

@@ -3,7 +3,7 @@ id: portrait-dress-resolution-one-1201
 title: "时尚大片：亮片深V的性感肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["时尚", "人像", "棚拍", "黑色", "冷调", "亮片", "深V", "黑发"]
 recommended_models: 
   - banana-pro

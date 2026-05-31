@@ -3,7 +3,7 @@ id: portrait-item-texture-details-1372
 title: "杜阿·利帕纽约雪夜时尚大片，黑白电影感都市夜景人像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["黑白", "时尚", "肖像", "夜景", "城市", "下雪", "女性", "名人"]
 recommended_models: 
   - banana-pro

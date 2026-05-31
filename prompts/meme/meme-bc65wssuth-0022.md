@@ -3,7 +3,7 @@ id: meme-bc65wssuth-0022
 title: "一键生成一套十二种情绪表情包"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["Q版", "可爱", "卡通", "表情包", "工具", "清新", "渐变", "趣味"]
 recommended_models: 
   - banana-pro

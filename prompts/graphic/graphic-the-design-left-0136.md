@@ -3,7 +3,7 @@ id: graphic-the-design-left-0136
 title: "Claude Design 6分钟教程缩略图"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["现代", "简约", "橙色", "白色", "设计", "教程", "科技", "封面"]
 recommended_models: []
 recommended_params:

@@ -3,7 +3,7 @@ id: meme-the-plush-emoji-0097
 title: "毛绒形式表情符号"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["手工", "可爱", "羊毛毡", "毛绒", "表情", "暖色调", "软萌", "治愈"]
 recommended_models: 
   - banana-pro

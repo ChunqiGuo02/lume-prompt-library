@@ -3,7 +3,7 @@ id: meme-expression-hairstyle-studio-0031
 title: "九宫格真人表情发型合集"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["九宫格", "真人", "人像", "摄影", "写实", "表情", "情绪", "女性"]
 recommended_models: 
   - banana-pro

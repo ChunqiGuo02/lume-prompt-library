@@ -3,7 +3,7 @@ id: illustration-art-pencil-brown-0045
 title: "冬日雪景中两位女星自拍插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["插画", "手绘", "线描", "自拍", "冬季", "雪地", "手机", "女性"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-detail-skin-street-2472
 title: "银发女子持红玫瑰街拍时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["街拍", "人像", "银发", "玫瑰", "优雅", "写实", "欧洲", "阴天"]
 recommended_models: 
   - banana-pro

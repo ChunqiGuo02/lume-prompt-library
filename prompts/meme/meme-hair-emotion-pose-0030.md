@@ -3,7 +3,7 @@ id: meme-hair-emotion-pose-0030
 title: "九宫格情绪肖像生成器"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["卡通", "插画", "九宫格", "拼贴", "女性", "人像", "情绪", "柔和"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: meme-the-subject-theme-0128
 title: "镜前自拍九宫格情绪写真"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["九宫格", "对镜", "自拍", "女生", "简约", "白色", "开心", "甜美"]
 recommended_models: 
   - banana-pro

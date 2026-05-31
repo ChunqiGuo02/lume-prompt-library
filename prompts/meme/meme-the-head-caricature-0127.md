@@ -3,7 +3,7 @@ id: meme-the-head-caricature-0127
 title: "铅笔风格的大头漫画"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["夸张", "漫像", "肖像", "素描", "炭笔", "手绘", "大头", "人物"]
 recommended_models: 
   - banana-pro

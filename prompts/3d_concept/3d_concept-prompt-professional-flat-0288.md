@@ -3,7 +3,7 @@ id: 3d_concept-prompt-professional-flat-0288
 title: "夸张视角插画风格生成器-2"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["扁平化", "矢量风", "插画", "商业风", "救生员", "救援", "海水", "橙色"]
 recommended_models: 
   - banana-pro

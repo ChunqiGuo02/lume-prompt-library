@@ -1,0 +1,610 @@
+{
+  "ds_slug": "flat-illustration",
+  "ds_label": "扁平品牌插画",
+  "matched_total": 50,
+  "candidate_pool": 86,
+  "top_tags": [
+    {
+      "tag": "简约",
+      "count": 27
+    },
+    {
+      "tag": "现代",
+      "count": 22
+    },
+    {
+      "tag": "插画",
+      "count": 12
+    },
+    {
+      "tag": "暖色调",
+      "count": 10
+    },
+    {
+      "tag": "几何",
+      "count": 6
+    },
+    {
+      "tag": "科技",
+      "count": 6
+    },
+    {
+      "tag": "矢量",
+      "count": 5
+    },
+    {
+      "tag": "极简",
+      "count": 5
+    },
+    {
+      "tag": "扁平化",
+      "count": 5
+    },
+    {
+      "tag": "AI",
+      "count": 5
+    },
+    {
+      "tag": "可爱",
+      "count": 5
+    },
+    {
+      "tag": "肖像",
+      "count": 4
+    },
+    {
+      "tag": "黑白",
+      "count": 4
+    },
+    {
+      "tag": "卡通",
+      "count": 4
+    },
+    {
+      "tag": "扁平",
+      "count": 4
+    },
+    {
+      "tag": "橙色",
+      "count": 4
+    },
+    {
+      "tag": "黄色",
+      "count": 4
+    },
+    {
+      "tag": "写实",
+      "count": 4
+    },
+    {
+      "tag": "蓝色",
+      "count": 4
+    },
+    {
+      "tag": "撞色",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "暖色调",
+      "count": 10
+    },
+    {
+      "tag": "黑白",
+      "count": 4
+    },
+    {
+      "tag": "黄色",
+      "count": 4
+    },
+    {
+      "tag": "蓝色",
+      "count": 4
+    },
+    {
+      "tag": "黑色",
+      "count": 3
+    },
+    {
+      "tag": "白色",
+      "count": 3
+    },
+    {
+      "tag": "紫色",
+      "count": 2
+    },
+    {
+      "tag": "霓虹",
+      "count": 1
+    },
+    {
+      "tag": "绿色",
+      "count": 1
+    },
+    {
+      "tag": "红色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "插画",
+      "count": 12
+    },
+    {
+      "tag": "可爱",
+      "count": 5
+    },
+    {
+      "tag": "肖像",
+      "count": 4
+    },
+    {
+      "tag": "卡通",
+      "count": 4
+    },
+    {
+      "tag": "女性",
+      "count": 3
+    },
+    {
+      "tag": "男性",
+      "count": 3
+    },
+    {
+      "tag": "户外",
+      "count": 2
+    },
+    {
+      "tag": "室内",
+      "count": 2
+    },
+    {
+      "tag": "夜景",
+      "count": 1
+    },
+    {
+      "tag": "动漫",
+      "count": 1
+    },
+    {
+      "tag": "Q版",
+      "count": 1
+    },
+    {
+      "tag": "少女",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 21,
+    "B": 29,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "3d_concept-the-full-name-0658",
+      "title": "科技创业者埃隆·马斯克的超写实全身肖像与几何风格矢量头像设计",
+      "path": "prompts/3d_concept/3d_concept-the-full-name-0658.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "矢量",
+        "几何",
+        "简约",
+        "现代"
+      ]
+    },
+    {
+      "id": "3d_concept-vector-cyan-deep-0827",
+      "title": "赛博朋克风格人像生成",
+      "path": "prompts/3d_concept/3d_concept-vector-cyan-deep-0827.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "矢量",
+        "插画",
+        "平面"
+      ]
+    },
+    {
+      "id": "illustration-the-use-all-0084",
+      "title": "复古卡通风格扁平图标",
+      "path": "prompts/illustration/illustration-the-use-all-0084.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "扁平",
+        "矢量",
+        "插画"
+      ]
+    },
+    {
+      "id": "illustration-the-illustrated-figures-0102",
+      "title": "将素描人物添加到您的真实照片中",
+      "path": "prompts/illustration/illustration-the-illustrated-figures-0102.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "插画",
+        "简约",
+        "现代"
+      ]
+    },
+    {
+      "id": "illustration-the-vector-essential-0141",
+      "title": "极简矢量风格图像转换",
+      "path": "prompts/illustration/illustration-the-vector-essential-0141.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "扁平",
+        "矢量",
+        "插画"
+      ]
+    },
+    {
+      "id": "3d_concept-prompt-professional-flat-0288",
+      "title": "夸张视角插画风格生成器-2",
+      "path": "prompts/3d_concept/3d_concept-prompt-professional-flat-0288.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "扁平",
+        "矢量",
+        "插画"
+      ]
+    },
+    {
+      "id": "3d_concept-subject-minimalist-ink-0485",
+      "title": "极简墨线速写：动态主体的现代插画风格",
+      "path": "prompts/3d_concept/3d_concept-subject-minimalist-ink-0485.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "插画",
+        "简约",
+        "现代"
+      ]
+    },
+    {
+      "id": "graphic-a47s3rgal5-0322",
+      "title": "中小企业AI应用入门指南",
+      "path": "prompts/graphic/graphic-a47s3rgal5-0322.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "扁平",
+        "简约",
+        "现代"
+      ]
+    },
+    {
+      "id": "illustration-subject-illustrated-geometric-0047",
+      "title": "几何禅",
+      "path": "prompts/illustration/illustration-subject-illustrated-geometric-0047.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "插画",
+        "几何",
+        "简约"
+      ]
+    },
+    {
+      "id": "illustration-dynamic-vectorial-explosion-0057",
+      "title": "动态矢量爆炸艺术设计",
+      "path": "prompts/illustration/illustration-dynamic-vectorial-explosion-0057.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "矢量",
+        "插画",
+        "几何"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "3d_concept-the-full-name-0658",
+      "path": "prompts/3d_concept/3d_concept-the-full-name-0658.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-vector-cyan-deep-0827",
+      "path": "prompts/3d_concept/3d_concept-vector-cyan-deep-0827.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-use-all-0084",
+      "path": "prompts/illustration/illustration-the-use-all-0084.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-illustrated-figures-0102",
+      "path": "prompts/illustration/illustration-the-illustrated-figures-0102.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-vector-essential-0141",
+      "path": "prompts/illustration/illustration-the-vector-essential-0141.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-prompt-professional-flat-0288",
+      "path": "prompts/3d_concept/3d_concept-prompt-professional-flat-0288.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-subject-minimalist-ink-0485",
+      "path": "prompts/3d_concept/3d_concept-subject-minimalist-ink-0485.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-a47s3rgal5-0322",
+      "path": "prompts/graphic/graphic-a47s3rgal5-0322.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-subject-illustrated-geometric-0047",
+      "path": "prompts/illustration/illustration-subject-illustrated-geometric-0047.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-dynamic-vectorial-explosion-0057",
+      "path": "prompts/illustration/illustration-dynamic-vectorial-explosion-0057.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-paper-kitchen-large-scale-0121",
+      "path": "prompts/illustration/illustration-paper-kitchen-large-scale-0121.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-the-sofa-walls-0122",
+      "path": "prompts/illustration/illustration-the-sofa-walls-0122.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-subject-illustration-minimal-0140",
+      "path": "prompts/illustration/illustration-subject-illustration-minimal-0140.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-subject-illustration-minimal-0143",
+      "path": "prompts/illustration/illustration-subject-illustration-minimal-0143.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-rather-than-japanese-manga-style-0176",
+      "path": "prompts/illustration/illustration-rather-than-japanese-manga-style-0176.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-create-paper-object-0211",
+      "path": "prompts/illustration/illustration-create-paper-object-0211.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-the-prompt-silhouette-0268",
+      "path": "prompts/illustration/illustration-the-prompt-silhouette-0268.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-illustrated-figures-0051",
+      "path": "prompts/3d_concept/3d_concept-the-illustrated-figures-0051.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-street-bold-0444",
+      "path": "prompts/3d_concept/3d_concept-the-street-bold-0444.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-illustration-base-0898",
+      "path": "prompts/3d_concept/3d_concept-the-illustration-base-0898.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-text-calendar-teal-0012",
+      "path": "prompts/graphic/graphic-text-calendar-teal-0012.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-the-logo-circle-0283",
+      "path": "prompts/graphic/graphic-the-logo-circle-0283.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-visual-flat-vector-0349",
+      "path": "prompts/graphic/graphic-visual-flat-vector-0349.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-shading-text-notebook-0390",
+      "path": "prompts/graphic/graphic-shading-text-notebook-0390.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-body-face-text-0444",
+      "path": "prompts/graphic/graphic-body-face-text-0444.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-mbti-intp-infj-0966",
+      "path": "prompts/graphic/graphic-mbti-intp-infj-0966.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-should-the-characters-0027",
+      "path": "prompts/illustration/illustration-should-the-characters-0027.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-world-hieronymus-0106",
+      "path": "prompts/illustration/illustration-the-world-hieronymus-0106.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-romantic-dreamy-0114",
+      "path": "prompts/illustration/illustration-the-romantic-dreamy-0114.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-bridge-traditional-0180",
+      "path": "prompts/illustration/illustration-the-bridge-traditional-0180.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-pen-doodle-the-0205",
+      "path": "prompts/illustration/illustration-pen-doodle-the-0205.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-emerald-charcoal-prompt-0215",
+      "path": "prompts/illustration/illustration-emerald-charcoal-prompt-0215.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-marble-object-0229",
+      "path": "prompts/illustration/illustration-the-marble-object-0229.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-input-directive-twitter-0019",
+      "path": "prompts/3d_concept/3d_concept-input-directive-twitter-0019.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-face-type-body-0132",
+      "path": "prompts/3d_concept/3d_concept-face-type-body-0132.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-subject-depict-bauhaus-inspired-0170",
+      "path": "prompts/3d_concept/3d_concept-subject-depict-bauhaus-inspired-0170.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-character-transform-0175",
+      "path": "prompts/3d_concept/3d_concept-the-character-transform-0175.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-paws-near-0665",
+      "path": "prompts/3d_concept/3d_concept-the-paws-near-0665.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-subject-the-illustrate-0999",
+      "path": "prompts/3d_concept/3d_concept-subject-the-illustrate-0999.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-text-the-count-0044",
+      "path": "prompts/graphic/graphic-text-the-count-0044.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-name-argument-default-0066",
+      "path": "prompts/graphic/graphic-name-argument-default-0066.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-count-icon-resume-0067",
+      "path": "prompts/graphic/graphic-count-icon-resume-0067.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-title-argument-name-0129",
+      "path": "prompts/graphic/graphic-title-argument-name-0129.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-design-left-0136",
+      "path": "prompts/graphic/graphic-the-design-left-0136.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-name-argument-default-0143",
+      "path": "prompts/graphic/graphic-name-argument-default-0143.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-name-argument-default-0148",
+      "path": "prompts/graphic/graphic-name-argument-default-0148.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-yellow-rounded-0150",
+      "path": "prompts/graphic/graphic-the-yellow-rounded-0150.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-microsoft365-gemini-0190",
+      "path": "prompts/graphic/graphic-microsoft365-gemini-0190.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-product-exactly-0202",
+      "path": "prompts/graphic/graphic-the-product-exactly-0202.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-teal-card-icon-0214",
+      "path": "prompts/graphic/graphic-teal-card-icon-0214.md",
+      "score": 21,
+      "quality": "B"
+    }
+  ]
+}

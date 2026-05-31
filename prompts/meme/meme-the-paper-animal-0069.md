@@ -3,7 +3,7 @@ id: meme-the-paper-animal-0069
 title: "头部的几何肖像"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["纸艺", "立体", "拼贴", "动物", "狮子", "熊猫", "老鹰", "大象"]
 recommended_models: 
   - banana-pro

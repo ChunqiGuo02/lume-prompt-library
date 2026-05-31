@@ -3,7 +3,7 @@ id: illustration-watercolor-the-doodle-0155
 title: "水彩涂鸦风格人物肖像转换"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩", "手绘", "插画", "女性", "微胖", "长发", "浅色", "柔和"]
 recommended_models: 
   - banana-pro

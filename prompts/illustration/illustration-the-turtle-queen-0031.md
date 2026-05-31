@@ -3,7 +3,7 @@ id: illustration-the-turtle-queen-0031
 title: "传统的工笔风格水墨画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["工笔画", "国画", "暖色调", "西游记", "恶搞", "神龟", "飞碟", "搞笑"]
 recommended_models: 
   - banana-pro

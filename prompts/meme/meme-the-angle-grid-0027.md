@@ -3,7 +3,7 @@ id: meme-the-angle-grid-0027
 title: "九宫格多角度可爱表情写真"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["九宫格", "人像", "摄影", "写实", "俏皮", "简约", "干净", "灰色"]
 recommended_models: 
   - banana-pro

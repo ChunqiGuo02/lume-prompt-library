@@ -3,7 +3,7 @@ id: meme-the-angle-all-0028
 title: "九宫格多角度表情特写"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["摄影", "写实", "九宫格", "少女", "可爱", "简约", "棚拍", "黑发"]
 recommended_models: 
   - banana-pro

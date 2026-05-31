@@ -3,7 +3,7 @@ id: portrait-hair-pose-subject-0878
 title: "奢华衣帽间双女主时尚大片拍摄指南"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["女性", "衣帽间", "奢华", "皮包", "高跟鞋", "短裙", "时尚", "欧美"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: graphic-name-argument-default-0148
 title: "DERMA CALM敏感肌精华落地页"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["简约", "干净", "临床", "可信", "现代", "护肤品", "敏感肌", "精华"]
 recommended_models: []
 recommended_params:

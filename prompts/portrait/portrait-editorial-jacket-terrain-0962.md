@@ -3,7 +3,7 @@ id: portrait-editorial-jacket-terrain-0962
 title: "山巅时尚大片：秋冬户外型男穿搭"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["男性", "户外", "秋日", "山脉", "雾天", "时尚", "写实", "羽绒服"]
 recommended_models: 
   - banana-pro

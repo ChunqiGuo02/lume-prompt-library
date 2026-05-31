@@ -3,7 +3,7 @@ id: portrait-subject-texture-reference-0371
 title: "冬日街拍时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["冬季", "雪景", "拼贴", "自拍", "咖啡", "圣诞", "集市", "黑色"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: illustration-pencil-illustration-coloring-0115
 title: "手绘彩铅风格时尚杂志封面插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["手绘", "彩铅", "插画", "杂志", "封面", "时尚", "女性", "汽车"]
 recommended_models: 
   - banana-pro

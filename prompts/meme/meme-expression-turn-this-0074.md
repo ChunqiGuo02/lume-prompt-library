@@ -3,7 +3,7 @@ id: meme-expression-turn-this-0074
 title: "宠物表情包创作_1"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["猫咪", "手绘", "表情包", "贴纸", "简约", "搞笑", "惊讶", "疑问"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: illustration-the-oil-painting-0266
 title: "高精度写实油画创作场景：模特与画布上的肖像完美呼应，花艺点缀"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["写实", "素描", "肖像", "人物", "女生", "铅笔", "手绘", "黑白"]
 recommended_models: 
   - banana-pro

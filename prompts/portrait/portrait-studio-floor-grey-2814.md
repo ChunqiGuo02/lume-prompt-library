@@ -3,7 +3,7 @@ id: portrait-studio-floor-grey-2814
 title: "高定牛仔时尚大片：双生金发女郎动态舞姿写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["双生", "时尚", "摄影", "牛仔", "白发", "白色", "蓝色", "灰色"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: illustration-the-illustrated-figures-0102
 title: "将素描人物添加到您的真实照片中"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["简约", "现代风", "简笔画", "线条画", "咖啡馆", "克莱因蓝", "撞色", "休闲"]
 recommended_models: 
   - banana-pro

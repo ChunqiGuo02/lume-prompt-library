@@ -3,7 +3,7 @@ id: graphic-text-the-count-0044
 title: "AI创意作品集网站设计"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["现代", "简约", "清新", "人工智能", "网页", "玻璃拟态", "黄色", "海岸"]
 recommended_models: []
 recommended_params:

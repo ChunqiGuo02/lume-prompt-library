@@ -3,7 +3,7 @@ id: illustration-the-doodle-line-0062
 title: "单线连续手绘风格人物插画生成"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["涂鸦", "手绘", "极简", "插画", "女性", "篝火", "休闲", "治愈"]
 recommended_models: 
   - banana-pro

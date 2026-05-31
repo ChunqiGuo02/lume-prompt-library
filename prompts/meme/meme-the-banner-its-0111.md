@@ -3,7 +3,7 @@ id: meme-the-banner-its-0111
 title: "简约卡通人物躺卧休息插画模板"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["简约", "卡通", "线描", "扁平", "矢量", "男孩", "浅绿", "留白"]
 recommended_models: 
   - banana-pro

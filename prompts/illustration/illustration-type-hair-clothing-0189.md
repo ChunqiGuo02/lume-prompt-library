@@ -3,7 +3,7 @@ id: illustration-type-hair-clothing-0189
 title: "电力设施艺术插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["手绘", "速写", "电线杆", "电线", "变压器", "水彩", "黄色", "黑白"]
 recommended_models: 
   - banana-pro

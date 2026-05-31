@@ -3,7 +3,7 @@ id: graphic-the-logo-circle-0283
 title: "“品味成功”——饮料巨头们的新战略与产品发布"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["信息图", "扁平风", "极简风", "饮品", "品牌", "矢量图", "米背景", "珊瑚红"]
 recommended_models: 
   - banana-pro

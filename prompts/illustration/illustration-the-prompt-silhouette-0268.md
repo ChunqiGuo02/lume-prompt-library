@@ -3,7 +3,7 @@ id: illustration-the-prompt-silhouette-0268
 title: "黄底黑影创意设计模板"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["剪影", "黄色", "黑色", "简约", "扁平化", "插画", "UFO", "灯泡"]
 recommended_models: 
   - banana-pro

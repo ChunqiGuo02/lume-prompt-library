@@ -3,7 +3,7 @@ id: portrait-dior-the-editorial-2322
 title: "迪奥时尚大片人像创作"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["时尚", "奢华", "人像", "写实", "礼服", "藏蓝", "正红", "手袋"]
 recommended_models: 
   - banana-pro

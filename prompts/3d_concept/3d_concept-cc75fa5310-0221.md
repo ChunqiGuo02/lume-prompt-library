@@ -3,7 +3,7 @@ id: 3d_concept-cc75fa5310-0221
 title: "国家一级摆烂许可证"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["考拉", "证件", "摆烂", "搞笑", "可爱", "趣味", "玩梗", "特写"]
 recommended_models: 
   - banana-pro

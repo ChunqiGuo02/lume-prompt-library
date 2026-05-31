@@ -3,7 +3,7 @@ id: illustration-the-ink-scroll-0068
 title: "历史画卷中的非遗文化"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["敦煌", "飞天", "琵琶", "水墨", "国画", "卷轴", "古风", "3D"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: illustration-exaggerated-lines-shading-0094
 title: "夸张线条肖像漫画预设"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["手绘", "漫像", "黑白", "素描", "排线", "夸张", "名人", "男性"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: meme-the-row-character-0124
 title: "角色九宫格情绪表情生成预设"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["欧美女性", "九宫格", "表情", "肖像", "摄影", "暖色调", "蓝色", "西装"]
 recommended_models: 
   - banana-pro

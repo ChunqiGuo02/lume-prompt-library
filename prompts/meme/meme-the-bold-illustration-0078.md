@@ -3,7 +3,7 @@ id: meme-the-bold-illustration-0078
 title: "彩色卡通俏皮图标和徽标"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["卡通", "多彩", "粗线", "手绘", "插画", "亮色", "品牌", "标志"]
 recommended_models: 
   - banana-pro

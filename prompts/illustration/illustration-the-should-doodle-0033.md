@@ -3,7 +3,7 @@ id: illustration-the-should-doodle-0033
 title: "俏皮涂鸦风女性插画，保留原貌的童趣手绘风格"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["涂鸦", "手绘", "彩铅", "鲜艳", "明亮", "女性", "人像", "纹身"]
 recommended_models: 
   - banana-pro

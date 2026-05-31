@@ -3,7 +3,7 @@ id: portrait-the-subject-side-0855
 title: "奢华晚礼服时尚大片拍摄指南"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["亮片", "礼服", "女性", "奢华", "宫廷", "粉色", "银色", "华丽"]
 recommended_models: 
   - banana-pro

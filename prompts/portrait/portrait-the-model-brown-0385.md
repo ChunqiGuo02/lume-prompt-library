@@ -3,7 +3,7 @@ id: portrait-the-model-brown-0385
 title: "冰岛河畔人马静谧时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["男人", "马匹", "河流", "户外", "自然", "静谧", "简约", "时尚"]
 recommended_models: 
   - banana-pro

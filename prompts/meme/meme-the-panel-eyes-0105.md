@@ -3,7 +3,7 @@ id: meme-the-panel-eyes-0105
 title: "生成黑白大头贴风格多表情网格"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["欧美女性", "黑白", "人像", "表情", "网格", "摄影", "特写", "短发"]
 recommended_models: 
   - banana-pro

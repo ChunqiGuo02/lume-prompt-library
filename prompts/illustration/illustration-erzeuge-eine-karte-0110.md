@@ -3,7 +3,7 @@ id: illustration-erzeuge-eine-karte-0110
 title: "德国水彩地图，附带州名标注"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩", "德国", "地图", "手绘", "绿色", "蓝色", "黄色", "德语"]
 recommended_models: 
   - banana-pro

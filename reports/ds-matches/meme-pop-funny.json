@@ -1,0 +1,627 @@
+{
+  "ds_slug": "meme-pop-funny",
+  "ds_label": "表情包波普梗",
+  "matched_total": 50,
+  "candidate_pool": 142,
+  "top_tags": [
+    {
+      "tag": "可爱",
+      "count": 15
+    },
+    {
+      "tag": "卡通",
+      "count": 12
+    },
+    {
+      "tag": "Q版",
+      "count": 10
+    },
+    {
+      "tag": "贴纸",
+      "count": 9
+    },
+    {
+      "tag": "九宫格",
+      "count": 9
+    },
+    {
+      "tag": "人像",
+      "count": 9
+    },
+    {
+      "tag": "写实",
+      "count": 8
+    },
+    {
+      "tag": "表情包",
+      "count": 7
+    },
+    {
+      "tag": "搞笑",
+      "count": 7
+    },
+    {
+      "tag": "简约",
+      "count": 7
+    },
+    {
+      "tag": "3D",
+      "count": 7
+    },
+    {
+      "tag": "肖像",
+      "count": 6
+    },
+    {
+      "tag": "表情",
+      "count": 6
+    },
+    {
+      "tag": "女生",
+      "count": 6
+    },
+    {
+      "tag": "摄影",
+      "count": 6
+    },
+    {
+      "tag": "拼贴",
+      "count": 6
+    },
+    {
+      "tag": "复古",
+      "count": 6
+    },
+    {
+      "tag": "暖色调",
+      "count": 6
+    },
+    {
+      "tag": "趣味",
+      "count": 5
+    },
+    {
+      "tag": "少女",
+      "count": 5
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "复古",
+      "count": 6
+    },
+    {
+      "tag": "暖色调",
+      "count": 6
+    },
+    {
+      "tag": "红色",
+      "count": 4
+    },
+    {
+      "tag": "胶片",
+      "count": 3
+    },
+    {
+      "tag": "黑白",
+      "count": 2
+    },
+    {
+      "tag": "绿色",
+      "count": 1
+    },
+    {
+      "tag": "灰色",
+      "count": 1
+    },
+    {
+      "tag": "粉色",
+      "count": 1
+    },
+    {
+      "tag": "蓝色",
+      "count": 1
+    },
+    {
+      "tag": "白色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "可爱",
+      "count": 15
+    },
+    {
+      "tag": "卡通",
+      "count": 12
+    },
+    {
+      "tag": "Q版",
+      "count": 10
+    },
+    {
+      "tag": "人像",
+      "count": 9
+    },
+    {
+      "tag": "肖像",
+      "count": 6
+    },
+    {
+      "tag": "少女",
+      "count": 5
+    },
+    {
+      "tag": "二次元",
+      "count": 4
+    },
+    {
+      "tag": "插画",
+      "count": 4
+    },
+    {
+      "tag": "动漫",
+      "count": 4
+    },
+    {
+      "tag": "女性",
+      "count": 3
+    },
+    {
+      "tag": "自拍",
+      "count": 2
+    },
+    {
+      "tag": "室内",
+      "count": 1
+    },
+    {
+      "tag": "时尚",
+      "count": 1
+    },
+    {
+      "tag": "男性",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 39,
+    "B": 11,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "meme-vwtfzdyfy6-0114",
+      "title": "经典影视鬼畜表情包",
+      "path": "prompts/meme/meme-vwtfzdyfy6-0114.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "表情",
+        "表情包",
+        "趣味",
+        "搞笑",
+        "鬼畜"
+      ]
+    },
+    {
+      "id": "meme-the-head-caricature-0127",
+      "title": "铅笔风格的大头漫画",
+      "path": "prompts/meme/meme-the-head-caricature-0127.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "表情",
+        "表情包",
+        "趣味",
+        "夸张"
+      ]
+    },
+    {
+      "id": "graphic-uqyzxtd39k-0677",
+      "title": "抖音AI搞笑梗图封面",
+      "path": "prompts/graphic/graphic-uqyzxtd39k-0677.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "梗",
+        "抖音",
+        "搞笑",
+        "夸张"
+      ]
+    },
+    {
+      "id": "meme-every-known-meme-0021",
+      "title": "“寻找乐趣”：当恶搞表情包（Memes）遇上“Nano Banana Pro”这款产品时……会发生什么？",
+      "path": "prompts/meme/meme-every-known-meme-0021.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "表情",
+        "表情包",
+        "meme",
+        "趣味"
+      ]
+    },
+    {
+      "id": "meme-expression-turn-this-0074",
+      "title": "宠物表情包创作_1",
+      "path": "prompts/meme/meme-expression-turn-this-0074.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "表情",
+        "表情包",
+        "趣味",
+        "搞笑"
+      ]
+    },
+    {
+      "id": "meme-the-her-she-0075",
+      "title": "害羞VTuber坐姿被指",
+      "path": "prompts/meme/meme-the-her-she-0075.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "表情",
+        "表情包",
+        "趣味",
+        "搞笑"
+      ]
+    },
+    {
+      "id": "meme-cgi-octane-0076",
+      "title": "将表情包转为超现实图像",
+      "path": "prompts/meme/meme-cgi-octane-0076.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "表情",
+        "表情包",
+        "梗",
+        "趣味"
+      ]
+    },
+    {
+      "id": "meme-a89f4cdd77-0082",
+      "title": "我知道你很急但你先别急",
+      "path": "prompts/meme/meme-a89f4cdd77-0082.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "表情",
+        "表情包",
+        "趣味",
+        "搞笑"
+      ]
+    },
+    {
+      "id": "meme-rgurrwu89u-0086",
+      "title": "搞笑LINE表情包合集_1",
+      "path": "prompts/meme/meme-rgurrwu89u-0086.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "表情",
+        "表情包",
+        "趣味",
+        "搞笑"
+      ]
+    },
+    {
+      "id": "meme-the-cute-character-0005",
+      "title": "3D卡通角色多表情贴纸包生成",
+      "path": "prompts/meme/meme-the-cute-character-0005.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "表情",
+        "表情包",
+        "趣味"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "meme-vwtfzdyfy6-0114",
+      "path": "prompts/meme/meme-vwtfzdyfy6-0114.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "meme-the-head-caricature-0127",
+      "path": "prompts/meme/meme-the-head-caricature-0127.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-uqyzxtd39k-0677",
+      "path": "prompts/graphic/graphic-uqyzxtd39k-0677.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "meme-every-known-meme-0021",
+      "path": "prompts/meme/meme-every-known-meme-0021.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "meme-expression-turn-this-0074",
+      "path": "prompts/meme/meme-expression-turn-this-0074.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "meme-the-her-she-0075",
+      "path": "prompts/meme/meme-the-her-she-0075.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "meme-cgi-octane-0076",
+      "path": "prompts/meme/meme-cgi-octane-0076.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "meme-a89f4cdd77-0082",
+      "path": "prompts/meme/meme-a89f4cdd77-0082.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "meme-rgurrwu89u-0086",
+      "path": "prompts/meme/meme-rgurrwu89u-0086.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "meme-the-cute-character-0005",
+      "path": "prompts/meme/meme-the-cute-character-0005.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-face-jacket-character-0006",
+      "path": "prompts/meme/meme-face-jacket-character-0006.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-icon-flat-0010",
+      "path": "prompts/meme/meme-the-icon-flat-0010.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-bc65wssuth-0022",
+      "path": "prompts/meme/meme-bc65wssuth-0022.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-angle-grid-0027",
+      "path": "prompts/meme/meme-the-angle-grid-0027.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-angle-all-0028",
+      "path": "prompts/meme/meme-the-angle-all-0028.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-hair-emotion-pose-0030",
+      "path": "prompts/meme/meme-hair-emotion-pose-0030.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-expression-hairstyle-studio-0031",
+      "path": "prompts/meme/meme-expression-hairstyle-studio-0031.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-panel-olive-prompt-0037",
+      "path": "prompts/meme/meme-panel-olive-prompt-0037.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-ffffff-anime-style-shading-0038",
+      "path": "prompts/meme/meme-ffffff-anime-style-shading-0038.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-eyes-the-square-0042",
+      "path": "prompts/meme/meme-eyes-the-square-0042.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-her-she-0044",
+      "path": "prompts/meme/meme-the-her-she-0044.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-cartoon-expressive-minimal-0046",
+      "path": "prompts/meme/meme-cartoon-expressive-minimal-0046.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-character-body-0047",
+      "path": "prompts/meme/meme-the-character-body-0047.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-sticker-not-0052",
+      "path": "prompts/meme/meme-the-sticker-not-0052.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-option-project-settings-0059",
+      "path": "prompts/meme/meme-option-project-settings-0059.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-pixel-the-ffffff-0064",
+      "path": "prompts/meme/meme-pixel-the-ffffff-0064.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-vintage-true-face-0065",
+      "path": "prompts/meme/meme-vintage-true-face-0065.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-film-the-red-0067",
+      "path": "prompts/meme/meme-film-the-red-0067.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-stamps-the-collectible-0068",
+      "path": "prompts/meme/meme-stamps-the-collectible-0068.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-paper-animal-0069",
+      "path": "prompts/meme/meme-the-paper-animal-0069.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-bold-illustration-0078",
+      "path": "prompts/meme/meme-the-bold-illustration-0078.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-frame-reference-0080",
+      "path": "prompts/meme/meme-the-frame-reference-0080.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-character-hair-0081",
+      "path": "prompts/meme/meme-the-character-hair-0081.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-expression-pose-subject-0094",
+      "path": "prompts/meme/meme-expression-pose-subject-0094.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-you-hair-prompt-0095",
+      "path": "prompts/meme/meme-you-hair-prompt-0095.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-top-she-0096",
+      "path": "prompts/meme/meme-the-top-she-0096.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-plush-emoji-0097",
+      "path": "prompts/meme/meme-the-plush-emoji-0097.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-panel-eyes-0105",
+      "path": "prompts/meme/meme-the-panel-eyes-0105.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-clean-hairstyles-medium-0107",
+      "path": "prompts/meme/meme-clean-hairstyles-medium-0107.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-age-row-column-0110",
+      "path": "prompts/meme/meme-age-row-column-0110.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-banner-its-0111",
+      "path": "prompts/meme/meme-the-banner-its-0111.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-https-knitted-0115",
+      "path": "prompts/meme/meme-the-https-knitted-0115.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-film-subject-0118",
+      "path": "prompts/meme/meme-the-film-subject-0118.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-product-name-0121",
+      "path": "prompts/meme/meme-the-product-name-0121.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-row-character-0124",
+      "path": "prompts/meme/meme-the-row-character-0124.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-subject-theme-0128",
+      "path": "prompts/meme/meme-the-subject-theme-0128.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-text-subject-0129",
+      "path": "prompts/meme/meme-the-text-subject-0129.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-cc75fa5310-0221",
+      "path": "prompts/3d_concept/3d_concept-cc75fa5310-0221.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-text-argument-name-0206",
+      "path": "prompts/graphic/graphic-text-argument-name-0206.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "meme-count-title-position-0001",
+      "path": "prompts/meme/meme-count-title-position-0001.md",
+      "score": 31,
+      "quality": "B"
+    }
+  ]
+}

@@ -3,7 +3,7 @@ id: illustration-2txqbv9yes-0234
 title: "西游记史诗海报"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩", "国风", "海报", "西游记", "孙悟空", "宏大", "神圣", "怀旧"]
 recommended_models: []
 recommended_params:

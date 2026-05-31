@@ -3,7 +3,7 @@ id: meme-stamps-the-collectible-0068
 title: "复古邮票收藏版卡通女孩"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["Q版", "3D", "复古", "可爱", "治愈", "邮票", "卡通", "女生"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: graphic-uqyzxtd39k-0677
 title: "抖音AI搞笑梗图封面"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["抖音", "短视频", "封面", "AI", "梗图", "搞笑", "夸张", "整活"]
 recommended_models: []
 recommended_params:

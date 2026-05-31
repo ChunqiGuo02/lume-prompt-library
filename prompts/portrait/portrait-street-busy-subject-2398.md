@@ -3,7 +3,7 @@ id: portrait-street-busy-subject-2398
 title: "都市街拍时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["黑白", "街拍", "摄影", "时尚", "都市", "女士", "西装", "长裤"]
 recommended_models: 
   - banana-pro

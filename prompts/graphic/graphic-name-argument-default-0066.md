@@ -3,7 +3,7 @@ id: graphic-name-argument-default-0066
 title: "AI智能工作空间SaaS落地页"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["现代", "简约", "浅色", "渐变", "毛玻璃", "紫色", "AI", "办公"]
 recommended_models: []
 recommended_params:

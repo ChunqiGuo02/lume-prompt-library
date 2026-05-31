@@ -3,7 +3,7 @@ id: illustration-the-ink-figure-0029
 title: "传统水墨仕女画创作"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水墨画", "国画", "仕女", "团扇", "古风", "写意", "宣纸", "雅致"]
 recommended_models: 
   - banana-pro

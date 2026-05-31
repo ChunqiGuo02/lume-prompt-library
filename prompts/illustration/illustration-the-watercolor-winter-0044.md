@@ -3,7 +3,7 @@ id: illustration-the-watercolor-winter-0044
 title: "冬日水彩肖像：保留面部特征，营造静谧雪景氛围"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["水彩", "冬季", "肖像", "女性", "雪景", "热饮", "村庄", "迷雾"]
 recommended_models: 
   - banana-pro

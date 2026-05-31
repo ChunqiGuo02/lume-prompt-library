@@ -3,7 +3,7 @@ id: meme-every-known-meme-0021
 title: "“寻找乐趣”：当恶搞表情包（Memes）遇上“Nano Banana Pro”这款产品时……会发生什么？"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["找茬", "表情包", "海滩", "卡通", "密集", "恶搞", "趣味", "手绘"]
 recommended_models: 
   - banana-pro

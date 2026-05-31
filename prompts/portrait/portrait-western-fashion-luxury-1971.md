@@ -3,7 +3,7 @@ id: portrait-western-fashion-luxury-1971
 title: "纽约时代广场西部时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["写实", "时尚", "摄影", "都市", "夜晚", "西部", "女性", "模特"]
 recommended_models: 
   - banana-pro

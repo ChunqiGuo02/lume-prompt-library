@@ -3,7 +3,7 @@ id: meme-cgi-octane-0076
 title: "将表情包转为超现实图像"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["青蛙", "3D", "渲染", "逼真", "写实", "绿色", "梗图", "纹理"]
 recommended_models: 
   - banana-pro

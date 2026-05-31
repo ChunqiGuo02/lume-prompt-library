@@ -3,7 +3,7 @@ id: meme-the-character-hair-0081
 title: "情绪发型背景一键变换预设"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["写实", "人像", "表情", "发型", "情绪", "氛围", "色彩", "光影"]
 recommended_models: 
   - banana-pro

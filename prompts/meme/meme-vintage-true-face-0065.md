@@ -3,7 +3,7 @@ id: meme-vintage-true-face-0065
 title: "复古暖棕六格证件照"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: meme-pop-funny
 tags: ["复古", "暖色调", "棕褐色", "女生", "肖像", "皇冠", "拼贴", "六格"]
 recommended_models: 
   - banana-pro

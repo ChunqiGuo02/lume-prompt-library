@@ -3,7 +3,7 @@ id: illustration-task-notebook-speech-0116
 title: "手绘涂鸦风格肖像生成"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["肖像", "涂鸦", "速写", "手绘", "笔记本", "撞色", "霓虹", "波普"]
 recommended_models: 
   - banana-pro

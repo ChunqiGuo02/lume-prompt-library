@@ -3,7 +3,7 @@ id: graphic-microsoft365-gemini-0190
 title: "Gemini 3：智能新时代四"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["扁平", "简约", "科技", "蓝色", "智能", "办公", "交互", "三维"]
 recommended_models: 
   - banana-pro

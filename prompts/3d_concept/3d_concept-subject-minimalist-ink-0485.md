@@ -3,7 +3,7 @@ id: 3d_concept-subject-minimalist-ink-0485
 title: "极简墨线速写：动态主体的现代插画风格"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["速写", "手绘", "墨水", "简约", "动态", "运动", "跑步", "黑白"]
 recommended_models: 
   - banana-pro

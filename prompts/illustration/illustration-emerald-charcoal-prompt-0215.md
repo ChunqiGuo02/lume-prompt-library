@@ -3,7 +3,7 @@ id: illustration-emerald-charcoal-prompt-0215
 title: "绿黑风格肖像插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["肖像", "绿色", "黑色", "写实", "墨镜", "男性", "纹样", "几何"]
 recommended_models: 
   - banana-pro

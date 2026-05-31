@@ -3,7 +3,7 @@ id: 3d_concept-something-make-this-0082
 title: "中世纪城堡内部结构与功能详解图"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["手绘", "水彩", "中世纪", "城堡", "剖面", "建筑", "插画", "骑士"]
 recommended_models: 
   - banana-pro

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T09:19:18.301Z",
-  "ds_count": 16,
+  "generated_at": "2026-05-31T09:32:54.072Z",
+  "ds_count": 20,
   "summary": {
     "warm-cinematic-portrait": {
       "matched": 50,
@@ -1430,6 +1430,386 @@
         },
         {
           "tag": "灰色",
+          "count": 1
+        }
+      ]
+    },
+    "flat-illustration": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "简约",
+          "count": 27
+        },
+        {
+          "tag": "现代",
+          "count": 22
+        },
+        {
+          "tag": "插画",
+          "count": 12
+        },
+        {
+          "tag": "暖色调",
+          "count": 10
+        },
+        {
+          "tag": "几何",
+          "count": 6
+        },
+        {
+          "tag": "科技",
+          "count": 6
+        },
+        {
+          "tag": "矢量",
+          "count": 5
+        },
+        {
+          "tag": "极简",
+          "count": 5
+        },
+        {
+          "tag": "扁平化",
+          "count": 5
+        },
+        {
+          "tag": "AI",
+          "count": 5
+        }
+      ],
+      "color": [
+        {
+          "tag": "暖色调",
+          "count": 10
+        },
+        {
+          "tag": "黑白",
+          "count": 4
+        },
+        {
+          "tag": "黄色",
+          "count": 4
+        },
+        {
+          "tag": "蓝色",
+          "count": 4
+        },
+        {
+          "tag": "黑色",
+          "count": 3
+        },
+        {
+          "tag": "白色",
+          "count": 3
+        },
+        {
+          "tag": "紫色",
+          "count": 2
+        },
+        {
+          "tag": "霓虹",
+          "count": 1
+        },
+        {
+          "tag": "绿色",
+          "count": 1
+        },
+        {
+          "tag": "红色",
+          "count": 1
+        }
+      ]
+    },
+    "watercolor-illustration": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "手绘",
+          "count": 29
+        },
+        {
+          "tag": "水彩",
+          "count": 20
+        },
+        {
+          "tag": "插画",
+          "count": 14
+        },
+        {
+          "tag": "水墨",
+          "count": 9
+        },
+        {
+          "tag": "女性",
+          "count": 9
+        },
+        {
+          "tag": "肖像",
+          "count": 8
+        },
+        {
+          "tag": "国风",
+          "count": 8
+        },
+        {
+          "tag": "国画",
+          "count": 6
+        },
+        {
+          "tag": "暖色调",
+          "count": 6
+        },
+        {
+          "tag": "黑白",
+          "count": 6
+        }
+      ],
+      "color": [
+        {
+          "tag": "暖色调",
+          "count": 6
+        },
+        {
+          "tag": "黑白",
+          "count": 6
+        },
+        {
+          "tag": "蓝色",
+          "count": 4
+        },
+        {
+          "tag": "绿色",
+          "count": 3
+        },
+        {
+          "tag": "红色",
+          "count": 3
+        },
+        {
+          "tag": "黄色",
+          "count": 3
+        },
+        {
+          "tag": "复古",
+          "count": 2
+        },
+        {
+          "tag": "黑色",
+          "count": 1
+        },
+        {
+          "tag": "粉色",
+          "count": 1
+        },
+        {
+          "tag": "金色",
+          "count": 1
+        },
+        {
+          "tag": "霓虹",
+          "count": 1
+        },
+        {
+          "tag": "白色",
+          "count": 1
+        }
+      ]
+    },
+    "meme-pop-funny": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "可爱",
+          "count": 15
+        },
+        {
+          "tag": "卡通",
+          "count": 12
+        },
+        {
+          "tag": "Q版",
+          "count": 10
+        },
+        {
+          "tag": "贴纸",
+          "count": 9
+        },
+        {
+          "tag": "九宫格",
+          "count": 9
+        },
+        {
+          "tag": "人像",
+          "count": 9
+        },
+        {
+          "tag": "写实",
+          "count": 8
+        },
+        {
+          "tag": "表情包",
+          "count": 7
+        },
+        {
+          "tag": "搞笑",
+          "count": 7
+        },
+        {
+          "tag": "简约",
+          "count": 7
+        }
+      ],
+      "color": [
+        {
+          "tag": "复古",
+          "count": 6
+        },
+        {
+          "tag": "暖色调",
+          "count": 6
+        },
+        {
+          "tag": "红色",
+          "count": 4
+        },
+        {
+          "tag": "胶片",
+          "count": 3
+        },
+        {
+          "tag": "黑白",
+          "count": 2
+        },
+        {
+          "tag": "绿色",
+          "count": 1
+        },
+        {
+          "tag": "灰色",
+          "count": 1
+        },
+        {
+          "tag": "粉色",
+          "count": 1
+        },
+        {
+          "tag": "蓝色",
+          "count": 1
+        },
+        {
+          "tag": "白色",
+          "count": 1
+        }
+      ]
+    },
+    "editorial-fashion-shoot": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "时尚",
+          "count": 37
+        },
+        {
+          "tag": "女性",
+          "count": 11
+        },
+        {
+          "tag": "摄影",
+          "count": 8
+        },
+        {
+          "tag": "奢华",
+          "count": 8
+        },
+        {
+          "tag": "写真",
+          "count": 7
+        },
+        {
+          "tag": "户外",
+          "count": 6
+        },
+        {
+          "tag": "人像",
+          "count": 6
+        },
+        {
+          "tag": "写实",
+          "count": 6
+        },
+        {
+          "tag": "肖像",
+          "count": 6
+        },
+        {
+          "tag": "黑白",
+          "count": 6
+        }
+      ],
+      "color": [
+        {
+          "tag": "黑白",
+          "count": 6
+        },
+        {
+          "tag": "复古",
+          "count": 5
+        },
+        {
+          "tag": "黑色",
+          "count": 4
+        },
+        {
+          "tag": "红色",
+          "count": 4
+        },
+        {
+          "tag": "白色",
+          "count": 4
+        },
+        {
+          "tag": "灰色",
+          "count": 3
+        },
+        {
+          "tag": "金色",
+          "count": 3
+        },
+        {
+          "tag": "粉色",
+          "count": 3
+        },
+        {
+          "tag": "胶片",
+          "count": 2
+        },
+        {
+          "tag": "暖光",
+          "count": 2
+        },
+        {
+          "tag": "棕色",
+          "count": 2
+        },
+        {
+          "tag": "蓝色",
+          "count": 2
+        },
+        {
+          "tag": "暖色调",
+          "count": 1
+        },
+        {
+          "tag": "银色",
+          "count": 1
+        },
+        {
+          "tag": "黄色",
+          "count": 1
+        },
+        {
+          "tag": "暖调",
           "count": 1
         }
       ]

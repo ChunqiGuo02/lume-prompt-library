@@ -3,7 +3,7 @@ id: illustration-watercolor-wildlife-the-0157
 title: "水彩野生动物肖像创作"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: watercolor-illustration
 tags: ["大象", "动物", "水彩", "蓝色", "金色", "泼墨", "手绘", "艺术"]
 recommended_models: 
   - banana-pro

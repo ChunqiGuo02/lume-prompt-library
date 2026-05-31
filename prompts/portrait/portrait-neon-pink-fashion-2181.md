@@ -3,7 +3,7 @@ id: portrait-neon-pink-fashion-2181
 title: "赛博朋克霓虹时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["赛博朋克", "超写实", "夜景", "雨天", "都市", "粉色", "金属", "霓虹灯"]
 recommended_models: 
   - banana-pro

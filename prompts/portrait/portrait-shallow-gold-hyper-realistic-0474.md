@@ -3,7 +3,7 @@ id: portrait-shallow-gold-hyper-realistic-0474
 title: "古罗马浴场中的冷艳时尚大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: editorial-fashion-shoot
 tags: ["超写实", "时尚", "摄影", "古罗马", "浴池", "浅水", "金色", "冷艳"]
 recommended_models: 
   - banana-pro

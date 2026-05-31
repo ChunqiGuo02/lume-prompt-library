@@ -3,7 +3,7 @@ id: illustration-the-bridge-traditional-0180
 title: "现代芝加哥河滨清明上河图风格手卷"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["国画", "工笔", "古色调", "现代", "都市", "繁华", "桥梁", "车流"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-face-type-body-0132
 title: "写实肖像配几何风格壁画"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: flat-illustration
 tags: ["男性", "肖像", "写实", "黑白", "线条", "极简", "现代", "衬衫"]
 recommended_models: 
   - banana-pro
