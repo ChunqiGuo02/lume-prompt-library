@@ -3,7 +3,7 @@ id: portrait-r1b4hwib9m-1581
 title: "温馨家居中穿可爱睡衣的俏皮女孩"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["少女", "家居", "慵懒", "粉色", "毛绒", "阳光", "温馨", "日系"]
 recommended_models: 
   - banana-pro

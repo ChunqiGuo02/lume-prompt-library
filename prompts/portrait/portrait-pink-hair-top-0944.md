@@ -3,7 +3,7 @@ id: portrait-pink-hair-top-0944
 title: "少女卧室镜前自拍，粉上衣白短裙配耳机，俏皮眨眼微笑"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["写实", "少女", "耳机", "手机", "粉色", "白色", "发饰", "卧室"]
 recommended_models: 
   - banana-pro

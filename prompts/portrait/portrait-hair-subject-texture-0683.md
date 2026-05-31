@@ -3,7 +3,7 @@ id: portrait-hair-subject-texture-0683
 title: "复古街拍：粉裙少女倚靠经典敞篷车"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["模特", "粉色", "珍珠", "缎面", "复古", "汽车", "敞篷", "街拍"]
 recommended_models: 
   - banana-pro

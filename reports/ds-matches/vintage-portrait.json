@@ -1,0 +1,605 @@
+{
+  "ds_slug": "vintage-portrait",
+  "ds_label": "复古胶片人像",
+  "matched_total": 50,
+  "candidate_pool": 155,
+  "top_tags": [
+    {
+      "tag": "复古",
+      "count": 46
+    },
+    {
+      "tag": "胶片",
+      "count": 36
+    },
+    {
+      "tag": "怀旧",
+      "count": 32
+    },
+    {
+      "tag": "暖色调",
+      "count": 17
+    },
+    {
+      "tag": "人像",
+      "count": 8
+    },
+    {
+      "tag": "女性",
+      "count": 8
+    },
+    {
+      "tag": "闪光灯",
+      "count": 8
+    },
+    {
+      "tag": "九十年代",
+      "count": 7
+    },
+    {
+      "tag": "肖像",
+      "count": 7
+    },
+    {
+      "tag": "少女",
+      "count": 7
+    },
+    {
+      "tag": "卧室",
+      "count": 6
+    },
+    {
+      "tag": "室内",
+      "count": 5
+    },
+    {
+      "tag": "颗粒感",
+      "count": 4
+    },
+    {
+      "tag": "胶片感",
+      "count": 4
+    },
+    {
+      "tag": "忧郁",
+      "count": 4
+    },
+    {
+      "tag": "派对",
+      "count": 4
+    },
+    {
+      "tag": "抓拍",
+      "count": 4
+    },
+    {
+      "tag": "八十年代",
+      "count": 3
+    },
+    {
+      "tag": "户外",
+      "count": 3
+    },
+    {
+      "tag": "夏日",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "复古",
+      "count": 46
+    },
+    {
+      "tag": "胶片",
+      "count": 36
+    },
+    {
+      "tag": "暖色调",
+      "count": 17
+    },
+    {
+      "tag": "黑白",
+      "count": 3
+    },
+    {
+      "tag": "暖调",
+      "count": 3
+    },
+    {
+      "tag": "暖光",
+      "count": 2
+    },
+    {
+      "tag": "蓝色",
+      "count": 1
+    },
+    {
+      "tag": "红色",
+      "count": 1
+    },
+    {
+      "tag": "绿色",
+      "count": 1
+    },
+    {
+      "tag": "黑色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "人像",
+      "count": 8
+    },
+    {
+      "tag": "女性",
+      "count": 8
+    },
+    {
+      "tag": "肖像",
+      "count": 7
+    },
+    {
+      "tag": "少女",
+      "count": 7
+    },
+    {
+      "tag": "室内",
+      "count": 5
+    },
+    {
+      "tag": "户外",
+      "count": 3
+    },
+    {
+      "tag": "自拍",
+      "count": 3
+    },
+    {
+      "tag": "时尚",
+      "count": 2
+    },
+    {
+      "tag": "夜景",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 39,
+    "B": 11,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "portrait-the-his-slightly-0645",
+      "title": "复古氛围：90年代风格的复兴",
+      "path": "prompts/portrait/portrait-the-his-slightly-0645.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "复古",
+        "胶片",
+        "颗粒",
+        "怀旧",
+        "90年代"
+      ]
+    },
+    {
+      "id": "portrait-the-family-tones-0030",
+      "title": "80年代印尼家庭厨房写真：复古细节与怀旧氛围",
+      "path": "prompts/portrait/portrait-the-family-tones-0030.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "复古",
+        "胶片",
+        "怀旧",
+        "80年代"
+      ]
+    },
+    {
+      "id": "portrait-grain-dynamic-tree-0034",
+      "title": "90年代复古冬日森林人像",
+      "path": "prompts/portrait/portrait-grain-dynamic-tree-0034.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "复古",
+        "胶片",
+        "怀旧",
+        "90年代"
+      ]
+    },
+    {
+      "id": "portrait-the-flash-type-0039",
+      "title": "90年代复古胶片风夜景写真：深红蕾丝裙女子坐沙发凝视镜头",
+      "path": "prompts/portrait/portrait-the-flash-type-0039.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "复古",
+        "胶片",
+        "颗粒",
+        "90年代"
+      ]
+    },
+    {
+      "id": "portrait-front-facing-indoor-stylish-0043",
+      "title": "90年代时尚人像摄影风格写真",
+      "path": "prompts/portrait/portrait-front-facing-indoor-stylish-0043.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "复古",
+        "胶片",
+        "怀旧",
+        "90年代"
+      ]
+    },
+    {
+      "id": "portrait-the-subject-her-0044",
+      "title": "90年代游戏少女写真",
+      "path": "prompts/portrait/portrait-the-subject-her-0044.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "复古",
+        "胶片",
+        "怀旧",
+        "90年代"
+      ]
+    },
+    {
+      "id": "portrait-the-her-flash-0054",
+      "title": "90年代风格闪光灯下的居酒屋少女",
+      "path": "prompts/portrait/portrait-the-her-flash-0054.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "复古",
+        "胶片",
+        "怀旧",
+        "90年代"
+      ]
+    },
+    {
+      "id": "portrait-skin-vintage-suitcase-0008",
+      "title": "2016波西米亚风卧室梦幻人像写真",
+      "path": "prompts/portrait/portrait-skin-vintage-suitcase-0008.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "复古",
+        "胶片",
+        "怀旧"
+      ]
+    },
+    {
+      "id": "portrait-the-candid-balloons-0021",
+      "title": "2026派对写真：Petra Collins风格胶片感 ca",
+      "path": "prompts/portrait/portrait-the-candid-balloons-0021.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "复古",
+        "胶片",
+        "怀旧"
+      ]
+    },
+    {
+      "id": "portrait-the-hair-her-0033",
+      "title": "80年代夏日闺蜜草地怀旧写真",
+      "path": "prompts/portrait/portrait-the-hair-her-0033.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "复古",
+        "怀旧",
+        "80年代"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "portrait-the-his-slightly-0645",
+      "path": "prompts/portrait/portrait-the-his-slightly-0645.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-family-tones-0030",
+      "path": "prompts/portrait/portrait-the-family-tones-0030.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-grain-dynamic-tree-0034",
+      "path": "prompts/portrait/portrait-grain-dynamic-tree-0034.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-flash-type-0039",
+      "path": "prompts/portrait/portrait-the-flash-type-0039.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-front-facing-indoor-stylish-0043",
+      "path": "prompts/portrait/portrait-front-facing-indoor-stylish-0043.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-subject-her-0044",
+      "path": "prompts/portrait/portrait-the-subject-her-0044.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-flash-0054",
+      "path": "prompts/portrait/portrait-the-her-flash-0054.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-skin-vintage-suitcase-0008",
+      "path": "prompts/portrait/portrait-skin-vintage-suitcase-0008.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-candid-balloons-0021",
+      "path": "prompts/portrait/portrait-the-candid-balloons-0021.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-hair-her-0033",
+      "path": "prompts/portrait/portrait-the-hair-her-0033.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-red-prompt-0037",
+      "path": "prompts/portrait/portrait-the-red-prompt-0037.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-panel-female-editorial-0038",
+      "path": "prompts/portrait/portrait-panel-female-editorial-0038.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-features-0040",
+      "path": "prompts/portrait/portrait-the-her-features-0040.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-she-analogue-0041",
+      "path": "prompts/portrait/portrait-the-she-analogue-0041.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-posters-band-type-0046",
+      "path": "prompts/portrait/portrait-posters-band-type-0046.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-motion-0181",
+      "path": "prompts/portrait/portrait-the-her-motion-0181.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-she-0329",
+      "path": "prompts/portrait/portrait-the-her-she-0329.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-she-subway-fashion-0592",
+      "path": "prompts/portrait/portrait-she-subway-fashion-0592.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-subject-the-true-0619",
+      "path": "prompts/portrait/portrait-subject-the-true-0619.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-skin-hair-subtle-0622",
+      "path": "prompts/portrait/portrait-skin-hair-subtle-0622.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-her-the-editorial-0623",
+      "path": "prompts/portrait/portrait-her-the-editorial-0623.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-subject-that-0650",
+      "path": "prompts/portrait/portrait-the-subject-that-0650.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-flash-digital-0660",
+      "path": "prompts/portrait/portrait-the-flash-digital-0660.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-court-model-stretching-0664",
+      "path": "prompts/portrait/portrait-court-model-stretching-0664.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-slightly-her-0668",
+      "path": "prompts/portrait/portrait-the-slightly-her-0668.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-use-she-0670",
+      "path": "prompts/portrait/portrait-the-use-she-0670.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-film-flash-0671",
+      "path": "prompts/portrait/portrait-the-film-flash-0671.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-she-vintage-film-0673",
+      "path": "prompts/portrait/portrait-she-vintage-film-0673.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-top-film-0681",
+      "path": "prompts/portrait/portrait-the-top-film-0681.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-film-kodak-portra-0682",
+      "path": "prompts/portrait/portrait-film-kodak-portra-0682.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-japanese-bar-1291",
+      "path": "prompts/portrait/portrait-the-japanese-bar-1291.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-film-1605",
+      "path": "prompts/portrait/portrait-the-her-film-1605.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-medium-type-1773",
+      "path": "prompts/portrait/portrait-the-medium-type-1773.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-her-dark-flash-0004",
+      "path": "prompts/portrait/portrait-her-dark-flash-0004.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-the-polaroid-aspect-0036",
+      "path": "prompts/portrait/portrait-the-polaroid-aspect-0036.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-her-prompt-for-0042",
+      "path": "prompts/portrait/portrait-her-prompt-for-0042.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-the-dark-eyes-0048",
+      "path": "prompts/portrait/portrait-the-dark-eyes-0048.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-her-dark-changing-0053",
+      "path": "prompts/portrait/portrait-her-dark-changing-0053.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-hong-kong-face-0055",
+      "path": "prompts/portrait/portrait-hong-kong-face-0055.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-her-she-film-0669",
+      "path": "prompts/portrait/portrait-her-she-film-0669.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-the-arcade-dark-0685",
+      "path": "prompts/portrait/portrait-the-arcade-dark-0685.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-vip-ufo-led-1015",
+      "path": "prompts/portrait/portrait-vip-ufo-led-1015.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-window-japanese-negative-1177",
+      "path": "prompts/portrait/portrait-window-japanese-negative-1177.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-self-faces-create-1450",
+      "path": "prompts/portrait/portrait-self-faces-create-1450.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-the-slightly-dark-0003",
+      "path": "prompts/portrait/portrait-the-slightly-dark-0003.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-eos-kiss-0005",
+      "path": "prompts/portrait/portrait-eos-kiss-0005.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-selfie-mirror-type-0006",
+      "path": "prompts/portrait/portrait-selfie-mirror-type-0006.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-retro-material-brown-0028",
+      "path": "prompts/portrait/portrait-retro-material-brown-0028.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-her-premium-green-0029",
+      "path": "prompts/portrait/portrait-her-premium-green-0029.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-candid-flash-techno-0031",
+      "path": "prompts/portrait/portrait-candid-flash-techno-0031.md",
+      "score": 22,
+      "quality": "A"
+    }
+  ]
+}

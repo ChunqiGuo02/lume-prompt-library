@@ -3,7 +3,7 @@ id: portrait-idol-sparkly-hair-1119
 title: "握着复古银色麦克风女生"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["粉色", "偶像", "韩流", "可爱", "甜美", "麦克风", "格纹", "百褶裙"]
 recommended_models: 
   - banana-pro

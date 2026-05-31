@@ -3,7 +3,7 @@ id: portrait-the-flash-night-0776
 title: "夜景闪光自拍美颜人像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["肖像", "少女", "夜晚", "城市", "直闪", "摄影", "网红风", "浅景深"]
 recommended_models: 
   - banana-pro

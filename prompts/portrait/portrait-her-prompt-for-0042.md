@@ -3,7 +3,7 @@ id: portrait-her-prompt-for-0042
 title: "90年代怀旧少女卧室写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "九十年代", "卧室", "少女", "暖色调", "怀旧", "静谧", "拍立得"]
 recommended_models: 
   - banana-pro

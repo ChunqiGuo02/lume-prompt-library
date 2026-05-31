@@ -3,7 +3,7 @@ id: portrait-6fumz5dmkv-1229
 title: "时尚杂志封面定制"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["杂志", "封面", "时尚", "少女", "可爱", "小熊", "蕾丝", "绿色"]
 recommended_models: 
   - banana-pro

@@ -1,0 +1,629 @@
+{
+  "ds_slug": "street-style-portrait",
+  "ds_label": "街头风人像",
+  "matched_total": 50,
+  "candidate_pool": 351,
+  "top_tags": [
+    {
+      "tag": "夜景",
+      "count": 26
+    },
+    {
+      "tag": "都市",
+      "count": 20
+    },
+    {
+      "tag": "街头",
+      "count": 19
+    },
+    {
+      "tag": "街拍",
+      "count": 18
+    },
+    {
+      "tag": "城市",
+      "count": 17
+    },
+    {
+      "tag": "女性",
+      "count": 16
+    },
+    {
+      "tag": "人像",
+      "count": 11
+    },
+    {
+      "tag": "霓虹",
+      "count": 10
+    },
+    {
+      "tag": "写实",
+      "count": 9
+    },
+    {
+      "tag": "夜晚",
+      "count": 9
+    },
+    {
+      "tag": "电影感",
+      "count": 6
+    },
+    {
+      "tag": "自拍",
+      "count": 6
+    },
+    {
+      "tag": "街景",
+      "count": 6
+    },
+    {
+      "tag": "黑色",
+      "count": 6
+    },
+    {
+      "tag": "休闲",
+      "count": 5
+    },
+    {
+      "tag": "少女",
+      "count": 5
+    },
+    {
+      "tag": "复古",
+      "count": 5
+    },
+    {
+      "tag": "浅景深",
+      "count": 4
+    },
+    {
+      "tag": "随性",
+      "count": 4
+    },
+    {
+      "tag": "皮衣",
+      "count": 4
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "霓虹",
+      "count": 10
+    },
+    {
+      "tag": "黑色",
+      "count": 6
+    },
+    {
+      "tag": "复古",
+      "count": 5
+    },
+    {
+      "tag": "胶片",
+      "count": 4
+    },
+    {
+      "tag": "红色",
+      "count": 3
+    },
+    {
+      "tag": "白色",
+      "count": 2
+    },
+    {
+      "tag": "黑白",
+      "count": 1
+    },
+    {
+      "tag": "暖光",
+      "count": 1
+    },
+    {
+      "tag": "蓝色",
+      "count": 1
+    },
+    {
+      "tag": "银色",
+      "count": 1
+    },
+    {
+      "tag": "灰色",
+      "count": 1
+    },
+    {
+      "tag": "绿色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "夜景",
+      "count": 26
+    },
+    {
+      "tag": "街头",
+      "count": 19
+    },
+    {
+      "tag": "城市",
+      "count": 17
+    },
+    {
+      "tag": "女性",
+      "count": 16
+    },
+    {
+      "tag": "人像",
+      "count": 11
+    },
+    {
+      "tag": "自拍",
+      "count": 6
+    },
+    {
+      "tag": "少女",
+      "count": 5
+    },
+    {
+      "tag": "时尚",
+      "count": 4
+    },
+    {
+      "tag": "肖像",
+      "count": 4
+    },
+    {
+      "tag": "男性",
+      "count": 3
+    },
+    {
+      "tag": "建筑",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 44,
+    "B": 6,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "portrait-city-candid-subject-0610",
+      "title": "城市街头纪实：女子转身回眸的瞬间捕捉",
+      "path": "prompts/portrait/portrait-city-candid-subject-0610.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "街头",
+        "城市",
+        "纪实",
+        "都市",
+        "街拍"
+      ]
+    },
+    {
+      "id": "portrait-the-subject-face-2370",
+      "title": "都市少女自拍镜像，慵懒街头风写真",
+      "path": "prompts/portrait/portrait-the-subject-face-2370.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "街头",
+        "城市",
+        "都市",
+        "街拍",
+        "自拍"
+      ]
+    },
+    {
+      "id": "portrait-street-city-night-2589",
+      "title": "雨夜霓虹街头的电影感 candid 瞬间",
+      "path": "prompts/portrait/portrait-street-city-night-2589.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "街头",
+        "城市",
+        "街拍",
+        "霓虹",
+        "夜景"
+      ]
+    },
+    {
+      "id": "portrait-the-mirror-red-0402",
+      "title": "凸面镜夜景自拍",
+      "path": "prompts/portrait/portrait-the-mirror-red-0402.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "街头",
+        "都市",
+        "霓虹",
+        "夜景",
+        "自拍"
+      ]
+    },
+    {
+      "id": "portrait-the-she-candid-0605",
+      "title": "城市夜景街头人像",
+      "path": "prompts/portrait/portrait-the-she-candid-0605.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "街头",
+        "城市",
+        "都市",
+        "街拍",
+        "夜景"
+      ]
+    },
+    {
+      "id": "portrait-7q8siz9dw3-0770",
+      "title": "夜景街头时尚写真构图优化",
+      "path": "prompts/portrait/portrait-7q8siz9dw3-0770.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "街头",
+        "都市",
+        "街拍",
+        "霓虹",
+        "夜景"
+      ]
+    },
+    {
+      "id": "portrait-the-night-her-0344",
+      "title": "冬夜街拍美女写真",
+      "path": "prompts/portrait/portrait-the-night-her-0344.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "街头",
+        "街拍",
+        "霓虹",
+        "夜景"
+      ]
+    },
+    {
+      "id": "portrait-city-lights-street-0603",
+      "title": "城市夜景亚裔美女街拍写实生成",
+      "path": "prompts/portrait/portrait-city-lights-street-0603.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "城市",
+        "都市",
+        "街拍",
+        "夜景"
+      ]
+    },
+    {
+      "id": "portrait-the-face-subject-0753",
+      "title": "夜拍摩托男，真实街景人像替换",
+      "path": "prompts/portrait/portrait-the-face-subject-0753.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "街头",
+        "城市",
+        "街拍",
+        "街景"
+      ]
+    },
+    {
+      "id": "portrait-the-night-urban-0768",
+      "title": "夜景自拍人像生成提示",
+      "path": "prompts/portrait/portrait-the-night-urban-0768.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "街头",
+        "城市",
+        "夜景",
+        "自拍"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "portrait-city-candid-subject-0610",
+      "path": "prompts/portrait/portrait-city-candid-subject-0610.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-subject-face-2370",
+      "path": "prompts/portrait/portrait-the-subject-face-2370.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-street-city-night-2589",
+      "path": "prompts/portrait/portrait-street-city-night-2589.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-mirror-red-0402",
+      "path": "prompts/portrait/portrait-the-mirror-red-0402.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-the-she-candid-0605",
+      "path": "prompts/portrait/portrait-the-she-candid-0605.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-7q8siz9dw3-0770",
+      "path": "prompts/portrait/portrait-7q8siz9dw3-0770.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-the-night-her-0344",
+      "path": "prompts/portrait/portrait-the-night-her-0344.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-city-lights-street-0603",
+      "path": "prompts/portrait/portrait-city-lights-street-0603.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-face-subject-0753",
+      "path": "prompts/portrait/portrait-the-face-subject-0753.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-night-urban-0768",
+      "path": "prompts/portrait/portrait-the-night-urban-0768.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-prompt-face-0775",
+      "path": "prompts/portrait/portrait-the-prompt-face-0775.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-influencer-coffee-heavy-1918",
+      "path": "prompts/portrait/portrait-influencer-coffee-heavy-1918.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-face-street-low-1972",
+      "path": "prompts/portrait/portrait-face-street-low-1972.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-hair-2176",
+      "path": "prompts/portrait/portrait-the-her-hair-2176.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-skin-real-early-2227",
+      "path": "prompts/portrait/portrait-skin-real-early-2227.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-winter-his-bokeh-2355",
+      "path": "prompts/portrait/portrait-winter-his-bokeh-2355.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-city-lights-car-2356",
+      "path": "prompts/portrait/portrait-city-lights-car-2356.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-street-urban-nighttime-2358",
+      "path": "prompts/portrait/portrait-street-urban-nighttime-2358.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-street-urban-2364",
+      "path": "prompts/portrait/portrait-the-street-urban-2364.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-his-slightly-2366",
+      "path": "prompts/portrait/portrait-the-his-slightly-2366.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-subject-motion-pose-2389",
+      "path": "prompts/portrait/portrait-subject-motion-pose-2389.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-street-busy-subject-2391",
+      "path": "prompts/portrait/portrait-street-busy-subject-2391.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-subject-slightly-bokeh-2402",
+      "path": "prompts/portrait/portrait-subject-slightly-bokeh-2402.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-city-golden-the-2417",
+      "path": "prompts/portrait/portrait-city-golden-the-2417.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-street-face-2571",
+      "path": "prompts/portrait/portrait-the-street-face-2571.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-not-slightly-real-2574",
+      "path": "prompts/portrait/portrait-not-slightly-real-2574.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-exclusions-urban-interaction-2716",
+      "path": "prompts/portrait/portrait-exclusions-urban-interaction-2716.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-flash-back-nighttime-0606",
+      "path": "prompts/portrait/portrait-flash-back-nighttime-0606.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-the-mirror-red-0817",
+      "path": "prompts/portrait/portrait-the-mirror-red-0817.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-relaxed-street-short-2113",
+      "path": "prompts/portrait/portrait-relaxed-street-short-2113.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-her-third-focus-0082",
+      "path": "prompts/portrait/portrait-her-third-focus-0082.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-in-n-out-she-0111",
+      "path": "prompts/portrait/portrait-the-in-n-out-she-0111.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-top-street-0261",
+      "path": "prompts/portrait/portrait-the-top-street-0261.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-hand-wet-snow-0367",
+      "path": "prompts/portrait/portrait-hand-wet-snow-0367.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-panel-hoodie-0530",
+      "path": "prompts/portrait/portrait-the-panel-hoodie-0530.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-entrance-metro-candid-0589",
+      "path": "prompts/portrait/portrait-entrance-metro-candid-0589.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-stylish-can-the-0609",
+      "path": "prompts/portrait/portrait-stylish-can-the-0609.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-dress-panel-flash-0611",
+      "path": "prompts/portrait/portrait-dress-panel-flash-0611.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-back-early-2000s-jacket-0684",
+      "path": "prompts/portrait/portrait-back-early-2000s-jacket-0684.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-eyes-hair-night-0734",
+      "path": "prompts/portrait/portrait-eyes-hair-night-0734.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-slight-subject-deep-0765",
+      "path": "prompts/portrait/portrait-slight-subject-deep-0765.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-flash-night-0776",
+      "path": "prompts/portrait/portrait-the-flash-night-0776.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-top-sharp-street-0793",
+      "path": "prompts/portrait/portrait-top-sharp-street-0793.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-face-subject-0799",
+      "path": "prompts/portrait/portrait-the-face-subject-0799.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-subject-not-0800",
+      "path": "prompts/portrait/portrait-the-subject-not-0800.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-outfit-street-her-0801",
+      "path": "prompts/portrait/portrait-outfit-street-her-0801.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-street-skin-face-0803",
+      "path": "prompts/portrait/portrait-street-skin-face-0803.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-subject-silver-0807",
+      "path": "prompts/portrait/portrait-the-subject-silver-0807.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-street-the-she-0808",
+      "path": "prompts/portrait/portrait-street-the-she-0808.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-are-morning-1004",
+      "path": "prompts/portrait/portrait-the-are-morning-1004.md",
+      "score": 32,
+      "quality": "A"
+    }
+  ]
+}

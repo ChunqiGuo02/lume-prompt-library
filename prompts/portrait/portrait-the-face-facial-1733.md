@@ -3,7 +3,7 @@ id: portrait-the-face-facial-1733
 title: "电影感冷暖光影人像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["肖像", "女性", "黑发", "项链", "暖色调", "冷色调", "高对比", "电影感"]
 recommended_models: 
   - banana-pro

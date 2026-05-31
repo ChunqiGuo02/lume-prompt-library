@@ -3,7 +3,7 @@ id: portrait-self-faces-create-1450
 title: "母女温馨拥抱瞬间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["宝丽来", "复古", "胶片", "温馨", "治愈", "怀旧", "室内", "暖调"]
 recommended_models: 
   - banana-pro

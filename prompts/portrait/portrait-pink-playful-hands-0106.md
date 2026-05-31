@@ -3,7 +3,7 @@ id: portrait-pink-playful-hands-0106
 title: "Y2K甜酷少女坐拥豪车，粉红Hello Kitty穿搭闪耀棕"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["女性", "Y2K", "跑车", "粉色", "纹身", "夜晚", "肖像", "可爱"]
 recommended_models: 
   - banana-pro

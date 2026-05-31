@@ -3,7 +3,7 @@ id: portrait-front-facing-indoor-stylish-0043
 title: "90年代时尚人像摄影风格写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["室内", "人像", "男士", "复古", "怀旧", "暖色调", "浅景深", "胶片"]
 recommended_models: 
   - banana-pro

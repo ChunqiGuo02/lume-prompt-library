@@ -3,7 +3,7 @@ id: portrait-the-flash-type-0039
 title: "90年代复古胶片风夜景写真：深红蕾丝裙女子坐沙发凝视镜头"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["胶片", "颗粒感", "闪光灯", "九十年代", "女性", "盘发", "酒红", "蕾丝"]
 recommended_models: 
   - banana-pro

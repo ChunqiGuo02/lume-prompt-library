@@ -3,7 +3,7 @@ id: portrait-the-golden-his-2455
 title: "金色光影下的深邃肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["男士", "肖像", "特写", "暖色调", "暖光", "金色", "胡须", "棚拍"]
 recommended_models: 
   - banana-pro

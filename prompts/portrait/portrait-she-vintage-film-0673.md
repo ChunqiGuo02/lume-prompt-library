@@ -3,7 +3,7 @@ id: portrait-she-vintage-film-0673
 title: "复古胶片风女性肖像写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "怀旧", "胶片", "肖像", "女性", "沙发", "酒红", "长裙"]
 recommended_models: 
   - banana-pro

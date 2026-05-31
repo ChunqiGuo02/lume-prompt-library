@@ -3,7 +3,7 @@ id: portrait-pink-subject-left-0437
 title: "卧室自拍：粉色睡衣少女的惬意日常"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["卧室", "自然光", "休闲", "温馨", "居家", "自拍", "女生", "长发"]
 recommended_models: 
   - banana-pro

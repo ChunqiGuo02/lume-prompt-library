@@ -3,7 +3,7 @@ id: portrait-the-coat-subject-0358
 title: "冬日森林电影感肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["冬季", "肖像", "下雪", "森林", "逆光", "暖光", "冷色", "散景"]
 recommended_models: 
   - banana-pro

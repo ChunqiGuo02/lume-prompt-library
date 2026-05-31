@@ -3,7 +3,7 @@ id: portrait-the-his-slightly-2366
 title: "都市夜行时尚男模街拍写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["写实", "夜景", "城市", "男性", "电影感", "动感", "长曝光", "湿路"]
 recommended_models: 
   - banana-pro

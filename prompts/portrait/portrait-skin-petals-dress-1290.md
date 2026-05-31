@@ -3,7 +3,7 @@ id: portrait-skin-petals-dress-1290
 title: "春日花影下的诗意电影感人像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["特写", "人像", "女性", "暖色调", "鲜花", "绿瞳", "光影", "浪漫"]
 recommended_models: 
   - banana-pro

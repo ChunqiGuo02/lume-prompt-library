@@ -3,7 +3,7 @@ id: portrait-cosplay-comiket-coser-0410
 title: "动漫转真人Coser"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["漫展", "角色扮演", "少女", "二次元", "紫发", "麻花辫", "耳机", "工装裤"]
 recommended_models: 
   - banana-pro

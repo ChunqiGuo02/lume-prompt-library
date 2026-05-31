@@ -3,7 +3,7 @@ id: portrait-subject-slightly-bokeh-2402
 title: "都市街拍：浅焦镜头下的银发女子肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["街拍", "人像", "写实", "电影感", "浅景深", "散景", "城市", "街头"]
 recommended_models: 
   - banana-pro

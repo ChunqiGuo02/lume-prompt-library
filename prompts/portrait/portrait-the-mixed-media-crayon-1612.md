@@ -3,7 +3,7 @@ id: portrait-the-mixed-media-crayon-1612
 title: "潮流混媒艺术插画"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "潮流", "酷感", "杂志风", "街头", "人像", "配饰", "墨镜"]
 recommended_models: 
   - banana-pro

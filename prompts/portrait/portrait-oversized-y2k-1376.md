@@ -3,7 +3,7 @@ id: portrait-oversized-y2k-1376
 title: "极具时尚感和网络热门度的3x3九宫格拼贴照片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["刘亦菲", "九宫格", "拼贴", "时尚", "写真", "潮流", "高级感", "杂志风"]
 recommended_models: 
   - banana-pro

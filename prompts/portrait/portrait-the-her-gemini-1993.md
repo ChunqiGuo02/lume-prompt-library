@@ -3,7 +3,7 @@ id: portrait-the-her-gemini-1993
 title: "罗马街头敞篷车上的欢笑瞬间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["罗马", "黄昏", "美女", "暖色调", "复古", "街景", "电影感", "愉悦"]
 recommended_models: 
   - banana-pro

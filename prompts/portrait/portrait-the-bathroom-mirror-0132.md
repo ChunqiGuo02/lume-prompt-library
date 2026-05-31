@@ -3,7 +3,7 @@ id: portrait-the-bathroom-mirror-0132
 title: "“黄金时刻的魅力”——蒸汽中的剪影"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["女性", "浴室", "自拍", "暖色调", "蒸汽", "电影感", "氛围感", "卷发"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-skin-wet-0131
 title: "“黄金时刻的美丽”——一幅超写实的美丽肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["人像", "特写", "写实", "湿发", "水珠", "暖色调", "金色", "女性"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-skin-texture-flash-0112
 title: "Y2K风格情人节自拍：粉色心形床品与闪光灯下的自信少女"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["Y2K", "情人节", "粉色", "红色", "女生", "红发", "雀斑", "甜美"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-hand-wet-snow-0367
 title: "冬日街头女子写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["女性", "城市", "降雪", "酒红", "大衣", "建筑", "街景", "冷调"]
 recommended_models: 
   - banana-pro

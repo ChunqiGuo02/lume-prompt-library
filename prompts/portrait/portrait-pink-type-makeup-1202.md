@@ -3,7 +3,7 @@ id: portrait-pink-type-makeup-1202
 title: "时尚大片：吹泡泡糖的复古电视镜像造型"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["写实", "时尚", "黄色", "粉色", "泡泡糖", "复古", "电视", "女性"]
 recommended_models: 
   - banana-pro

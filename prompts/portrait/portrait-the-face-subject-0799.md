@@ -3,7 +3,7 @@ id: portrait-the-face-subject-0799
 title: "夜街抓拍：匆忙挥手的都市瞬间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜景", "人像", "抓拍", "街头", "东京", "暗调", "闪光灯", "动态"]
 recommended_models: 
   - banana-pro

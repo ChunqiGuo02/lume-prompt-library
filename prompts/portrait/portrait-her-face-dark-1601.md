@@ -3,7 +3,7 @@ id: portrait-her-face-dark-1601
 title: "湿发女子电影感肖像特写"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["人像", "暗调", "湿发", "水珠", "暖光", "逆光", "情绪", "胶片"]
 recommended_models: 
   - banana-pro

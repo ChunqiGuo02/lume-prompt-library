@@ -3,7 +3,7 @@ id: portrait-street-city-night-2589
 title: "雨夜霓虹街头的电影感 candid 瞬间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["电影感", "夜景", "城市", "雨天", "霓虹", "少女", "街拍", "氛围感"]
 recommended_models: 
   - banana-pro

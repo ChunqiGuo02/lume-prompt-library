@@ -3,7 +3,7 @@ id: portrait-influencer-coffee-heavy-1918
 title: "红发雀斑女性雨夜街头仰望，湿发白衬衫，都市夜景氛围感。"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["红发", "雨夜", "夜景", "人像", "湿发", "街景", "浅景深", "电影感"]
 recommended_models: 
   - banana-pro

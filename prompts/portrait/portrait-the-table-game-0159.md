@@ -3,7 +3,7 @@ id: portrait-the-table-game-0159
 title: "三友围桌玩桌游，暖光客厅猫伴眠"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["客厅", "朋友", "桌游", "午后", "温馨", "暖色调", "自然光", "猫咪"]
 recommended_models: 
   - banana-pro

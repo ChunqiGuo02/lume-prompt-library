@@ -3,7 +3,7 @@ id: portrait-winter-skin-outdoor-0363
 title: "冬日电影感肖像：雪中静谧女子"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["冬天", "女性", "肖像", "下雪", "黑色", "暖光", "虚化", "写实"]
 recommended_models: 
   - banana-pro

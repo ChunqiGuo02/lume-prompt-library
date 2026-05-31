@@ -1,0 +1,631 @@
+{
+  "ds_slug": "cute-girl-pastel",
+  "ds_label": "可爱少女粉调",
+  "matched_total": 50,
+  "candidate_pool": 133,
+  "top_tags": [
+    {
+      "tag": "粉色",
+      "count": 33
+    },
+    {
+      "tag": "可爱",
+      "count": 25
+    },
+    {
+      "tag": "少女",
+      "count": 17
+    },
+    {
+      "tag": "甜美",
+      "count": 11
+    },
+    {
+      "tag": "卧室",
+      "count": 10
+    },
+    {
+      "tag": "金发",
+      "count": 8
+    },
+    {
+      "tag": "自拍",
+      "count": 7
+    },
+    {
+      "tag": "肖像",
+      "count": 7
+    },
+    {
+      "tag": "毛绒",
+      "count": 6
+    },
+    {
+      "tag": "女性",
+      "count": 5
+    },
+    {
+      "tag": "女生",
+      "count": 5
+    },
+    {
+      "tag": "暖色调",
+      "count": 5
+    },
+    {
+      "tag": "日系",
+      "count": 5
+    },
+    {
+      "tag": "复古",
+      "count": 5
+    },
+    {
+      "tag": "写实",
+      "count": 5
+    },
+    {
+      "tag": "Y2K",
+      "count": 4
+    },
+    {
+      "tag": "夜晚",
+      "count": 4
+    },
+    {
+      "tag": "格纹",
+      "count": 4
+    },
+    {
+      "tag": "温馨",
+      "count": 4
+    },
+    {
+      "tag": "白色",
+      "count": 4
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "粉色",
+      "count": 33
+    },
+    {
+      "tag": "暖色调",
+      "count": 5
+    },
+    {
+      "tag": "复古",
+      "count": 5
+    },
+    {
+      "tag": "白色",
+      "count": 4
+    },
+    {
+      "tag": "金色",
+      "count": 3
+    },
+    {
+      "tag": "暖光",
+      "count": 3
+    },
+    {
+      "tag": "红色",
+      "count": 2
+    },
+    {
+      "tag": "紫色",
+      "count": 2
+    },
+    {
+      "tag": "蓝色",
+      "count": 2
+    },
+    {
+      "tag": "胶片",
+      "count": 2
+    },
+    {
+      "tag": "黑色",
+      "count": 2
+    },
+    {
+      "tag": "暖调",
+      "count": 1
+    },
+    {
+      "tag": "黄色",
+      "count": 1
+    },
+    {
+      "tag": "霓虹",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "可爱",
+      "count": 25
+    },
+    {
+      "tag": "少女",
+      "count": 17
+    },
+    {
+      "tag": "自拍",
+      "count": 7
+    },
+    {
+      "tag": "肖像",
+      "count": 7
+    },
+    {
+      "tag": "女性",
+      "count": 5
+    },
+    {
+      "tag": "人像",
+      "count": 2
+    },
+    {
+      "tag": "户外",
+      "count": 2
+    },
+    {
+      "tag": "二次元",
+      "count": 2
+    },
+    {
+      "tag": "夜景",
+      "count": 2
+    },
+    {
+      "tag": "时尚",
+      "count": 1
+    },
+    {
+      "tag": "Q版",
+      "count": 1
+    },
+    {
+      "tag": "城市",
+      "count": 1
+    },
+    {
+      "tag": "室内",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 43,
+    "B": 7,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "portrait-pink-selfie-face-1848",
+      "title": "粉嫩猫耳少女卧室自拍写真",
+      "path": "prompts/portrait/portrait-pink-selfie-face-1848.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "可爱",
+        "少女",
+        "粉色",
+        "粉嫩"
+      ]
+    },
+    {
+      "id": "portrait-hands-hair-fingers-1858",
+      "title": "粉色系少女祈祷手势肖像摄影提示词",
+      "path": "prompts/portrait/portrait-hands-hair-fingers-1858.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "可爱",
+        "少女",
+        "粉色",
+        "甜美"
+      ]
+    },
+    {
+      "id": "portrait-32e4s4gmc3-0009",
+      "title": "2026你好！甜美少女棚拍贺图",
+      "path": "prompts/portrait/portrait-32e4s4gmc3-0009.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "可爱",
+        "少女",
+        "甜美"
+      ]
+    },
+    {
+      "id": "portrait-pink-playful-hands-0106",
+      "title": "Y2K甜酷少女坐拥豪车，粉红Hello Kitty穿搭闪耀棕",
+      "path": "prompts/portrait/portrait-pink-playful-hands-0106.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "可爱",
+        "少女",
+        "粉色"
+      ]
+    },
+    {
+      "id": "portrait-skin-texture-flash-0112",
+      "title": "Y2K风格情人节自拍：粉色心形床品与闪光灯下的自信少女",
+      "path": "prompts/portrait/portrait-skin-texture-flash-0112.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "少女",
+        "粉色",
+        "甜美"
+      ]
+    },
+    {
+      "id": "portrait-cute-lens-hands-0480",
+      "title": "可爱偶像特写肖像",
+      "path": "prompts/portrait/portrait-cute-lens-hands-0480.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "可爱",
+        "少女",
+        "甜美"
+      ]
+    },
+    {
+      "id": "portrait-gamer-physics-rgb-0910",
+      "title": "奶牛少女镜前自拍写真",
+      "path": "prompts/portrait/portrait-gamer-physics-rgb-0910.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "可爱",
+        "少女",
+        "粉色"
+      ]
+    },
+    {
+      "id": "portrait-bed-the-pink-0947",
+      "title": "少女床榻写真：粉熊相伴，格裙俏皮，贝雷帽下温柔笑颜",
+      "path": "prompts/portrait/portrait-bed-the-pink-0947.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "少女",
+        "粉色",
+        "甜美"
+      ]
+    },
+    {
+      "id": "portrait-the-pink-colorful-1040",
+      "title": "彩色阁楼少女写真",
+      "path": "prompts/portrait/portrait-the-pink-colorful-1040.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "可爱",
+        "少女",
+        "粉色"
+      ]
+    },
+    {
+      "id": "portrait-idol-sparkly-hair-1119",
+      "title": "握着复古银色麦克风女生",
+      "path": "prompts/portrait/portrait-idol-sparkly-hair-1119.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "可爱",
+        "粉色",
+        "甜美"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "portrait-pink-selfie-face-1848",
+      "path": "prompts/portrait/portrait-pink-selfie-face-1848.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-hands-hair-fingers-1858",
+      "path": "prompts/portrait/portrait-hands-hair-fingers-1858.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-32e4s4gmc3-0009",
+      "path": "prompts/portrait/portrait-32e4s4gmc3-0009.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-pink-playful-hands-0106",
+      "path": "prompts/portrait/portrait-pink-playful-hands-0106.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-skin-texture-flash-0112",
+      "path": "prompts/portrait/portrait-skin-texture-flash-0112.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-cute-lens-hands-0480",
+      "path": "prompts/portrait/portrait-cute-lens-hands-0480.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-gamer-physics-rgb-0910",
+      "path": "prompts/portrait/portrait-gamer-physics-rgb-0910.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-bed-the-pink-0947",
+      "path": "prompts/portrait/portrait-bed-the-pink-0947.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-pink-colorful-1040",
+      "path": "prompts/portrait/portrait-the-pink-colorful-1040.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-idol-sparkly-hair-1119",
+      "path": "prompts/portrait/portrait-idol-sparkly-hair-1119.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-cute-japanese-feminine-1170",
+      "path": "prompts/portrait/portrait-cute-japanese-feminine-1170.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-pink-cute-1226",
+      "path": "prompts/portrait/portrait-the-pink-cute-1226.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-hair-pink-bedroom-1397",
+      "path": "prompts/portrait/portrait-hair-pink-bedroom-1397.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-street-her-1444",
+      "path": "prompts/portrait/portrait-the-street-her-1444.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-pink-the-texture-1623",
+      "path": "prompts/portrait/portrait-pink-the-texture-1623.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-bunny-corset-pink-1692",
+      "path": "prompts/portrait/portrait-bunny-corset-pink-1692.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-she-pink-eyes-1693",
+      "path": "prompts/portrait/portrait-she-pink-eyes-1693.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-oatmeal-hair-haze-1846",
+      "path": "prompts/portrait/portrait-oatmeal-hair-haze-1846.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-lollipop-pink-pearl-1859",
+      "path": "prompts/portrait/portrait-lollipop-pink-pearl-1859.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-bed-pink-1863",
+      "path": "prompts/portrait/portrait-the-bed-pink-1863.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-figurine-pink-2446",
+      "path": "prompts/portrait/portrait-the-figurine-pink-2446.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-she-2646",
+      "path": "prompts/portrait/portrait-the-her-she-2646.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-pink-bow-grok-2748",
+      "path": "prompts/portrait/portrait-pink-bow-grok-2748.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-cosplay-comiket-coser-0410",
+      "path": "prompts/portrait/portrait-cosplay-comiket-coser-0410.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-the-pastel-pink-1159",
+      "path": "prompts/portrait/portrait-the-pastel-pink-1159.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-gavikbuqt4-1161",
+      "path": "prompts/portrait/portrait-gavikbuqt4-1161.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-r1b4hwib9m-1581",
+      "path": "prompts/portrait/portrait-r1b4hwib9m-1581.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-pink-bow-not-1847",
+      "path": "prompts/portrait/portrait-pink-bow-not-1847.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-8cf8f534e1-2283",
+      "path": "prompts/portrait/portrait-8cf8f534e1-2283.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-tdlti5xvcp-2920",
+      "path": "prompts/portrait/portrait-tdlti5xvcp-2920.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-y2k-the-colorful-0098",
+      "path": "prompts/portrait/portrait-y2k-the-colorful-0098.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-bench-pastel-0109",
+      "path": "prompts/portrait/portrait-the-bench-pastel-0109.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-stone-left-0246",
+      "path": "prompts/portrait/portrait-the-stone-left-0246.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-visible-shape-0280",
+      "path": "prompts/portrait/portrait-the-visible-shape-0280.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-pink-subject-left-0437",
+      "path": "prompts/portrait/portrait-pink-subject-left-0437.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-bright-maid-hair-0463",
+      "path": "prompts/portrait/portrait-bright-maid-hair-0463.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-pink-caf-0482",
+      "path": "prompts/portrait/portrait-the-pink-caf-0482.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-red-subject-0544",
+      "path": "prompts/portrait/portrait-the-red-subject-0544.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-kittens-cozy-0556",
+      "path": "prompts/portrait/portrait-the-kittens-cozy-0556.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-blurred-0674",
+      "path": "prompts/portrait/portrait-the-her-blurred-0674.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-hair-subject-texture-0683",
+      "path": "prompts/portrait/portrait-hair-subject-texture-0683.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-cute-japanese-train-0722",
+      "path": "prompts/portrait/portrait-cute-japanese-train-0722.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-pink-the-texture-0786",
+      "path": "prompts/portrait/portrait-pink-the-texture-0786.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-skin-her-0820",
+      "path": "prompts/portrait/portrait-the-skin-her-0820.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-texture-details-skin-0932",
+      "path": "prompts/portrait/portrait-texture-details-skin-0932.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-hair-pink-playful-0943",
+      "path": "prompts/portrait/portrait-hair-pink-playful-0943.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-pink-hair-top-0944",
+      "path": "prompts/portrait/portrait-pink-hair-top-0944.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-cat-face-top-0945",
+      "path": "prompts/portrait/portrait-cat-face-top-0945.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-her-photos-own-0948",
+      "path": "prompts/portrait/portrait-her-photos-own-0948.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-slightly-subject-0949",
+      "path": "prompts/portrait/portrait-the-slightly-subject-0949.md",
+      "score": 22,
+      "quality": "A"
+    }
+  ]
+}

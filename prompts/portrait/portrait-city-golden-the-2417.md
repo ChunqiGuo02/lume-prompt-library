@@ -3,7 +3,7 @@ id: portrait-city-golden-the-2417
 title: "都市黄昏街拍写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["城市", "街头", "暖光", "逆光", "牛仔", "蓝色", "人像", "虚化"]
 recommended_models: 
   - banana-pro

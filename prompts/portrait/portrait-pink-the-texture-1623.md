@@ -3,7 +3,7 @@ id: portrait-pink-the-texture-1623
 title: "热带夜海滩少女写真，梦幻粉金配色，精致妆容与亮片裙装"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["女性", "金发", "沙滩", "夜晚", "棕榈树", "粉色", "金色", "亮片"]
 recommended_models: 
   - banana-pro

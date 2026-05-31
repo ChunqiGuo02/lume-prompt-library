@@ -3,7 +3,7 @@ id: portrait-her-premium-green-0029
 title: "70年代复古风咖啡馆时尚人像写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "七十年代", "人像", "穿搭", "秋日", "咖啡馆", "绿色", "黑色"]
 recommended_models: 
   - banana-pro

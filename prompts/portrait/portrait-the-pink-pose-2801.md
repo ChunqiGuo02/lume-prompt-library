@@ -3,7 +3,7 @@ id: portrait-the-pink-pose-2801
 title: "高定时尚写真：粉黑撞色优雅蹲姿造型"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["粉色", "黑色", "金色", "女性", "金发", "优雅", "时尚", "高级"]
 recommended_models: 
   - banana-pro

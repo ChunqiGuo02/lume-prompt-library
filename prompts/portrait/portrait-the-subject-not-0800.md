@@ -3,7 +3,7 @@ id: portrait-the-subject-not-0800
 title: "夜街抓拍：手机随手拍的东京少女瞬间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜景", "抓拍", "街头", "随性", "害羞", "都市", "冷调", "模糊"]
 recommended_models: 
   - banana-pro

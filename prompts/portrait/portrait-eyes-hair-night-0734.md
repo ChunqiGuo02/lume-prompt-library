@@ -3,7 +3,7 @@ id: portrait-eyes-hair-night-0734
 title: "夜城自拍少女"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜景", "城市", "人像", "自拍", "金发", "绿眼", "卷发", "黑色"]
 recommended_models: 
   - banana-pro

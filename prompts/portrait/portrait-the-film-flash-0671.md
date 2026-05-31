@@ -3,7 +3,7 @@ id: portrait-the-film-flash-0671
 title: "复古胶片风双人搞怪抓拍写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "胶片", "抓拍", "90年代", "Y2K", "搞怪", "好友", "皮衣"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-face-subject-0753
 title: "夜拍摩托男，真实街景人像替换"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜晚", "机车", "街头", "男生", "夹克", "头盔", "城市", "街拍"]
 recommended_models: 
   - banana-pro

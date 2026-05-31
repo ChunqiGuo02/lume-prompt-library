@@ -3,7 +3,7 @@ id: portrait-textile-film-evening-0784
 title: "夜林光影下的高级时装女性肖像摄影"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "肖像", "秋日", "森林", "夜晚", "复古", "胶片", "丝绒"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-figurine-pink-2446
 title: "金发少女手持卡通自画像，温暖光影下的高质感人像摄影"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["肖像", "金发", "Q版", "公仔", "暖色调", "粉色", "金色", "光斑"]
 recommended_models: 
   - banana-pro

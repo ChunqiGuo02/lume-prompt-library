@@ -3,7 +3,7 @@ id: portrait-the-medium-type-1773
 title: "男孩畅饮可乐的怀旧夏日瞬间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "怀旧", "胶片", "夏日", "阳光", "户外", "男孩", "可乐"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-bunny-corset-pink-1692
 title: "甜美兔女郎cosplay写真，粉色花裙与兔耳造型"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["可爱", "粉色", "兔耳", "卧室", "暖光", "摄影", "写实", "浅景深"]
 recommended_models: 
   - banana-pro

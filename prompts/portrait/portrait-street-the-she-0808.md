@@ -3,7 +3,7 @@ id: portrait-street-the-she-0808
 title: "夜街高角度街拍：少女独站便利店前，手持咖啡，随性自然。"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["街头", "夜景", "胶片", "穿搭", "休闲", "便利店", "咖啡", "浅发"]
 recommended_models: 
   - banana-pro

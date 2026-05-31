@@ -3,7 +3,7 @@ id: portrait-the-his-cue-0177
 title: "专注台球手特写，光影氛围感十足"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["台球", "男子", "眼镜", "衬衫", "白色", "卷发", "绿色", "暖光"]
 recommended_models: 
   - banana-pro

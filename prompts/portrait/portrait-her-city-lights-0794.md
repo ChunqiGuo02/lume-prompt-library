@@ -3,7 +3,7 @@ id: portrait-her-city-lights-0794
 title: "夜色光影中的女性肖像，氛围感十足"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["电影感", "夜景", "肖像", "女性", "外套", "围巾", "青绿色", "暖光"]
 recommended_models: 
   - banana-pro

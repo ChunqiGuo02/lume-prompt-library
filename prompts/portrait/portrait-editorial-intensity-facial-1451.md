@@ -3,7 +3,7 @@ id: portrait-editorial-intensity-facial-1451
 title: "比莉·艾利什黑白时尚大片：皮革夹克与湿发造型的高级质感肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["黑白", "肖像", "时尚", "简约", "冷峻", "皮革", "夹克", "墨镜"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-gender-model-2811
 title: "高定时尚魔毯飞行大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["女性", "飞毯", "时尚", "暖色调", "光影", "建筑", "沙尘", "高级感"]
 recommended_models: 
   - banana-pro

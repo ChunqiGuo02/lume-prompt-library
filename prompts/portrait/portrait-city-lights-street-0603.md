@@ -3,7 +3,7 @@ id: portrait-city-lights-street-0603
 title: "城市夜景亚裔美女街拍写实生成"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["亚洲", "女性", "夜晚", "街拍", "长发", "时尚", "写真", "都市"]
 recommended_models: 
   - banana-pro

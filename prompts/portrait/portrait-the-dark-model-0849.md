@@ -3,7 +3,7 @@ id: portrait-the-dark-model-0849
 title: "奢华情侣与跑车的时尚大片场景"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["奢华", "跑车", "西装", "礼服", "模特", "暖光", "浪漫", "高级"]
 recommended_models: 
   - banana-pro

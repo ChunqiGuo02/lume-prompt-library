@@ -3,7 +3,7 @@ id: portrait-top-sharp-street-0793
 title: "夜色伊斯坦布尔街头时尚写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["美女", "夜晚", "街道", "电车", "红色", "黑色", "都市", "街拍"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-hair-wall-the-0310
 title: "光影下的拉丁美人写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["人像", "女性", "暖色调", "棕发", "暖光", "阴影", "墙壁", "街巷"]
 recommended_models: 
   - banana-pro

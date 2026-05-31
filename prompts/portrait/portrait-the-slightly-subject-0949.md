@@ -3,7 +3,7 @@ id: portrait-the-slightly-subject-0949
 title: "少女泳池边坐姿写真，粉系校服风，光影自然"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["美女", "粉色", "格纹", "百褶裙", "长筒袜", "黑发", "室内", "泳池"]
 recommended_models: 
   - banana-pro

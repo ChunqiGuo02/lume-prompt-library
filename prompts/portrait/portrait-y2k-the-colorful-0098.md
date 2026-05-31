@@ -3,7 +3,7 @@ id: portrait-y2k-the-colorful-0098
 title: "Y2K 剪贴簿海报美学"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["Y2K", "拼贴", "可爱", "少女", "镭射", "渐变", "贴纸", "复古"]
 recommended_models: 
   - banana-pro

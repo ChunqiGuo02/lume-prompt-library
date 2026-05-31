@@ -3,7 +3,7 @@ id: portrait-gamer-physics-rgb-0910
 title: "奶牛少女镜前自拍写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["可爱", "自拍", "手机", "女生", "奶牛", "电玩", "粉色", "紫色"]
 recommended_models: 
   - banana-pro

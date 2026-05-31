@@ -3,7 +3,7 @@ id: portrait-the-street-her-1444
 title: "欧式街拍时尚写真，梦幻浪漫氛围"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["少女", "金发", "欧洲", "街道", "黄昏", "粉色", "格纹", "围巾"]
 recommended_models: 
   - banana-pro

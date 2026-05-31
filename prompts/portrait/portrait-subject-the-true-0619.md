@@ -3,7 +3,7 @@ id: portrait-subject-the-true-0619
 title: "复古公路风人像写真预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "人像", "田野", "黄昏", "暖色调", "胶片", "怀旧", "松弛"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-face-ref-scheme-0823
 title: "大唐贵妃巴黎封面大片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["杂志", "封面", "唐代", "巴黎", "铁塔", "红色", "金色", "黄昏"]
 recommended_models: 
   - banana-pro

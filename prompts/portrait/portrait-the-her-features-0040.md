@@ -3,7 +3,7 @@ id: portrait-the-her-features-0040
 title: "90年代复古黑白艺术肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["黑白", "复古", "肖像", "女性", "长发", "露肩", "沉思", "胶片"]
 recommended_models: 
   - banana-pro

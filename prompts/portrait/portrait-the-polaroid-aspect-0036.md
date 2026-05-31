@@ -3,7 +3,7 @@ id: portrait-the-polaroid-aspect-0036
 title: "90年代复古拍立得：Grok Imagine的疯狂氛围"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["宝丽来", "九十年代", "派对", "暗调", "复古", "地下室", "模糊", "胶片"]
 recommended_models: 
   - banana-pro

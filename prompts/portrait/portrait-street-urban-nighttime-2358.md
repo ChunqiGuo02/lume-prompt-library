@@ -3,7 +3,7 @@ id: portrait-street-urban-nighttime-2358
 title: "都市夜景中红发女子的电影感街拍肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["街头", "夜景", "电影感", "肖像", "红发", "皮衣", "都市", "复古"]
 recommended_models: 
   - banana-pro

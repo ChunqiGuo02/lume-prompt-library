@@ -3,7 +3,7 @@ id: portrait-the-street-urban-2364
 title: "都市夜景街头少女写真，光影质感与时尚穿搭结合"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["人像", "夜景", "都市", "街拍", "橙色", "牛仔", "反光", "虚化"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-dark-moody-clear-1340
 title: "暗调电影感女性肖像，极简背景，柔光质感，高级时尚氛围。"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["肖像", "女性", "黑发", "暖调", "暗色", "极简", "情绪", "柔和"]
 recommended_models: 
   - banana-pro

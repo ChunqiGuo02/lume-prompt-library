@@ -3,7 +3,7 @@ id: portrait-the-candid-balloons-0021
 title: "2026派对写真：Petra Collins风格胶片感 ca"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["派对", "胶片", "抓拍", "复古", "怀旧", "2026", "墨镜", "气球"]
 recommended_models: 
   - banana-pro

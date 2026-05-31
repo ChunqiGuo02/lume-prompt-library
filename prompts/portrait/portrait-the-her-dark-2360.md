@@ -3,7 +3,7 @@ id: portrait-the-her-dark-2360
 title: "都市夜景时尚人像写真-2"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "夜景", "都市", "街拍", "高级感", "棕色", "灰色", "黑色"]
 recommended_models: 
   - banana-pro

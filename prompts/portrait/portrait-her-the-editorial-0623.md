@@ -3,7 +3,7 @@ id: portrait-her-the-editorial-0623
 title: "复古卧室音乐少女写真，胶片质感生活美学"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["卧室", "黑胶", "耳机", "复古", "怀旧", "红发", "胶片", "暖光"]
 recommended_models: 
   - banana-pro

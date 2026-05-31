@@ -1,0 +1,501 @@
+{
+  "generated_at": "2026-05-31T08:44:13.802Z",
+  "ds_count": 5,
+  "summary": {
+    "warm-cinematic-portrait": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "暖色调",
+          "count": 30
+        },
+        {
+          "tag": "电影感",
+          "count": 23
+        },
+        {
+          "tag": "女性",
+          "count": 19
+        },
+        {
+          "tag": "暖光",
+          "count": 18
+        },
+        {
+          "tag": "肖像",
+          "count": 16
+        },
+        {
+          "tag": "人像",
+          "count": 13
+        },
+        {
+          "tag": "特写",
+          "count": 9
+        },
+        {
+          "tag": "写实",
+          "count": 9
+        },
+        {
+          "tag": "胶片",
+          "count": 6
+        },
+        {
+          "tag": "卷发",
+          "count": 6
+        }
+      ],
+      "color": [
+        {
+          "tag": "暖色调",
+          "count": 30
+        },
+        {
+          "tag": "暖光",
+          "count": 18
+        },
+        {
+          "tag": "胶片",
+          "count": 6
+        },
+        {
+          "tag": "金色",
+          "count": 6
+        },
+        {
+          "tag": "复古",
+          "count": 6
+        },
+        {
+          "tag": "暖调",
+          "count": 5
+        },
+        {
+          "tag": "黑色",
+          "count": 3
+        },
+        {
+          "tag": "绿色",
+          "count": 2
+        },
+        {
+          "tag": "粉色",
+          "count": 1
+        },
+        {
+          "tag": "白色",
+          "count": 1
+        },
+        {
+          "tag": "灰色",
+          "count": 1
+        },
+        {
+          "tag": "棕色",
+          "count": 1
+        }
+      ]
+    },
+    "vintage-portrait": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "复古",
+          "count": 46
+        },
+        {
+          "tag": "胶片",
+          "count": 36
+        },
+        {
+          "tag": "怀旧",
+          "count": 32
+        },
+        {
+          "tag": "暖色调",
+          "count": 17
+        },
+        {
+          "tag": "人像",
+          "count": 8
+        },
+        {
+          "tag": "女性",
+          "count": 8
+        },
+        {
+          "tag": "闪光灯",
+          "count": 8
+        },
+        {
+          "tag": "九十年代",
+          "count": 7
+        },
+        {
+          "tag": "肖像",
+          "count": 7
+        },
+        {
+          "tag": "少女",
+          "count": 7
+        }
+      ],
+      "color": [
+        {
+          "tag": "复古",
+          "count": 46
+        },
+        {
+          "tag": "胶片",
+          "count": 36
+        },
+        {
+          "tag": "暖色调",
+          "count": 17
+        },
+        {
+          "tag": "黑白",
+          "count": 3
+        },
+        {
+          "tag": "暖调",
+          "count": 3
+        },
+        {
+          "tag": "暖光",
+          "count": 2
+        },
+        {
+          "tag": "蓝色",
+          "count": 1
+        },
+        {
+          "tag": "红色",
+          "count": 1
+        },
+        {
+          "tag": "绿色",
+          "count": 1
+        },
+        {
+          "tag": "黑色",
+          "count": 1
+        }
+      ]
+    },
+    "fashion-portrait": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "时尚",
+          "count": 38
+        },
+        {
+          "tag": "女性",
+          "count": 14
+        },
+        {
+          "tag": "高级",
+          "count": 13
+        },
+        {
+          "tag": "杂志",
+          "count": 11
+        },
+        {
+          "tag": "封面",
+          "count": 9
+        },
+        {
+          "tag": "高级感",
+          "count": 8
+        },
+        {
+          "tag": "肖像",
+          "count": 7
+        },
+        {
+          "tag": "墨镜",
+          "count": 7
+        },
+        {
+          "tag": "优雅",
+          "count": 7
+        },
+        {
+          "tag": "潮流",
+          "count": 6
+        }
+      ],
+      "color": [
+        {
+          "tag": "黑色",
+          "count": 6
+        },
+        {
+          "tag": "复古",
+          "count": 5
+        },
+        {
+          "tag": "红色",
+          "count": 5
+        },
+        {
+          "tag": "黑白",
+          "count": 4
+        },
+        {
+          "tag": "暖色调",
+          "count": 4
+        },
+        {
+          "tag": "暖光",
+          "count": 3
+        },
+        {
+          "tag": "灰色",
+          "count": 3
+        },
+        {
+          "tag": "胶片",
+          "count": 2
+        },
+        {
+          "tag": "金色",
+          "count": 2
+        },
+        {
+          "tag": "黄色",
+          "count": 2
+        },
+        {
+          "tag": "粉色",
+          "count": 2
+        },
+        {
+          "tag": "蓝色",
+          "count": 2
+        },
+        {
+          "tag": "绿色",
+          "count": 2
+        },
+        {
+          "tag": "霓虹",
+          "count": 1
+        },
+        {
+          "tag": "棕色",
+          "count": 1
+        },
+        {
+          "tag": "白色",
+          "count": 1
+        },
+        {
+          "tag": "暖调",
+          "count": 1
+        }
+      ]
+    },
+    "cute-girl-pastel": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "粉色",
+          "count": 33
+        },
+        {
+          "tag": "可爱",
+          "count": 25
+        },
+        {
+          "tag": "少女",
+          "count": 17
+        },
+        {
+          "tag": "甜美",
+          "count": 11
+        },
+        {
+          "tag": "卧室",
+          "count": 10
+        },
+        {
+          "tag": "金发",
+          "count": 8
+        },
+        {
+          "tag": "自拍",
+          "count": 7
+        },
+        {
+          "tag": "肖像",
+          "count": 7
+        },
+        {
+          "tag": "毛绒",
+          "count": 6
+        },
+        {
+          "tag": "女性",
+          "count": 5
+        }
+      ],
+      "color": [
+        {
+          "tag": "粉色",
+          "count": 33
+        },
+        {
+          "tag": "暖色调",
+          "count": 5
+        },
+        {
+          "tag": "复古",
+          "count": 5
+        },
+        {
+          "tag": "白色",
+          "count": 4
+        },
+        {
+          "tag": "金色",
+          "count": 3
+        },
+        {
+          "tag": "暖光",
+          "count": 3
+        },
+        {
+          "tag": "红色",
+          "count": 2
+        },
+        {
+          "tag": "紫色",
+          "count": 2
+        },
+        {
+          "tag": "蓝色",
+          "count": 2
+        },
+        {
+          "tag": "胶片",
+          "count": 2
+        },
+        {
+          "tag": "黑色",
+          "count": 2
+        },
+        {
+          "tag": "暖调",
+          "count": 1
+        },
+        {
+          "tag": "黄色",
+          "count": 1
+        },
+        {
+          "tag": "霓虹",
+          "count": 1
+        }
+      ]
+    },
+    "street-style-portrait": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "夜景",
+          "count": 26
+        },
+        {
+          "tag": "都市",
+          "count": 20
+        },
+        {
+          "tag": "街头",
+          "count": 19
+        },
+        {
+          "tag": "街拍",
+          "count": 18
+        },
+        {
+          "tag": "城市",
+          "count": 17
+        },
+        {
+          "tag": "女性",
+          "count": 16
+        },
+        {
+          "tag": "人像",
+          "count": 11
+        },
+        {
+          "tag": "霓虹",
+          "count": 10
+        },
+        {
+          "tag": "写实",
+          "count": 9
+        },
+        {
+          "tag": "夜晚",
+          "count": 9
+        }
+      ],
+      "color": [
+        {
+          "tag": "霓虹",
+          "count": 10
+        },
+        {
+          "tag": "黑色",
+          "count": 6
+        },
+        {
+          "tag": "复古",
+          "count": 5
+        },
+        {
+          "tag": "胶片",
+          "count": 4
+        },
+        {
+          "tag": "红色",
+          "count": 3
+        },
+        {
+          "tag": "白色",
+          "count": 2
+        },
+        {
+          "tag": "黑白",
+          "count": 1
+        },
+        {
+          "tag": "暖光",
+          "count": 1
+        },
+        {
+          "tag": "蓝色",
+          "count": 1
+        },
+        {
+          "tag": "银色",
+          "count": 1
+        },
+        {
+          "tag": "灰色",
+          "count": 1
+        },
+        {
+          "tag": "绿色",
+          "count": 1
+        }
+      ]
+    }
+  }
+}

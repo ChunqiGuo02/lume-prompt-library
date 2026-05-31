@@ -3,7 +3,7 @@ id: portrait-the-red-text-1933
 title: "红毯巨星封面：时尚大刊独家直击"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "杂志", "封面", "红毯", "盛典", "明星", "闪光", "奢华"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-family-tones-0030
 title: "80年代印尼家庭厨房写真：复古细节与怀旧氛围"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "怀旧", "八十年代", "人像", "女性", "暖色调", "胶片", "旧物"]
 recommended_models: 
   - banana-pro

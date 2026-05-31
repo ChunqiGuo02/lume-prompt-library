@@ -3,7 +3,7 @@ id: portrait-slight-subject-deep-0765
 title: "夜景棕榈街拍，金发女郎黑紧身连体衣回眸造型"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["女性", "金发", "黑色", "夜景", "街头", "连体衣", "串灯", "棕榈树"]
 recommended_models: 
   - banana-pro

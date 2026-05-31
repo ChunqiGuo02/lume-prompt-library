@@ -3,7 +3,7 @@ id: portrait-moody-street-motion-1066
 title: "情绪化街拍电影感"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["电影感", "街拍", "动态模糊", "情绪感", "城市", "街道", "行人", "暖色调"]
 recommended_models: 
   - banana-pro

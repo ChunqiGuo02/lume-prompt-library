@@ -3,7 +3,7 @@ id: portrait-the-hair-face-1912
 title: "红发少女的电影感肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["肖像", "红发", "卷发", "雀斑", "暖光", "电影感", "特写", "室内"]
 recommended_models: 
   - banana-pro

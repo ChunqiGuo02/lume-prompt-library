@@ -3,7 +3,7 @@ id: portrait-the-her-she-0329
 title: "八十年代怀旧胶片美少女"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "怀旧", "八十年代", "胶片", "忧郁", "暖色调", "室内", "电视"]
 recommended_models: 
   - banana-pro

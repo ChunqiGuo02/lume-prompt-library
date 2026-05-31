@@ -3,7 +3,7 @@ id: portrait-her-dark-changing-0053
 title: "90年代风格照片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "少女", "肖像", "慵懒", "暖色调", "胶片感", "马克杯", "针织衫"]
 recommended_models: 
   - banana-pro

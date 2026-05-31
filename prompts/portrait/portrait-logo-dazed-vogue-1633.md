@@ -3,7 +3,7 @@ id: portrait-logo-dazed-vogue-1633
 title: "照片变潮流杂志封面"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["杂志", "封面", "潮流", "高端", "时尚", "单色", "灰调", "影棚"]
 recommended_models: 
   - banana-pro

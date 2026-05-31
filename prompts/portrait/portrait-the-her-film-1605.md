@@ -3,7 +3,7 @@ id: portrait-the-her-film-1605
 title: "湿发少女海边凝视，复古胶片风电影帧"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["女性", "海边", "复古", "胶片", "电影感", "忧郁", "怀旧", "暖色调"]
 recommended_models: 
   - banana-pro

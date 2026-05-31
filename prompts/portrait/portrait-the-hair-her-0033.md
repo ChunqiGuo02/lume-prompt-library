@@ -3,7 +3,7 @@ id: portrait-the-hair-her-0033
 title: "80年代夏日闺蜜草地怀旧写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["怀旧", "复古", "户外", "草地", "夏日", "休闲", "青春", "暖色调"]
 recommended_models: 
   - banana-pro

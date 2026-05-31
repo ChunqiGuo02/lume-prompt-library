@@ -3,7 +3,7 @@ id: portrait-futuristic-wardrobe-goal-1363
 title: "未来感高级时装人像摄影预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["未来风", "女性", "时尚", "金属感", "连衣裙", "高跟鞋", "室内", "灯光"]
 recommended_models: 
   - banana-pro

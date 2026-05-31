@@ -3,7 +3,7 @@ id: portrait-the-slightly-dark-0003
 title: "1990年代特朗普与金发女伴的抓拍合影"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["特朗普", "金发", "名人", "晚宴", "胶片", "闪光灯", "抓拍", "高对比"]
 recommended_models: 
   - banana-pro

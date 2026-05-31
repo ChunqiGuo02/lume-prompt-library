@@ -3,7 +3,7 @@ id: portrait-selfie-mirror-type-0006
 title: "2000年代镜子自拍"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["千禧风", "自拍", "猫咪", "复古", "卧室", "怀旧", "卷发", "耳环"]
 recommended_models: 
   - banana-pro

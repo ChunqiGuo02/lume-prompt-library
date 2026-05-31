@@ -3,7 +3,7 @@ id: portrait-the-subject-face-2370
 title: "都市少女自拍镜像，慵懒街头风写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["街拍", "休闲", "女性", "城市", "手机", "随性", "慵懒", "无聊"]
 recommended_models: 
   - banana-pro

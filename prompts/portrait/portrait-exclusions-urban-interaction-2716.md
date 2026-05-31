@@ -3,7 +3,7 @@ id: portrait-exclusions-urban-interaction-2716
 title: "霓虹都市夜景人像摄影预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["人像", "女性", "都市", "夜晚", "霓虹", "街景", "写实", "电影"]
 recommended_models: 
   - banana-pro

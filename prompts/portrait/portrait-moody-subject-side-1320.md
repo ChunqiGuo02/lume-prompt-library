@@ -3,7 +3,7 @@ id: portrait-moody-subject-side-1320
 title: "暗夜都市电影感肖像特写"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["肖像", "侧光", "明暗", "写实", "情绪", "惊悚", "夜景", "光斑"]
 recommended_models: 
   - banana-pro

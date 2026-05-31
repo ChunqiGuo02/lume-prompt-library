@@ -3,7 +3,7 @@ id: portrait-tdlti5xvcp-2920
 title: "魔法少女直播被妈妈抓包"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["直播", "宅舞", "粉色", "社死", "慌张", "愤怒", "尴尬", "二次元"]
 recommended_models: []
 recommended_params:

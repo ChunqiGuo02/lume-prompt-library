@@ -3,7 +3,7 @@ id: portrait-left-skin-the-1900
 title: "红发女性肖像，暖光侧打，浴袍半披，眼神向上左方，电影感柔焦。"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["人像", "红发", "雀斑", "浴袍", "暖色调", "光影", "胶片", "肖像"]
 recommended_models: 
   - banana-pro

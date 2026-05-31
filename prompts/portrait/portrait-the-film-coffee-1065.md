@@ -3,7 +3,7 @@ id: portrait-the-film-coffee-1065
 title: "情感胶片摄影"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["肖像", "电影感", "胶片", "暖色调", "怀旧", "城市", "黄昏", "咖啡"]
 recommended_models: 
   - banana-pro

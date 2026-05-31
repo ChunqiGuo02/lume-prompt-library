@@ -3,7 +3,7 @@ id: portrait-the-eye-face-2272
 title: "超现实特写：发丝遮面的神秘少女肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["超写实", "人像", "特写", "暖色调", "电影感", "暖光", "鼻钉", "棕发"]
 recommended_models: 
   - banana-pro

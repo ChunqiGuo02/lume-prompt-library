@@ -3,7 +3,7 @@ id: portrait-stunning-asian-pale-1719
 title: "生成高质感时尚人像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["女性", "黑发", "素妆", "清冷", "简约", "高级", "时尚", "杂志"]
 recommended_models: []
 recommended_params:

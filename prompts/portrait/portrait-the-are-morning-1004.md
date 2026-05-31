@@ -3,7 +3,7 @@ id: portrait-the-are-morning-1004
 title: "巴黎街头咖啡时光"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["巴黎", "咖啡馆", "咖啡", "短发", "女性", "街景", "清晨", "自然光"]
 recommended_models: 
   - banana-pro

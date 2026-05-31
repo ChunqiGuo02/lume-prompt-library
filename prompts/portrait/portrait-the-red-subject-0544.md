@@ -3,7 +3,7 @@ id: portrait-the-red-subject-0544
 title: "圣诞主题写真拍摄指南"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["圣诞", "节日", "粉色", "肖像", "少女", "礼物", "城市", "日落"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-entrance-metro-candid-0589
 title: "地铁口街头情侣互动瞬间，真实自然的都市浪漫微表情"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["地铁", "情侣", "街头", "爱情", "围巾", "温柔", "纪实", "胶片"]
 recommended_models: 
   - banana-pro

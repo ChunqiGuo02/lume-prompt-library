@@ -3,7 +3,7 @@ id: portrait-the-pink-caf-0482
 title: "可爱少女温馨咖啡馆肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["可爱", "少女", "咖啡馆", "蛋糕", "饮品", "毛绒", "帽子", "辫子"]
 recommended_models: 
   - banana-pro

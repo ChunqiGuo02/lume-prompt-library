@@ -3,7 +3,7 @@ id: portrait-the-her-hair-2176
 title: "赛博朋克雨夜街头时尚女性肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["女性", "赛博", "雨天", "都市", "夜景", "霓虹", "皮衣", "耳机"]
 recommended_models: 
   - banana-pro

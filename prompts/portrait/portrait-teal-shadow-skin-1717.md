@@ -3,7 +3,7 @@ id: portrait-teal-shadow-skin-1717
 title: "生成青橙色调戏剧性光影人像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["欧美女性", "肖像", "特写", "暖色调", "冷色调", "神秘", "光影", "电影感"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-candid-flash-techno-0031
 title: "80年代地下极客电音派对真实抓拍"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "八十年代", "极客", "派对", "抓拍", "激光", "跳舞", "闪光灯"]
 recommended_models: 
   - banana-pro

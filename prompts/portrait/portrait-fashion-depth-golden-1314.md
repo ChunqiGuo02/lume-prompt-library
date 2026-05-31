@@ -3,7 +3,7 @@ id: portrait-fashion-depth-golden-1314
 title: "暖调电影感时尚人像摄影预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["欧美女性", "墨镜", "暖色调", "逆光", "氛围感", "时尚", "写真", "短发"]
 recommended_models: 
   - banana-pro

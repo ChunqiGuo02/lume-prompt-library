@@ -3,7 +3,7 @@ id: portrait-the-her-magazine-0412
 title: "动静对比的高级时尚杂志人像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["欧美女性", "时尚", "写真", "动态", "模糊", "黑色", "胶片", "摄影"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-panel-hoodie-0530
 title: "四幅女子时尚生活场景拼贴画"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["街拍", "街头风", "穿搭", "都市", "拼贴", "女生", "潮酷", "运动鞋"]
 recommended_models: 
   - banana-pro

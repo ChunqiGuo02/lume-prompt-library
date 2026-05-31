@@ -3,7 +3,7 @@ id: portrait-the-subject-slightly-0269
 title: "低角度时尚大片：红裙白袜高跟造型"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "写真", "酒红", "短裙", "缎面", "高跟", "白袜", "影棚"]
 recommended_models: 
   - banana-pro

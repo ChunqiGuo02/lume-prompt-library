@@ -3,7 +3,7 @@ id: portrait-street-skin-face-0803
 title: "夜街自拍：忧郁少女指尖轻触唇，光影交织的都市梦境"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜晚", "街头", "肖像", "自拍", "少女", "长发", "灰色", "路灯"]
 recommended_models: 
   - banana-pro

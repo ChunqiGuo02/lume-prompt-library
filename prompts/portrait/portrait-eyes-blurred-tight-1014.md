@@ -3,7 +3,7 @@ id: portrait-eyes-blurred-tight-1014
 title: "干净柔和的米色工作室中的3x3照片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["暖调", "极简", "人像", "情绪", "九宫格", "影棚", "质感", "电影感"]
 recommended_models: 
   - banana-pro

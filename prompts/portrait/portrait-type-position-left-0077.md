@@ -3,7 +3,7 @@ id: portrait-type-position-left-0077
 title: "Jennie时尚派对造型写真指南"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["明星", "黑发", "卷发", "蓝色", "背心", "长裙", "黄色", "挎包"]
 recommended_models: 
   - banana-pro

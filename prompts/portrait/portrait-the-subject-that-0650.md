@@ -3,7 +3,7 @@ id: portrait-the-subject-that-0650
 title: "复古海报墙前的百褶裙少女"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "怀旧", "辣妹", "长发", "百褶裙", "暖色调", "胶片感", "旧海报"]
 recommended_models: 
   - banana-pro

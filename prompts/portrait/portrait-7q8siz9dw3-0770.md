@@ -3,7 +3,7 @@ id: portrait-7q8siz9dw3-0770
 title: "夜景街头时尚写真构图优化"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜景", "都市", "街拍", "日系", "酷感", "工装", "雨夜", "霓虹"]
 recommended_models: 
   - banana-pro

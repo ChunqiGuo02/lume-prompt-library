@@ -3,7 +3,7 @@ id: portrait-close-up-subject-contrast-1732
 title: "电影感写实人像特写"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["肖像", "特写", "写实", "女性", "围巾", "逆光", "暖调", "高对比"]
 recommended_models: 
   - banana-pro

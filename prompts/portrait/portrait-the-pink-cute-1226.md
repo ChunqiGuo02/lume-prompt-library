@@ -3,7 +3,7 @@ id: portrait-the-pink-cute-1226
 title: "时尚少女镜前自拍写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["自拍", "金发", "可爱", "菱格", "针织", "背心", "粉色", "白色"]
 recommended_models: 
   - banana-pro

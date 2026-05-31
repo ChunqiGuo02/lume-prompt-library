@@ -3,7 +3,7 @@ id: portrait-maintain-reference-studio-2807
 title: "高定时尚大片：黄金时刻奢华美学"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "高级", "优雅", "暖调", "奢华", "米色", "卷发", "肖像"]
 recommended_models: 
   - banana-pro

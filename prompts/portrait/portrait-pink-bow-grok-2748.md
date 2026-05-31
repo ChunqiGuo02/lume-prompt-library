@@ -3,7 +3,7 @@ id: portrait-pink-bow-grok-2748
 title: "韩系美少女粉色蓬松大衣搭配蕾丝连体衣"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["可爱", "粉色", "毛绒", "蝴蝶结", "洛丽塔", "少女", "白色", "拖鞋"]
 recommended_models: 
   - banana-pro

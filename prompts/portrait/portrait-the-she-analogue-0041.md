@@ -3,7 +3,7 @@ id: portrait-the-she-analogue-0041
 title: "90年代夏日码头胶片写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["低角度", "广角", "胶片", "复古", "女性", "码头", "蓝天", "阳光"]
 recommended_models: 
   - banana-pro

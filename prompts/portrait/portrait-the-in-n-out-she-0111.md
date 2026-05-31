@@ -3,7 +3,7 @@ id: portrait-the-in-n-out-she-0111
 title: "Y2K风格少女夜访In-N-Out，复古穿搭与霓虹光影交织"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜景", "金发", "吊带", "格纹", "停车场", "快餐", "街拍", "Y2K"]
 recommended_models: 
   - banana-pro

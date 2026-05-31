@@ -3,7 +3,7 @@ id: portrait-lollipop-pink-pearl-1859
 title: "粉色系少女风时尚写真，俏皮甜美风格"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["粉色", "棒棒糖", "珍珠", "墨镜", "长发", "少女", "甜美", "时尚"]
 recommended_models: 
   - banana-pro

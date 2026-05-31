@@ -3,7 +3,7 @@ id: portrait-character-the-structure-0491
 title: "后台时尚女郎黑白写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["黑白", "时尚", "化妆间", "女性", "光影", "高级", "后台", "杂志"]
 recommended_models: 
   - banana-pro

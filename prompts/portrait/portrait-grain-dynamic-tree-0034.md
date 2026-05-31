@@ -3,7 +3,7 @@ id: portrait-grain-dynamic-tree-0034
 title: "90年代复古冬日森林人像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["女生", "相机", "松树", "雪地", "冬日", "复古", "胶片", "怀旧"]
 recommended_models: 
   - banana-pro

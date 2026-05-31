@@ -3,7 +3,7 @@ id: portrait-her-the-left-1827
 title: "窗影下的温柔凝视"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["特写", "女性", "卷发", "棕眼", "暖光", "百叶窗", "光影", "金色"]
 recommended_models: 
   - banana-pro

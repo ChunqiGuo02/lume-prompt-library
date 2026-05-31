@@ -3,7 +3,7 @@ id: portrait-the-face-central-0152
 title: "七位相同女性身着多样街头服饰，对称排列，展现超现实时尚大片效"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["超现实", "时尚", "街潮", "摄影", "对称", "重复", "灰调", "女装"]
 recommended_models: 
   - banana-pro

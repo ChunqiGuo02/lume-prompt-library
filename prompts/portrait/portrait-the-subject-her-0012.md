@@ -3,7 +3,7 @@ id: portrait-the-subject-her-0012
 title: "2026年BeautyVerse时尚封面设计"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["杂志", "封面", "时尚", "未来", "全息", "镭射", "新年", "俏皮"]
 recommended_models: 
   - banana-pro

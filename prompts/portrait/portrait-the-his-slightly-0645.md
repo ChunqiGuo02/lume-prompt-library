@@ -3,7 +3,7 @@ id: portrait-the-his-slightly-0645
 title: "复古氛围：90年代风格的复兴"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "怀旧", "九十年代", "肖像", "暖色调", "胶片", "颗粒感", "室内"]
 recommended_models: 
   - banana-pro

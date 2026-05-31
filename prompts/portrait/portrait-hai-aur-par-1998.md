@@ -3,7 +3,7 @@ id: portrait-hai-aur-par-1998
 title: "罗马黄昏时尚大片：三套造型演绎古典与现代交融"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["女性", "欧美", "罗马", "古迹", "黄昏", "时尚", "优雅", "复古"]
 recommended_models: 
   - banana-pro

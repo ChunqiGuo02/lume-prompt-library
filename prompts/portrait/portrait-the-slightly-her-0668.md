@@ -3,7 +3,7 @@ id: portrait-the-slightly-her-0668
 title: "复古胶片风亲密情侣自拍写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["胶片", "肖像", "怀旧", "暖色调", "居家", "自然", "随性", "米色"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-court-model-stretching-0664
 title: "复古网球风时尚大片拍摄指南"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "暖色调", "怀旧", "胶片", "模特", "网球", "红土", "长椅"]
 recommended_models: 
   - banana-pro

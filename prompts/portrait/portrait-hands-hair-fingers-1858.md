@@ -3,7 +3,7 @@ id: portrait-hands-hair-fingers-1858
 title: "粉色系少女祈祷手势肖像摄影提示词"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["粉色", "浅蓝", "银发", "少女", "肖像", "甜美", "可爱", "眼镜"]
 recommended_models: 
   - banana-pro

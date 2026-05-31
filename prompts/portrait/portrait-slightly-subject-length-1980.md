@@ -3,7 +3,7 @@ id: portrait-slightly-subject-length-1980
 title: "绿丝绒西装男士楼梯写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["电影感", "奢华", "墨绿", "复古", "沉思", "西装", "男士", "暖光"]
 recommended_models: 
   - banana-pro

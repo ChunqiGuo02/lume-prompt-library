@@ -3,7 +3,7 @@ id: portrait-city-lights-car-2356
 title: "都市夜景中的时尚女性与宝马车"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜晚", "城市", "街景", "美女", "时尚", "宝马", "白色", "奢华"]
 recommended_models: 
   - banana-pro

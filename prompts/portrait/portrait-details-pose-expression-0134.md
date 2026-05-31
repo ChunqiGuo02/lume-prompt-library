@@ -3,7 +3,7 @@ id: portrait-details-pose-expression-0134
 title: "一位中性气质女性的 2x2 情绪化编辑拼贴画"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["电影感", "复古", "忧郁", "拼贴", "女性", "短发", "红唇", "西装"]
 recommended_models: 
   - banana-pro

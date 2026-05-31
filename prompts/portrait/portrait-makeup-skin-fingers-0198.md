@@ -3,7 +3,7 @@ id: portrait-makeup-skin-fingers-0198
 title: "书店少女戴耳机翻阅杂志，温暖光影下的文艺生活瞬间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["书店", "耳机", "书本", "女生", "短发", "背带裤", "暖色调", "氛围"]
 recommended_models: 
   - banana-pro

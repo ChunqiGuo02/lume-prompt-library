@@ -3,7 +3,7 @@ id: portrait-bright-maid-hair-0463
 title: "双马尾比心女生"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["女仆", "可爱", "粉色", "双马尾", "比心", "萌系", "元气", "秋叶原"]
 recommended_models: 
   - banana-pro

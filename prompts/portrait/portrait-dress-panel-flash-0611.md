@@ -3,7 +3,7 @@ id: portrait-dress-panel-flash-0611
 title: "城市霓虹与璀璨的夜色：一场时尚之旅 🌟"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["拼贴", "女性", "时尚", "夜晚", "都市", "霓虹", "黑色", "皮衣"]
 recommended_models: 
   - banana-pro

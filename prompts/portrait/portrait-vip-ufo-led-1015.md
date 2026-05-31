@@ -3,7 +3,7 @@ id: portrait-vip-ufo-led-1015
 title: "平成ギャル深夜スナップ"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["辣妹", "平成", "日系", "复古", "胶片", "怀旧", "夜景", "闺蜜"]
 recommended_models: []
 recommended_params:

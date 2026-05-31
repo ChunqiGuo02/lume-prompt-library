@@ -3,7 +3,7 @@ id: portrait-the-fashion-her-0351
 title: "冬日时尚大片：女性与骏马的优雅共生"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "人像", "冬季", "雪地", "黑马", "美女", "高级", "清冷"]
 recommended_models: 
   - banana-pro

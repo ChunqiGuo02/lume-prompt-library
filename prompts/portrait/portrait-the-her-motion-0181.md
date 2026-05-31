@@ -3,7 +3,7 @@ id: portrait-the-her-motion-0181
 title: "东京地铁楼梯间抓拍：都市瞬间的模糊与真实"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["胶片感", "动态模糊", "都市", "地铁", "冷色调", "复古", "怀旧", "氛围感"]
 recommended_models: 
   - banana-pro

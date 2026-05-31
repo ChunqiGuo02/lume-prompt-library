@@ -3,7 +3,7 @@ id: portrait-the-k-pop-dance-0078
 title: "K-pop女舞者时尚舞台造型，霓虹光影下的动感舞姿"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["舞者", "女性", "韩流", "舞蹈", "动感", "酒红", "丝绒", "长靴"]
 recommended_models: 
   - banana-pro

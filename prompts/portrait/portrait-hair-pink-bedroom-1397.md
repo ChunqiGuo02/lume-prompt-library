@@ -3,7 +3,7 @@ id: portrait-hair-pink-bedroom-1397
 title: "梦幻卧室私房写真，粉缎睡衣少女特写"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["肖像", "女性", "卧室", "金发", "粉色", "睡衣", "复古", "胶片"]
 recommended_models: 
   - banana-pro

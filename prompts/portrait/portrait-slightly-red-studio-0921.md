@@ -3,7 +3,7 @@ id: portrait-slightly-red-studio-0921
 title: "安娜·德·阿玛斯红裙写真，时尚杂志封面级摄影提示词"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "杂志", "封面", "红色", "优雅", "简约", "人物", "摄影"]
 recommended_models: 
   - banana-pro

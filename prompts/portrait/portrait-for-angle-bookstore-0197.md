@@ -3,7 +3,7 @@ id: portrait-for-angle-bookstore-0197
 title: "书店冬日暖光中，女性优雅选书，智性与美感并存。"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["书店", "暖光", "暖色调", "书籍", "书架", "毛衣", "牛仔裤", "帆布包"]
 recommended_models: 
   - banana-pro

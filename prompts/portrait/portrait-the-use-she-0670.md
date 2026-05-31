@@ -3,7 +3,7 @@ id: portrait-the-use-she-0670
 title: "复古胶片风卧室私密写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["欧美", "女性", "睡裙", "耳环", "复古", "怀旧", "闪光灯", "CCD"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-street-face-2571
 title: "雨夜街头奢华逃逸自拍：豹纹外套女子手持马提尼，警灯闪烁，动感"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜景", "都市", "雨夜", "豹纹", "墨镜", "鸡尾酒", "自拍", "反叛"]
 recommended_models: 
   - banana-pro

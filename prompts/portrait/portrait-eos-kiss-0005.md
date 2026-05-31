@@ -3,7 +3,7 @@ id: portrait-eos-kiss-0005
 title: "2000年代コンデジ風温感写真再現"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["雀斑", "少女", "暖调", "复古", "胶片", "氛围", "温柔", "日系"]
 recommended_models: 
   - banana-pro

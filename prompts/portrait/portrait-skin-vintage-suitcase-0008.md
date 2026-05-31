@@ -3,7 +3,7 @@ id: portrait-skin-vintage-suitcase-0008
 title: "2016波西米亚风卧室梦幻人像写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "肖像", "胶片", "忧郁", "蓝绿色", "波西米亚", "怀旧", "卧室"]
 recommended_models: 
   - banana-pro

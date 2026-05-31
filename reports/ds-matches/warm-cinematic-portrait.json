@@ -1,0 +1,653 @@
+{
+  "ds_slug": "warm-cinematic-portrait",
+  "ds_label": "暖光电影感人像",
+  "matched_total": 50,
+  "candidate_pool": 3019,
+  "top_tags": [
+    {
+      "tag": "暖色调",
+      "count": 30
+    },
+    {
+      "tag": "电影感",
+      "count": 23
+    },
+    {
+      "tag": "女性",
+      "count": 19
+    },
+    {
+      "tag": "暖光",
+      "count": 18
+    },
+    {
+      "tag": "肖像",
+      "count": 16
+    },
+    {
+      "tag": "人像",
+      "count": 13
+    },
+    {
+      "tag": "特写",
+      "count": 9
+    },
+    {
+      "tag": "写实",
+      "count": 9
+    },
+    {
+      "tag": "胶片",
+      "count": 6
+    },
+    {
+      "tag": "卷发",
+      "count": 6
+    },
+    {
+      "tag": "金色",
+      "count": 6
+    },
+    {
+      "tag": "复古",
+      "count": 6
+    },
+    {
+      "tag": "逆光",
+      "count": 5
+    },
+    {
+      "tag": "暖调",
+      "count": 5
+    },
+    {
+      "tag": "黄昏",
+      "count": 5
+    },
+    {
+      "tag": "情绪",
+      "count": 4
+    },
+    {
+      "tag": "雀斑",
+      "count": 4
+    },
+    {
+      "tag": "光影",
+      "count": 4
+    },
+    {
+      "tag": "短发",
+      "count": 4
+    },
+    {
+      "tag": "水珠",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "暖色调",
+      "count": 30
+    },
+    {
+      "tag": "暖光",
+      "count": 18
+    },
+    {
+      "tag": "胶片",
+      "count": 6
+    },
+    {
+      "tag": "金色",
+      "count": 6
+    },
+    {
+      "tag": "复古",
+      "count": 6
+    },
+    {
+      "tag": "暖调",
+      "count": 5
+    },
+    {
+      "tag": "黑色",
+      "count": 3
+    },
+    {
+      "tag": "绿色",
+      "count": 2
+    },
+    {
+      "tag": "粉色",
+      "count": 1
+    },
+    {
+      "tag": "白色",
+      "count": 1
+    },
+    {
+      "tag": "灰色",
+      "count": 1
+    },
+    {
+      "tag": "棕色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "女性",
+      "count": 19
+    },
+    {
+      "tag": "肖像",
+      "count": 16
+    },
+    {
+      "tag": "人像",
+      "count": 13
+    },
+    {
+      "tag": "室内",
+      "count": 3
+    },
+    {
+      "tag": "夜景",
+      "count": 3
+    },
+    {
+      "tag": "城市",
+      "count": 3
+    },
+    {
+      "tag": "户外",
+      "count": 2
+    },
+    {
+      "tag": "时尚",
+      "count": 1
+    },
+    {
+      "tag": "Q版",
+      "count": 1
+    },
+    {
+      "tag": "自拍",
+      "count": 1
+    },
+    {
+      "tag": "街头",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 43,
+    "B": 7,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "portrait-the-eye-face-2272",
+      "title": "超现实特写：发丝遮面的神秘少女肖像",
+      "path": "prompts/portrait/portrait-the-eye-face-2272.md",
+      "score": 82,
+      "hits": 8,
+      "hitKeywords": [
+        "暖色调",
+        "暖光",
+        "电影感",
+        "肖像",
+        "写实",
+        "暖光",
+        "电影",
+        "特写"
+      ]
+    },
+    {
+      "id": "portrait-her-face-dark-1601",
+      "title": "湿发女子电影感肖像特写",
+      "path": "prompts/portrait/portrait-her-face-dark-1601.md",
+      "score": 81,
+      "hits": 8,
+      "hitKeywords": [
+        "暖光",
+        "电影感",
+        "肖像",
+        "写实",
+        "暖光",
+        "电影",
+        "特写",
+        "情绪"
+      ]
+    },
+    {
+      "id": "portrait-skin-detail-cheeks-0354",
+      "title": "冬日暖光下的电影感肖像",
+      "path": "prompts/portrait/portrait-skin-detail-cheeks-0354.md",
+      "score": 72,
+      "hits": 7,
+      "hitKeywords": [
+        "暖光",
+        "电影感",
+        "肖像",
+        "写实",
+        "暖光",
+        "暖调",
+        "电影"
+      ]
+    },
+    {
+      "id": "portrait-the-face-facial-1733",
+      "title": "电影感冷暖光影人像",
+      "path": "prompts/portrait/portrait-the-face-facial-1733.md",
+      "score": 72,
+      "hits": 7,
+      "hitKeywords": [
+        "暖色调",
+        "暖光",
+        "电影感",
+        "肖像",
+        "写实",
+        "暖光",
+        "电影"
+      ]
+    },
+    {
+      "id": "portrait-left-skin-the-1900",
+      "title": "红发女性肖像，暖光侧打，浴袍半披，眼神向上左方，电影感柔焦。",
+      "path": "prompts/portrait/portrait-left-skin-the-1900.md",
+      "score": 72,
+      "hits": 7,
+      "hitKeywords": [
+        "暖色调",
+        "暖光",
+        "电影感",
+        "肖像",
+        "写实",
+        "暖光",
+        "电影"
+      ]
+    },
+    {
+      "id": "portrait-the-hair-face-1912",
+      "title": "红发少女的电影感肖像",
+      "path": "prompts/portrait/portrait-the-hair-face-1912.md",
+      "score": 72,
+      "hits": 7,
+      "hitKeywords": [
+        "暖光",
+        "电影感",
+        "肖像",
+        "写实",
+        "暖光",
+        "电影",
+        "特写"
+      ]
+    },
+    {
+      "id": "portrait-the-slightly-uhd-2242",
+      "title": "超写实竖版电影感肖像",
+      "path": "prompts/portrait/portrait-the-slightly-uhd-2242.md",
+      "score": 72,
+      "hits": 7,
+      "hitKeywords": [
+        "暖色调",
+        "暖光",
+        "电影感",
+        "肖像",
+        "写实",
+        "暖光",
+        "电影"
+      ]
+    },
+    {
+      "id": "portrait-the-golden-his-2455",
+      "title": "金色光影下的深邃肖像",
+      "path": "prompts/portrait/portrait-the-golden-his-2455.md",
+      "score": 72,
+      "hits": 7,
+      "hitKeywords": [
+        "暖色调",
+        "暖光",
+        "肖像",
+        "写实",
+        "暖光",
+        "金色",
+        "特写"
+      ]
+    },
+    {
+      "id": "portrait-the-coat-subject-0358",
+      "title": "冬日森林电影感肖像",
+      "path": "prompts/portrait/portrait-the-coat-subject-0358.md",
+      "score": 62,
+      "hits": 6,
+      "hitKeywords": [
+        "暖光",
+        "电影感",
+        "肖像",
+        "写实",
+        "暖光",
+        "电影"
+      ]
+    },
+    {
+      "id": "portrait-winter-skin-outdoor-0363",
+      "title": "冬日电影感肖像：雪中静谧女子",
+      "path": "prompts/portrait/portrait-winter-skin-outdoor-0363.md",
+      "score": 62,
+      "hits": 6,
+      "hitKeywords": [
+        "暖光",
+        "电影感",
+        "肖像",
+        "写实",
+        "暖光",
+        "电影"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "portrait-the-eye-face-2272",
+      "path": "prompts/portrait/portrait-the-eye-face-2272.md",
+      "score": 82,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-her-face-dark-1601",
+      "path": "prompts/portrait/portrait-her-face-dark-1601.md",
+      "score": 81,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-skin-detail-cheeks-0354",
+      "path": "prompts/portrait/portrait-skin-detail-cheeks-0354.md",
+      "score": 72,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-face-facial-1733",
+      "path": "prompts/portrait/portrait-the-face-facial-1733.md",
+      "score": 72,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-left-skin-the-1900",
+      "path": "prompts/portrait/portrait-left-skin-the-1900.md",
+      "score": 72,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-hair-face-1912",
+      "path": "prompts/portrait/portrait-the-hair-face-1912.md",
+      "score": 72,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-slightly-uhd-2242",
+      "path": "prompts/portrait/portrait-the-slightly-uhd-2242.md",
+      "score": 72,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-golden-his-2455",
+      "path": "prompts/portrait/portrait-the-golden-his-2455.md",
+      "score": 72,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-coat-subject-0358",
+      "path": "prompts/portrait/portrait-the-coat-subject-0358.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-winter-skin-outdoor-0363",
+      "path": "prompts/portrait/portrait-winter-skin-outdoor-0363.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-prompt-texture-face-0629",
+      "path": "prompts/portrait/portrait-prompt-texture-face-0629.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-her-city-lights-0794",
+      "path": "prompts/portrait/portrait-her-city-lights-0794.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-hair-gentle-subject-0935",
+      "path": "prompts/portrait/portrait-hair-gentle-subject-0935.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-eyes-blurred-tight-1014",
+      "path": "prompts/portrait/portrait-eyes-blurred-tight-1014.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-film-coffee-1065",
+      "path": "prompts/portrait/portrait-the-film-coffee-1065.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-sunset-orange-1182",
+      "path": "prompts/portrait/portrait-the-sunset-orange-1182.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-skin-petals-dress-1290",
+      "path": "prompts/portrait/portrait-skin-petals-dress-1290.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-lamp-cozy-true-1312",
+      "path": "prompts/portrait/portrait-lamp-cozy-true-1312.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-fashion-depth-golden-1314",
+      "path": "prompts/portrait/portrait-fashion-depth-golden-1314.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-sand-the-identity-1466",
+      "path": "prompts/portrait/portrait-sand-the-identity-1466.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-teal-shadow-skin-1717",
+      "path": "prompts/portrait/portrait-teal-shadow-skin-1717.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-close-up-subject-contrast-1732",
+      "path": "prompts/portrait/portrait-close-up-subject-contrast-1732.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-true-reference-elevator-1766",
+      "path": "prompts/portrait/portrait-true-reference-elevator-1766.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-slightly-subject-length-1980",
+      "path": "prompts/portrait/portrait-slightly-subject-length-1980.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-her-gemini-1993",
+      "path": "prompts/portrait/portrait-the-her-gemini-1993.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-her-skin-the-2273",
+      "path": "prompts/portrait/portrait-her-skin-the-2273.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-figurine-pink-2446",
+      "path": "prompts/portrait/portrait-the-figurine-pink-2446.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-skin-wet-2456",
+      "path": "prompts/portrait/portrait-the-skin-wet-2456.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-film-eyes-2849",
+      "path": "prompts/portrait/portrait-the-film-eyes-2849.md",
+      "score": 62,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-673f83455d-0144",
+      "path": "prompts/portrait/portrait-673f83455d-0144.md",
+      "score": 61,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-moody-street-motion-1066",
+      "path": "prompts/portrait/portrait-moody-street-motion-1066.md",
+      "score": 61,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-moody-subject-side-1320",
+      "path": "prompts/portrait/portrait-moody-subject-side-1320.md",
+      "score": 61,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-dark-moody-clear-1340",
+      "path": "prompts/portrait/portrait-dark-moody-clear-1340.md",
+      "score": 61,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-wall-short-curly-1738",
+      "path": "prompts/portrait/portrait-wall-short-curly-1738.md",
+      "score": 61,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-her-the-left-1827",
+      "path": "prompts/portrait/portrait-her-the-left-1827.md",
+      "score": 61,
+      "quality": "B"
+    },
+    {
+      "id": "portrait-retro-material-brown-0028",
+      "path": "prompts/portrait/portrait-retro-material-brown-0028.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-skin-wet-0131",
+      "path": "prompts/portrait/portrait-the-skin-wet-0131.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-bathroom-mirror-0132",
+      "path": "prompts/portrait/portrait-the-bathroom-mirror-0132.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-details-pose-expression-0134",
+      "path": "prompts/portrait/portrait-details-pose-expression-0134.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-table-game-0159",
+      "path": "prompts/portrait/portrait-the-table-game-0159.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-his-cue-0177",
+      "path": "prompts/portrait/portrait-the-his-cue-0177.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-reference-subject-clear-0182",
+      "path": "prompts/portrait/portrait-reference-subject-clear-0182.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-reference-subject-clear-0183",
+      "path": "prompts/portrait/portrait-reference-subject-clear-0183.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-for-angle-bookstore-0197",
+      "path": "prompts/portrait/portrait-for-angle-bookstore-0197.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-makeup-skin-fingers-0198",
+      "path": "prompts/portrait/portrait-makeup-skin-fingers-0198.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-the-tower-night-0220",
+      "path": "prompts/portrait/portrait-the-tower-night-0220.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-type-subject-eyes-0231",
+      "path": "prompts/portrait/portrait-type-subject-eyes-0231.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-type-true-subject-0288",
+      "path": "prompts/portrait/portrait-type-true-subject-0288.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-hair-wall-the-0310",
+      "path": "prompts/portrait/portrait-hair-wall-the-0310.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "portrait-foreground-slightly-the-0312",
+      "path": "prompts/portrait/portrait-foreground-slightly-the-0312.md",
+      "score": 52,
+      "quality": "A"
+    }
+  ]
+}

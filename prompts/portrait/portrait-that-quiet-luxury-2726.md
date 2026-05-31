@@ -3,7 +3,7 @@ id: portrait-that-quiet-luxury-2726
 title: "静奢冬日大片：毛绒质感与自信姿态的高级时尚呈现"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["冬季", "灰色", "皮草", "奢华", "简约", "雪景", "墨镜", "高级"]
 recommended_models: 
   - banana-pro

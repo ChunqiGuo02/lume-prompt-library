@@ -3,7 +3,7 @@ id: portrait-texture-details-skin-0932
 title: "宫廷梦幻肖像：金发公主身着花饰礼服立于大理石阶梯间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["粉色", "礼服", "宫殿", "楼梯", "大理石", "优雅", "童话", "皇室"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-flash-back-nighttime-0606
 title: "城市怀旧之情：一个被记录下来的千禧年时刻"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["Y2K", "复古", "夜景", "都市", "街头", "辣妹", "碎花", "工装"]
 recommended_models: 
   - banana-pro

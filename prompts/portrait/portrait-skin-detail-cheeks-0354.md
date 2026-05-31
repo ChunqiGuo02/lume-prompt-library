@@ -3,7 +3,7 @@ id: portrait-skin-detail-cheeks-0354
 title: "冬日暖光下的电影感肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["冬季", "肖像", "雀斑", "蓝眼", "暖调", "毛衣", "礼物", "辫子"]
 recommended_models: 
   - banana-pro

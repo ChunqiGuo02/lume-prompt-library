@@ -3,7 +3,7 @@ id: portrait-bed-the-pink-0947
 title: "少女床榻写真：粉熊相伴，格裙俏皮，贝雷帽下温柔笑颜"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["甜美", "金发", "贝雷帽", "粉色", "泰迪熊", "格子裙", "卧室", "温柔"]
 recommended_models: 
   - banana-pro

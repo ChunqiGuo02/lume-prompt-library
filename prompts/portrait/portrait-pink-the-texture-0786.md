@@ -3,7 +3,7 @@ id: portrait-pink-the-texture-0786
 title: "夜海滩畔金发女郎梦幻写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["女性", "金发", "妆容", "沙滩", "夜晚", "棕榈树", "粉色", "金色"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-street-busy-subject-2391
 title: "都市街头时尚抓拍写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["黑白", "街拍", "时尚", "女性", "城市", "西装", "动感", "自信"]
 recommended_models: 
   - banana-pro

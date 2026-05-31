@@ -3,7 +3,7 @@ id: portrait-panel-female-editorial-0038
 title: "90年代复古胶片时尚拼贴预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["欧美女性", "黑白", "拼贴", "时尚", "摄影", "胶片", "极简", "人像"]
 recommended_models: 
   - banana-pro

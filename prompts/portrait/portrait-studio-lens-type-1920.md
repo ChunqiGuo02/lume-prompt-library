@@ -3,7 +3,7 @@ id: portrait-studio-lens-type-1920
 title: "红帽墨镜少女拳击造型，复古潮流高能瞬间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["复古", "时尚", "酷感", "红色", "俯拍", "棚拍", "女性", "帽子"]
 recommended_models: 
   - banana-pro

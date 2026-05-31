@@ -3,7 +3,7 @@ id: portrait-the-her-blurred-0674
 title: "复古胶片风少女持花倚报亭，朦胧光影中尽显魅惑与甜美"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["胶片", "复古", "暖色调", "低饱和", "女孩", "鲜花", "报亭", "黑色"]
 recommended_models: 
   - banana-pro

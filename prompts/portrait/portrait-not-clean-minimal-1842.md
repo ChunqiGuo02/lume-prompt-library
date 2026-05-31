@@ -3,7 +3,7 @@ id: portrait-not-clean-minimal-1842
 title: "简约黑裙时尚造型"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["黑色", "简约", "优雅", "极简", "人像", "写真", "清冷", "高级"]
 recommended_models: 
   - banana-pro

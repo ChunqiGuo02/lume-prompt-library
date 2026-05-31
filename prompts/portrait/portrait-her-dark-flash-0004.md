@@ -3,7 +3,7 @@ id: portrait-her-dark-flash-0004
 title: "1990年代相机风格肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["肖像", "少女", "复古", "九十年代", "胶片", "闪光灯", "米白", "毛衣"]
 recommended_models: 
   - banana-pro

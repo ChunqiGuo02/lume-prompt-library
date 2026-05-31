@@ -3,7 +3,7 @@ id: portrait-the-bench-pastel-0109
 title: "Y2K风格夜拍时尚写真，粉凳少女复古潮拍"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["Y2K", "复古", "夜景", "红发", "少女", "粉色", "牛仔", "格纹"]
 recommended_models: 
   - banana-pro

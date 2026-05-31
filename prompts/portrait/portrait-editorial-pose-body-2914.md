@@ -3,7 +3,7 @@ id: portrait-editorial-pose-body-2914
 title: "高阶健身 editorial 风格力量姿态摄影"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["健身", "瑜伽", "高级感", "极简", "室内", "中性色", "卡其色", "电影感"]
 recommended_models: 
   - banana-pro

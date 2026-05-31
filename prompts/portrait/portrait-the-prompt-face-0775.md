@@ -3,7 +3,7 @@ id: portrait-the-prompt-face-0775
 title: "夜景金属楼梯少女写真，霓虹灯笼光影，电影感街拍风格"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜景", "人像", "少女", "休闲", "街头", "楼梯", "灯笼", "霓虹"]
 recommended_models: 
   - banana-pro

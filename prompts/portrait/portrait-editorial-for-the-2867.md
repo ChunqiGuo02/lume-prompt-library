@@ -3,7 +3,7 @@ id: portrait-editorial-for-the-2867
 title: "高端时尚人像摄影，强调情感与质感的细腻呈现"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["肖像", "棚拍", "人像", "高级感", "暗调", "湿发", "丝带", "网纱"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-city-candid-subject-0610
 title: "城市街头纪实：女子转身回眸的瞬间捕捉"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["街拍", "写实", "抓拍", "浅景深", "电影感", "卡其色", "都市", "行人"]
 recommended_models: 
   - banana-pro

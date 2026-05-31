@@ -3,7 +3,7 @@ id: portrait-the-her-dark-2994
 title: "黑白马术时尚大片：女子戴墨镜坐金属凳，黑骏马相伴，旷野高对比"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["黑白", "时尚", "女人", "马匹", "墨镜", "风衣", "旷野", "高级"]
 recommended_models: 
   - banana-pro

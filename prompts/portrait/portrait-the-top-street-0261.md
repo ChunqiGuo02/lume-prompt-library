@@ -3,7 +3,7 @@ id: portrait-the-top-street-0261
 title: "伦敦夜景奢华街拍写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["女性", "夜晚", "伦敦", "奢华", "银色", "白色", "皮草", "都市"]
 recommended_models: 
   - banana-pro

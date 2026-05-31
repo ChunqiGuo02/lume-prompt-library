@@ -3,7 +3,7 @@ id: portrait-skin-hair-subtle-0622
 title: "复古卧室自拍：卷发少女的怀旧胶片风写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["自拍", "卷发", "暖色调", "卧室", "复古", "怀旧", "忧郁", "特写"]
 recommended_models: 
   - banana-pro

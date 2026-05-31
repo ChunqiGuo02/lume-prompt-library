@@ -3,7 +3,7 @@ id: portrait-8cf8f534e1-2283
 title: "超级马里奥风格照片"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["马里奥", "樱花", "户外", "甜美", "可爱", "暖色调", "人像", "美女"]
 recommended_models: 
   - banana-pro

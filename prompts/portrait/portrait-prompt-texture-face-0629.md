@@ -3,7 +3,7 @@ id: portrait-prompt-texture-face-0629
 title: "复古好莱坞烟雾美人"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["复古", "好莱坞", "电影感", "写实", "暖色调", "金色", "黑色", "金发"]
 recommended_models: 
   - banana-pro

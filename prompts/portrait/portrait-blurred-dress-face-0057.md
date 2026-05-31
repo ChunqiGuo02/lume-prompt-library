@@ -3,7 +3,7 @@ id: portrait-blurred-dress-face-0057
 title: "9种照片专业打光效果"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["人像", "九宫格", "冷调", "灰调", "时尚", "高级感", "肖像", "特写"]
 recommended_models: 
   - banana-pro

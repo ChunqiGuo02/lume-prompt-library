@@ -3,7 +3,7 @@ id: portrait-wall-short-curly-1738
 title: "电影感暖调胶片人像预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["欧美女性", "肖像", "短发", "卷发", "白衬衫", "金项链", "水泥墙", "暖色调"]
 recommended_models: 
   - banana-pro

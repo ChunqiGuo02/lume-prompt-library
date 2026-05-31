@@ -3,7 +3,7 @@ id: portrait-the-her-she-2646
 title: "雪地自拍少女俏皮 wink"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["雪景", "蓝天", "松树", "少女", "可爱", "冬日", "阳光", "粉色"]
 recommended_models: 
   - banana-pro

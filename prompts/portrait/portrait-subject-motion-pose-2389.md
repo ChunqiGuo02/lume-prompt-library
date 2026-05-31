@@ -3,7 +3,7 @@ id: portrait-subject-motion-pose-2389
 title: "都市街头优雅漫步女郎"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["街拍", "女性", "阴天", "城市", "虚化", "写实", "动感", "优雅"]
 recommended_models: 
   - banana-pro

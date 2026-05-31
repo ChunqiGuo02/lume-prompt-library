@@ -3,7 +3,7 @@ id: portrait-the-hands-fingers-2808
 title: "高定时尚杂志封面造型"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "肖像", "特写", "酒红", "光影", "神秘", "优雅", "网纱"]
 recommended_models: 
   - banana-pro

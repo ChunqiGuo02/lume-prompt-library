@@ -3,7 +3,7 @@ id: portrait-type-subject-eyes-0231
 title: "优雅女性户外晚宴肖像，超写实电影质感"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["户外", "晚宴", "海滨", "黄昏", "香槟金", "暖色调", "优雅", "温馨"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-hong-kong-face-0055
 title: "90年代香港复古写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["港风", "复古", "写实", "胶片", "人像", "香港", "九十年代", "报纸"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-sunset-orange-1182
 title: "日落时分东亚女性电影感肖像预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["亚洲女性", "人像", "黄昏", "日落", "暖色调", "电影感", "氛围感", "户外"]
 recommended_models: 
   - banana-pro

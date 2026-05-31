@@ -3,7 +3,7 @@ id: portrait-the-sydney-sadie-0157
 title: "三位女星湿发红毯时尚写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["人像", "写实", "时尚", "高级", "女明星", "礼服", "米白", "红色"]
 recommended_models: 
   - banana-pro

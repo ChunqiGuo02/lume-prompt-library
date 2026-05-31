@@ -3,7 +3,7 @@ id: portrait-the-subject-her-0044
 title: "90年代游戏少女写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "游戏", "女孩", "胶片", "暖色调", "直闪", "怀旧", "居家"]
 recommended_models: 
   - banana-pro

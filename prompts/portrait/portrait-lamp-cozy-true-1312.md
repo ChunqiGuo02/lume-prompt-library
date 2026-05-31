@@ -3,7 +3,7 @@ id: portrait-lamp-cozy-true-1312
 title: "暖光灯下红发女子捧杯静坐沙发，温馨居家氛围特写"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["红发", "雀斑", "暖色调", "暖光", "沙发", "杯子", "居家", "舒适"]
 recommended_models: 
   - banana-pro

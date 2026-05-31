@@ -3,7 +3,7 @@ id: portrait-the-her-vans-0095
 title: "Vans品牌时尚穿搭展示"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["万斯", "休闲", "潮流", "灰发", "纹身", "黑色", "卫衣", "绿色"]
 recommended_models: 
   - banana-pro

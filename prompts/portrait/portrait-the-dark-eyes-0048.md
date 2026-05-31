@@ -3,7 +3,7 @@ id: portrait-the-dark-eyes-0048
 title: "90年代胶片风暗黑派对少年肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["黑白", "复古", "胶片", "派对", "帅哥", "卷发", "黑发", "浅瞳"]
 recommended_models: 
   - banana-pro

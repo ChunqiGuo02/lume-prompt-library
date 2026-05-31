@@ -3,7 +3,7 @@ id: portrait-the-stone-left-0246
 title: "优雅少女石阶玫瑰写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["浪漫", "优雅", "粉色", "玫瑰", "高跟鞋", "短裙", "丝带", "石阶"]
 recommended_models: 
   - banana-pro

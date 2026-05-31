@@ -3,7 +3,7 @@ id: portrait-her-third-focus-0082
 title: "Neon Frost Y2K"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["Y2K", "复古", "霓虹", "夜景", "都市", "女性", "皮草", "珠宝"]
 recommended_models: 
   - banana-pro

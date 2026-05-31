@@ -3,7 +3,7 @@ id: portrait-the-arcade-dark-0685
 title: "复古街机维修场景"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "怀旧", "街机", "修理", "青年", "电玩城", "胶片", "Y2K"]
 recommended_models: []
 recommended_params:

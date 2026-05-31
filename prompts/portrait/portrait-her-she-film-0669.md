@@ -3,7 +3,7 @@ id: portrait-her-she-film-0669
 title: "复古胶片风人像写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["胶片", "人像", "少女", "复古", "颗粒", "杂乱", "笔记", "照片"]
 recommended_models: 
   - banana-pro

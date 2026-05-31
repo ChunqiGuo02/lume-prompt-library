@@ -3,7 +3,7 @@ id: portrait-1y0ilytg0z-2016
 title: "肖像画与全身像结合的奢华办公室时尚写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["女性", "短发", "黑裙", "办公室", "肖像画", "暖色调", "阳光", "高级感"]
 recommended_models: 
   - banana-pro

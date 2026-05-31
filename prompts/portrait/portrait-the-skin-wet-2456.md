@@ -3,7 +3,7 @@ id: portrait-the-skin-wet-2456
 title: "金色时刻湿肤特写"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["特写", "写实", "人像", "女性", "金色", "水珠", "暖光", "眼眸"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-car-type-hood-1231
 title: "时尚杂志封面：模特坐复古车 hood 展现春日穿搭"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["杂志", "封面", "时尚", "春季", "户外", "复古", "汽车", "西装"]
 recommended_models: 
   - banana-pro

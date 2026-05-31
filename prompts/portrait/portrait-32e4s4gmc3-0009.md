@@ -3,7 +3,7 @@ id: portrait-32e4s4gmc3-0009
 title: "2026你好！甜美少女棚拍贺图"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["新年", "甜美", "棚拍", "人像", "红色", "极简", "清新", "可爱"]
 recommended_models: 
   - banana-pro

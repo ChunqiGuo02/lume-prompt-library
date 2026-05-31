@@ -3,7 +3,7 @@ id: portrait-the-right-stone-1381
 title: "极简高级感街拍：黑西装女性立于古典建筑台阶，光影交错，气场从"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "街拍", "极简", "高级", "黑色", "暖光", "女性", "墨镜"]
 recommended_models: 
   - banana-pro

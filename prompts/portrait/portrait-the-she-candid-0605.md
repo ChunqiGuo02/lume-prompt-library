@@ -3,7 +3,7 @@ id: portrait-the-she-candid-0605
 title: "城市夜景街头人像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜景", "街拍", "人像", "随性", "黑发", "直闪", "都市", "胶片"]
 recommended_models: []
 recommended_params:

@@ -3,7 +3,7 @@ id: portrait-film-kodak-portra-0682
 title: "复古胶片风青春记忆摄影模板"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["复古", "胶片", "怀旧", "九十年代", "夏日", "午后", "户外", "聚会"]
 recommended_models: 
   - banana-pro

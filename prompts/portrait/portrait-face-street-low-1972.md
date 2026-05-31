@@ -3,7 +3,7 @@ id: portrait-face-street-low-1972
 title: "纽约街头复古胶片风人物肖像拍摄提示词"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["胶片", "街拍", "都市", "男性", "复古", "米色", "西装", "自然光"]
 recommended_models: 
   - banana-pro

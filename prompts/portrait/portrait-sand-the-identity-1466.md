@@ -3,7 +3,7 @@ id: portrait-sand-the-identity-1466
 title: "沙漠沙丘上，女子静坐椅中，身后福特猛禽越野车腾空飞驰，尘土飞"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["沙漠", "女性", "皮卡", "松弛", "动感", "暖色调", "电影感", "黄昏"]
 recommended_models: 
   - banana-pro

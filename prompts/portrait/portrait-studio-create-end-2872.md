@@ -3,7 +3,7 @@ id: portrait-studio-create-end-2872
 title: "高端时尚杂志封面：男性模特坐木块，暖棕背景，奢华质感"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["高端", "时尚", "杂志", "封面", "男性", "模特", "木墩", "暖棕"]
 recommended_models: 
   - banana-pro

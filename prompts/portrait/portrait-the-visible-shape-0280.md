@@ -3,7 +3,7 @@ id: portrait-the-visible-shape-0280
 title: "俏皮比心少女特写"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["特写", "女生", "黑发", "直发", "眨眼", "爱心", "嘟嘴", "可爱"]
 recommended_models: 
   - banana-pro

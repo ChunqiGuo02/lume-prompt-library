@@ -3,7 +3,7 @@ id: portrait-the-red-cowboy-1230
 title: "时尚杂志封面设计"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["牛仔", "超现实", "时尚", "西部", "神秘", "奢华", "梦幻", "红色"]
 recommended_models: []
 recommended_params:

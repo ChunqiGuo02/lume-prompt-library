@@ -28,7 +28,7 @@ const REQUIRED_TOP_LEVEL_KEYS = [
   "related_to"
 ];
 const REQUIRED_PARAM_KEYS = ["aspect_ratio", "quality", "style_strength"];
-// Phase B-1 后的新 13 大类 + misc（去 video 因为已迁出，全部 304 条按主题归位到对应大类）。
+// Phase B-1 后的新 13 大类 + video（视频提示词独立保留为 deliverable 维度） + misc。
 const ALLOWED_CATEGORIES = new Set([
   "portrait",
   "graphic",
@@ -43,6 +43,7 @@ const ALLOWED_CATEGORIES = new Set([
   "architecture",
   "interior",
   "landscape",
+  "video",
   "misc",
 ]);
 

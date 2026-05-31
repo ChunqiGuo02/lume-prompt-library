@@ -3,7 +3,7 @@ id: portrait-skin-real-early-2227
 title: "超写实年轻男子街头时尚人像预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["欧美男性", "街拍", "人像", "写实", "休闲", "城市", "自然光", "牛仔服"]
 recommended_models: 
   - banana-pro

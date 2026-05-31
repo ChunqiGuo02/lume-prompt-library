@@ -3,7 +3,7 @@ id: portrait-the-slightly-uhd-2242
 title: "超写实竖版电影感肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["写实风", "暖色调", "人像", "暖光", "棚拍", "高对比", "女性", "坐姿"]
 recommended_models: 
   - banana-pro

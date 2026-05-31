@@ -3,7 +3,7 @@ id: portrait-she-subway-fashion-0592
 title: "地铁窗内优雅女子写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["地铁", "女人", "礼服", "车窗", "时尚", "复古", "胶片", "怀旧"]
 recommended_models: 
   - banana-pro

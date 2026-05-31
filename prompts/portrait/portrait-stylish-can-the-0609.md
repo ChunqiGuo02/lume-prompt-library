@@ -3,7 +3,7 @@ id: portrait-stylish-can-the-0609
 title: "城市街头女性手持可乐罐饮用的电影质感生活场景"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["城市", "街头", "卷发", "女性", "黑色", "红色", "可乐", "自然光"]
 recommended_models: 
   - banana-pro

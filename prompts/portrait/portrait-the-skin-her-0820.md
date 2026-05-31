@@ -3,7 +3,7 @@ id: portrait-the-skin-her-0820
 title: "夜雨霓虹下粉发少女持伞优雅摆姿，光影交织尽显时尚魅力"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["写实", "夜景", "霓虹", "雨天", "粉色", "白色", "性感", "御姐"]
 recommended_models: 
   - banana-pro

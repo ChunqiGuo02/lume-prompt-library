@@ -3,7 +3,7 @@ id: portrait-fashion-magazine-body-2880
 title: "高端男装时尚杂志封面拍摄预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "男装", "男模", "商务", "休闲", "藏蓝", "米色", "灰色"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-right-fashion-1228
 title: "时尚杂志封面人像精修"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["时尚", "高端", "肖像", "女性", "简约", "暖色调", "皮革", "沙发"]
 recommended_models: 
   - banana-pro

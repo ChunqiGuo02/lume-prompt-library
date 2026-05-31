@@ -3,7 +3,7 @@ id: portrait-posters-band-type-0046
 title: "90年代男孩乐队粉丝自拍"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["自拍", "卧室", "复古", "男团", "怀旧", "暖光", "女生", "格纹"]
 recommended_models: 
   - banana-pro

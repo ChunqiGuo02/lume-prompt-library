@@ -3,7 +3,7 @@ id: portrait-the-subject-silver-0807
 title: "夜街霓虹下的酷飒女郎"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["女性", "短发", "墨镜", "绿色", "亮片", "西装", "夜景", "街头"]
 recommended_models: 
   - banana-pro

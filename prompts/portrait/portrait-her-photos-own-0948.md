@@ -3,7 +3,7 @@ id: portrait-her-photos-own-0948
 title: "少女持复古相机，环绕全球地标自拍，梦幻悬浮极简构图"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["摄影", "写实", "超现实", "少女", "水手服", "相机", "拍立得", "照片"]
 recommended_models: 
   - banana-pro

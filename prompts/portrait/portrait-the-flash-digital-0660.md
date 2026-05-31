@@ -3,7 +3,7 @@ id: portrait-the-flash-digital-0660
 title: "复古相机自拍人像模拟"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["相机", "少年", "复古", "怀旧", "闪光灯", "室内", "低光", "颗粒感"]
 recommended_models: 
   - banana-pro

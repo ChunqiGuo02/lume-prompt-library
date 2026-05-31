@@ -3,7 +3,7 @@ id: portrait-the-bed-pink-1863
 title: "粉色针织套装少女卧室写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["亚洲", "女生", "粉色", "麻花辫", "卧室", "居家", "可爱", "玩偶"]
 recommended_models: 
   - banana-pro

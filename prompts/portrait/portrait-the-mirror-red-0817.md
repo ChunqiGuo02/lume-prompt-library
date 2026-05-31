@@ -3,7 +3,7 @@ id: portrait-the-mirror-red-0817
 title: "夜间街头凸面镜自拍"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜景", "自拍", "凸面镜", "都市", "红调", "街头", "湿路", "施工"]
 recommended_models: []
 recommended_params:

@@ -3,7 +3,7 @@ id: portrait-oatmeal-hair-haze-1846
 title: "粉发少女花海奔跑写真预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["户外", "花田", "粉发", "甜美", "休闲", "清新", "活力", "梦幻"]
 recommended_models: 
   - banana-pro

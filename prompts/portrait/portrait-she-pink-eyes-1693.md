@@ -3,7 +3,7 @@ id: portrait-she-pink-eyes-1693
 title: "甜美少女电竞风写真定制"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["写实", "肖像", "女性", "粉色", "毛绒", "眼镜", "丸子头", "电竞椅"]
 recommended_models: 
   - banana-pro

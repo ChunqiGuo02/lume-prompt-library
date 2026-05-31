@@ -3,7 +3,7 @@ id: portrait-true-reference-elevator-1766
 title: "电梯门缝中深情拥吻的婚纱情侣特写"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["电梯", "情侣", "亲吻", "浪漫", "暖色调", "电影感", "写实", "亲密"]
 recommended_models: 
   - banana-pro

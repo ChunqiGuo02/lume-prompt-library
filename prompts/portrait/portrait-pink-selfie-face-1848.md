@@ -3,7 +3,7 @@ id: portrait-pink-selfie-face-1848
 title: "粉嫩猫耳少女卧室自拍写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["猫耳", "自拍", "卧室", "可爱", "性感", "暖调", "粉色", "少女"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-not-slightly-real-2574
 title: "雨夜街头真实抓拍的自信女性写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["夜景", "雨天", "街拍", "城市", "湿发", "黑色", "真实", "随性"]
 recommended_models: 
   - banana-pro

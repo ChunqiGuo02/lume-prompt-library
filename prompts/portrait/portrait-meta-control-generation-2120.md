@@ -3,7 +3,7 @@ id: portrait-meta-control-generation-2120
 title: "街头时尚大片多视角构图"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["街头", "潮流", "嘻哈", "橙色", "男性", "街拍", "鱼眼", "涂鸦"]
 recommended_models: 
   - banana-pro

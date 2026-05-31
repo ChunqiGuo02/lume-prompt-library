@@ -3,7 +3,7 @@ id: portrait-outfit-street-her-0801
 title: "夜街时尚人像写真"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["女性", "夜景", "都市", "街道", "行人", "车辆", "肖像", "街拍"]
 recommended_models: 
   - banana-pro

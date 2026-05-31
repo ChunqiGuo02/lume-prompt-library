@@ -3,7 +3,7 @@ id: portrait-relaxed-street-short-2113
 title: "街头写真：自然光影下的都市休闲风"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["街景", "写实", "女生", "休闲", "黄昏", "光影", "涂鸦", "砖墙"]
 recommended_models: 
   - banana-pro

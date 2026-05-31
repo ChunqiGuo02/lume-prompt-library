@@ -3,7 +3,7 @@ id: portrait-winter-his-bokeh-2355
 title: "都市夜景中的冬日肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["人像", "男性", "冬季", "特写", "夜景", "城市", "写实", "霓虹"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-back-early-2000s-jacket-0684
 title: "复古街拍：背靠背情侣，闪光灯下的都市瞬间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["复古", "千禧", "街头", "双人", "严肃", "路口", "斑马线", "颗粒"]
 recommended_models: 
   - banana-pro

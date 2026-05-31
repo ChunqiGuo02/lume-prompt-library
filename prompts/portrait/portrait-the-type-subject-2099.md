@@ -3,7 +3,7 @@ id: portrait-the-type-subject-2099
 title: "蓝调街头风时尚大片，融合插画元素-2"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["蓝色", "嘻哈", "潮流", "街头", "摄影", "手绘", "拼贴", "休闲"]
 recommended_models: 
   - banana-pro

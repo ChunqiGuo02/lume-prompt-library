@@ -3,7 +3,7 @@ id: portrait-type-true-subject-0288
 title: "健身房内健身模特写真拍摄指南"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["健身房", "健身", "女性", "超写实", "电影感", "灰色", "棕色", "黑色"]
 recommended_models: 
   - banana-pro

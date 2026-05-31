@@ -3,7 +3,7 @@ id: portrait-cat-face-top-0945
 title: "少女在咖啡馆轻抚橘猫，俏皮嘟嘴，温馨夜景。"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["美女", "橘猫", "咖啡馆", "夜晚", "蓝色", "暖光", "休闲", "可爱"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-night-urban-0768
 title: "夜景自拍人像生成提示"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: street-style-portrait
 tags: ["自拍", "夜景", "女性", "金发", "欧洲", "城市", "街头", "写实"]
 recommended_models: 
   - banana-pro

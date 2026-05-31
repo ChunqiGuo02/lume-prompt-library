@@ -3,7 +3,7 @@ id: portrait-gavikbuqt4-1161
 title: "日系偶像风黑发少女"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["日系", "美女", "黑发", "长发", "可爱", "甜美", "清纯", "发饰"]
 recommended_models: []
 recommended_params:

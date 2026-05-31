@@ -3,7 +3,7 @@ id: portrait-pink-bow-not-1847
 title: "粉嫩毛绒洛丽塔"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: cute-girl-pastel
 tags: ["可爱", "粉色", "毛绒", "蝴蝶结", "甜妹", "洛丽塔", "街拍", "柔和"]
 recommended_models: 
   - banana-pro

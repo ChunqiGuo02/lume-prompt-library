@@ -3,7 +3,7 @@ id: portrait-the-right-eye-2874
 title: "高端时尚眼镜特写海报生成预设"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: fashion-portrait
 tags: ["欧美女性", "特写", "时尚", "墨镜", "暖色调", "深色调", "高级感", "杂志风"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: portrait-the-top-film-0681
 title: "复古胶片风闺蜜夜店 candid 瞬间"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: vintage-portrait
 tags: ["胶片", "复古", "酒吧", "闺蜜", "夜晚", "闪光灯", "暖色调", "颗粒感"]
 recommended_models: 
   - banana-pro

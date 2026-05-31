@@ -3,7 +3,7 @@ id: portrait-her-skin-the-2273
 title: "超现实电影感女性肖像"
 category: portrait
 subcategory: "05_人物肖像与写实摄影"
-aesthetic: null
+aesthetic: warm-cinematic-portrait
 tags: ["写实", "人像", "女性", "卷发", "绿色", "露肩", "室内", "暖光"]
 recommended_models: 
   - banana-pro
