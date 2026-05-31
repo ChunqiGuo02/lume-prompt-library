@@ -3,7 +3,7 @@ id: branding-insert-product-floating-0170
 title: "奇幻3D广告海报生成器"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "高端", "写实", "玫瑰", "粉色", "金色", "浮岛", "建筑"]
 recommended_models: 
   - banana-pro

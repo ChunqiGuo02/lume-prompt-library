@@ -3,7 +3,7 @@ id: product-cc77cd8921-0036
 title: "产品精修14"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["剃须刀", "飞科", "三刀头", "金色", "黑色", "纯白", "精修", "3D渲染"]
 recommended_models: 
   - banana-pro

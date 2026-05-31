@@ -3,7 +3,7 @@ id: branding-this-nano-banana-0063
 title: "New Balance运动鞋视"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["运动鞋", "老爹鞋", "新百伦", "银灰色", "白色", "网面", "极简风", "高级感"]
 recommended_models: 
   - banana-pro

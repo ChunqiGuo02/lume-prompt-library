@@ -3,7 +3,7 @@ id: product-genspark-nano-banana-0214
 title: "高端产品摄影提示词模板"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["笔", "金属", "黑色", "银灰", "静物", "商业", "摄影", "简约"]
 recommended_models: 
   - banana-pro

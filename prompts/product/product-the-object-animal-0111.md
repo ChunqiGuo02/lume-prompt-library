@@ -3,7 +3,7 @@ id: product-the-object-animal-0111
 title: "日常用品有皮肤"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["动物纹", "静物", "摄影", "质感", "创意", "极简", "中性色", "皮草"]
 recommended_models: 
   - banana-pro

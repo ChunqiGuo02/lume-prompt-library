@@ -3,7 +3,7 @@ id: architecture-fe22xkojdy-0109
 title: "建筑黄金时刻鸟瞰图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["医疗", "鸟瞰", "建筑", "绿化", "光影", "流线", "庭院", "花园"]
 recommended_models: []
 recommended_params:

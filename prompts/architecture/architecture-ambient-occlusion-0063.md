@@ -3,7 +3,7 @@ id: architecture-ambient-occlusion-0063
 title: "建筑分析图-城市组团"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["城市", "分析图", "建筑", "轴测图", "色彩", "标记", "图例", "极简"]
 recommended_models: 
   - banana-pro

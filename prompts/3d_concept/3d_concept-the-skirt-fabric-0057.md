@@ -3,7 +3,7 @@ id: 3d_concept-the-skirt-fabric-0057
 title: "一串串文字与各种文体的交织……"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["女性", "礼服", "书法", "纸艺", "渐变", "色彩", "光影", "前卫"]
 recommended_models: 
   - banana-pro

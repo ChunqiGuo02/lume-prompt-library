@@ -3,7 +3,7 @@ id: architecture-the-text-city-0039
 title: "城市2.5D轴测天气卡片官方版"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["等距", "3D", "微缩", "卡通", "伦敦", "城市", "建筑", "地标"]
 recommended_models: 
   - banana-pro

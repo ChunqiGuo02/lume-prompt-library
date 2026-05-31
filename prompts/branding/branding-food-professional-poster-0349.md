@@ -3,7 +3,7 @@ id: branding-food-professional-poster-0349
 title: "美食海报设计：高精度写实风格，单食材展示"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["美食", "创意", "悬浮", "极简", "干净", "商业", "摄影", "高清"]
 recommended_models: 
   - banana-pro

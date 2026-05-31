@@ -3,7 +3,7 @@ id: branding-character-type-illustrate-0330
 title: "简约风格角色插画生成器"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["扁平", "简约", "可爱", "干净", "清新", "女孩", "骑行", "自行车"]
 recommended_models: 
   - banana-pro

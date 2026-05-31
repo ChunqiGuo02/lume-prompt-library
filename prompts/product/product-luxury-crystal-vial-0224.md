@@ -3,7 +3,7 @@ id: product-luxury-crystal-vial-0224
 title: "高端护肤品商业摄影预设"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["护肤品", "精华液", "奢华", "金色", "暖色调", "鲜花", "大理石", "精致"]
 recommended_models: 
   - banana-pro

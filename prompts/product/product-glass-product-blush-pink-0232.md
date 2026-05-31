@@ -3,7 +3,7 @@ id: product-glass-product-blush-pink-0232
 title: "高端美妆产品梦幻花海场景摄影"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "奢侈品", "花卉", "草地", "暖色调", "粉色", "紫色", "浪漫"]
 recommended_models: 
   - banana-pro

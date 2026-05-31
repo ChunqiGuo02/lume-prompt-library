@@ -3,7 +3,7 @@ id: architecture-a23e8c51f2-0166
 title: "规划总平面图转鸟瞰图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["航拍", "鸟瞰", "公园", "湖泊", "绿地", "景观", "建筑", "步道"]
 recommended_models: 
   - banana-pro

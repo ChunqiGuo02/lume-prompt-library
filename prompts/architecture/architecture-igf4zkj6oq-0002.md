@@ -3,7 +3,7 @@ id: architecture-igf4zkj6oq-0002
 title: "CAD线稿转暗黑风格平面图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "平面", "图纸", "深蓝", "红色", "线框", "极简", "现代"]
 recommended_models: 
   - banana-pro

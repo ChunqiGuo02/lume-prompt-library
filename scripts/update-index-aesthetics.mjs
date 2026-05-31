@@ -16,11 +16,18 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 
 const DS_PRIORITY = [
+  // Tier 1
   "warm-cinematic-portrait",
   "vintage-portrait",
   "fashion-portrait",
   "cute-girl-pastel",
   "street-style-portrait",
+  // Tier 2
+  "clean-brand-shoot",
+  "colorful-pop-brand",
+  "luxury-product-ad",
+  "architectural-analysis-academic",
+  "sasaki-competition-board",
 ];
 
 // 收集 path -> best DS

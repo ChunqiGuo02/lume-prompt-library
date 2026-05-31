@@ -3,7 +3,7 @@ id: branding-the-brand-bouquet-0173
 title: "奢侈品牌玫瑰花束创意设计"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["大牌", "花束", "玫瑰", "奢华", "浪漫", "精致", "高端", "创意"]
 recommended_models: 
   - banana-pro

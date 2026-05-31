@@ -3,7 +3,7 @@ id: branding-the-brand-animal-0128
 title: "品牌产品动物纹理创意广告"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["保时捷", "跑车", "皮毛", "豹纹", "黑色", "极简", "广告", "奢华"]
 recommended_models: 
   - banana-pro

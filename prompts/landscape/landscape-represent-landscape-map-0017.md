@@ -3,7 +3,7 @@ id: landscape-represent-landscape-map-0017
 title: "场地分析-景观分析"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["景观", "规划", "分析", "地图", "矢量", "简约", "淡彩", "平面"]
 recommended_models: 
   - banana-pro

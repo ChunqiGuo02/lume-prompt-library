@@ -3,7 +3,7 @@ id: landscape-represent-circulation-functional-0016
 title: "场地分析-功能分析"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["城市", "规划", "分析图", "矢量", "极简", "淡彩", "分区", "平面"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-glass-mint-frosted-0219
 title: "高端口腔清新喷雾广告摄影预设"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["奢华", "冷调", "薄荷", "冰块", "水珠", "玻璃", "清新", "清爽"]
 recommended_models: 
   - banana-pro

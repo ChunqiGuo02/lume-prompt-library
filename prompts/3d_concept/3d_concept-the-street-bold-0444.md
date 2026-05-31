@@ -3,7 +3,7 @@ id: 3d_concept-the-street-bold-0444
 title: "时尚街头摄影与卡通插画混搭风格"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["街拍", "潮流", "Y2K", "卡通", "写实", "拼布", "牛仔", "黄色"]
 recommended_models: 
   - banana-pro

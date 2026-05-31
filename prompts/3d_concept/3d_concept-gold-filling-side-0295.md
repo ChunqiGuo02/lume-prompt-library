@@ -3,7 +3,7 @@ id: 3d_concept-gold-filling-side-0295
 title: "奢华巧克力塔：多层夹心与金箔点缀的视觉盛宴"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["巧克力", "夹心", "坚果", "焦糖", "树莓", "榛子", "金色", "渐变"]
 recommended_models: 
   - banana-pro

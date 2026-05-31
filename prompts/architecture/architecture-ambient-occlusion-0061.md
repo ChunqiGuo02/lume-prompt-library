@@ -3,7 +3,7 @@ id: architecture-ambient-occlusion-0061
 title: "建筑分析图-功能分析1"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["轴测", "建筑", "纯色", "线描", "分区", "简约", "蓝色", "绿色"]
 recommended_models: 
   - banana-pro

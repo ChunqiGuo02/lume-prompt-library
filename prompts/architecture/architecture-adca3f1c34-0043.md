@@ -3,7 +3,7 @@ id: architecture-adca3f1c34-0043
 title: "城市肌理图底关系"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["黑白", "建筑", "城市", "线稿", "平面图", "分析图", "简约", "空间"]
 recommended_models: 
   - banana-pro

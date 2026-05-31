@@ -3,7 +3,7 @@ id: product-deodorant-surface-luxury-0237
 title: "高端香体膏商业广告摄影提示词"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["护肤", "奢华", "香槟金", "暖色调", "兰花", "尤加利", "水珠", "广告"]
 recommended_models: 
   - banana-pro

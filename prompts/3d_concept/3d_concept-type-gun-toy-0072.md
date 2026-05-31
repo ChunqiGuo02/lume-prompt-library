@@ -3,7 +3,7 @@ id: 3d_concept-type-gun-toy-0072
 title: "三重曝光玩趣时尚大片"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["波普风", "明黄色", "男性", "重影", "玩具", "墨镜", "动感", "活力"]
 recommended_models: 
   - banana-pro

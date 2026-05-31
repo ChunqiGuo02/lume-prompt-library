@@ -3,7 +3,7 @@ id: branding-watch-luxury-supporting-0180
 title: "奢华腕表系列展示：极简优雅，经典重塑"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["奢华", "简约", "优雅", "腕表", "配饰", "金属", "暖调", "杂志"]
 recommended_models: 
   - banana-pro

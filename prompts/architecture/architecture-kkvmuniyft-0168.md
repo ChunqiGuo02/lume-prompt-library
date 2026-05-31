@@ -3,7 +3,7 @@ id: architecture-kkvmuniyft-0168
 title: "设计用地【强排】 多方案生成"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["规划", "鸟瞰图", "小区", "住宅", "景观", "方案", "建筑", "设计"]
 recommended_models: 
   - banana-pro

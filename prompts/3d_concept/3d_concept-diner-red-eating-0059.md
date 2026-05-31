@@ -3,7 +3,7 @@ id: 3d_concept-diner-red-eating-0059
 title: "一场充满混乱与美感的波普艺术盛宴"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["波普", "复古", "美式", "餐厅", "快餐", "汉堡", "披萨", "薯条"]
 recommended_models: 
   - banana-pro

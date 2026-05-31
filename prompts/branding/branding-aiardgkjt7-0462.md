@@ -3,7 +3,7 @@ id: branding-aiardgkjt7-0462
 title: "高端香水品牌视觉营销九宫格设计"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "高端", "奢华", "商业", "广告", "金色", "精致", "超现实"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: architecture-1103c25dba-0014
 title: "体块分析图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "设计", "体块", "演变", "步骤", "几何", "图解", "简约"]
 recommended_models: 
   - banana-pro

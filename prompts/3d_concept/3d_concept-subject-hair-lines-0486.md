@@ -3,7 +3,7 @@ id: 3d_concept-subject-hair-lines-0486
 title: "极繁主义波普艺术图层"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["可爱", "街头", "涂鸦", "插画", "摄影", "少女", "卡通", "霓虹"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-fractal-glass-0149
 title: "分形玻璃等距栅格渐变纹理设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["抽象", "渐变", "玻璃", "质感", "栅格", "几何", "幻彩", "镭射"]
 recommended_models: 
   - banana-pro

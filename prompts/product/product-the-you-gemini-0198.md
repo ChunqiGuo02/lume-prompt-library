@@ -3,7 +3,7 @@ id: product-the-you-gemini-0198
 title: "霓虹光影下的高端香水瓶"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "产品摄影", "霓虹灯", "反光", "湿面", "暗调", "紫色", "粉色"]
 recommended_models: 
   - banana-pro

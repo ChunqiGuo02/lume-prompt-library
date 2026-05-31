@@ -3,7 +3,7 @@ id: branding-editorial-face-surreal-0270
 title: "橙海中的时尚超现实肖像：帽子墨镜与血橙的视觉幽默"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["橙子", "西柚", "帽子", "墨镜", "男人", "波普风", "超现实", "时尚"]
 recommended_models: 
   - banana-pro

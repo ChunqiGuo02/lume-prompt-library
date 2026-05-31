@@ -3,7 +3,7 @@ id: product-51b01f6ba2-0031
 title: "产品精修"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["门锁", "精修", "电商", "主图", "黑色", "科技感", "高级感", "金属"]
 recommended_models: 
   - banana-pro

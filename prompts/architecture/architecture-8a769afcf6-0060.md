@@ -3,7 +3,7 @@ id: architecture-8a769afcf6-0060
 title: "建筑分析图-交通流线"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "效果图", "分析图", "白膜", "交通", "流线", "城市", "高层"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: branding-nano-banana-pro-0309
 title: "生成虚拟网页设计师作品集"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["简约", "日系", "网页", "设计", "作品集", "清新", "留白", "绿色"]
 recommended_models: 
   - banana-pro

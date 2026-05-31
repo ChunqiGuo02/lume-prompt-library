@@ -3,7 +3,7 @@ id: product-subject-details-chocolate-0093
 title: "奢华巧克力美食摄影创意方案"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["巧克力", "夹心", "金色", "奢华", "美食", "摄影", "坚果", "甜品"]
 recommended_models: 
   - banana-pro

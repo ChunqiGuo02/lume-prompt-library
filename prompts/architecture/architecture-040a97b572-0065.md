@@ -3,7 +3,7 @@ id: architecture-040a97b572-0065
 title: "建筑分析图通用模板"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "分析图", "轴测图", "作品集", "标注", "半透明", "红色", "橙色"]
 recommended_models: 
   - banana-pro

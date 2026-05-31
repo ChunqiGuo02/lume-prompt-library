@@ -3,7 +3,7 @@ id: landscape-different-lines-represent-0015
 title: "场地分析-内部边界分析"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["分析图", "矢量图", "简约", "淡色调", "城市", "规划", "雨水", "水系"]
 recommended_models: 
   - banana-pro

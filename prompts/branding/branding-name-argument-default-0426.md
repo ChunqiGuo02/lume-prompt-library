@@ -3,7 +3,7 @@ id: branding-name-argument-default-0426
 title: "高端医美诊所落地页设计"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["奢华", "金色", "医美", "美学", "高端", "优雅", "暖调", "美容"]
 recommended_models: []
 recommended_params:

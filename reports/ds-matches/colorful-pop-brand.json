@@ -1,0 +1,638 @@
+{
+  "ds_slug": "colorful-pop-brand",
+  "ds_label": "撞色波普品牌",
+  "matched_total": 50,
+  "candidate_pool": 136,
+  "top_tags": [
+    {
+      "tag": "拼贴",
+      "count": 11
+    },
+    {
+      "tag": "创意",
+      "count": 10
+    },
+    {
+      "tag": "撞色",
+      "count": 9
+    },
+    {
+      "tag": "红色",
+      "count": 7
+    },
+    {
+      "tag": "复古",
+      "count": 7
+    },
+    {
+      "tag": "超现实",
+      "count": 7
+    },
+    {
+      "tag": "海报",
+      "count": 7
+    },
+    {
+      "tag": "几何",
+      "count": 7
+    },
+    {
+      "tag": "渐变",
+      "count": 7
+    },
+    {
+      "tag": "摄影",
+      "count": 7
+    },
+    {
+      "tag": "Y2K",
+      "count": 6
+    },
+    {
+      "tag": "人像",
+      "count": 6
+    },
+    {
+      "tag": "极简",
+      "count": 5
+    },
+    {
+      "tag": "简约",
+      "count": 4
+    },
+    {
+      "tag": "白色",
+      "count": 4
+    },
+    {
+      "tag": "波普",
+      "count": 4
+    },
+    {
+      "tag": "卡通",
+      "count": 4
+    },
+    {
+      "tag": "写实",
+      "count": 4
+    },
+    {
+      "tag": "趣味",
+      "count": 4
+    },
+    {
+      "tag": "抽象",
+      "count": 4
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "红色",
+      "count": 7
+    },
+    {
+      "tag": "复古",
+      "count": 7
+    },
+    {
+      "tag": "白色",
+      "count": 4
+    },
+    {
+      "tag": "暖色调",
+      "count": 4
+    },
+    {
+      "tag": "黑色",
+      "count": 4
+    },
+    {
+      "tag": "黄色",
+      "count": 4
+    },
+    {
+      "tag": "蓝色",
+      "count": 3
+    },
+    {
+      "tag": "黑白",
+      "count": 2
+    },
+    {
+      "tag": "粉色",
+      "count": 2
+    },
+    {
+      "tag": "紫色",
+      "count": 1
+    },
+    {
+      "tag": "棕色",
+      "count": 1
+    },
+    {
+      "tag": "灰色",
+      "count": 1
+    },
+    {
+      "tag": "银色",
+      "count": 1
+    },
+    {
+      "tag": "金色",
+      "count": 1
+    },
+    {
+      "tag": "霓虹",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "人像",
+      "count": 6
+    },
+    {
+      "tag": "卡通",
+      "count": 4
+    },
+    {
+      "tag": "女性",
+      "count": 4
+    },
+    {
+      "tag": "可爱",
+      "count": 3
+    },
+    {
+      "tag": "插画",
+      "count": 3
+    },
+    {
+      "tag": "街头",
+      "count": 3
+    },
+    {
+      "tag": "少女",
+      "count": 2
+    },
+    {
+      "tag": "户外",
+      "count": 2
+    },
+    {
+      "tag": "时尚",
+      "count": 2
+    },
+    {
+      "tag": "男性",
+      "count": 2
+    },
+    {
+      "tag": "城市",
+      "count": 2
+    },
+    {
+      "tag": "自拍",
+      "count": 2
+    },
+    {
+      "tag": "肖像",
+      "count": 2
+    },
+    {
+      "tag": "Q版",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 39,
+    "B": 11,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "3d_concept-object-parts-purple-0986",
+      "title": "高饱和色彩3D渲染玩具化产品设计预设",
+      "path": "prompts/3d_concept/3d_concept-object-parts-purple-0986.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "撞色",
+        "高饱和",
+        "鲜艳",
+        "创意"
+      ]
+    },
+    {
+      "id": "branding-brand-name-plush-0275",
+      "title": "毛绒饮料罐创意产品摄影方案",
+      "path": "prompts/branding/branding-brand-name-plush-0275.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "波普",
+        "孟菲斯",
+        "创意"
+      ]
+    },
+    {
+      "id": "3d_concept-the-subject-panel-0047",
+      "title": "Y2K风格K-pop偶像拼贴艺术创作",
+      "path": "prompts/3d_concept/3d_concept-the-subject-panel-0047.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "拼贴",
+        "创意",
+        "y2k"
+      ]
+    },
+    {
+      "id": "3d_concept-the-cartoon-object-0576",
+      "title": "物体变成大胆的卡通滴水",
+      "path": "prompts/3d_concept/3d_concept-the-cartoon-object-0576.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "撞色",
+        "波普",
+        "创意"
+      ]
+    },
+    {
+      "id": "3d_concept-the-hair-pink-0672",
+      "title": "简直就是“娃娃般”的完美审美啊🌸",
+      "path": "prompts/3d_concept/3d_concept-the-hair-pink-0672.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "拼贴",
+        "创意",
+        "y2k"
+      ]
+    },
+    {
+      "id": "3d_concept-the-tree-christmas-0686",
+      "title": "红色人像螺旋圣诞树",
+      "path": "prompts/3d_concept/3d_concept-the-tree-christmas-0686.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "拼贴",
+        "创意",
+        "几何"
+      ]
+    },
+    {
+      "id": "branding-5f38df7d35-0076",
+      "title": "Y2K酸性海报设计预设",
+      "path": "prompts/branding/branding-5f38df7d35-0076.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "拼贴",
+        "创意",
+        "y2k"
+      ]
+    },
+    {
+      "id": "branding-the-real-object-0108",
+      "title": "创意广告",
+      "path": "prompts/branding/branding-the-real-object-0108.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "拼贴",
+        "趣味",
+        "创意"
+      ]
+    },
+    {
+      "id": "branding-visual-header-edge-0325",
+      "title": "科技感品牌视觉头图设计预设",
+      "path": "prompts/branding/branding-visual-header-edge-0325.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "创意",
+        "渐变",
+        "几何"
+      ]
+    },
+    {
+      "id": "3d_concept-impossible-shape-this-0074",
+      "title": "不可能的3D形状设计",
+      "path": "prompts/3d_concept/3d_concept-impossible-shape-this-0074.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "撞色",
+        "创意",
+        "几何"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "3d_concept-object-parts-purple-0986",
+      "path": "prompts/3d_concept/3d_concept-object-parts-purple-0986.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "branding-brand-name-plush-0275",
+      "path": "prompts/branding/branding-brand-name-plush-0275.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-subject-panel-0047",
+      "path": "prompts/3d_concept/3d_concept-the-subject-panel-0047.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-cartoon-object-0576",
+      "path": "prompts/3d_concept/3d_concept-the-cartoon-object-0576.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-hair-pink-0672",
+      "path": "prompts/3d_concept/3d_concept-the-hair-pink-0672.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-tree-christmas-0686",
+      "path": "prompts/3d_concept/3d_concept-the-tree-christmas-0686.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "branding-5f38df7d35-0076",
+      "path": "prompts/branding/branding-5f38df7d35-0076.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-real-object-0108",
+      "path": "prompts/branding/branding-the-real-object-0108.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-visual-header-edge-0325",
+      "path": "prompts/branding/branding-visual-header-edge-0325.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-impossible-shape-this-0074",
+      "path": "prompts/3d_concept/3d_concept-impossible-shape-this-0074.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-fractal-glass-0149",
+      "path": "prompts/3d_concept/3d_concept-fractal-glass-0149.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-mp3-iphone-y2k-0261",
+      "path": "prompts/3d_concept/3d_concept-mp3-iphone-y2k-0261.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-488385f74c-0265",
+      "path": "prompts/3d_concept/3d_concept-488385f74c-0265.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-google-nano-banana-0800",
+      "path": "prompts/3d_concept/3d_concept-google-nano-banana-0800.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-object-logo-0584",
+      "path": "prompts/graphic/graphic-object-logo-0584.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-poster-french-new-0927",
+      "path": "prompts/graphic/graphic-poster-french-new-0927.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-colorful-y2k-facelock-0504",
+      "path": "prompts/branding/branding-colorful-y2k-facelock-0504.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-must-word-0004",
+      "path": "prompts/branding/branding-the-must-word-0004.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-logo-the-industry-0061",
+      "path": "prompts/branding/branding-logo-the-industry-0061.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-vertical-some-the-0087",
+      "path": "prompts/branding/branding-vertical-some-the-0087.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-name-brand-0113",
+      "path": "prompts/branding/branding-the-name-brand-0113.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-cake-reveal-0140",
+      "path": "prompts/branding/branding-the-cake-reveal-0140.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-brand-version-0146",
+      "path": "prompts/branding/branding-the-brand-version-0146.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-paper-the-four-0152",
+      "path": "prompts/branding/branding-paper-the-four-0152.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-cup-her-0200",
+      "path": "prompts/branding/branding-the-cup-her-0200.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-editorial-face-surreal-0270",
+      "path": "prompts/branding/branding-editorial-face-surreal-0270.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-fries-commercial-red-0365",
+      "path": "prompts/branding/branding-fries-commercial-red-0365.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-food-high-speed-perfect-0386",
+      "path": "prompts/branding/branding-food-high-speed-perfect-0386.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-product-name-studio-0424",
+      "path": "prompts/branding/branding-product-name-studio-0424.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-product-front-facing-0425",
+      "path": "prompts/branding/branding-the-product-front-facing-0425.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-guizang-clay-header-0007",
+      "path": "prompts/3d_concept/3d_concept-guizang-clay-header-0007.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-brown-figure-golden-0029",
+      "path": "prompts/3d_concept/3d_concept-brown-figure-golden-0029.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-her-she-0055",
+      "path": "prompts/3d_concept/3d_concept-the-her-she-0055.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-skirt-fabric-0057",
+      "path": "prompts/3d_concept/3d_concept-the-skirt-fabric-0057.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-diner-red-eating-0059",
+      "path": "prompts/3d_concept/3d_concept-diner-red-eating-0059.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-type-gun-toy-0072",
+      "path": "prompts/3d_concept/3d_concept-type-gun-toy-0072.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-name-star-0076",
+      "path": "prompts/3d_concept/3d_concept-the-name-star-0076.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-hair-brown-0113",
+      "path": "prompts/3d_concept/3d_concept-the-hair-brown-0113.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-clean-fitness-panel-0116",
+      "path": "prompts/3d_concept/3d_concept-clean-fitness-panel-0116.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-ccww-tr521-0154",
+      "path": "prompts/3d_concept/3d_concept-ccww-tr521-0154.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-subject-exactly-0180",
+      "path": "prompts/3d_concept/3d_concept-the-subject-exactly-0180.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-surface-effect-0214",
+      "path": "prompts/3d_concept/3d_concept-the-surface-effect-0214.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-gold-filling-side-0295",
+      "path": "prompts/3d_concept/3d_concept-gold-filling-side-0295.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-street-bold-0444",
+      "path": "prompts/3d_concept/3d_concept-the-street-bold-0444.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-subject-hair-lines-0486",
+      "path": "prompts/3d_concept/3d_concept-subject-hair-lines-0486.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-full-name-0658",
+      "path": "prompts/3d_concept/3d_concept-the-full-name-0658.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-pose-base-0688",
+      "path": "prompts/3d_concept/3d_concept-the-pose-base-0688.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-orange-fashion-sunglasses-0753",
+      "path": "prompts/3d_concept/3d_concept-orange-fashion-sunglasses-0753.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-type-subject-0757",
+      "path": "prompts/3d_concept/3d_concept-the-type-subject-0757.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-lips-true-skin-0759",
+      "path": "prompts/3d_concept/3d_concept-lips-true-skin-0759.md",
+      "score": 22,
+      "quality": "A"
+    }
+  ]
+}

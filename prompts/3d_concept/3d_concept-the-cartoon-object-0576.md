@@ -3,7 +3,7 @@ id: 3d_concept-the-cartoon-object-0576
 title: "物体变成大胆的卡通滴水"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["波普", "艺术", "撞色", "卡通", "写实", "超现实", "泼墨", "创意"]
 recommended_models: 
   - banana-pro

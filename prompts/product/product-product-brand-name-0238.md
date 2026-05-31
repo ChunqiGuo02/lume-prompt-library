@@ -3,7 +3,7 @@ id: product-product-brand-name-0238
 title: "高端香水产品摄影提示词"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "花卉", "水面", "奢华", "高端", "商业", "摄影", "清新"]
 recommended_models: 
   - banana-pro

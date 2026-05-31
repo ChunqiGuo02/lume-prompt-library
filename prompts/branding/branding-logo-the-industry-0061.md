@@ -3,7 +3,7 @@ id: branding-logo-the-industry-0061
 title: "Neoglo风格Logo"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["现代", "科技", "渐变", "发光", "抽象", "logo", "极简", "未来"]
 recommended_models: 
   - banana-pro

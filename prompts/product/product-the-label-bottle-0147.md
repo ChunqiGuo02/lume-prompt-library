@@ -3,7 +3,7 @@ id: product-the-label-bottle-0147
 title: "生成带品牌标签的高端香水产品图"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "轻奢", "简约", "优雅", "茉莉", "金色", "米色", "大理石"]
 recommended_models: []
 recommended_params:

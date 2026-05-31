@@ -3,7 +3,7 @@ id: 3d_concept-brown-figure-golden-0029
 title: "AI生成服装图案设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["黑色", "线稿", "花卉", "几何", "电路板", "科技", "印花", "服饰"]
 recommended_models: 
   - banana-pro

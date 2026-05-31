@@ -3,7 +3,7 @@ id: product-the-right-cocktail-0120
 title: "极简主义鸡尾酒摄影"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["极简", "米色", "鸡尾酒", "西瓜", "粉色", "高脚杯", "清爽", "磨砂"]
 recommended_models: 
   - banana-pro

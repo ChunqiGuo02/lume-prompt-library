@@ -3,7 +3,7 @@ id: 3d_concept-lips-true-skin-0759
 title: "薯片鸭唇超写实肖像"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["女性", "肖像", "薯片", "趣味", "黄色", "白色", "黑发", "极简"]
 recommended_models: 
   - banana-pro

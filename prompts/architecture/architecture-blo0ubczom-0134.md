@@ -3,7 +3,7 @@ id: architecture-blo0ubczom-0134
 title: "根据方案生成建筑展板"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["建筑", "展板", "设计", "规划", "鸟瞰", "城市", "交通", "学术"]
 recommended_models: 
   - banana-pro

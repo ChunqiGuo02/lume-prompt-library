@@ -3,7 +3,7 @@ id: architecture-25fcb1d18b-0113
 title: "总图填色"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["总平图", "建筑", "景观", "规划", "浅灰色", "浅绿色", "白色", "素雅"]
 recommended_models: 
   - banana-pro

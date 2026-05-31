@@ -3,7 +3,7 @@ id: product-c65e460c6d-0035
 title: "产品精修13"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["电饭煲", "厨房电器", "棕色", "金属", "玻璃", "科技感", "高级感", "纯白"]
 recommended_models: 
   - banana-pro

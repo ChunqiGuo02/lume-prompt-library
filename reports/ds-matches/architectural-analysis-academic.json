@@ -1,0 +1,493 @@
+{
+  "ds_slug": "architectural-analysis-academic",
+  "ds_label": "建筑分析学术风",
+  "matched_total": 36,
+  "candidate_pool": 36,
+  "top_tags": [
+    {
+      "tag": "建筑",
+      "count": 29
+    },
+    {
+      "tag": "分析图",
+      "count": 14
+    },
+    {
+      "tag": "城市",
+      "count": 10
+    },
+    {
+      "tag": "轴测",
+      "count": 7
+    },
+    {
+      "tag": "流线",
+      "count": 7
+    },
+    {
+      "tag": "规划",
+      "count": 7
+    },
+    {
+      "tag": "现代",
+      "count": 7
+    },
+    {
+      "tag": "简约",
+      "count": 7
+    },
+    {
+      "tag": "极简",
+      "count": 6
+    },
+    {
+      "tag": "鸟瞰",
+      "count": 5
+    },
+    {
+      "tag": "线稿",
+      "count": 4
+    },
+    {
+      "tag": "平面图",
+      "count": 4
+    },
+    {
+      "tag": "轴测图",
+      "count": 4
+    },
+    {
+      "tag": "图纸",
+      "count": 4
+    },
+    {
+      "tag": "景观",
+      "count": 4
+    },
+    {
+      "tag": "空间",
+      "count": 3
+    },
+    {
+      "tag": "平面",
+      "count": 3
+    },
+    {
+      "tag": "分区",
+      "count": 3
+    },
+    {
+      "tag": "蓝色",
+      "count": 3
+    },
+    {
+      "tag": "红色",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "蓝色",
+      "count": 3
+    },
+    {
+      "tag": "红色",
+      "count": 3
+    },
+    {
+      "tag": "绿色",
+      "count": 2
+    },
+    {
+      "tag": "粉色",
+      "count": 1
+    },
+    {
+      "tag": "白色",
+      "count": 1
+    },
+    {
+      "tag": "黑白",
+      "count": 1
+    },
+    {
+      "tag": "暖色调",
+      "count": 1
+    },
+    {
+      "tag": "黄色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "建筑",
+      "count": 29
+    },
+    {
+      "tag": "城市",
+      "count": 10
+    },
+    {
+      "tag": "插画",
+      "count": 3
+    },
+    {
+      "tag": "室内",
+      "count": 1
+    },
+    {
+      "tag": "古建",
+      "count": 1
+    },
+    {
+      "tag": "卡通",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 8,
+    "B": 28,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "architecture-the-for-architectural-0003",
+      "title": "SASAKI分析图绘制",
+      "path": "prompts/architecture/architecture-the-for-architectural-0003.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "分析图",
+        "轴测",
+        "流线"
+      ]
+    },
+    {
+      "id": "landscape-flow-represent-diagram-0018",
+      "title": "场地分析-流线分析",
+      "path": "prompts/landscape/landscape-flow-represent-diagram-0018.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "分析图",
+        "矢量",
+        "流线"
+      ]
+    },
+    {
+      "id": "architecture-wklqvuhsin-0023",
+      "title": "分析图-建筑方案生成",
+      "path": "prompts/architecture/architecture-wklqvuhsin-0023.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "分析图",
+        "轴测",
+        "体块"
+      ]
+    },
+    {
+      "id": "architecture-adca3f1c34-0043",
+      "title": "城市肌理图底关系",
+      "path": "prompts/architecture/architecture-adca3f1c34-0043.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "分析图",
+        "平面图",
+        "线稿"
+      ]
+    },
+    {
+      "id": "architecture-337794460a-0056",
+      "title": "室内线稿生成彩平＋艺术评估",
+      "path": "prompts/architecture/architecture-337794460a-0056.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "分析图",
+        "平面图",
+        "线稿"
+      ]
+    },
+    {
+      "id": "architecture-8a769afcf6-0060",
+      "title": "建筑分析图-交通流线",
+      "path": "prompts/architecture/architecture-8a769afcf6-0060.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "分析图",
+        "建筑分析",
+        "流线"
+      ]
+    },
+    {
+      "id": "architecture-ambient-occlusion-0061",
+      "title": "建筑分析图-功能分析1",
+      "path": "prompts/architecture/architecture-ambient-occlusion-0061.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "分析图",
+        "建筑分析",
+        "轴测"
+      ]
+    },
+    {
+      "id": "architecture-ambient-occlusion-0063",
+      "title": "建筑分析图-城市组团",
+      "path": "prompts/architecture/architecture-ambient-occlusion-0063.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "分析图",
+        "建筑分析",
+        "轴测"
+      ]
+    },
+    {
+      "id": "architecture-040a97b572-0065",
+      "title": "建筑分析图通用模板",
+      "path": "prompts/architecture/architecture-040a97b572-0065.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "分析图",
+        "建筑分析",
+        "轴测"
+      ]
+    },
+    {
+      "id": "architecture-1e62a4bc58-0116",
+      "title": "手绘分析图生成",
+      "path": "prompts/architecture/architecture-1e62a4bc58-0116.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "分析图",
+        "平面图",
+        "剖面图"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "architecture-the-for-architectural-0003",
+      "path": "prompts/architecture/architecture-the-for-architectural-0003.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-flow-represent-diagram-0018",
+      "path": "prompts/landscape/landscape-flow-represent-diagram-0018.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "architecture-wklqvuhsin-0023",
+      "path": "prompts/architecture/architecture-wklqvuhsin-0023.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-adca3f1c34-0043",
+      "path": "prompts/architecture/architecture-adca3f1c34-0043.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-337794460a-0056",
+      "path": "prompts/architecture/architecture-337794460a-0056.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-8a769afcf6-0060",
+      "path": "prompts/architecture/architecture-8a769afcf6-0060.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-ambient-occlusion-0061",
+      "path": "prompts/architecture/architecture-ambient-occlusion-0061.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-ambient-occlusion-0063",
+      "path": "prompts/architecture/architecture-ambient-occlusion-0063.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-040a97b572-0065",
+      "path": "prompts/architecture/architecture-040a97b572-0065.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-1e62a4bc58-0116",
+      "path": "prompts/architecture/architecture-1e62a4bc58-0116.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "landscape-gis-f5f5f0-c719e-0049",
+      "path": "prompts/landscape/landscape-gis-f5f5f0-c719e-0049.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-a23e8c51f2-0166",
+      "path": "prompts/architecture/architecture-a23e8c51f2-0166.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "landscape-represent-public-different-0014",
+      "path": "prompts/landscape/landscape-represent-public-different-0014.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-different-lines-represent-0015",
+      "path": "prompts/landscape/landscape-different-lines-represent-0015.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-represent-circulation-functional-0016",
+      "path": "prompts/landscape/landscape-represent-circulation-functional-0016.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "architecture-the-text-city-0039",
+      "path": "prompts/architecture/architecture-the-text-city-0039.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-must-square-the-0041",
+      "path": "prompts/landscape/landscape-must-square-the-0041.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-87f2760d23-0043",
+      "path": "prompts/landscape/landscape-87f2760d23-0043.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "architecture-igf4zkj6oq-0002",
+      "path": "prompts/architecture/architecture-igf4zkj6oq-0002.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-google-minecraft-nano-0007",
+      "path": "prompts/architecture/architecture-google-minecraft-nano-0007.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-1103c25dba-0014",
+      "path": "prompts/architecture/architecture-1103c25dba-0014.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-23cbc13f84-0044",
+      "path": "prompts/architecture/architecture-23cbc13f84-0044.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-ede0746030-0062",
+      "path": "prompts/architecture/architecture-ede0746030-0062.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-3b29e71a18-0064",
+      "path": "prompts/architecture/architecture-3b29e71a18-0064.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-64f8bc78b5-0081",
+      "path": "prompts/architecture/architecture-64f8bc78b5-0081.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-the-building-main-0092",
+      "path": "prompts/architecture/architecture-the-building-main-0092.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-51b2e6dd11-0093",
+      "path": "prompts/architecture/architecture-51b2e6dd11-0093.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-ambient-occlusion-0094",
+      "path": "prompts/architecture/architecture-ambient-occlusion-0094.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-fqhaxevh0b-0097",
+      "path": "prompts/architecture/architecture-fqhaxevh0b-0097.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-0f15830463-0104",
+      "path": "prompts/architecture/architecture-0f15830463-0104.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-fe22xkojdy-0109",
+      "path": "prompts/architecture/architecture-fe22xkojdy-0109.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-afaf7038d0-0118",
+      "path": "prompts/architecture/architecture-afaf7038d0-0118.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-vusndd3swz-0135",
+      "path": "prompts/architecture/architecture-vusndd3swz-0135.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-dc6e462b4c-0147",
+      "path": "prompts/architecture/architecture-dc6e462b4c-0147.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-the-architectural-design-0165",
+      "path": "prompts/architecture/architecture-the-architectural-design-0165.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-f5b7004a4b-0182",
+      "path": "prompts/architecture/architecture-f5b7004a4b-0182.md",
+      "score": 21,
+      "quality": "B"
+    }
+  ]
+}

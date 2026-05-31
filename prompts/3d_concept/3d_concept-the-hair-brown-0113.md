@@ -3,7 +3,7 @@ id: 3d_concept-the-hair-brown-0113
 title: "低多边形纸艺肖像：卷发戴镜青年男性"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["纸艺", "人像", "男性", "低多边形", "几何", "棕色", "灰色", "3D"]
 recommended_models: 
   - banana-pro

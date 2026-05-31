@@ -3,7 +3,7 @@ id: branding-minimalist-branded-bag-0329
 title: "简约品牌包设计概念"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["极简", "绿色", "皮革", "行李袋", "烫金", "暗纹", "简约", "轻奢"]
 recommended_models: 
   - banana-pro

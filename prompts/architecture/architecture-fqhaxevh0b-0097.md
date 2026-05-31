@@ -3,7 +3,7 @@ id: architecture-fqhaxevh0b-0097
 title: "建筑白膜转鸟瞰图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["建筑", "鸟瞰", "现代", "流线", "玻璃", "城市", "公园", "广场"]
 recommended_models: []
 recommended_params:

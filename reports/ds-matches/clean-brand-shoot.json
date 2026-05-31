@@ -1,0 +1,443 @@
+{
+  "ds_slug": "clean-brand-shoot",
+  "ds_label": "极简品牌广告",
+  "matched_total": 31,
+  "candidate_pool": 31,
+  "top_tags": [
+    {
+      "tag": "简约",
+      "count": 16
+    },
+    {
+      "tag": "极简",
+      "count": 13
+    },
+    {
+      "tag": "创意",
+      "count": 6
+    },
+    {
+      "tag": "粉色",
+      "count": 5
+    },
+    {
+      "tag": "干净",
+      "count": 5
+    },
+    {
+      "tag": "高端",
+      "count": 5
+    },
+    {
+      "tag": "暖色调",
+      "count": 4
+    },
+    {
+      "tag": "高级感",
+      "count": 4
+    },
+    {
+      "tag": "美妆",
+      "count": 3
+    },
+    {
+      "tag": "摄影",
+      "count": 3
+    },
+    {
+      "tag": "广告",
+      "count": 3
+    },
+    {
+      "tag": "绿色",
+      "count": 3
+    },
+    {
+      "tag": "极简风",
+      "count": 3
+    },
+    {
+      "tag": "日式",
+      "count": 3
+    },
+    {
+      "tag": "设计",
+      "count": 3
+    },
+    {
+      "tag": "清新",
+      "count": 3
+    },
+    {
+      "tag": "美食",
+      "count": 2
+    },
+    {
+      "tag": "悬浮",
+      "count": 2
+    },
+    {
+      "tag": "米色",
+      "count": 2
+    },
+    {
+      "tag": "奢华",
+      "count": 2
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "粉色",
+      "count": 5
+    },
+    {
+      "tag": "暖色调",
+      "count": 4
+    },
+    {
+      "tag": "绿色",
+      "count": 3
+    },
+    {
+      "tag": "白色",
+      "count": 2
+    },
+    {
+      "tag": "蓝色",
+      "count": 1
+    },
+    {
+      "tag": "复古",
+      "count": 1
+    },
+    {
+      "tag": "暖调",
+      "count": 1
+    },
+    {
+      "tag": "红色",
+      "count": 1
+    },
+    {
+      "tag": "黑白",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "插画",
+      "count": 1
+    },
+    {
+      "tag": "可爱",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 13,
+    "B": 18,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "branding-type-brand-rim-0364",
+      "title": "蓝莓装饰的珍珠奶茶罐装饮品商业摄影预设",
+      "path": "prompts/branding/branding-type-brand-rim-0364.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "简约",
+        "干净",
+        "商业摄影"
+      ]
+    },
+    {
+      "id": "branding-food-name-clean-0450",
+      "title": "高端美食广告摄影，悬浮堆叠构图，极简白底，超现实质感。",
+      "path": "prompts/branding/branding-food-name-clean-0450.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "极简",
+        "简约",
+        "白底"
+      ]
+    },
+    {
+      "id": "product-the-right-cocktail-0120",
+      "title": "极简主义鸡尾酒摄影",
+      "path": "prompts/product/product-the-right-cocktail-0120.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "极简",
+        "极简主义"
+      ]
+    },
+    {
+      "id": "product-box-the-product-0127",
+      "title": "模切线图转3D产品可视化",
+      "path": "prompts/product/product-box-the-product-0127.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "极简",
+        "中性"
+      ]
+    },
+    {
+      "id": "product-the-product-container-0178",
+      "title": "蓝色极简风保健品商业摄影提示词",
+      "path": "prompts/product/product-the-product-container-0178.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "极简",
+        "商业摄影"
+      ]
+    },
+    {
+      "id": "product-the-bottle-cap-0218",
+      "title": "高端化妆品水花飞溅商业摄影",
+      "path": "prompts/product/product-the-bottle-cap-0218.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "极简",
+        "商业摄影"
+      ]
+    },
+    {
+      "id": "product-the-tube-beauty-0231",
+      "title": "高端美妆产品挤压创意商业摄影",
+      "path": "prompts/product/product-the-tube-beauty-0231.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "简约",
+        "商业摄影"
+      ]
+    },
+    {
+      "id": "branding-flavor-name-text-0025",
+      "title": "AGI BAR 80%黑巧四味包装设计展示",
+      "path": "prompts/branding/branding-flavor-name-text-0025.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "极简",
+        "简约"
+      ]
+    },
+    {
+      "id": "branding-icon-objects-object-0036",
+      "title": "Airbnb风格的图标",
+      "path": "prompts/branding/branding-icon-objects-object-0036.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "简约",
+        "干净"
+      ]
+    },
+    {
+      "id": "branding-watch-luxury-supporting-0180",
+      "title": "奢华腕表系列展示：极简优雅，经典重塑",
+      "path": "prompts/branding/branding-watch-luxury-supporting-0180.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "极简",
+        "简约"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "branding-type-brand-rim-0364",
+      "path": "prompts/branding/branding-type-brand-rim-0364.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "branding-food-name-clean-0450",
+      "path": "prompts/branding/branding-food-name-clean-0450.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-right-cocktail-0120",
+      "path": "prompts/product/product-the-right-cocktail-0120.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-box-the-product-0127",
+      "path": "prompts/product/product-box-the-product-0127.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-product-container-0178",
+      "path": "prompts/product/product-the-product-container-0178.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-bottle-cap-0218",
+      "path": "prompts/product/product-the-bottle-cap-0218.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-tube-beauty-0231",
+      "path": "prompts/product/product-the-tube-beauty-0231.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-flavor-name-text-0025",
+      "path": "prompts/branding/branding-flavor-name-text-0025.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-icon-objects-object-0036",
+      "path": "prompts/branding/branding-icon-objects-object-0036.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-watch-luxury-supporting-0180",
+      "path": "prompts/branding/branding-watch-luxury-supporting-0180.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-product-brand-0381",
+      "path": "prompts/branding/branding-the-product-brand-0381.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-product-brand-0385",
+      "path": "prompts/branding/branding-the-product-brand-0385.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-pink-bottle-0445",
+      "path": "prompts/branding/branding-the-pink-bottle-0445.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-brand-the-product-0101",
+      "path": "prompts/product/product-brand-the-product-0101.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "product-the-object-animal-0111",
+      "path": "prompts/product/product-the-object-animal-0111.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "product-the-item-minimalist-0113",
+      "path": "prompts/product/product-the-item-minimalist-0113.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "product-the-glass-candle-0131",
+      "path": "prompts/product/product-the-glass-candle-0131.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "product-product-create-editorial-0152",
+      "path": "prompts/product/product-product-create-editorial-0152.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "product-bottle-water-the-0190",
+      "path": "prompts/product/product-bottle-water-the-0190.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-this-nano-banana-0063",
+      "path": "prompts/branding/branding-this-nano-banana-0063.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-icon-japanese-0099",
+      "path": "prompts/branding/branding-the-icon-japanese-0099.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-real-object-0108",
+      "path": "prompts/branding/branding-the-real-object-0108.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-create-hyper-realistic-japanese-style-0233",
+      "path": "prompts/branding/branding-create-hyper-realistic-japanese-style-0233.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-brand-name-visualized-0256",
+      "path": "prompts/branding/branding-brand-name-visualized-0256.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-nano-banana-pro-0309",
+      "path": "prompts/branding/branding-nano-banana-pro-0309.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-minimalist-branded-bag-0329",
+      "path": "prompts/branding/branding-minimalist-branded-bag-0329.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-character-type-illustrate-0330",
+      "path": "prompts/branding/branding-character-type-illustrate-0330.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-food-professional-poster-0349",
+      "path": "prompts/branding/branding-food-professional-poster-0349.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-hair-left-0440",
+      "path": "prompts/branding/branding-the-hair-left-0440.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-pedestal-pixar-style-animation-0674",
+      "path": "prompts/branding/branding-pedestal-pixar-style-animation-0674.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-cybertruck-imagine-fps-0693",
+      "path": "prompts/branding/branding-cybertruck-imagine-fps-0693.md",
+      "score": 21,
+      "quality": "B"
+    }
+  ]
+}

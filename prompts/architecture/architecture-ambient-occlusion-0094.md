@@ -3,7 +3,7 @@ id: architecture-ambient-occlusion-0094
 title: "建筑照片转白模轴测图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["等距", "轴测", "建筑", "白模", "描边", "极简", "插画", "红色"]
 recommended_models: 
   - banana-pro

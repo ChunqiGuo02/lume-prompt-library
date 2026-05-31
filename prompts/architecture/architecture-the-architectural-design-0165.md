@@ -3,7 +3,7 @@ id: architecture-the-architectural-design-0165
 title: "规划平面图变鸟瞰图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["鸟瞰", "建筑", "红顶", "水系", "城市", "别墅", "高层", "写实"]
 recommended_models: 
   - banana-pro

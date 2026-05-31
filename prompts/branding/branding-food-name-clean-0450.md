@@ -3,7 +3,7 @@ id: branding-food-name-clean-0450
 title: "高端美食广告摄影，悬浮堆叠构图，极简白底，超现实质感。"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["三文鱼", "寿司", "牛油果", "海苔", "芝麻", "美食", "简约", "悬浮"]
 recommended_models: 
   - banana-pro

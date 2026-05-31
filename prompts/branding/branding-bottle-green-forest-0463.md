@@ -3,7 +3,7 @@ id: branding-bottle-green-forest-0463
 title: "高端香水商业摄影视觉方案"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "红色", "液体", "飞溅", "烟雾", "玻璃", "岩石", "暗黑"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: branding-pedestal-pixar-style-animation-0674
 title: "彩虹般光泽的织物悬浮在大理石底座上，呈现出立体动画效果。"
 category: branding
 subcategory: "02_广告营销电商宣传"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["Seedance 2.0", "Pixar风格", "3D动画", "薄纱", "半透明", "彩虹光泽", "白色大理石底座", "极简主义"]
 recommended_models: []
 recommended_params:

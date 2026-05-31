@@ -3,7 +3,7 @@ id: 3d_concept-the-subject-panel-0047
 title: "Y2K风格K-pop偶像拼贴艺术创作"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["饭制", "拼贴", "复古", "Y2K", "爱豆", "卷发", "贴纸", "报纸"]
 recommended_models: 
   - banana-pro

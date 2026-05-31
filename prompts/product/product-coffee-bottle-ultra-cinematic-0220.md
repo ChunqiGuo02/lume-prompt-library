@@ -3,7 +3,7 @@ id: product-coffee-bottle-ultra-cinematic-0220
 title: "高端咖啡瓶视觉营销设计"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["咖啡", "瓶子", "咖啡豆", "水珠", "烟雾", "咖啡液", "黑色", "金色"]
 recommended_models: 
   - banana-pro

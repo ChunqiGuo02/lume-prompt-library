@@ -3,7 +3,7 @@ id: landscape-grid-architectural-nine-0039
 title: "景观节点分析"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["等轴测", "插画", "景观", "公园", "立体", "清新", "休闲", "户外"]
 recommended_models: 
   - banana-pro

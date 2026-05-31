@@ -3,7 +3,7 @@ id: branding-flavor-name-text-0025
 title: "AGI BAR 80%黑巧四味包装设计展示"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["巧克力", "简约", "复古", "高端", "极简", "现代", "插画", "暖色调"]
 recommended_models: 
   - banana-pro

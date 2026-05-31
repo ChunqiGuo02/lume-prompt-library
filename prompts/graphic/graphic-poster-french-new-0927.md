@@ -3,7 +3,7 @@ id: graphic-poster-french-new-0927
 title: "生成法式新浪潮复古拼贴海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["海报", "复古", "拼贴", "波普", "电影", "法国", "黑白", "撞色"]
 recommended_models: []
 recommended_params:

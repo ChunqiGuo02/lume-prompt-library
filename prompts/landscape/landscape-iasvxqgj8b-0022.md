@@ -3,7 +3,7 @@ id: landscape-iasvxqgj8b-0022
 title: "城市规划竞赛插画风效果图"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["interior", "image"]
 recommended_models: 
   - banana-pro

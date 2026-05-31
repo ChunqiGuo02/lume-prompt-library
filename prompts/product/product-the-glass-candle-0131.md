@@ -3,7 +3,7 @@ id: product-the-glass-candle-0131
 title: "水果蜡烛"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["暖色调", "粉色系", "静物摄影", "高级感", "香薰蜡烛", "桃子", "樱花", "极简风"]
 recommended_models: 
   - banana-pro

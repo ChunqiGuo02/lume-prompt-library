@@ -3,7 +3,7 @@ id: branding-the-bottle-perfume-0181
 title: "奢华香水产品摄影"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "奢华", "暖光", "黑金", "大理石", "烟雾", "广告", "写实"]
 recommended_models: []
 recommended_params:

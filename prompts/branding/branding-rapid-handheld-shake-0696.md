@@ -3,7 +3,7 @@ id: branding-rapid-handheld-shake-0696
 title: "电影式商业视频生成提示"
 category: branding
 subcategory: "02_广告营销电商宣传"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["Seedance 2.0", "女性", "化妆", "珠宝", "高端礼服", "黑色真丝", "金丝刺绣", "水钻"]
 recommended_models: []
 recommended_params:

@@ -3,7 +3,7 @@ id: branding-type-brand-rim-0364
 title: "蓝莓装饰的珍珠奶茶罐装饮品商业摄影预设"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["饮品", "易拉罐", "蓝莓", "粉色", "柔光", "浅景深", "简约", "干净"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-the-product-container-0178
 title: "蓝色极简风保健品商业摄影提示词"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["极简", "蓝色", "单色", "产品摄影", "商业摄影", "写实", "现代", "保健品"]
 recommended_models: 
   - banana-pro

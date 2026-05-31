@@ -3,7 +3,7 @@ id: branding-the-product-brand-0385
 title: "超现实纸玻璃质感产品广告"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["广告", "创意", "极简", "超现实", "柔和", "光影", "高级感", "白色"]
 recommended_models: 
   - banana-pro

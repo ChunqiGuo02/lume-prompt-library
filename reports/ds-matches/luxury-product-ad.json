@@ -1,0 +1,597 @@
+{
+  "ds_slug": "luxury-product-ad",
+  "ds_label": "高端产品广告",
+  "matched_total": 50,
+  "candidate_pool": 100,
+  "top_tags": [
+    {
+      "tag": "奢华",
+      "count": 23
+    },
+    {
+      "tag": "香水",
+      "count": 16
+    },
+    {
+      "tag": "玻璃",
+      "count": 11
+    },
+    {
+      "tag": "金色",
+      "count": 11
+    },
+    {
+      "tag": "高端",
+      "count": 9
+    },
+    {
+      "tag": "金属",
+      "count": 9
+    },
+    {
+      "tag": "广告",
+      "count": 8
+    },
+    {
+      "tag": "黑色",
+      "count": 8
+    },
+    {
+      "tag": "大理石",
+      "count": 7
+    },
+    {
+      "tag": "美妆",
+      "count": 7
+    },
+    {
+      "tag": "优雅",
+      "count": 6
+    },
+    {
+      "tag": "高级",
+      "count": 6
+    },
+    {
+      "tag": "暖色调",
+      "count": 6
+    },
+    {
+      "tag": "烟雾",
+      "count": 5
+    },
+    {
+      "tag": "暖调",
+      "count": 5
+    },
+    {
+      "tag": "精致",
+      "count": 5
+    },
+    {
+      "tag": "简约",
+      "count": 5
+    },
+    {
+      "tag": "摄影",
+      "count": 5
+    },
+    {
+      "tag": "粉色",
+      "count": 5
+    },
+    {
+      "tag": "极简",
+      "count": 5
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "金色",
+      "count": 11
+    },
+    {
+      "tag": "黑色",
+      "count": 8
+    },
+    {
+      "tag": "暖色调",
+      "count": 6
+    },
+    {
+      "tag": "暖调",
+      "count": 5
+    },
+    {
+      "tag": "粉色",
+      "count": 5
+    },
+    {
+      "tag": "红色",
+      "count": 4
+    },
+    {
+      "tag": "紫色",
+      "count": 4
+    },
+    {
+      "tag": "蓝色",
+      "count": 2
+    },
+    {
+      "tag": "白色",
+      "count": 2
+    },
+    {
+      "tag": "棕色",
+      "count": 1
+    },
+    {
+      "tag": "银色",
+      "count": 1
+    },
+    {
+      "tag": "绿色",
+      "count": 1
+    },
+    {
+      "tag": "暖光",
+      "count": 1
+    },
+    {
+      "tag": "霓虹",
+      "count": 1
+    },
+    {
+      "tag": "复古",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "女性",
+      "count": 2
+    },
+    {
+      "tag": "建筑",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 28,
+    "B": 22,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "branding-bottle-green-forest-0461",
+      "title": "高端香水产品摄影提示词预设，用于生成电影级写实商业图像。",
+      "path": "prompts/branding/branding-bottle-green-forest-0461.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "奢华",
+        "高端",
+        "暗调",
+        "玻璃",
+        "香水"
+      ]
+    },
+    {
+      "id": "product-the-bottle-perfume-0207",
+      "title": "香奈儿五号香水广告图",
+      "path": "prompts/product/product-the-bottle-perfume-0207.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "奢华",
+        "暗调",
+        "玻璃",
+        "香水",
+        "金色"
+      ]
+    },
+    {
+      "id": "branding-the-gold-bottle-0465",
+      "title": "高端香水电商广告摄影",
+      "path": "prompts/branding/branding-the-gold-bottle-0465.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "奢华",
+        "高端",
+        "玻璃",
+        "香水",
+        "金色"
+      ]
+    },
+    {
+      "id": "product-b16f84892f-0048",
+      "title": "产品精修6",
+      "path": "prompts/product/product-b16f84892f-0048.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "高端",
+        "金属",
+        "玻璃",
+        "精修"
+      ]
+    },
+    {
+      "id": "branding-aiardgkjt7-0462",
+      "title": "高端香水品牌视觉营销九宫格设计",
+      "path": "prompts/branding/branding-aiardgkjt7-0462.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "奢华",
+        "高端",
+        "香水",
+        "金色"
+      ]
+    },
+    {
+      "id": "product-glass-mint-frosted-0219",
+      "title": "高端口腔清新喷雾广告摄影预设",
+      "path": "prompts/product/product-glass-mint-frosted-0219.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "奢华",
+        "高端",
+        "玻璃"
+      ]
+    },
+    {
+      "id": "product-luxury-crystal-vial-0224",
+      "title": "高端护肤品商业摄影预设",
+      "path": "prompts/product/product-luxury-crystal-vial-0224.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "奢华",
+        "高端",
+        "金色"
+      ]
+    },
+    {
+      "id": "product-pen-product-premium-0235",
+      "title": "高端金属笔具的奢华产品摄影展示",
+      "path": "prompts/product/product-pen-product-premium-0235.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "奢华",
+        "高端",
+        "金属"
+      ]
+    },
+    {
+      "id": "branding-insert-product-floating-0170",
+      "title": "奇幻3D广告海报生成器",
+      "path": "prompts/branding/branding-insert-product-floating-0170.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "高端",
+        "香水",
+        "金色"
+      ]
+    },
+    {
+      "id": "branding-the-pink-silver-0429",
+      "title": "高端商业广告视觉矩阵生成",
+      "path": "prompts/branding/branding-the-pink-silver-0429.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "高端",
+        "香水",
+        "金色"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "branding-bottle-green-forest-0461",
+      "path": "prompts/branding/branding-bottle-green-forest-0461.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-bottle-perfume-0207",
+      "path": "prompts/product/product-the-bottle-perfume-0207.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-gold-bottle-0465",
+      "path": "prompts/branding/branding-the-gold-bottle-0465.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "product-b16f84892f-0048",
+      "path": "prompts/product/product-b16f84892f-0048.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "branding-aiardgkjt7-0462",
+      "path": "prompts/branding/branding-aiardgkjt7-0462.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "product-glass-mint-frosted-0219",
+      "path": "prompts/product/product-glass-mint-frosted-0219.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "product-luxury-crystal-vial-0224",
+      "path": "prompts/product/product-luxury-crystal-vial-0224.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "product-pen-product-premium-0235",
+      "path": "prompts/product/product-pen-product-premium-0235.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "branding-insert-product-floating-0170",
+      "path": "prompts/branding/branding-insert-product-floating-0170.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-pink-silver-0429",
+      "path": "prompts/branding/branding-the-pink-silver-0429.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "branding-her-the-lipstick-0449",
+      "path": "prompts/branding/branding-her-the-lipstick-0449.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "branding-bottle-green-forest-0463",
+      "path": "prompts/branding/branding-bottle-green-forest-0463.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "product-51b01f6ba2-0031",
+      "path": "prompts/product/product-51b01f6ba2-0031.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-c65e460c6d-0035",
+      "path": "prompts/product/product-c65e460c6d-0035.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-cc77cd8921-0036",
+      "path": "prompts/product/product-cc77cd8921-0036.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-1a25704259-0037",
+      "path": "prompts/product/product-1a25704259-0037.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-9feb6d0f36-0038",
+      "path": "prompts/product/product-9feb6d0f36-0038.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-the-label-bottle-0147",
+      "path": "prompts/product/product-the-label-bottle-0147.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-the-bottle-purple-0163",
+      "path": "prompts/product/product-the-bottle-purple-0163.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-the-you-gemini-0198",
+      "path": "prompts/product/product-the-you-gemini-0198.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-genspark-nano-banana-0214",
+      "path": "prompts/product/product-genspark-nano-banana-0214.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-coffee-bottle-ultra-cinematic-0220",
+      "path": "prompts/product/product-coffee-bottle-ultra-cinematic-0220.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-product-brand-name-0238",
+      "path": "prompts/product/product-product-brand-name-0238.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-bottle-perfume-0181",
+      "path": "prompts/branding/branding-the-bottle-perfume-0181.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-logo-the-put-0186",
+      "path": "prompts/branding/branding-logo-the-put-0186.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-bottle-luxury-0393",
+      "path": "prompts/branding/branding-the-bottle-luxury-0393.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-name-argument-default-0426",
+      "path": "prompts/branding/branding-name-argument-default-0426.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-her-the-shoulder-0464",
+      "path": "prompts/branding/branding-her-the-shoulder-0464.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-bnqw47yfoo-0651",
+      "path": "prompts/branding/branding-bnqw47yfoo-0651.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-rapid-handheld-shake-0696",
+      "path": "prompts/branding/branding-rapid-handheld-shake-0696.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "product-the-brand-for-0089",
+      "path": "prompts/product/product-the-brand-for-0089.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-luxury-glass-room-0092",
+      "path": "prompts/product/product-luxury-glass-room-0092.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-subject-details-chocolate-0093",
+      "path": "prompts/product/product-subject-details-chocolate-0093.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-box-the-product-0127",
+      "path": "prompts/product/product-box-the-product-0127.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-type-gradient-specular-0133",
+      "path": "prompts/product/product-type-gradient-specular-0133.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-subject-details-chocolate-0182",
+      "path": "prompts/product/product-subject-details-chocolate-0182.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-true-type-the-0201",
+      "path": "prompts/product/product-true-type-the-0201.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-product-skin-0209",
+      "path": "prompts/product/product-the-product-skin-0209.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-cola-ice-glass-0216",
+      "path": "prompts/product/product-cola-ice-glass-0216.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-frog-one-luxury-0217",
+      "path": "prompts/product/product-frog-one-luxury-0217.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-bottle-cap-0218",
+      "path": "prompts/product/product-the-bottle-cap-0218.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-serum-skincare-bottle-0226",
+      "path": "prompts/product/product-serum-skincare-bottle-0226.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-product-luxury-glass-0230",
+      "path": "prompts/product/product-product-luxury-glass-0230.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-glass-product-blush-pink-0232",
+      "path": "prompts/product/product-glass-product-blush-pink-0232.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "product-deodorant-surface-luxury-0237",
+      "path": "prompts/product/product-deodorant-surface-luxury-0237.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-brand-animal-0128",
+      "path": "prompts/branding/branding-the-brand-animal-0128.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-brand-logo-0141",
+      "path": "prompts/branding/branding-the-brand-logo-0141.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-brand-bouquet-0173",
+      "path": "prompts/branding/branding-the-brand-bouquet-0173.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-material-bottle-positioning-0177",
+      "path": "prompts/branding/branding-material-bottle-positioning-0177.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-the-right-facing-0179",
+      "path": "prompts/branding/branding-the-right-facing-0179.md",
+      "score": 22,
+      "quality": "A"
+    }
+  ]
+}

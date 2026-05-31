@@ -3,7 +3,7 @@ id: landscape-d88174af26-0047
 title: "植物配置分析图"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["鸟瞰", "景观", "园林", "分析图", "手绘", "水彩", "暖色调", "樱花"]
 recommended_models: 
   - banana-pro

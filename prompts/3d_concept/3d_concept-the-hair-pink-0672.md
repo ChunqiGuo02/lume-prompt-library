@@ -3,7 +3,7 @@ id: 3d_concept-the-hair-pink-0672
 title: "简直就是“娃娃般”的完美审美啊🌸"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["Y2K", "千禧", "拼贴", "海报", "辣妹", "甜酷", "青蓝", "霓虹粉"]
 recommended_models: 
   - banana-pro

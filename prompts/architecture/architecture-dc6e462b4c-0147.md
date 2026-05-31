@@ -3,7 +3,7 @@ id: architecture-dc6e462b4c-0147
 title: "照片生成剖面图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "剖面", "图纸", "功能", "分区", "流线", "办公", "商业"]
 recommended_models: 
   - banana-pro

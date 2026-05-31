@@ -3,7 +3,7 @@ id: 3d_concept-the-pose-base-0688
 title: "红蓝双曝艺术人像创作"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["人像", "女孩", "自拍", "红色", "青色", "撞色", "重影", "错位"]
 recommended_models: 
   - banana-pro

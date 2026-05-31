@@ -3,7 +3,7 @@ id: product-the-tube-beauty-0231
 title: "高端美妆产品挤压创意商业摄影"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["护肤品", "面膜", "粉色", "气球", "简约", "高级", "商业", "摄影"]
 recommended_models: 
   - banana-pro

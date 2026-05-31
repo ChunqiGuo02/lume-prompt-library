@@ -3,7 +3,7 @@ id: branding-material-bottle-positioning-0177
 title: "奢华极简风格美容产品摄影提示词预设"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["护肤", "美妆", "琥珀色", "玻璃", "玫瑰", "极简", "奢华", "暖色调"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: branding-bnqw47yfoo-0651
 title: "“经济实惠交通”广告提示词"
 category: branding
 subcategory: "02_广告营销电商宣传"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["Seedance 2.0", "汽车广告", "精致穿搭", "高端音效", "金属轮毂", "黑色皮座椅", "复古通勤单车", "低碳出行"]
 recommended_models: []
 recommended_params:

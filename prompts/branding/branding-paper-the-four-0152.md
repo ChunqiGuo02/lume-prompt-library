@@ -3,7 +3,7 @@ id: branding-paper-the-four-0152
 title: "四品牌纸艺拼贴广告"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["纸雕", "立体", "分层", "创意", "品牌", "咖啡", "标志", "红色"]
 recommended_models: 
   - banana-pro

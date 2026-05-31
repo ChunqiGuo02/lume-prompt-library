@@ -3,7 +3,7 @@ id: 3d_concept-the-tree-christmas-0686
 title: "红色人像螺旋圣诞树"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["分形", "螺旋", "红色", "拼贴", "超现实", "几何", "创意", "人像"]
 recommended_models: 
   - banana-pro

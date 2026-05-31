@@ -3,7 +3,7 @@ id: branding-the-gold-bottle-0465
 title: "高端香水电商广告摄影"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "奢华", "优雅", "高级", "金色", "暖调", "大理石", "玻璃"]
 recommended_models: []
 recommended_params:

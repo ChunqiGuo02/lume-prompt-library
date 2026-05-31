@@ -3,7 +3,7 @@ id: branding-bottle-green-forest-0461
 title: "高端香水产品摄影提示词预设，用于生成电影级写实商业图像。"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "玻璃", "水花", "琥珀色", "倒影", "暗调", "商业", "奢华"]
 recommended_models: 
   - banana-pro

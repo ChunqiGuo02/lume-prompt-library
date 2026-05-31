@@ -3,7 +3,7 @@ id: landscape-gis-f5f5f0-c719e-0049
 title: "清新风格分析图底图"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["规划图", "GIS", "矢量图", "平面图", "钱塘江", "江心洲", "开发区", "高新区"]
 recommended_models: []
 recommended_params:

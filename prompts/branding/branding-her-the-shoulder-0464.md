@@ -3,7 +3,7 @@ id: branding-her-the-shoulder-0464
 title: "高端香水广告海报"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "高级", "奢华", "优雅", "广告", "摄影", "暖调", "简约"]
 recommended_models: []
 recommended_params:

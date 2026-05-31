@@ -3,7 +3,7 @@ id: branding-icon-objects-object-0036
 title: "Airbnb风格的图标"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["3D", "渲染", "图标", "等距", "暖色调", "简约", "柔和", "干净"]
 recommended_models: 
   - banana-pro

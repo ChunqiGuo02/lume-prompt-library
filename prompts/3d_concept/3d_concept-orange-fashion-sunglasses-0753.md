@@ -3,7 +3,7 @@ id: 3d_concept-orange-fashion-sunglasses-0753
 title: "蓝肤女性戴黄框橙镜时尚肖像，赛博朋克风"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["时尚", "人像", "女性", "蓝色", "橙色", "黄色", "墨镜", "撞色"]
 recommended_models: 
   - banana-pro

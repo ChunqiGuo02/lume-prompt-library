@@ -3,7 +3,7 @@ id: branding-product-name-studio-0424
 title: "高端产品悬浮摄影广告图"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["墨镜", "红色", "高端", "广告", "摄影", "悬浮", "渐变", "精致"]
 recommended_models: 
   - banana-pro

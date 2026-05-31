@@ -3,7 +3,7 @@ id: 3d_concept-the-her-she-0055
 title: "一个令人着迷的“自我多元宇宙”"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["创意", "微缩", "人像", "摄影", "撞色", "浅蓝", "白色", "黑色"]
 recommended_models: 
   - banana-pro

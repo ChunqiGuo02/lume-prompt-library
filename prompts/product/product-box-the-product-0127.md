@@ -3,7 +3,7 @@ id: product-box-the-product-0127
 title: "模切线图转3D产品可视化"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["极简", "奢华", "高端", "米色", "中性", "哑光", "包装", "美妆"]
 recommended_models: 
   - banana-pro

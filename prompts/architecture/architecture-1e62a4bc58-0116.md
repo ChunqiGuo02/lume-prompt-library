@@ -3,7 +3,7 @@ id: architecture-1e62a4bc58-0116
 title: "手绘分析图生成"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "古建", "祈年殿", "手绘", "图纸", "平面图", "剖面图", "分析图"]
 recommended_models: 
   - banana-pro

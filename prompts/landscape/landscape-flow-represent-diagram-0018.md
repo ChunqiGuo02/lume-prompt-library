@@ -3,7 +3,7 @@ id: landscape-flow-represent-diagram-0018
 title: "场地分析-流线分析"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["城市", "规划", "分析图", "矢量", "极简", "平面", "道路", "配色"]
 recommended_models: 
   - banana-pro

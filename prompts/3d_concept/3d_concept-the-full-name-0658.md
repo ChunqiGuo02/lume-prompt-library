@@ -3,7 +3,7 @@ id: 3d_concept-the-full-name-0658
 title: "科技创业者埃隆·马斯克的超写实全身肖像与几何风格矢量头像设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["马斯克", "企业家", "超写实", "肖像", "黑白", "简约", "现代", "商务"]
 recommended_models: 
   - banana-pro

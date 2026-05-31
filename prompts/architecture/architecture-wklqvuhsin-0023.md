@@ -3,7 +3,7 @@ id: architecture-wklqvuhsin-0023
 title: "分析图-建筑方案生成"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "分析图", "轴测", "体块", "推演", "白色", "简洁", "现代"]
 recommended_models: 
   - banana-pro

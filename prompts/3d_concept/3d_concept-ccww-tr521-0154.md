@@ -3,7 +3,7 @@ id: 3d_concept-ccww-tr521-0154
 title: "创意无限宇宙✖️冷感街头监控"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["监控", "街拍", "赛博", "复古", "拼贴", "特写", "城市", "广场"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: branding-the-real-object-0108
 title: "创意广告"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["简约", "创意", "广告", "手绘", "拼贴", "趣味", "线稿", "留白"]
 recommended_models: 
   - banana-pro

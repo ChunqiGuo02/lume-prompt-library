@@ -3,7 +3,7 @@ id: branding-the-right-facing-0179
 title: "奢华珠宝腕表产品详情页设计模板"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["奢华", "写实", "高级", "祖母绿", "腕表", "钻石", "礼服", "女性"]
 recommended_models: 
   - banana-pro

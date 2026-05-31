@@ -3,7 +3,7 @@ id: architecture-64f8bc78b5-0081
 title: "建筑方案线稿风表达"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["线稿", "轴测", "建筑", "设计", "蓝色", "黄色", "漫画", "趣味"]
 recommended_models: 
   - banana-pro

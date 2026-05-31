@@ -3,7 +3,7 @@ id: 3d_concept-the-surface-effect-0214
 title: "四元素从照片中溢出的超现实视觉效果"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["超现实", "创意", "拼贴", "宝丽来", "水", "熔岩", "沙子", "雪"]
 recommended_models: 
   - banana-pro

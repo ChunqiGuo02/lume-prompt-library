@@ -3,7 +3,7 @@ id: 3d_concept-impossible-shape-this-0074
 title: "不可能的3D形状设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["视错觉", "几何", "三维", "暖色调", "抽象", "图形", "设计", "撞色"]
 recommended_models: 
   - banana-pro

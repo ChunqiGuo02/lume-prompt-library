@@ -3,7 +3,7 @@ id: 3d_concept-the-type-subject-0757
 title: "蓝调街头风时尚大片，融合插画元素"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["蓝色", "摄影", "插画", "拼贴", "街头", "潮流", "活力", "都市"]
 recommended_models: 
   - banana-pro

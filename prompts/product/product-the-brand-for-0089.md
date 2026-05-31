@@ -3,7 +3,7 @@ id: product-the-brand-for-0089
 title: "奢侈品牌玫瑰金雕塑视觉生成"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["奢华", "珠宝", "玫瑰金", "钻石", "品牌", "精致", "优雅", "艺术"]
 recommended_models: 
   - banana-pro

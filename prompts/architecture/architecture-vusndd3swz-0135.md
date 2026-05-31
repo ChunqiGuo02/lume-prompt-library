@@ -3,7 +3,7 @@ id: architecture-vusndd3swz-0135
 title: "根据方案生成立面图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "制图", "立面图", "线稿", "水彩风", "现代", "玻璃", "混凝土"]
 recommended_models: 
   - banana-pro

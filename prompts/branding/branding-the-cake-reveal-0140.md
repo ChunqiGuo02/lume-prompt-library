@@ -3,7 +3,7 @@ id: branding-the-cake-reveal-0140
 title: "品牌标志蛋糕创意设计"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["蛋糕", "图标", "创意", "写实", "美食", "甜点", "趣味", "色彩"]
 recommended_models: 
   - banana-pro

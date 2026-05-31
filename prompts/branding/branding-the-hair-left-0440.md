@@ -3,7 +3,7 @@ id: branding-the-hair-left-0440
 title: "高端极简吹风机广告海报"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["极简", "简约", "高端", "广告", "美发", "吹风机", "护发", "速干"]
 recommended_models: []
 recommended_params:

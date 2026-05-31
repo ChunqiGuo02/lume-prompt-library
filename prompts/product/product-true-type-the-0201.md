@@ -3,7 +3,7 @@ id: product-true-type-the-0201
 title: "霓虹玻璃发光"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["霓虹", "玻璃", "紫色", "发光", "透明", "黑色", "3D", "渲染"]
 recommended_models: 
   - banana-pro

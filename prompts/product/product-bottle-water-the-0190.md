@@ -3,7 +3,7 @@ id: product-bottle-water-the-0190
 title: "透明水瓶造型3D设计生成"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["水瓶", "透明", "写实", "渲染", "白底", "简约", "创意", "设计"]
 recommended_models: []
 recommended_params:

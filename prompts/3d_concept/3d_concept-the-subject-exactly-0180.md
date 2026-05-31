@@ -3,7 +3,7 @@ id: 3d_concept-the-subject-exactly-0180
 title: "双人iPhone写真馆四格拼图模板"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["拼贴", "网格", "双人", "摄影", "写真", "黑色", "银色", "写实"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-brand-the-product-0101
 title: "将您最喜欢的品牌变成生活方式产品"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["星巴克", "手提包", "红色", "绿色", "撞色", "极简风", "商业摄影", "品牌周边"]
 recommended_models: 
   - banana-pro

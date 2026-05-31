@@ -3,7 +3,7 @@ id: 3d_concept-clean-fitness-panel-0116
 title: "健康生活美学：健身、饮食与日常仪式感"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["健身", "健康", "极简", "拼贴", "现代", "中性色", "自然光", "自拍"]
 recommended_models: 
   - banana-pro

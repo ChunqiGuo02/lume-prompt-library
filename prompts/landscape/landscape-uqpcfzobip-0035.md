@@ -3,7 +3,7 @@ id: landscape-uqpcfzobip-0035
 title: "景观手绘草图生成效果图"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["景观", "渲染", "写实", "公园", "溪流", "步道", "阳光", "绿地"]
 recommended_models: 
   - banana-pro

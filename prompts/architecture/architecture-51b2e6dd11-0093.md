@@ -3,7 +3,7 @@ id: architecture-51b2e6dd11-0093
 title: "建筑照片转爆炸分析图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "轴测图", "结构", "分解", "拆解", "立面", "楼板", "设计"]
 recommended_models: 
   - banana-pro

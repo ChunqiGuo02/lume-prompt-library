@@ -3,7 +3,7 @@ id: branding-the-brand-logo-0141
 title: "品牌标志造型的奢华快闪店"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["3D", "渲染", "苹果", "造型", "轻奢", "展柜", "白色", "金属"]
 recommended_models: 
   - banana-pro

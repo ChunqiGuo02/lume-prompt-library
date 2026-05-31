@@ -3,7 +3,7 @@ id: landscape-7b8258ffe5-0036
 title: "景观植物四季转换"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["四季", "春季", "夏季", "秋季", "冬季", "自然", "风景", "公园"]
 recommended_models: 
   - banana-pro

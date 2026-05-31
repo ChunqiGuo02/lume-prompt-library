@@ -3,7 +3,7 @@ id: product-9feb6d0f36-0038
 title: "产品精修16"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["精修", "化妆品", "乳液", "绿色", "金属", "玻璃", "通透", "质感"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: branding-the-brand-version-0146
 title: "品牌虚拟人物"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["卡通", "手绘", "涂鸦", "动感", "鲜艳", "活力", "品牌", "插画"]
 recommended_models: 
   - banana-pro

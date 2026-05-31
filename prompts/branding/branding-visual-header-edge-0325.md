@@ -3,7 +3,7 @@ id: branding-visual-header-edge-0325
 title: "科技感品牌视觉头图设计预设"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["抽象", "亮黄", "渐变", "简约", "科技", "几何", "潮酷", "现代"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-the-product-skin-0209
 title: "香水产品高端生活场景图"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "美妆", "暖色调", "自然光", "红色", "木质", "优雅", "简约"]
 recommended_models: 
   - banana-pro

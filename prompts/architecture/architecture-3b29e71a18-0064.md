@@ -3,7 +3,7 @@ id: architecture-3b29e71a18-0064
 title: "建筑分析图-风环境分析"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "分析图", "风环境", "夏季", "成都", "白模", "效果图", "风速"]
 recommended_models: 
   - banana-pro

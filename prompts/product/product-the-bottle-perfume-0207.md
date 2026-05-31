@@ -3,7 +3,7 @@ id: product-the-bottle-perfume-0207
 title: "香奈儿五号香水广告图"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香水", "奢华", "金色", "暗调", "光影", "烟雾", "大理石", "玻璃"]
 recommended_models: []
 recommended_params:

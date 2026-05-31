@@ -3,7 +3,7 @@ id: 3d_concept-guizang-clay-header-0007
 title: "2025年终创意数据总结"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["3D", "黏土", "Q版", "高饱和", "暖色调", "紫色", "海报", "数据"]
 recommended_models: 
   - banana-pro

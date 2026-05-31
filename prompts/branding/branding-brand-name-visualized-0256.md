@@ -3,7 +3,7 @@ id: branding-brand-name-visualized-0256
 title: "极简主义品牌包装设计"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["极简", "黑白", "单色", "创意", "包装", "设计", "奢侈", "潮流"]
 recommended_models: 
   - banana-pro

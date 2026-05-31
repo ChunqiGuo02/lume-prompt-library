@@ -3,7 +3,7 @@ id: product-frog-one-luxury-0217
 title: "高端剃须啫喱奢华广告摄影预设"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["迪奥", "剃须凝胶", "护肤", "男士", "蓝色", "青蛙", "铜质", "复古"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-mp3-iphone-y2k-0261
 title: "复古电子设备拼贴人像艺术"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["Y2K", "复古", "怀旧", "创意", "马赛克", "人像", "手机", "相机"]
 recommended_models: 
   - banana-pro

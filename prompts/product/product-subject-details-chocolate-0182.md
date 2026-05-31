@@ -3,7 +3,7 @@ id: product-subject-details-chocolate-0182
 title: "超写实奢华巧克力摄影，展现精致纹理与艺术构图"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["巧克力", "粉色", "悬浮", "六边形", "碎屑", "油纸", "暗调", "美食"]
 recommended_models: 
   - banana-pro

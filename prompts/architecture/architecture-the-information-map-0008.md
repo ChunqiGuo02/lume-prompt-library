@@ -3,7 +3,7 @@ id: architecture-the-information-map-0008
 title: "任务书快题设计"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["规划", "景观", "建筑", "平面", "剖面", "立面", "效果", "设计"]
 recommended_models: 
   - banana-pro

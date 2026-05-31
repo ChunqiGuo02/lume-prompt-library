@@ -3,7 +3,7 @@ id: product-luxury-glass-room-0092
 title: "奢华家居香氛商业摄影AI提示词"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["香氛", "奢华", "暖色调", "大理石", "尤加利", "兰花", "喷雾", "玻璃瓶"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: architecture-the-for-architectural-0003
 title: "SASAKI分析图绘制"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["建筑", "分析", "轴测", "运动", "场地", "流线", "空间", "粉色"]
 recommended_models: 
   - banana-pro

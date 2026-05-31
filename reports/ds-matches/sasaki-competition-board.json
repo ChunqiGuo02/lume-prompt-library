@@ -1,0 +1,432 @@
+{
+  "ds_slug": "sasaki-competition-board",
+  "ds_label": "SASAKI 竞赛景观风",
+  "matched_total": 29,
+  "candidate_pool": 29,
+  "top_tags": [
+    {
+      "tag": "建筑",
+      "count": 18
+    },
+    {
+      "tag": "景观",
+      "count": 16
+    },
+    {
+      "tag": "鸟瞰",
+      "count": 10
+    },
+    {
+      "tag": "公园",
+      "count": 9
+    },
+    {
+      "tag": "规划",
+      "count": 9
+    },
+    {
+      "tag": "城市",
+      "count": 7
+    },
+    {
+      "tag": "设计",
+      "count": 6
+    },
+    {
+      "tag": "生态",
+      "count": 5
+    },
+    {
+      "tag": "分析图",
+      "count": 5
+    },
+    {
+      "tag": "绿地",
+      "count": 4
+    },
+    {
+      "tag": "自然",
+      "count": 4
+    },
+    {
+      "tag": "手绘",
+      "count": 4
+    },
+    {
+      "tag": "现代",
+      "count": 3
+    },
+    {
+      "tag": "流线",
+      "count": 3
+    },
+    {
+      "tag": "渲染",
+      "count": 3
+    },
+    {
+      "tag": "插画",
+      "count": 3
+    },
+    {
+      "tag": "秋季",
+      "count": 3
+    },
+    {
+      "tag": "暖色调",
+      "count": 3
+    },
+    {
+      "tag": "步道",
+      "count": 2
+    },
+    {
+      "tag": "水景",
+      "count": 2
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "暖色调",
+      "count": 3
+    },
+    {
+      "tag": "白色",
+      "count": 1
+    },
+    {
+      "tag": "蓝色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "建筑",
+      "count": 18
+    },
+    {
+      "tag": "城市",
+      "count": 7
+    },
+    {
+      "tag": "插画",
+      "count": 3
+    },
+    {
+      "tag": "户外",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 5,
+    "B": 24,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "architecture-a23e8c51f2-0166",
+      "title": "规划总平面图转鸟瞰图",
+      "path": "prompts/architecture/architecture-a23e8c51f2-0166.md",
+      "score": 71,
+      "hits": 7,
+      "hitKeywords": [
+        "景观",
+        "规划",
+        "鸟瞰",
+        "鸟瞰图",
+        "总平面",
+        "公园",
+        "绿地"
+      ]
+    },
+    {
+      "id": "architecture-f5b7004a4b-0182",
+      "title": "鸟瞰图转平面图",
+      "path": "prompts/architecture/architecture-f5b7004a4b-0182.md",
+      "score": 61,
+      "hits": 6,
+      "hitKeywords": [
+        "景观",
+        "规划",
+        "鸟瞰",
+        "鸟瞰图",
+        "公园",
+        "绿地"
+      ]
+    },
+    {
+      "id": "architecture-fqhaxevh0b-0097",
+      "title": "建筑白膜转鸟瞰图",
+      "path": "prompts/architecture/architecture-fqhaxevh0b-0097.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "鸟瞰",
+        "鸟瞰图",
+        "公园",
+        "广场"
+      ]
+    },
+    {
+      "id": "architecture-kkvmuniyft-0168",
+      "title": "设计用地【强排】 多方案生成",
+      "path": "prompts/architecture/architecture-kkvmuniyft-0168.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "景观",
+        "规划",
+        "鸟瞰",
+        "鸟瞰图"
+      ]
+    },
+    {
+      "id": "architecture-attributes-type-description-0015",
+      "title": "体积光薄雾鸟瞰图",
+      "path": "prompts/architecture/architecture-attributes-type-description-0015.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "景观",
+        "鸟瞰",
+        "鸟瞰图"
+      ]
+    },
+    {
+      "id": "landscape-87f2760d23-0043",
+      "title": "景观设计总平面植物生态网络图",
+      "path": "prompts/landscape/landscape-87f2760d23-0043.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "景观",
+        "规划",
+        "总平面"
+      ]
+    },
+    {
+      "id": "architecture-25fcb1d18b-0113",
+      "title": "总图填色",
+      "path": "prompts/architecture/architecture-25fcb1d18b-0113.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "景观",
+        "规划",
+        "浅绿"
+      ]
+    },
+    {
+      "id": "landscape-uqpcfzobip-0035",
+      "title": "景观手绘草图生成效果图",
+      "path": "prompts/landscape/landscape-uqpcfzobip-0035.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "景观",
+        "公园",
+        "绿地"
+      ]
+    },
+    {
+      "id": "architecture-the-architectural-design-0165",
+      "title": "规划平面图变鸟瞰图",
+      "path": "prompts/architecture/architecture-the-architectural-design-0165.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "规划",
+        "鸟瞰",
+        "鸟瞰图"
+      ]
+    },
+    {
+      "id": "landscape-62u9dkrcuu-0056",
+      "title": "设计用地【景观】多方案生成",
+      "path": "prompts/landscape/landscape-62u9dkrcuu-0056.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "景观",
+        "总平面",
+        "公园"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "architecture-a23e8c51f2-0166",
+      "path": "prompts/architecture/architecture-a23e8c51f2-0166.md",
+      "score": 71,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-f5b7004a4b-0182",
+      "path": "prompts/architecture/architecture-f5b7004a4b-0182.md",
+      "score": 61,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-fqhaxevh0b-0097",
+      "path": "prompts/architecture/architecture-fqhaxevh0b-0097.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-kkvmuniyft-0168",
+      "path": "prompts/architecture/architecture-kkvmuniyft-0168.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-attributes-type-description-0015",
+      "path": "prompts/architecture/architecture-attributes-type-description-0015.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-87f2760d23-0043",
+      "path": "prompts/landscape/landscape-87f2760d23-0043.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "architecture-25fcb1d18b-0113",
+      "path": "prompts/architecture/architecture-25fcb1d18b-0113.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "landscape-uqpcfzobip-0035",
+      "path": "prompts/landscape/landscape-uqpcfzobip-0035.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-the-architectural-design-0165",
+      "path": "prompts/architecture/architecture-the-architectural-design-0165.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "landscape-62u9dkrcuu-0056",
+      "path": "prompts/landscape/landscape-62u9dkrcuu-0056.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-the-information-map-0008",
+      "path": "prompts/architecture/architecture-the-information-map-0008.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-represent-landscape-map-0017",
+      "path": "prompts/landscape/landscape-represent-landscape-map-0017.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "architecture-nvknyqyhrf-0174",
+      "path": "prompts/architecture/architecture-nvknyqyhrf-0174.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-569109a4c9-0010",
+      "path": "prompts/landscape/landscape-569109a4c9-0010.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-c9nkhbpxbh-0037",
+      "path": "prompts/architecture/architecture-c9nkhbpxbh-0037.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "landscape-iasvxqgj8b-0022",
+      "path": "prompts/landscape/landscape-iasvxqgj8b-0022.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-0f15830463-0104",
+      "path": "prompts/architecture/architecture-0f15830463-0104.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-fe22xkojdy-0109",
+      "path": "prompts/architecture/architecture-fe22xkojdy-0109.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "landscape-2d7f03a00c-0032",
+      "path": "prompts/landscape/landscape-2d7f03a00c-0032.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "landscape-246431935a-0034",
+      "path": "prompts/landscape/landscape-246431935a-0034.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "landscape-7b8258ffe5-0036",
+      "path": "prompts/landscape/landscape-7b8258ffe5-0036.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "landscape-grid-architectural-nine-0039",
+      "path": "prompts/landscape/landscape-grid-architectural-nine-0039.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-cxw7oakzni-0131",
+      "path": "prompts/architecture/architecture-cxw7oakzni-0131.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-blo0ubczom-0134",
+      "path": "prompts/architecture/architecture-blo0ubczom-0134.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "landscape-d88174af26-0047",
+      "path": "prompts/landscape/landscape-d88174af26-0047.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-blur-negative-prompt-0156",
+      "path": "prompts/architecture/architecture-blur-negative-prompt-0156.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-architecturallandscaperendering-naturalisticandeco-recreational-urbanp-0170",
+      "path": "prompts/architecture/architecture-architecturallandscaperendering-naturalisticandeco-recreational-urbanp-0170.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-ognfoqec4m-0173",
+      "path": "prompts/architecture/architecture-ognfoqec4m-0173.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "architecture-g0yokhzjmy-0175",
+      "path": "prompts/architecture/architecture-g0yokhzjmy-0175.md",
+      "score": 21,
+      "quality": "B"
+    }
+  ]
+}

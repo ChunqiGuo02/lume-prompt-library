@@ -3,7 +3,7 @@ id: branding-the-cup-her-0200
 title: "巨型饮品上的时尚微缩人像"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["创意", "超现实", "微缩", "夸张", "女性", "户外", "街景", "抹茶"]
 recommended_models: 
   - banana-pro

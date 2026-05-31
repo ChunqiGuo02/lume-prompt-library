@@ -3,7 +3,7 @@ id: architecture-cxw7oakzni-0131
 title: "根据方案生成分析图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["分析图", "建筑", "鸟瞰", "交通", "景观", "简约", "现代", "可视化"]
 recommended_models: 
   - banana-pro

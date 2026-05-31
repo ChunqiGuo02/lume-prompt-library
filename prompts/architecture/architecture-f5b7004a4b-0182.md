@@ -3,7 +3,7 @@ id: architecture-f5b7004a4b-0182
 title: "鸟瞰图转平面图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["建筑", "规划", "景观", "水景", "公园", "环形", "绿地", "艺术"]
 recommended_models: 
   - banana-pro

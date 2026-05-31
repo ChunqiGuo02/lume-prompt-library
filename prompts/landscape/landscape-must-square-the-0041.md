@@ -3,7 +3,7 @@ id: landscape-must-square-the-0041
 title: "景观节点分析图插画风-矩阵"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["儿童", "乐园", "景观", "分析", "轴测", "插画", "暖色调", "简约"]
 recommended_models: 
   - banana-pro

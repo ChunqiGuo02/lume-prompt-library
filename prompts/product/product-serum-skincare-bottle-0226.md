@@ -3,7 +3,7 @@ id: product-serum-skincare-bottle-0226
 title: "高端极简护肤品摄影提示词"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["护肤", "精华", "极简", "奢华", "暖调", "白色", "琥珀色", "干花"]
 recommended_models: 
   - banana-pro

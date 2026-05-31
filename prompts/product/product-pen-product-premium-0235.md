@@ -3,7 +3,7 @@ id: product-pen-product-premium-0235
 title: "高端金属笔具的奢华产品摄影展示"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["圆珠笔", "金属", "雕刻", "简约", "高级", "轻奢", "冷色调", "摄影"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: branding-fries-commercial-red-0365
 title: "薯条主题超现实商业摄影创意图"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["薯条", "超现实", "商业", "摄影", "红色", "黄色", "暖色调", "高饱和"]
 recommended_models: 
   - banana-pro

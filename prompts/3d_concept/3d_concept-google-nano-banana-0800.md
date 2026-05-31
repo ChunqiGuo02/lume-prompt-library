@@ -3,7 +3,7 @@ id: 3d_concept-google-nano-banana-0800
 title: "谷歌香蕉乐团跨年演唱会海报 (1)"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["海报", "香蕉", "波普", "撞色", "演唱会", "跨年", "新年", "狂欢"]
 recommended_models: 
   - banana-pro

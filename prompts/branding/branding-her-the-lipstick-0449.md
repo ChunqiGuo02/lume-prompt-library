@@ -3,7 +3,7 @@ id: branding-her-the-lipstick-0449
 title: "高端美妆广告：红唇女神与巨型MAC口红的奢华视觉呈现"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["美妆", "广告", "高端", "口红", "红色", "黑色", "纯白", "超写实"]
 recommended_models: 
   - banana-pro

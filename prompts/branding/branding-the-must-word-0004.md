@@ -3,7 +3,7 @@ id: branding-the-must-word-0004
 title: "2D单词海报设计"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["海报", "小轮车", "撞色", "极简", "超现实", "印刷风", "复古", "猫咪"]
 recommended_models: 
   - banana-pro

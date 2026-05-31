@@ -3,7 +3,7 @@ id: architecture-g0yokhzjmy-0175
 title: "风格化制图：黑白灰线稿风效果图【建筑、景观、规划均适用】"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: sasaki-competition-board
 tags: ["线稿", "建筑", "设计", "城市", "街道", "树木", "人物", "汽车"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: branding-5f38df7d35-0076
 title: "Y2K酸性海报设计预设"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["Y2K", "酸性设计", "拼贴风", "平面海报", "复古", "亮黄色", "现代设计", "人物"]
 recommended_models: 
   - banana-pro

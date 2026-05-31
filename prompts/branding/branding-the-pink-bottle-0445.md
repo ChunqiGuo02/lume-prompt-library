@@ -3,7 +3,7 @@ id: branding-the-pink-bottle-0445
 title: "高端简约护肤产品摄影，展现纯净质感与奢华美学。"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["粉色", "护肤品", "洁面", "瓶子", "泡沫", "气泡", "极简", "高级"]
 recommended_models: 
   - banana-pro

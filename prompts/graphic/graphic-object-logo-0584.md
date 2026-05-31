@@ -3,7 +3,7 @@ id: graphic-object-logo-0584
 title: "字体logo设计"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["文字拼贴", "矢量插画", "创意设计", "撞色设计", "纯色背景", "品牌元素", "潮流插画", "方形构图"]
 recommended_models: 
   - banana-pro

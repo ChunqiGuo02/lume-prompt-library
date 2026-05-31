@@ -3,7 +3,7 @@ id: branding-colorful-y2k-facelock-0504
 title: "Y2K少女贴纸风拼贴海报"
 category: branding
 subcategory: "14_社交媒体营销"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["Y2K", "千禧", "拼贴", "可爱", "少女", "粉色", "多巴胺", "海报"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-product-create-editorial-0152
 title: "电商广告故事板"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["唇釉", "美妆", "粉色", "闪粉", "简约", "干净", "高端", "电商"]
 recommended_models: 
   - banana-pro

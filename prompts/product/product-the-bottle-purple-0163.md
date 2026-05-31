@@ -3,7 +3,7 @@ id: product-the-bottle-purple-0163
 title: "神秘紫色调香水产品图生成预设"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["紫色", "黑色", "香水瓶", "玻璃", "碎片", "水珠", "烟雾", "暗黑"]
 recommended_models: 
   - banana-pro

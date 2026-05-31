@@ -3,7 +3,7 @@ id: architecture-afaf7038d0-0118
 title: "插画轴测分析图"
 category: architecture
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["轴测", "插画", "建筑", "蓝色", "简约", "阴影", "自然光", "小人"]
 recommended_models: 
   - banana-pro

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T08:44:13.802Z",
-  "ds_count": 5,
+  "generated_at": "2026-05-31T09:05:00.360Z",
+  "ds_count": 10,
   "summary": {
     "warm-cinematic-portrait": {
       "matched": 50,
@@ -493,6 +493,441 @@
         },
         {
           "tag": "绿色",
+          "count": 1
+        }
+      ]
+    },
+    "clean-brand-shoot": {
+      "matched": 31,
+      "top_tags": [
+        {
+          "tag": "简约",
+          "count": 16
+        },
+        {
+          "tag": "极简",
+          "count": 13
+        },
+        {
+          "tag": "创意",
+          "count": 6
+        },
+        {
+          "tag": "粉色",
+          "count": 5
+        },
+        {
+          "tag": "干净",
+          "count": 5
+        },
+        {
+          "tag": "高端",
+          "count": 5
+        },
+        {
+          "tag": "暖色调",
+          "count": 4
+        },
+        {
+          "tag": "高级感",
+          "count": 4
+        },
+        {
+          "tag": "美妆",
+          "count": 3
+        },
+        {
+          "tag": "摄影",
+          "count": 3
+        }
+      ],
+      "color": [
+        {
+          "tag": "粉色",
+          "count": 5
+        },
+        {
+          "tag": "暖色调",
+          "count": 4
+        },
+        {
+          "tag": "绿色",
+          "count": 3
+        },
+        {
+          "tag": "白色",
+          "count": 2
+        },
+        {
+          "tag": "蓝色",
+          "count": 1
+        },
+        {
+          "tag": "复古",
+          "count": 1
+        },
+        {
+          "tag": "暖调",
+          "count": 1
+        },
+        {
+          "tag": "红色",
+          "count": 1
+        },
+        {
+          "tag": "黑白",
+          "count": 1
+        }
+      ]
+    },
+    "colorful-pop-brand": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "拼贴",
+          "count": 11
+        },
+        {
+          "tag": "创意",
+          "count": 10
+        },
+        {
+          "tag": "撞色",
+          "count": 9
+        },
+        {
+          "tag": "红色",
+          "count": 7
+        },
+        {
+          "tag": "复古",
+          "count": 7
+        },
+        {
+          "tag": "超现实",
+          "count": 7
+        },
+        {
+          "tag": "海报",
+          "count": 7
+        },
+        {
+          "tag": "几何",
+          "count": 7
+        },
+        {
+          "tag": "渐变",
+          "count": 7
+        },
+        {
+          "tag": "摄影",
+          "count": 7
+        }
+      ],
+      "color": [
+        {
+          "tag": "红色",
+          "count": 7
+        },
+        {
+          "tag": "复古",
+          "count": 7
+        },
+        {
+          "tag": "白色",
+          "count": 4
+        },
+        {
+          "tag": "暖色调",
+          "count": 4
+        },
+        {
+          "tag": "黑色",
+          "count": 4
+        },
+        {
+          "tag": "黄色",
+          "count": 4
+        },
+        {
+          "tag": "蓝色",
+          "count": 3
+        },
+        {
+          "tag": "黑白",
+          "count": 2
+        },
+        {
+          "tag": "粉色",
+          "count": 2
+        },
+        {
+          "tag": "紫色",
+          "count": 1
+        },
+        {
+          "tag": "棕色",
+          "count": 1
+        },
+        {
+          "tag": "灰色",
+          "count": 1
+        },
+        {
+          "tag": "银色",
+          "count": 1
+        },
+        {
+          "tag": "金色",
+          "count": 1
+        },
+        {
+          "tag": "霓虹",
+          "count": 1
+        }
+      ]
+    },
+    "luxury-product-ad": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "奢华",
+          "count": 23
+        },
+        {
+          "tag": "香水",
+          "count": 16
+        },
+        {
+          "tag": "玻璃",
+          "count": 11
+        },
+        {
+          "tag": "金色",
+          "count": 11
+        },
+        {
+          "tag": "高端",
+          "count": 9
+        },
+        {
+          "tag": "金属",
+          "count": 9
+        },
+        {
+          "tag": "广告",
+          "count": 8
+        },
+        {
+          "tag": "黑色",
+          "count": 8
+        },
+        {
+          "tag": "大理石",
+          "count": 7
+        },
+        {
+          "tag": "美妆",
+          "count": 7
+        }
+      ],
+      "color": [
+        {
+          "tag": "金色",
+          "count": 11
+        },
+        {
+          "tag": "黑色",
+          "count": 8
+        },
+        {
+          "tag": "暖色调",
+          "count": 6
+        },
+        {
+          "tag": "暖调",
+          "count": 5
+        },
+        {
+          "tag": "粉色",
+          "count": 5
+        },
+        {
+          "tag": "红色",
+          "count": 4
+        },
+        {
+          "tag": "紫色",
+          "count": 4
+        },
+        {
+          "tag": "蓝色",
+          "count": 2
+        },
+        {
+          "tag": "白色",
+          "count": 2
+        },
+        {
+          "tag": "棕色",
+          "count": 1
+        },
+        {
+          "tag": "银色",
+          "count": 1
+        },
+        {
+          "tag": "绿色",
+          "count": 1
+        },
+        {
+          "tag": "暖光",
+          "count": 1
+        },
+        {
+          "tag": "霓虹",
+          "count": 1
+        },
+        {
+          "tag": "复古",
+          "count": 1
+        }
+      ]
+    },
+    "architectural-analysis-academic": {
+      "matched": 36,
+      "top_tags": [
+        {
+          "tag": "建筑",
+          "count": 29
+        },
+        {
+          "tag": "分析图",
+          "count": 14
+        },
+        {
+          "tag": "城市",
+          "count": 10
+        },
+        {
+          "tag": "轴测",
+          "count": 7
+        },
+        {
+          "tag": "流线",
+          "count": 7
+        },
+        {
+          "tag": "规划",
+          "count": 7
+        },
+        {
+          "tag": "现代",
+          "count": 7
+        },
+        {
+          "tag": "简约",
+          "count": 7
+        },
+        {
+          "tag": "极简",
+          "count": 6
+        },
+        {
+          "tag": "鸟瞰",
+          "count": 5
+        }
+      ],
+      "color": [
+        {
+          "tag": "蓝色",
+          "count": 3
+        },
+        {
+          "tag": "红色",
+          "count": 3
+        },
+        {
+          "tag": "绿色",
+          "count": 2
+        },
+        {
+          "tag": "粉色",
+          "count": 1
+        },
+        {
+          "tag": "白色",
+          "count": 1
+        },
+        {
+          "tag": "黑白",
+          "count": 1
+        },
+        {
+          "tag": "暖色调",
+          "count": 1
+        },
+        {
+          "tag": "黄色",
+          "count": 1
+        }
+      ]
+    },
+    "sasaki-competition-board": {
+      "matched": 29,
+      "top_tags": [
+        {
+          "tag": "建筑",
+          "count": 18
+        },
+        {
+          "tag": "景观",
+          "count": 16
+        },
+        {
+          "tag": "鸟瞰",
+          "count": 10
+        },
+        {
+          "tag": "公园",
+          "count": 9
+        },
+        {
+          "tag": "规划",
+          "count": 9
+        },
+        {
+          "tag": "城市",
+          "count": 7
+        },
+        {
+          "tag": "设计",
+          "count": 6
+        },
+        {
+          "tag": "生态",
+          "count": 5
+        },
+        {
+          "tag": "分析图",
+          "count": 5
+        },
+        {
+          "tag": "绿地",
+          "count": 4
+        }
+      ],
+      "color": [
+        {
+          "tag": "暖色调",
+          "count": 3
+        },
+        {
+          "tag": "白色",
+          "count": 1
+        },
+        {
+          "tag": "蓝色",
           "count": 1
         }
       ]

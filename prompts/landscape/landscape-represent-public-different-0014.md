@@ -3,7 +3,7 @@ id: landscape-represent-public-different-0014
 title: "场地分析-公共空间分析"
 category: landscape
 subcategory: "01_建筑室内空间设计"
-aesthetic: null
+aesthetic: architectural-analysis-academic
 tags: ["分析图", "公共", "空间", "矢量风", "简约", "淡色调", "俯视", "二维"]
 recommended_models: 
   - banana-pro

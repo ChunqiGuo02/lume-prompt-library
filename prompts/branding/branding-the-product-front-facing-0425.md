@@ -3,7 +3,7 @@ id: branding-the-product-front-facing-0425
 title: "高端产品静物摄影布光与构图指南"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: colorful-pop-brand
 tags: ["产品摄影", "高端", "酒瓶", "烈酒", "橡木", "枯枝", "渐变", "背景"]
 recommended_models: 
   - banana-pro

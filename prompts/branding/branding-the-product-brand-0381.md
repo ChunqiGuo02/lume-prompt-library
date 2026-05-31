@@ -3,7 +3,7 @@ id: branding-the-product-brand-0381
 title: "超现实主义极简概念广告"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: clean-brand-shoot
 tags: ["超现实主义", "概念广告", "极简风格", "商业海报", "暖色调", "创意设计", "品牌广告", "高级感"]
 recommended_models: 
   - banana-pro

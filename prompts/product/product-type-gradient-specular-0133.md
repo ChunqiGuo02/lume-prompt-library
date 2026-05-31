@@ -3,7 +3,7 @@ id: product-type-gradient-specular-0133
 title: "液态金属设计产品"
 category: product
 subcategory: "02_电商产品虚拟摄影"
-aesthetic: null
+aesthetic: luxury-product-ad
 tags: ["腕表", "卡地亚", "金属", "渐变", "蓝色", "纯黑", "奢华", "高级"]
 recommended_models: 
   - banana-pro
