@@ -3,7 +3,7 @@ id: product-the-inside-miniature-0276
 title: "ESC键内微型阅读空间"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["按键", "微缩", "场景", "温馨", "静谧", "治愈", "写实", "微距"]
 recommended_models: 
   - banana-pro

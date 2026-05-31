@@ -3,7 +3,7 @@ id: product-the-prompt-elements-0424
 title: "城市街景微缩模型制作"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["移轴", "微缩", "模型", "等距", "街景", "电车", "建筑", "都市"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-the-subject-elements-0666
 title: "符号冲突"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "悬浮", "超写实", "梦幻", "象征", "暗调", "光影", "摄影"]
 recommended_models: 
   - banana-pro

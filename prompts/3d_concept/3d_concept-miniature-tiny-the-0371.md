@@ -3,7 +3,7 @@ id: 3d_concept-miniature-tiny-the-0371
 title: "微型甜品世界：厨师们在千层酥上打造梦幻法式糕点王国"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["微缩", "厨师", "甜品", "创意", "微距", "暖色调", "梦幻", "薰衣草"]
 recommended_models: 
   - banana-pro

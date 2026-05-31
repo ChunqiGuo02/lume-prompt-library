@@ -3,7 +3,7 @@ id: 3d_concept-old-fashioned-postal-shack-0390
 title: "悬浮魔幻现实主义"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["太空", "邮局", "信封", "星球", "复古", "魔幻", "手绘", "奇幻"]
 recommended_models: 
   - banana-pro

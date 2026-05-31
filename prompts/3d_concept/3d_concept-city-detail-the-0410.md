@@ -3,7 +3,7 @@ id: 3d_concept-city-detail-the-0410
 title: "护照化作立体旅行日记， stamp跃出成奇幻目的地"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "奇幻", "旅行", "护照", "微缩", "光影", "创意", "地标"]
 recommended_models: 
   - banana-pro

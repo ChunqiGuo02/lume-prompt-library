@@ -3,7 +3,7 @@ id: 3d_concept-surreal-digital-art-0493
 title: "桌面宠物悬浮艺术"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "女性", "短发", "黑色", "电脑", "桌面", "光标", "拼贴"]
 recommended_models: 
   - banana-pro

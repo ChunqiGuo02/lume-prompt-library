@@ -3,7 +3,7 @@ id: 3d_concept-head-top-diorama-thinking-0499
 title: "梦幻游乐园头景艺术"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["粉色", "卷发", "游乐园", "摩天轮", "微缩", "幻想", "落日", "梦幻"]
 recommended_models: 
   - banana-pro

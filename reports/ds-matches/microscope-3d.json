@@ -1,0 +1,598 @@
+{
+  "ds_slug": "microscope-3d",
+  "ds_label": "微缩世界 3D",
+  "matched_total": 50,
+  "candidate_pool": 542,
+  "top_tags": [
+    {
+      "tag": "微缩",
+      "count": 47
+    },
+    {
+      "tag": "模型",
+      "count": 24
+    },
+    {
+      "tag": "微距",
+      "count": 14
+    },
+    {
+      "tag": "3D",
+      "count": 14
+    },
+    {
+      "tag": "建筑",
+      "count": 12
+    },
+    {
+      "tag": "写实",
+      "count": 9
+    },
+    {
+      "tag": "复古",
+      "count": 7
+    },
+    {
+      "tag": "暖色调",
+      "count": 7
+    },
+    {
+      "tag": "移轴",
+      "count": 7
+    },
+    {
+      "tag": "创意",
+      "count": 6
+    },
+    {
+      "tag": "Q版",
+      "count": 6
+    },
+    {
+      "tag": "手工",
+      "count": 5
+    },
+    {
+      "tag": "等距",
+      "count": 5
+    },
+    {
+      "tag": "工人",
+      "count": 5
+    },
+    {
+      "tag": "科幻",
+      "count": 5
+    },
+    {
+      "tag": "立体",
+      "count": 4
+    },
+    {
+      "tag": "暖光",
+      "count": 4
+    },
+    {
+      "tag": "可爱",
+      "count": 3
+    },
+    {
+      "tag": "治愈",
+      "count": 3
+    },
+    {
+      "tag": "街景",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "复古",
+      "count": 7
+    },
+    {
+      "tag": "暖色调",
+      "count": 7
+    },
+    {
+      "tag": "暖光",
+      "count": 4
+    },
+    {
+      "tag": "暖调",
+      "count": 2
+    },
+    {
+      "tag": "蓝色",
+      "count": 1
+    },
+    {
+      "tag": "白色",
+      "count": 1
+    },
+    {
+      "tag": "灰色",
+      "count": 1
+    },
+    {
+      "tag": "黄色",
+      "count": 1
+    },
+    {
+      "tag": "黑色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "建筑",
+      "count": 12
+    },
+    {
+      "tag": "Q版",
+      "count": 6
+    },
+    {
+      "tag": "可爱",
+      "count": 3
+    },
+    {
+      "tag": "城市",
+      "count": 3
+    },
+    {
+      "tag": "卡通",
+      "count": 2
+    }
+  ],
+  "quality_breakdown": {
+    "A": 43,
+    "B": 7,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "product-the-diorama-reference-0459",
+      "title": "微型场景手作摆件展示",
+      "path": "prompts/product/product-the-diorama-reference-0459.md",
+      "score": 61,
+      "hits": 6,
+      "hitKeywords": [
+        "微缩",
+        "微距",
+        "微型",
+        "玩具",
+        "手办",
+        "模型"
+      ]
+    },
+    {
+      "id": "product-the-inside-miniature-0276",
+      "title": "ESC键内微型阅读空间",
+      "path": "prompts/product/product-the-inside-miniature-0276.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "微缩",
+        "微距",
+        "微型",
+        "玩具",
+        "手办"
+      ]
+    },
+    {
+      "id": "product-the-game-thrones-0347",
+      "title": "冰火对决立体场景模型",
+      "path": "prompts/product/product-the-game-thrones-0347.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "微缩",
+        "玩具",
+        "手办",
+        "模型",
+        "立体"
+      ]
+    },
+    {
+      "id": "product-the-totem-book-0368",
+      "title": "原子时代历史立体书景模型",
+      "path": "prompts/product/product-the-totem-book-0368.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "微缩",
+        "玩具",
+        "手办",
+        "模型",
+        "立体"
+      ]
+    },
+    {
+      "id": "product-the-miniature-use-0457",
+      "title": "微型农夫收割巨型向日葵",
+      "path": "prompts/product/product-the-miniature-use-0457.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "微缩",
+        "微距",
+        "微型",
+        "玩具",
+        "手办"
+      ]
+    },
+    {
+      "id": "product-the-miniature-stores-0458",
+      "title": "微型品牌店铺街景展示",
+      "path": "prompts/product/product-the-miniature-stores-0458.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "微缩",
+        "微型",
+        "玩具",
+        "手办",
+        "模型"
+      ]
+    },
+    {
+      "id": "product-watch-the-pocket-0460",
+      "title": "微型工匠修复古董怀表，展现时光、匠心与协作之美",
+      "path": "prompts/product/product-watch-the-pocket-0460.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "微缩",
+        "微距",
+        "微型",
+        "玩具",
+        "手办"
+      ]
+    },
+    {
+      "id": "product-name-the-location-0465",
+      "title": "微缩世界创意模型设计模板",
+      "path": "prompts/product/product-name-the-location-0465.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "微缩",
+        "玩具",
+        "手办",
+        "模型",
+        "立体"
+      ]
+    },
+    {
+      "id": "product-history-topic-input-0543",
+      "title": "游戏历史微缩场景书页艺术",
+      "path": "prompts/product/product-history-topic-input-0543.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "微缩",
+        "玩具",
+        "手办",
+        "桌面",
+        "模型"
+      ]
+    },
+    {
+      "id": "product-material-concept-the-0589",
+      "title": "电路板上的巴黎微缩城市景观",
+      "path": "prompts/product/product-material-concept-the-0589.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "微缩",
+        "微距",
+        "玩具",
+        "手办",
+        "模型"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "product-the-diorama-reference-0459",
+      "path": "prompts/product/product-the-diorama-reference-0459.md",
+      "score": 61,
+      "quality": "B"
+    },
+    {
+      "id": "product-the-inside-miniature-0276",
+      "path": "prompts/product/product-the-inside-miniature-0276.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-game-thrones-0347",
+      "path": "prompts/product/product-the-game-thrones-0347.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-totem-book-0368",
+      "path": "prompts/product/product-the-totem-book-0368.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-miniature-use-0457",
+      "path": "prompts/product/product-the-miniature-use-0457.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-miniature-stores-0458",
+      "path": "prompts/product/product-the-miniature-stores-0458.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-watch-the-pocket-0460",
+      "path": "prompts/product/product-watch-the-pocket-0460.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-name-the-location-0465",
+      "path": "prompts/product/product-name-the-location-0465.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-history-topic-input-0543",
+      "path": "prompts/product/product-history-topic-input-0543.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-material-concept-the-0589",
+      "path": "prompts/product/product-material-concept-the-0589.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-game-diorama-0628",
+      "path": "prompts/product/product-the-game-diorama-0628.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-letters-material-0639",
+      "path": "prompts/product/product-the-letters-material-0639.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-type-book-movie-0640",
+      "path": "prompts/product/product-type-book-movie-0640.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-meme-name-the-0644",
+      "path": "prompts/product/product-meme-name-the-0644.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-inventor-invention-the-0650",
+      "path": "prompts/product/product-inventor-invention-the-0650.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-argument-name-description-0272",
+      "path": "prompts/product/product-argument-name-description-0272.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "product-you-are-the-0344",
+      "path": "prompts/product/product-you-are-the-0344.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "product-the-copper-miniature-0607",
+      "path": "prompts/product/product-the-copper-miniature-0607.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "product-role-definition-you-0621",
+      "path": "prompts/product/product-role-definition-you-0621.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "product-193e15f6ea-0694",
+      "path": "prompts/product/product-193e15f6ea-0694.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "product-nano-banana-prompt-0695",
+      "path": "prompts/product/product-nano-banana-prompt-0695.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "product-the-miniature-collectible-0266",
+      "path": "prompts/product/product-the-miniature-collectible-0266.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-object-they-0299",
+      "path": "prompts/product/product-the-object-they-0299.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-character-thumb-0300",
+      "path": "prompts/product/product-the-character-thumb-0300.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-city-the-cube-shaped-0328",
+      "path": "prompts/product/product-city-the-cube-shaped-0328.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-map-stage-0342",
+      "path": "prompts/product/product-the-map-stage-0342.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-event-text-0367",
+      "path": "prompts/product/product-the-event-text-0367.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-cup-tiny-0389",
+      "path": "prompts/product/product-the-cup-tiny-0389.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-cube-room-0412",
+      "path": "prompts/product/product-the-cube-room-0412.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-subject-underground-0420",
+      "path": "prompts/product/product-the-subject-underground-0420.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-prompt-elements-0424",
+      "path": "prompts/product/product-the-prompt-elements-0424.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-coin-for-0449",
+      "path": "prompts/product/product-the-coin-for-0449.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-construction-lines-0454",
+      "path": "prompts/product/product-the-construction-lines-0454.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-macro-miniature-kfc-0464",
+      "path": "prompts/product/product-macro-miniature-kfc-0464.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-macro-reference-0470",
+      "path": "prompts/product/product-the-macro-reference-0470.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-miniature-macro-surface-0471",
+      "path": "prompts/product/product-miniature-macro-surface-0471.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-watch-the-pocket-0473",
+      "path": "prompts/product/product-watch-the-pocket-0473.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-bir-minyat-yor-0475",
+      "path": "prompts/product/product-bir-minyat-yor-0475.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-room-you-0476",
+      "path": "prompts/product/product-the-room-you-0476.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-paper-prompt-0477",
+      "path": "prompts/product/product-the-paper-prompt-0477.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-collectible-figurine-0479",
+      "path": "prompts/product/product-the-collectible-figurine-0479.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-miniature-city-0494",
+      "path": "prompts/product/product-the-miniature-city-0494.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-paper-the-pop-up-0504",
+      "path": "prompts/product/product-paper-the-pop-up-0504.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-movie-name-0510",
+      "path": "prompts/product/product-the-movie-name-0510.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-stylized-collectible-0538",
+      "path": "prompts/product/product-the-stylized-collectible-0538.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-path-material-0568",
+      "path": "prompts/product/product-the-path-material-0568.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-you-describe-0583",
+      "path": "prompts/product/product-the-you-describe-0583.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-movie-input-0584",
+      "path": "prompts/product/product-the-movie-input-0584.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-key-characters-argument-0585",
+      "path": "prompts/product/product-key-characters-argument-0585.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-aliens-prompt-0586",
+      "path": "prompts/product/product-the-aliens-prompt-0586.md",
+      "score": 42,
+      "quality": "A"
+    }
+  ]
+}

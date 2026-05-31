@@ -3,7 +3,7 @@ id: 3d_concept-prompt-glowing-energy-0125
 title: "光之灵体艺术创作模板"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["鹿", "发光", "灵体", "空灵", "神秘", "超现实", "梦幻", "粒子"]
 recommended_models: 
   - banana-pro

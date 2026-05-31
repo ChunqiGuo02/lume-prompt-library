@@ -1,0 +1,617 @@
+{
+  "ds_slug": "anime-style",
+  "ds_label": "日系动漫风",
+  "matched_total": 50,
+  "candidate_pool": 287,
+  "top_tags": [
+    {
+      "tag": "二次元",
+      "count": 28
+    },
+    {
+      "tag": "动漫",
+      "count": 26
+    },
+    {
+      "tag": "插画",
+      "count": 20
+    },
+    {
+      "tag": "日系",
+      "count": 18
+    },
+    {
+      "tag": "少女",
+      "count": 14
+    },
+    {
+      "tag": "日式",
+      "count": 10
+    },
+    {
+      "tag": "漫画",
+      "count": 9
+    },
+    {
+      "tag": "可爱",
+      "count": 6
+    },
+    {
+      "tag": "水彩",
+      "count": 5
+    },
+    {
+      "tag": "暖色调",
+      "count": 5
+    },
+    {
+      "tag": "复古",
+      "count": 4
+    },
+    {
+      "tag": "动感",
+      "count": 4
+    },
+    {
+      "tag": "黑白",
+      "count": 4
+    },
+    {
+      "tag": "短发",
+      "count": 4
+    },
+    {
+      "tag": "四格",
+      "count": 4
+    },
+    {
+      "tag": "简约",
+      "count": 3
+    },
+    {
+      "tag": "卡通",
+      "count": 3
+    },
+    {
+      "tag": "校服",
+      "count": 3
+    },
+    {
+      "tag": "樱花",
+      "count": 3
+    },
+    {
+      "tag": "校园",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "暖色调",
+      "count": 5
+    },
+    {
+      "tag": "复古",
+      "count": 4
+    },
+    {
+      "tag": "黑白",
+      "count": 4
+    },
+    {
+      "tag": "黄色",
+      "count": 2
+    },
+    {
+      "tag": "蓝色",
+      "count": 2
+    },
+    {
+      "tag": "绿色",
+      "count": 1
+    },
+    {
+      "tag": "紫色",
+      "count": 1
+    },
+    {
+      "tag": "红色",
+      "count": 1
+    },
+    {
+      "tag": "粉色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "二次元",
+      "count": 28
+    },
+    {
+      "tag": "动漫",
+      "count": 26
+    },
+    {
+      "tag": "插画",
+      "count": 20
+    },
+    {
+      "tag": "少女",
+      "count": 14
+    },
+    {
+      "tag": "可爱",
+      "count": 6
+    },
+    {
+      "tag": "卡通",
+      "count": 3
+    },
+    {
+      "tag": "夜景",
+      "count": 1
+    },
+    {
+      "tag": "城市",
+      "count": 1
+    },
+    {
+      "tag": "Q版",
+      "count": 1
+    },
+    {
+      "tag": "室内",
+      "count": 1
+    },
+    {
+      "tag": "自拍",
+      "count": 1
+    },
+    {
+      "tag": "女性",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 15,
+    "B": 35,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "character-the-all-one-0122",
+      "title": "生成日式贴纸风多人互动漫画",
+      "path": "prompts/character/character-the-all-one-0122.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "日系",
+        "动漫",
+        "漫画",
+        "动漫画",
+        "日式"
+      ]
+    },
+    {
+      "id": "character-nano-banana-pro-0169",
+      "title": "超低角度街景动漫画面",
+      "path": "prompts/character/character-nano-banana-pro-0169.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "日系",
+        "动漫",
+        "漫画",
+        "动漫画",
+        "插画"
+      ]
+    },
+    {
+      "id": "character-the-should-lines-0001",
+      "title": "160_新动漫风格",
+      "path": "prompts/character/character-the-should-lines-0001.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "动漫",
+        "漫画",
+        "日式",
+        "插画"
+      ]
+    },
+    {
+      "id": "character-pastel-gentle-watercolor-0100",
+      "title": "樱花茶室水晶少女绘",
+      "path": "prompts/character/character-pastel-gentle-watercolor-0100.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "二次元",
+        "漫画",
+        "日式",
+        "插画"
+      ]
+    },
+    {
+      "id": "character-characters-class-anime-0148",
+      "title": "经典动漫英雄班级合影",
+      "path": "prompts/character/character-characters-class-anime-0148.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "日系",
+        "动漫",
+        "二次元",
+        "漫画"
+      ]
+    },
+    {
+      "id": "illustration-680651e1ae-0193",
+      "title": "痛车制作",
+      "path": "prompts/illustration/illustration-680651e1ae-0193.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "日系",
+        "动漫",
+        "二次元",
+        "插画"
+      ]
+    },
+    {
+      "id": "illustration-the-epic-manga-style-0273",
+      "title": "黑白漫画风格插图",
+      "path": "prompts/illustration/illustration-the-epic-manga-style-0273.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "动漫",
+        "漫画",
+        "日式",
+        "插画"
+      ]
+    },
+    {
+      "id": "story_board-labels-name-character-0065",
+      "title": "动漫角色设定参考图-5",
+      "path": "prompts/story_board/story_board-labels-name-character-0065.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "日系",
+        "动漫",
+        "二次元",
+        "插画"
+      ]
+    },
+    {
+      "id": "character-pop-nano-banana-0007",
+      "title": "80年代City Pop风少女群像插画",
+      "path": "prompts/character/character-pop-nano-banana-0007.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "动漫",
+        "漫画",
+        "日式",
+        "插画"
+      ]
+    },
+    {
+      "id": "character-the-anime-yellow-0043",
+      "title": "动漫与现实在电视节目中完美结合",
+      "path": "prompts/character/character-the-anime-yellow-0043.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "动漫",
+        "二次元",
+        "动画",
+        "漫画"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "character-the-all-one-0122",
+      "path": "prompts/character/character-the-all-one-0122.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "character-nano-banana-pro-0169",
+      "path": "prompts/character/character-nano-banana-pro-0169.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "character-the-should-lines-0001",
+      "path": "prompts/character/character-the-should-lines-0001.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "character-pastel-gentle-watercolor-0100",
+      "path": "prompts/character/character-pastel-gentle-watercolor-0100.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "character-characters-class-anime-0148",
+      "path": "prompts/character/character-characters-class-anime-0148.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-680651e1ae-0193",
+      "path": "prompts/illustration/illustration-680651e1ae-0193.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-the-epic-manga-style-0273",
+      "path": "prompts/illustration/illustration-the-epic-manga-style-0273.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-labels-name-character-0065",
+      "path": "prompts/story_board/story_board-labels-name-character-0065.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-pop-nano-banana-0007",
+      "path": "prompts/character/character-pop-nano-banana-0007.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-the-anime-yellow-0043",
+      "path": "prompts/character/character-the-anime-yellow-0043.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-805cb3a307-0051",
+      "path": "prompts/character/character-805cb3a307-0051.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-rounded-the-transform-0087",
+      "path": "prompts/character/character-rounded-the-transform-0087.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-the-her-long-0142",
+      "path": "prompts/character/character-the-her-long-0142.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-mcn83cgsnc-0145",
+      "path": "prompts/character/character-mcn83cgsnc-0145.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-the-her-she-0187",
+      "path": "prompts/character/character-the-her-she-0187.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-23e62d1ta9-0197",
+      "path": "prompts/character/character-23e62d1ta9-0197.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-subject-the-visual-0236",
+      "path": "prompts/illustration/illustration-subject-the-visual-0236.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "story_board-school-student-uniform-0189",
+      "path": "prompts/story_board/story_board-school-student-uniform-0189.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "story_board-bxxqr5xweh-0276",
+      "path": "prompts/story_board/story_board-bxxqr5xweh-0276.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "story_board-gsygdkv8oo-0294",
+      "path": "prompts/story_board/story_board-gsygdkv8oo-0294.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-name-argument-default-0002",
+      "path": "prompts/character/character-name-argument-default-0002.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-jjouytclwg-0041",
+      "path": "prompts/character/character-jjouytclwg-0041.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-the-half-headband-0042",
+      "path": "prompts/character/character-the-half-headband-0042.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-the-anime-design-0091",
+      "path": "prompts/character/character-the-anime-design-0091.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-nano-banana-pro-0105",
+      "path": "prompts/character/character-nano-banana-pro-0105.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-hand-perspective-angle-0112",
+      "path": "prompts/character/character-hand-perspective-angle-0112.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-eyes-action-fine-0155",
+      "path": "prompts/character/character-eyes-action-fine-0155.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-the-cat-characters-0176",
+      "path": "prompts/character/character-the-cat-characters-0176.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-593eded2bc-0016",
+      "path": "prompts/illustration/illustration-593eded2bc-0016.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-98c68a93cf-0020",
+      "path": "prompts/illustration/illustration-98c68a93cf-0020.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-7ef77bfed3-0026",
+      "path": "prompts/illustration/illustration-7ef77bfed3-0026.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-aaee49bd0a-0091",
+      "path": "prompts/illustration/illustration-aaee49bd0a-0091.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-kn5zpd23dk-0097",
+      "path": "prompts/illustration/illustration-kn5zpd23dk-0097.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-manga-should-the-0133",
+      "path": "prompts/illustration/illustration-manga-should-the-0133.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-ud2bzqtkqi-0179",
+      "path": "prompts/illustration/illustration-ud2bzqtkqi-0179.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-the-flower-her-0226",
+      "path": "prompts/illustration/illustration-the-flower-her-0226.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-0843475edd-0237",
+      "path": "prompts/illustration/illustration-0843475edd-0237.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-character-name-count-0064",
+      "path": "prompts/story_board/story_board-character-name-count-0064.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-character-count-labels-0071",
+      "path": "prompts/story_board/story_board-character-count-labels-0071.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-5hakf2fygb-0090",
+      "path": "prompts/story_board/story_board-5hakf2fygb-0090.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-argument-name-default-0104",
+      "path": "prompts/story_board/story_board-argument-name-default-0104.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-labels-count-position-0264",
+      "path": "prompts/story_board/story_board-labels-count-position-0264.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-usada-pekora-shirogane-0275",
+      "path": "prompts/story_board/story_board-usada-pekora-shirogane-0275.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-character-banana-this-0280",
+      "path": "prompts/story_board/story_board-character-banana-this-0280.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-a1izavkltt-0289",
+      "path": "prompts/story_board/story_board-a1izavkltt-0289.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-the-text-name-0343",
+      "path": "prompts/story_board/story_board-the-text-name-0343.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "character-the-flat-cartoon-0008",
+      "path": "prompts/character/character-the-flat-cartoon-0008.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "character-the-red-pink-0018",
+      "path": "prompts/character/character-the-red-pink-0018.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "character-nano-banana-pro-0025",
+      "path": "prompts/character/character-nano-banana-pro-0025.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "character-5xgnntwgkc-0026",
+      "path": "prompts/character/character-5xgnntwgkc-0026.md",
+      "score": 31,
+      "quality": "B"
+    }
+  ]
+}

@@ -3,7 +3,7 @@ id: story_board-gsygdkv8oo-0294
 title: "角色雪人化水彩插画"
 category: story_board
 subcategory: "09_故事分镜角色设定"
-aesthetic: null
+aesthetic: anime-style
 tags: ["水彩", "动漫", "二次元", "可爱", "雪人", "少女", "双人", "手绘"]
 recommended_models: 
   - banana-pro

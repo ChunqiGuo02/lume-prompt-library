@@ -3,7 +3,7 @@ id: character-nano-banana-pro-0169
 title: "超低角度街景动漫画面"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["动漫", "日系", "插画", "低角度", "街景", "学生", "校服", "行人"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-face-dark-hair-0872
 title: "超现实美妆概念：微型美容师为巨脸精心打造妆容"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["超现实", "时尚", "美妆", "特写", "肖像", "反差", "微缩", "棕发"]
 recommended_models: 
   - banana-pro

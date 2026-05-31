@@ -3,7 +3,7 @@ id: 3d_concept-the-tesla-brand-0579
 title: "特斯拉双层展台设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["特斯拉", "展台", "双层", "车展", "极简", "未来", "科技", "红黑"]
 recommended_models: 
   - banana-pro

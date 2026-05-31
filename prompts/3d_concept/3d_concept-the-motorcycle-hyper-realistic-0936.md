@@ -3,7 +3,7 @@ id: 3d_concept-the-motorcycle-hyper-realistic-0936
 title: "雨夜都市摩托疾驰第一视角"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["摩托车", "第一视角", "夜景", "雨天", "都市", "超写实", "霓虹", "碳纤维"]
 recommended_models: 
   - banana-pro

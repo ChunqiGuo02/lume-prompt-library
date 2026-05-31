@@ -3,7 +3,7 @@ id: product-the-stylized-collectible-0538
 title: "沙漠绿洲3D微缩模型生成预设"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["3D", "微缩", "模型", "沙漠", "绿洲", "建筑", "棕榈", "市集"]
 recommended_models: 
   - banana-pro

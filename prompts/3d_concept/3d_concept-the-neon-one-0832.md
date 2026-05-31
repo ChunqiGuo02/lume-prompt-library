@@ -3,7 +3,7 @@ id: 3d_concept-the-neon-one-0832
 title: "赛博朋克风格女性角色"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["赛博朋克", "霓虹", "紫色", "蓝色", "雨夜", "都市", "未来", "科幻"]
 recommended_models: []
 recommended_params:

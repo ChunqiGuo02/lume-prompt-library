@@ -3,7 +3,7 @@ id: illustration-the-transform-this-0249
 title: "超现实几何艺术风格的数字插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["绝命毒师", "几何风", "故障风", "复古风", "数字插画", "梦幻", "撞色", "电影感"]
 recommended_models: 
   - banana-pro

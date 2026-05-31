@@ -3,7 +3,7 @@ id: product-city-the-cube-shaped-0328
 title: "云端 Mumbai 微缩城市模型"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["3D", "孟买", "微缩", "模型", "悬浮", "建筑", "暖色调", "柔和"]
 recommended_models: 
   - banana-pro

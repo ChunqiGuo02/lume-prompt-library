@@ -3,7 +3,7 @@ id: product-role-definition-you-0621
 title: "粘土风奇幻史诗场景集"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["战争", "起义", "古罗马", "角斗士", "微缩", "模型", "战火", "历史"]
 recommended_models: 
   - banana-pro

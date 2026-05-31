@@ -3,7 +3,7 @@ id: 3d_concept-screen-frame-type-0803
 title: "赛博怀旧三联画构图预设"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["赛博朋克", "蒸汽波", "故障风", "三联", "青色调", "品红色", "霓虹", "孤独"]
 recommended_models: 
   - banana-pro

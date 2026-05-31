@@ -3,7 +3,7 @@ id: product-the-object-they-0299
 title: "一场充满欢乐与刺激的微型雪地冒险！"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["甜筒", "麦当劳", "微缩", "创意", "广告", "滑雪", "登山", "雪橇"]
 recommended_models: 
   - banana-pro

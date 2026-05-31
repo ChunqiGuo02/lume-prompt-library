@@ -3,7 +3,7 @@ id: product-name-the-location-0465
 title: "微缩世界创意模型设计模板"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微缩", "模型", "3D", "立体", "海景", "建筑", "蓝色", "白色"]
 recommended_models: 
   - banana-pro

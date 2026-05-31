@@ -3,7 +3,7 @@ id: 3d_concept-neon-wireframe-visualization-0950
 title: "霓虹灯线框"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["孔雀", "线框", "霓虹", "发光", "黄绿色", "科技感", "未来感", "动感"]
 recommended_models: 
   - banana-pro

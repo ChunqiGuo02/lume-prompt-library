@@ -3,7 +3,7 @@ id: product-nano-banana-prompt-0695
 title: "迷你汉堡店3D模型展示"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["3D", "Q版", "微缩", "可爱", "汉堡", "门店", "街景", "治愈"]
 recommended_models: 
   - banana-pro

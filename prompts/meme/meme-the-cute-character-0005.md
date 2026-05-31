@@ -3,7 +3,7 @@ id: meme-the-cute-character-0005
 title: "3D卡通角色多表情贴纸包生成"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["可爱", "Q版", "3D", "卡通", "贴纸", "表情包", "亚洲女性", "米色"]
 recommended_models: 
   - banana-pro

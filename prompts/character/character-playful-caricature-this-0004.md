@@ -3,7 +3,7 @@ id: character-playful-caricature-this-0004
 title: "3D卡通名人肖像生成"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["3D", "特朗普", "Q版", "卡通", "夸张", "可爱", "幽默", "肖像"]
 recommended_models: 
   - banana-pro

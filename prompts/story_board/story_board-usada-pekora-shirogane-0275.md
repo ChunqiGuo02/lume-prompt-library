@@ -3,7 +3,7 @@ id: story_board-usada-pekora-shirogane-0275
 title: "角色互动喜剧漫画片段"
 category: story_board
 subcategory: "09_故事分镜角色设定"
-aesthetic: null
+aesthetic: anime-style
 tags: ["漫画", "二次元", "日系", "可爱", "搞笑", "萌系", "虚拟主播", "四格"]
 recommended_models: 
   - banana-pro

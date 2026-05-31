@@ -3,7 +3,7 @@ id: product-the-game-thrones-0347
 title: "冰火对决立体场景模型"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["3D", "奇幻", "微缩", "等距", "冰", "火", "龙", "异鬼"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-the-miniature-collectible-0266
 title: "3D风格化微缩场景模型生成预设"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微缩", "模型", "3D", "暖色调", "沙漠", "中东", "建筑", "驿站"]
 recommended_models: 
   - banana-pro

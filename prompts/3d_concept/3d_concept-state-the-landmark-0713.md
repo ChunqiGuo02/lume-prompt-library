@@ -3,7 +3,7 @@ id: 3d_concept-state-the-landmark-0713
 title: "美国微型3D立体景观探索"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "立体", "等距", "微缩", "可爱", "淡彩", "美国", "地标"]
 recommended_models: 
   - banana-pro

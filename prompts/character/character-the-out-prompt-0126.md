@@ -3,7 +3,7 @@ id: character-the-out-prompt-0126
 title: "皮克斯风格情侣搞怪自拍合集"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["皮克斯", "3D", "卡通", "情侣", "自拍", "趣味", "可爱", "暖色调"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-eaf3846afb-0408
 title: "把地标装进瓶子"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "Q版", "梦幻", "治愈", "玻璃罩", "微缩", "模型", "景观"]
 recommended_models: 
   - banana-pro

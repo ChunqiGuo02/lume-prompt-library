@@ -3,7 +3,7 @@ id: 3d_concept-cute-bioluminescent-animal-0949
 title: "霓虹灯发光的可爱动物"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["可爱", "Q版", "卡通", "3D", "荧光", "霓虹", "高清", "熊猫"]
 recommended_models: 
   - banana-pro

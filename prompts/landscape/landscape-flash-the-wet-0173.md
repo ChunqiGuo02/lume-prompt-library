@@ -3,7 +3,7 @@ id: landscape-flash-the-wet-0173
 title: "都市夜雨中的孤独剪影"
 category: landscape
 subcategory: "15_特定场景环境生成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["拼贴", "夜景", "都市", "霓虹", "雨夜", "氛围", "忧郁", "街拍"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-qqdudovuv3-0804
 title: "赛博朋克2077四位人偶海报"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["赛博朋克", "海报", "机械", "人偶", "科幻", "性感", "未来", "霓虹"]
 recommended_models: []
 recommended_params:

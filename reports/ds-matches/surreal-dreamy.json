@@ -1,0 +1,540 @@
+{
+  "ds_slug": "surreal-dreamy",
+  "ds_label": "超现实梦境",
+  "matched_total": 42,
+  "candidate_pool": 42,
+  "top_tags": [
+    {
+      "tag": "超现实",
+      "count": 29
+    },
+    {
+      "tag": "梦幻",
+      "count": 12
+    },
+    {
+      "tag": "奇幻",
+      "count": 10
+    },
+    {
+      "tag": "插画",
+      "count": 6
+    },
+    {
+      "tag": "悬浮",
+      "count": 6
+    },
+    {
+      "tag": "暖色调",
+      "count": 5
+    },
+    {
+      "tag": "梦境",
+      "count": 5
+    },
+    {
+      "tag": "星空",
+      "count": 5
+    },
+    {
+      "tag": "微缩",
+      "count": 4
+    },
+    {
+      "tag": "写实",
+      "count": 4
+    },
+    {
+      "tag": "冷色调",
+      "count": 3
+    },
+    {
+      "tag": "超写实",
+      "count": 3
+    },
+    {
+      "tag": "蓝色",
+      "count": 3
+    },
+    {
+      "tag": "自然",
+      "count": 3
+    },
+    {
+      "tag": "创意",
+      "count": 3
+    },
+    {
+      "tag": "女性",
+      "count": 3
+    },
+    {
+      "tag": "迷幻",
+      "count": 3
+    },
+    {
+      "tag": "神秘",
+      "count": 3
+    },
+    {
+      "tag": "3D",
+      "count": 3
+    },
+    {
+      "tag": "阳光",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "暖色调",
+      "count": 5
+    },
+    {
+      "tag": "蓝色",
+      "count": 3
+    },
+    {
+      "tag": "金色",
+      "count": 1
+    },
+    {
+      "tag": "复古",
+      "count": 1
+    },
+    {
+      "tag": "黄色",
+      "count": 1
+    },
+    {
+      "tag": "粉色",
+      "count": 1
+    },
+    {
+      "tag": "黑白",
+      "count": 1
+    },
+    {
+      "tag": "霓虹",
+      "count": 1
+    },
+    {
+      "tag": "红色",
+      "count": 1
+    },
+    {
+      "tag": "黑色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "插画",
+      "count": 6
+    },
+    {
+      "tag": "女性",
+      "count": 3
+    },
+    {
+      "tag": "动漫",
+      "count": 2
+    },
+    {
+      "tag": "卡通",
+      "count": 1
+    },
+    {
+      "tag": "肖像",
+      "count": 1
+    },
+    {
+      "tag": "人像",
+      "count": 1
+    },
+    {
+      "tag": "城市",
+      "count": 1
+    },
+    {
+      "tag": "二次元",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 19,
+    "B": 23,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "3d_concept-the-bottle-river-0182",
+      "title": "双联奇幻插画：芝麻丝与杏仁露的梦幻世界",
+      "path": "prompts/3d_concept/3d_concept-the-bottle-river-0182.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "超现实",
+        "梦幻",
+        "奇幻"
+      ]
+    },
+    {
+      "id": "3d_concept-the-subject-elements-0666",
+      "title": "符号冲突",
+      "path": "prompts/3d_concept/3d_concept-the-subject-elements-0666.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "超现实",
+        "梦幻",
+        "悬浮"
+      ]
+    },
+    {
+      "id": "3d_concept-the-body-long-0875",
+      "title": "超现实鸟类幻想",
+      "path": "prompts/3d_concept/3d_concept-the-body-long-0875.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "超现实",
+        "奇幻",
+        "幻想"
+      ]
+    },
+    {
+      "id": "3d_concept-old-fashioned-postal-shack-0390",
+      "title": "悬浮魔幻现实主义",
+      "path": "prompts/3d_concept/3d_concept-old-fashioned-postal-shack-0390.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "悬浮",
+        "奇幻",
+        "魔幻"
+      ]
+    },
+    {
+      "id": "3d_concept-scuba-mixed-media-0500",
+      "title": "梦幻潜水冒险混合媒体艺术",
+      "path": "prompts/3d_concept/3d_concept-scuba-mixed-media-0500.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "超现实",
+        "梦幻",
+        "梦境"
+      ]
+    },
+    {
+      "id": "3d_concept-object-its-the-0109",
+      "title": "人造物化作自然生态，万物共生的奇幻景观",
+      "path": "prompts/3d_concept/3d_concept-object-its-the-0109.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "超现实",
+        "奇幻"
+      ]
+    },
+    {
+      "id": "3d_concept-the-half-version-0152",
+      "title": "创建超现实不可能的图像",
+      "path": "prompts/3d_concept/3d_concept-the-half-version-0152.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "超现实",
+        "奇幻"
+      ]
+    },
+    {
+      "id": "3d_concept-the-side-room-0164",
+      "title": "动漫角色与真人共处现代客厅的梦幻场景",
+      "path": "prompts/3d_concept/3d_concept-the-side-room-0164.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "超现实",
+        "梦幻"
+      ]
+    },
+    {
+      "id": "3d_concept-food-ingredients-the-0177",
+      "title": "印尼美食海报：悬浮食材与超现实质感",
+      "path": "prompts/3d_concept/3d_concept-food-ingredients-the-0177.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "超现实",
+        "悬浮"
+      ]
+    },
+    {
+      "id": "3d_concept-the-transparent-hyper-realistic-0364",
+      "title": "幽灵形态",
+      "path": "prompts/3d_concept/3d_concept-the-transparent-hyper-realistic-0364.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "超现实",
+        "梦幻"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "3d_concept-the-bottle-river-0182",
+      "path": "prompts/3d_concept/3d_concept-the-bottle-river-0182.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-subject-elements-0666",
+      "path": "prompts/3d_concept/3d_concept-the-subject-elements-0666.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-body-long-0875",
+      "path": "prompts/3d_concept/3d_concept-the-body-long-0875.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-old-fashioned-postal-shack-0390",
+      "path": "prompts/3d_concept/3d_concept-old-fashioned-postal-shack-0390.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-scuba-mixed-media-0500",
+      "path": "prompts/3d_concept/3d_concept-scuba-mixed-media-0500.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-object-its-the-0109",
+      "path": "prompts/3d_concept/3d_concept-object-its-the-0109.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-half-version-0152",
+      "path": "prompts/3d_concept/3d_concept-the-half-version-0152.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-side-room-0164",
+      "path": "prompts/3d_concept/3d_concept-the-side-room-0164.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-food-ingredients-the-0177",
+      "path": "prompts/3d_concept/3d_concept-food-ingredients-the-0177.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-transparent-hyper-realistic-0364",
+      "path": "prompts/3d_concept/3d_concept-the-transparent-hyper-realistic-0364.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-surreal-texture-slightly-0384",
+      "path": "prompts/3d_concept/3d_concept-surreal-texture-slightly-0384.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-objects-the-floating-0389",
+      "path": "prompts/3d_concept/3d_concept-objects-the-floating-0389.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-head-her-0450",
+      "path": "prompts/3d_concept/3d_concept-the-head-her-0450.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-orb-profile-0465",
+      "path": "prompts/3d_concept/3d_concept-the-orb-profile-0465.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-isometric-pastel-home-0497",
+      "path": "prompts/3d_concept/3d_concept-isometric-pastel-home-0497.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-head-top-diorama-thinking-0499",
+      "path": "prompts/3d_concept/3d_concept-head-top-diorama-thinking-0499.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-studio-container-0508",
+      "path": "prompts/3d_concept/3d_concept-the-studio-container-0508.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-melting-the-create-0768",
+      "path": "prompts/3d_concept/3d_concept-melting-the-create-0768.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-neon-true-floating-0173",
+      "path": "prompts/illustration/illustration-neon-true-floating-0173.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-iphone-pro-max-0067",
+      "path": "prompts/landscape/landscape-iphone-pro-max-0067.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "interior-the-her-office-0053",
+      "path": "prompts/interior/interior-the-her-office-0053.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-ph2dstxt8o-0028",
+      "path": "prompts/3d_concept/3d_concept-ph2dstxt8o-0028.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-prompt-glowing-energy-0125",
+      "path": "prompts/3d_concept/3d_concept-prompt-glowing-energy-0125.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-head-top-diorama-0287",
+      "path": "prompts/3d_concept/3d_concept-head-top-diorama-0287.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-gemini-nano-banana-0310",
+      "path": "prompts/3d_concept/3d_concept-gemini-nano-banana-0310.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-giant-red-balloon-0436",
+      "path": "prompts/3d_concept/3d_concept-giant-red-balloon-0436.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-surreal-digital-art-0493",
+      "path": "prompts/3d_concept/3d_concept-surreal-digital-art-0493.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-subject-rendered-dreamlike-0501",
+      "path": "prompts/3d_concept/3d_concept-subject-rendered-dreamlike-0501.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-e9d578e176-0502",
+      "path": "prompts/3d_concept/3d_concept-e9d578e176-0502.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-subject-appears-0506",
+      "path": "prompts/3d_concept/3d_concept-the-subject-appears-0506.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-dark-tattered-0770",
+      "path": "prompts/3d_concept/3d_concept-the-dark-tattered-0770.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-skull-inside-0801",
+      "path": "prompts/3d_concept/3d_concept-the-skull-inside-0801.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-visible-head-0860",
+      "path": "prompts/3d_concept/3d_concept-the-visible-head-0860.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-head-provided-0861",
+      "path": "prompts/3d_concept/3d_concept-the-head-provided-0861.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-intent-surreal-art-0865",
+      "path": "prompts/3d_concept/3d_concept-intent-surreal-art-0865.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-szohxfapbb-0873",
+      "path": "prompts/3d_concept/3d_concept-szohxfapbb-0873.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-subject-surrounded-enchanted-0933",
+      "path": "prompts/3d_concept/3d_concept-subject-surrounded-enchanted-0933.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-youu0espbe-0070",
+      "path": "prompts/illustration/illustration-youu0espbe-0070.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-the-that-its-0188",
+      "path": "prompts/illustration/illustration-the-that-its-0188.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-character-sprinting-past-0203",
+      "path": "prompts/illustration/illustration-character-sprinting-past-0203.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-surreal-oil-painting-0248",
+      "path": "prompts/illustration/illustration-surreal-oil-painting-0248.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-the-transform-this-0249",
+      "path": "prompts/illustration/illustration-the-transform-this-0249.md",
+      "score": 21,
+      "quality": "B"
+    }
+  ]
+}

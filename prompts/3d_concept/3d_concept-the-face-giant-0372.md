@@ -3,7 +3,7 @@ id: 3d_concept-the-face-giant-0372
 title: "微型画家绘制巨脸肖像"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["超写实", "微缩", "画家", "特写", "画室", "创意", "暖光", "人像"]
 recommended_models: 
   - banana-pro

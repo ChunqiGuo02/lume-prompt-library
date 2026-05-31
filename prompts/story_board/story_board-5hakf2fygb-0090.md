@@ -3,7 +3,7 @@ id: story_board-5hakf2fygb-0090
 title: "含三视图的角色设定资料"
 category: story_board
 subcategory: "09_故事分镜角色设定"
-aesthetic: null
+aesthetic: anime-style
 tags: ["二次元", "萌系", "人设", "旗袍", "少女", "清新", "元气", "日系"]
 recommended_models: []
 recommended_params:

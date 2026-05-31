@@ -3,7 +3,7 @@ id: 3d_concept-digital-doppelganger-glitch-0431
 title: "数字故障双生镜像艺术"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["故障", "镜像", "女性", "复古", "绿色", "紫色", "霓虹", "数码"]
 recommended_models: 
   - banana-pro

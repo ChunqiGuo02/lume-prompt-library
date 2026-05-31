@@ -3,7 +3,7 @@ id: illustration-product-the-cartoon-style-0003
 title: "3D卡通雕塑风格"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "冰淇淋", "甜品", "暖色调", "马卡龙", "可爱", "简约", "治愈"]
 recommended_models: 
   - banana-pro

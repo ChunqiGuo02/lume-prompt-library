@@ -3,7 +3,7 @@ id: character-the-red-pink-0018
 title: "《心跳文学部》游戏截图"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["日系", "动漫", "校园", "教室", "美少女", "游戏", "粉色", "对话框"]
 recommended_models: []
 recommended_params:

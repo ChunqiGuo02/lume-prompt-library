@@ -3,7 +3,7 @@ id: product-paper-the-pop-up-0504
 title: "数学符号立体书艺展"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["纸艺", "数学", "符号", "立体书", "纸雕", "手工", "复古", "微缩"]
 recommended_models: 
   - banana-pro

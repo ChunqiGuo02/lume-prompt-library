@@ -3,7 +3,7 @@ id: 3d_concept-the-body-long-0875
 title: "超现实鸟类幻想"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["奇幻", "超现实", "神话", "生物", "精致", "写实", "蓝色", "金色"]
 recommended_models: 
   - banana-pro

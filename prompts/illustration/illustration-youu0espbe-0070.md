@@ -3,7 +3,7 @@ id: illustration-youu0espbe-0070
 title: "双人水母少女镜像悬浮构图艺术"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["二次元", "插画", "双人", "白发", "幻彩", "宝石", "星空", "梦幻"]
 recommended_models: 
   - banana-pro

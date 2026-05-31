@@ -3,7 +3,7 @@ id: 3d_concept-the-orb-profile-0465
 title: "月光女神海边托月梦幻写真"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "梦幻", "宁静", "神秘", "女人", "月亮", "海滩", "海水"]
 recommended_models: 
   - banana-pro

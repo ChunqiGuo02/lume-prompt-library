@@ -3,7 +3,7 @@ id: product-the-you-describe-0583
 title: "电影场景微缩模型制作"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["超写实", "微缩", "模型", "立方体", "玻璃", "盆栽", "暖光", "复古"]
 recommended_models: 
   - banana-pro

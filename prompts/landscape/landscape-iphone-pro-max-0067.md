@@ -3,7 +3,7 @@ id: landscape-iphone-pro-max-0067
 title: "iPhone 17 Pro Max 巨幕奇幻场景"
 category: landscape
 subcategory: "15_特定场景环境生成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["手机", "超现实", "写实", "合成", "女孩", "水", "木桌", "阳光"]
 recommended_models: 
   - banana-pro

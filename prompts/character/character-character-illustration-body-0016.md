@@ -3,7 +3,7 @@ id: character-character-illustration-body-0016
 title: "Q版悟空立体插画风格"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "龙珠", "悟空", "插画", "卡通", "可爱", "蓝色", "橙色"]
 recommended_models: 
   - banana-pro

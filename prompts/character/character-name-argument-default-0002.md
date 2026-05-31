@@ -3,7 +3,7 @@ id: character-name-argument-default-0002
 title: "16位像素风游戏角色设计"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["可爱", "二次元", "Q版", "少女", "斗篷", "棕发", "红瞳", "插画"]
 recommended_models: 
   - banana-pro

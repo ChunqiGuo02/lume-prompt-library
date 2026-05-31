@@ -3,7 +3,7 @@ id: illustration-neon-true-floating-0173
 title: "漂浮霓虹玻璃3D材质"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["三维", "霓虹", "悬浮", "画笔", "蓝紫色", "透明", "玻璃感", "渐变"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-szohxfapbb-0873
 title: "超现实锦鲤星空插画"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "插画", "锦鲤", "星空", "星云", "星球", "梦幻", "空灵"]
 recommended_models: []
 recommended_params:

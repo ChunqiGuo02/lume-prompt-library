@@ -3,7 +3,7 @@ id: 3d_concept-cute-character-smooth-0879
 title: "超细节3D卡通角色设计，皮克斯风格，萌趣穿搭与动物伙伴"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "卡通", "可爱", "暖色调", "橙色", "紫色", "青绿色", "猫头鹰"]
 recommended_models: 
   - banana-pro

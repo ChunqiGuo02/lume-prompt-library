@@ -3,7 +3,7 @@ id: 3d_concept-famous-dishes-regions-0259
 title: "墨西哥美食之旅"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "日本", "美食", "地图", "暖色调", "立体", "微型", "和风"]
 recommended_models: 
   - banana-pro

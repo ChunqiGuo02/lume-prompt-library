@@ -3,7 +3,7 @@ id: product-sora-instagram-jimmy-0292
 title: "Q版角色融入社交相框"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["3D", "Q版", "可爱", "卡通", "小男孩", "社交媒体", "相框", "爱心"]
 recommended_models: 
   - banana-pro

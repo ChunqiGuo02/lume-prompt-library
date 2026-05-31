@@ -3,7 +3,7 @@ id: product-18f72fdc3f-0372
 title: "可爱动物硅胶腕托系列"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["可爱", "Q版", "软萌", "治愈", "卡通", "拟人", "硅胶", "熊猫"]
 recommended_models: 
   - banana-pro

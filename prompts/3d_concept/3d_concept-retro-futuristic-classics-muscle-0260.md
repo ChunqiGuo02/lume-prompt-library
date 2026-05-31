@@ -3,7 +3,7 @@ id: 3d_concept-retro-futuristic-classics-muscle-0260
 title: "复古未来经典车：霓虹底盘光、全息仪表盘、悬浮轮毂的50年代肌"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["复古", "未来", "肌肉车", "霓虹", "悬浮", "车轮", "全息", "仪表盘"]
 recommended_models: 
   - banana-pro

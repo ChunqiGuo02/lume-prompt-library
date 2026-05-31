@@ -3,7 +3,7 @@ id: product-puzzle-character-pieces-0596
 title: "益智玩具角色_1"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "可爱", "拼图", "玩具", "公仔", "暖色调", "卡通", "潮玩"]
 recommended_models: 
   - banana-pro

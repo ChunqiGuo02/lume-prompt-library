@@ -3,7 +3,7 @@ id: ip_design-the-character-chibi-0113
 title: "手里抱着一个可爱的迷你角色，表情恼火。"
 category: ip_design
 subcategory: "04_动漫游戏视觉与IP改编"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Seedance 2.0", "角色小人", "chibi风格", "柔粉色调", "垂直构图", "手掌场景", "面部表情", "愤怒氛围"]
 recommended_models: []
 recommended_params:

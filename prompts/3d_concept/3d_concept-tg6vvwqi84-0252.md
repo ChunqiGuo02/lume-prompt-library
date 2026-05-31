@@ -3,7 +3,7 @@ id: 3d_concept-tg6vvwqi84-0252
 title: "城市巨屏全显个人特写面容"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["夜景", "都市", "广告", "人脸", "繁华", "霓虹", "湿滑", "行人"]
 recommended_models: 
   - banana-pro

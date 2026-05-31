@@ -3,7 +3,7 @@ id: product-193e15f6ea-0694
 title: "迷你星巴克咖啡馆模型"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["3D", "Q版", "迷你", "微缩", "可爱", "星巴克", "咖啡馆", "咖啡杯"]
 recommended_models: 
   - banana-pro

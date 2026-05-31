@@ -3,7 +3,7 @@ id: 3d_concept-description-make-miniature-0605
 title: "生成人物微缩写实人偶，指定服饰与动作，白底4K渲染"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["微缩", "模型", "写实", "人偶", "等距", "白底", "极简", "高清"]
 recommended_models: 
   - banana-pro

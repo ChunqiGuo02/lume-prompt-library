@@ -3,7 +3,7 @@ id: meme-the-character-body-0047
 title: "卡通插图药丸形象"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["卡通", "Q版", "可爱", "扁平化", "矢量", "插画", "动漫", "角色"]
 recommended_models: 
   - banana-pro

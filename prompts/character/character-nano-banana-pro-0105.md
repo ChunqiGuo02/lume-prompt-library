@@ -3,7 +3,7 @@ id: character-nano-banana-pro-0105
 title: "流星许愿的静谧瞬间"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["二次元", "动漫", "白发", "蓝瞳", "流星", "黄昏", "废墟", "兜帽"]
 recommended_models: 
   - banana-pro

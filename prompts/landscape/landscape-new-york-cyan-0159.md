@@ -3,7 +3,7 @@ id: landscape-new-york-cyan-0159
 title: "纽约深夜的熟食店电影海报"
 category: landscape
 subcategory: "15_特定场景环境生成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["夜景", "街角", "熟食店", "霓虹灯", "雨夜", "湿滑", "红色", "青色"]
 recommended_models: 
   - banana-pro

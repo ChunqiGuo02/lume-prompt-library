@@ -3,7 +3,7 @@ id: 3d_concept-the-subject-appears-0506
 title: "植物雕塑"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "自然", "植物", "花卉", "雕塑", "空灵", "梦境", "融合"]
 recommended_models: 
   - banana-pro

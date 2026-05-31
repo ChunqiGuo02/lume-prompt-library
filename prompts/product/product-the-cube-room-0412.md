@@ -3,7 +3,7 @@ id: product-the-cube-room-0412
 title: "圣诞老人迷你工作坊场景"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["圣诞", "3D", "微缩", "Q版", "温馨", "暖光", "圣诞老人", "壁炉"]
 recommended_models: 
   - banana-pro

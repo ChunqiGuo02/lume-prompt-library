@@ -3,7 +3,7 @@ id: character-the-her-she-0187
 title: "雨中都市粉发少女的时尚插画"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["动漫", "二次元", "粉发", "雨天", "都市", "彩虹", "少女", "透明伞"]
 recommended_models: []
 recommended_params:

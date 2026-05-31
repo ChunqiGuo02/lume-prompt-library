@@ -3,7 +3,7 @@ id: 3d_concept-surreal-texture-slightly-0384
 title: "怪诞又梦幻的超现实插画"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["超现实", "插画", "手绘", "低饱和", "柔光", "汽车", "手枪", "樱桃"]
 recommended_models: 
   - banana-pro

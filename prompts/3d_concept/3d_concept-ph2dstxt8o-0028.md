@@ -3,7 +3,7 @@ id: 3d_concept-ph2dstxt8o-0028
 title: "AI水下梦幻人像摄影"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["水下", "艺术", "摄影", "梦境", "浪漫", "婚纱", "阳光", "蓝色"]
 recommended_models: 
   - banana-pro

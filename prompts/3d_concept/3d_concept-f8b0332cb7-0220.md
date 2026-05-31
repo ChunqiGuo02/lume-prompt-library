@@ -3,7 +3,7 @@ id: 3d_concept-f8b0332cb7-0220
 title: "四界浮岛幻想集"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D渲染", "轴侧视角", "微缩场景", "小说海报", "水墨背景", "雅致色调", "流动光雾", "细腻质感"]
 recommended_models: 
   - banana-pro

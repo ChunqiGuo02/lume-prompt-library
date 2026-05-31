@@ -3,7 +3,7 @@ id: product-the-aliens-prompt-0586
 title: "电影经典场景微缩模型设计_1"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["等距", "三维", "微缩", "模型", "Q版", "卡通", "科幻", "影视"]
 recommended_models: 
   - banana-pro

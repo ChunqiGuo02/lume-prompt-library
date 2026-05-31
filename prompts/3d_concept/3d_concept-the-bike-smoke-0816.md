@@ -3,7 +3,7 @@ id: 3d_concept-the-bike-smoke-0816
 title: "赛博朋克机车疾驰海报"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["赛博朋克", "动漫", "夜景", "城市", "霓虹", "摩托车", "女孩", "柴犬"]
 recommended_models: 
   - banana-pro

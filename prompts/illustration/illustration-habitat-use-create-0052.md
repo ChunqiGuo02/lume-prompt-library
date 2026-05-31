@@ -3,7 +3,7 @@ id: illustration-habitat-use-create-0052
 title: "创建野生动物栖息地微缩3D模型"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "微缩", "湿地", "野生动物", "暖色调", "河马", "鳄鱼", "羚羊"]
 recommended_models: 
   - banana-pro

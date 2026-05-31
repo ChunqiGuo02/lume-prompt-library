@@ -3,7 +3,7 @@ id: 3d_concept-the-bottle-river-0182
 title: "双联奇幻插画：芝麻丝与杏仁露的梦幻世界"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "插画", "奇幻", "双拼", "暖色调", "冷色调", "微缩", "瓶子"]
 recommended_models: 
   - banana-pro

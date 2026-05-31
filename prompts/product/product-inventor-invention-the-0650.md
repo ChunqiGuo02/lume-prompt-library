@@ -3,7 +3,7 @@ id: product-inventor-invention-the-0650
 title: "致敬人类伟大发明的微型展盒"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微缩", "模型", "复古", "木质", "飞行", "航空", "专利", "手工"]
 recommended_models: 
   - banana-pro

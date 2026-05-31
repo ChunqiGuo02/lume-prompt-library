@@ -3,7 +3,7 @@ id: character-82b7ff1fa3-0133
 title: "神话Q版三杰插画"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "可爱", "国风", "插画", "神话", "二郎神", "孙悟空", "哪吒"]
 recommended_models: 
   - banana-pro

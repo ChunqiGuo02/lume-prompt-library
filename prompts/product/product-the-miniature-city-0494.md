@@ -3,7 +3,7 @@ id: product-the-miniature-city-0494
 title: "掌中世界：四大名城微缩景观"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["3D", "微缩", "城市", "地标", "建筑", "模型", "写实", "精致"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: character-her-red-hair-0121
 title: "生成可爱3D女孩与萌宠的温馨肖像"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["3D", "可爱", "卡通", "女孩", "眼镜", "毛衣", "阔耳狐", "红色"]
 recommended_models: 
   - banana-pro

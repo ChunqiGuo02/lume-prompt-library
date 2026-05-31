@@ -3,7 +3,7 @@ id: landscape-you-resolution-aspect-0121
 title: "未来科技工作站场景设定"
 category: landscape
 subcategory: "15_特定场景环境生成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["赛博朋克", "科幻", "全息屏", "代码", "机械臂", "霓虹", "蓝紫色", "未来感"]
 recommended_models: 
   - banana-pro

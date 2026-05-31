@@ -3,7 +3,7 @@ id: illustration-the-flower-her-0226
 title: "花田仰望的梦幻少女"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: anime-style
 tags: ["二次元", "水彩", "动漫", "插画", "少女", "花田", "蓝天", "草帽"]
 recommended_models: []
 recommended_params:

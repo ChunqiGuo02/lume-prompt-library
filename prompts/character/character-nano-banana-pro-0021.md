@@ -3,7 +3,7 @@ id: character-nano-banana-pro-0021
 title: "东京迪士尼梦幻特辑"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["迪士尼", "杂志", "封面", "春天", "旅行", "可爱", "治愈", "游乐园"]
 recommended_models: 
   - banana-pro

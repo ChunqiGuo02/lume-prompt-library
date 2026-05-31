@@ -3,7 +3,7 @@ id: product-the-construction-lines-0454
 title: "建筑蓝图立体化施工场景模拟"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["泰姬陵", "建筑", "蓝图", "微缩", "施工", "塔吊", "咖啡", "三维"]
 recommended_models: 
   - banana-pro

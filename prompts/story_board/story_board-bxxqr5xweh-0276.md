@@ -3,7 +3,7 @@ id: story_board-bxxqr5xweh-0276
 title: "角色关系图生成器_1"
 category: story_board
 subcategory: "09_故事分镜角色设定"
-aesthetic: null
+aesthetic: anime-style
 tags: ["动漫", "二次元", "手绘风", "日系", "白背景", "可爱", "甜甜圈", "少年"]
 recommended_models: 
   - banana-pro

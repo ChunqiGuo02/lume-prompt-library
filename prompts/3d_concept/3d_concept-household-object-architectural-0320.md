@@ -3,7 +3,7 @@ id: 3d_concept-household-object-architectural-0320
 title: "家用物品转建筑微缩模型设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["电熨斗", "极简", "3D", "微缩", "建筑", "模型", "金属", "灰色"]
 recommended_models: 
   - banana-pro

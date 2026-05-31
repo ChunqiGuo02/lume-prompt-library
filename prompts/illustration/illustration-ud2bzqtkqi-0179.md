@@ -3,7 +3,7 @@ id: illustration-ud2bzqtkqi-0179
 title: "猫咪说早安，狗狗困惑回应，漫画式对话场景"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: anime-style
 tags: ["猫", "日系", "插画", "暖色调", "黄色", "治愈", "可爱", "背影"]
 recommended_models: 
   - banana-pro

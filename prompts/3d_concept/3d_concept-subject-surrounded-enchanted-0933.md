@@ -3,7 +3,7 @@ id: 3d_concept-subject-surrounded-enchanted-0933
 title: "附魔粒子泛光"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["奇幻", "魔法", "梦幻", "柔和", "浅色系", "粒子", "花瓣", "自然"]
 recommended_models: 
   - banana-pro

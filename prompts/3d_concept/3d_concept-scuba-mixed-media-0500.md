@@ -3,7 +3,7 @@ id: 3d_concept-scuba-mixed-media-0500
 title: "梦幻潜水冒险混合媒体艺术"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["潜水", "梦境", "超现实", "涂鸦", "线稿", "冷色调", "蓝色", "宁静"]
 recommended_models: 
   - banana-pro

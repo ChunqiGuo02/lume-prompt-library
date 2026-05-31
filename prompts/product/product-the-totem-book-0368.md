@@ -3,7 +3,7 @@ id: product-the-totem-book-0368
 title: "原子时代历史立体书景模型"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微缩", "写实", "复古", "书雕", "原子", "核爆", "核试验", "展品"]
 recommended_models: 
   - banana-pro

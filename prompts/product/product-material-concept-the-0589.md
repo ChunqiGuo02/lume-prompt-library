@@ -3,7 +3,7 @@ id: product-material-concept-the-0589
 title: "电路板上的巴黎微缩城市景观"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["巴黎", "微缩", "模型", "电子", "电路板", "科技", "移轴", "微距"]
 recommended_models: 
   - banana-pro

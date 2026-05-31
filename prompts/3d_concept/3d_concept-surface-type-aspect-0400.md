@@ -3,7 +3,7 @@ id: 3d_concept-surface-type-aspect-0400
 title: "手机屏幕变身迷你网球赛场，超现实运动视觉盛宴"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["超现实", "网球", "手机", "微缩", "木桌", "光影", "动感", "电影感"]
 recommended_models: 
   - banana-pro

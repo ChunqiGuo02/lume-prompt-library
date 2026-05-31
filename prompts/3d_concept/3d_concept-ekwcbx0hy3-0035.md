@@ -3,7 +3,7 @@ id: 3d_concept-ekwcbx0hy3-0035
 title: "AR购物助手：实时显示食品营养、新鲜度与推荐食谱"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["超市", "苹果", "增强现实", "全息", "未来感", "第一人称", "购物清单", "营养数据"]
 recommended_models: 
   - banana-pro

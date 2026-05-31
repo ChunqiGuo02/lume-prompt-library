@@ -3,7 +3,7 @@ id: 3d_concept-the-step-original-0773
 title: "街头涂鸦文字潮服设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["夜景", "街拍", "少女", "潮酷", "文字", "街头", "城市", "霓虹"]
 recommended_models: 
   - banana-pro

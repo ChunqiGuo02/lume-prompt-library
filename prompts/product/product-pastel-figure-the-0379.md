@@ -3,7 +3,7 @@ id: product-pastel-figure-the-0379
 title: "可爱粉彩乙烯基人物"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["可爱", "Q版", "萌系", "潮玩", "玩偶", "浅色调", "马卡龙", "万圣节"]
 recommended_models: 
   - banana-pro

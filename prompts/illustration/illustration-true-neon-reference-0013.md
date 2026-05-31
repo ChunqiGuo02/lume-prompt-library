@@ -3,7 +3,7 @@ id: illustration-true-neon-reference-0013
 title: "Neon Dreams：一部被揭示的赛博朋克风格肖像"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["写实", "卡通", "赛博", "故障", "分裂", "女性", "肖像", "霓虹"]
 recommended_models: 
   - banana-pro

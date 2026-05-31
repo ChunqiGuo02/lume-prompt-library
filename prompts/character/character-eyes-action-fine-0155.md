@@ -3,7 +3,7 @@ id: character-eyes-action-fine-0155
 title: "萌系少女眼眸特写，双色刘海，心形光斑虹膜，梦幻柔焦背景"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["二次元", "动漫", "萌系", "眼睛", "爱心", "闪光", "长发", "齐刘海"]
 recommended_models: 
   - banana-pro

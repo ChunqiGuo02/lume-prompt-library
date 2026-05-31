@@ -3,7 +3,7 @@ id: character-the-face-green-0154
 title: "萌系Q版卡通人物，薄荷绿运动风，手持珍珠奶茶，3D可爱形象"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["可爱", "Q版", "3D", "插画", "薄荷绿", "男孩", "帽子", "奶茶"]
 recommended_models: 
   - banana-pro

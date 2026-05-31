@@ -3,7 +3,7 @@ id: 3d_concept-una-con-maqueta-0362
 title: "巴黎城市微缩模型，雨天秋景，建筑细节与材质纹理突出"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["巴黎", "微缩", "模型", "建筑", "等距", "雨天", "秋季", "暖色调"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-make-miniature-full-body-0610
 title: "生成等距视角人物微缩模型，支持自定义服饰动作"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["微缩", "模型", "等距", "写实", "简约", "白色", "背景", "办公"]
 recommended_models: 
   - banana-pro

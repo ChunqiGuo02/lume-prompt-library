@@ -3,7 +3,7 @@ id: 3d_concept-intent-surreal-art-0865
 title: "超现实星尘舞者艺术画生成"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "舞者", "星空", "星云", "光轨", "剪影", "星尘", "梦幻"]
 recommended_models: []
 recommended_params:

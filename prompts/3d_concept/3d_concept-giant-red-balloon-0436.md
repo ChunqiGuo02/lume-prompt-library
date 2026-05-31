@@ -3,7 +3,7 @@ id: 3d_concept-giant-red-balloon-0436
 title: "日出时分巨红气球飞越云雾山脉，超现实金色光影"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["红色", "热气球", "日出", "山脉", "雾气", "云海", "金黄", "光线"]
 recommended_models: 
   - banana-pro

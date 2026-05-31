@@ -3,7 +3,7 @@ id: 3d_concept-true-city-location-0376
 title: "微缩城市地标立体地图模型"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["微缩", "模型", "等距", "城市", "地标", "复古", "写实", "河流"]
 recommended_models: 
   - banana-pro

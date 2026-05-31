@@ -3,7 +3,7 @@ id: illustration-the-poem-wind-0073
 title: "古诗词3D等距微型艺术插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "微缩", "古风", "黏土", "古诗", "秋思", "秋景", "暖色调"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-the-miniature-stores-0458
 title: "微型品牌店铺街景展示"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微缩", "模型", "街景", "城市", "店铺", "热闹", "明亮", "精致"]
 recommended_models: 
   - banana-pro

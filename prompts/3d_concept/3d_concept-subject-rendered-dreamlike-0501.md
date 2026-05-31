@@ -3,7 +3,7 @@ id: 3d_concept-subject-rendered-dreamlike-0501
 title: "梦幻般的蒸汽波失真"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["蒸汽波", "梦幻", "怀旧", "超现实", "暖色调", "棕榈树", "城市", "猫咪"]
 recommended_models: 
   - banana-pro

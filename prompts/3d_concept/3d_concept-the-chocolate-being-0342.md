@@ -3,7 +3,7 @@ id: 3d_concept-the-chocolate-being-0342
 title: "巧克力香蕉造型圣诞倒数日历"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["巧克力", "迷你", "香蕉", "圣诞", "日历", "卡通", "可爱", "温馨"]
 recommended_models: 
   - banana-pro

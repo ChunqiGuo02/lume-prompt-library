@@ -3,7 +3,7 @@ id: character-body-head-the-0170
 title: "超写实3D名人漫画肖像"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "3D", "漫画", "卡通", "写实", "名人", "大头", "渲染"]
 recommended_models: 
   - banana-pro

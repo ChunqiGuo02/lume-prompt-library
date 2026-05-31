@@ -3,7 +3,7 @@ id: product-argument-name-description-0272
 title: "AI生成复古风格人物微缩模型的提示词模板"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微型", "人偶", "全身", "等距", "写实", "白背景", "简约", "科幻"]
 recommended_models: 
   - banana-pro

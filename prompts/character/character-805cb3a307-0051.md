@@ -3,7 +3,7 @@ id: character-805cb3a307-0051
 title: "动漫风格坐姿肖像（基于面部图像）"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["动漫", "二次元", "插画", "兽耳", "紫色", "宝石", "花朵", "长裙"]
 recommended_models: 
   - banana-pro

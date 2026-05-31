@@ -3,7 +3,7 @@ id: 3d_concept-objects-the-floating-0389
 title: "悬浮物环绕的超现实人像"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超写实", "超现实", "电影感", "肖像", "棚拍", "女性", "相机", "书本"]
 recommended_models: 
   - banana-pro

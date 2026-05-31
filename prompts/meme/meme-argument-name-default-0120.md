@@ -3,7 +3,7 @@ id: meme-argument-name-default-0120
 title: "萌化角色跪地卖萌，护士装扮带猫耳尾巴"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "可爱", "萌系", "卡通", "兽耳", "护士", "流泪", "拟人"]
 recommended_models: 
   - banana-pro

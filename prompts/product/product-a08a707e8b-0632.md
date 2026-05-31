@@ -3,7 +3,7 @@ id: product-a08a707e8b-0632
 title: "纸艺剪纸角色立体制作"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["纸艺", "手工", "立体", "卡通", "Q版", "可爱", "提莫", "手绘"]
 recommended_models: 
   - banana-pro

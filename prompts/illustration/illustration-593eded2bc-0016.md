@@ -3,7 +3,7 @@ id: illustration-593eded2bc-0016
 title: "一个角色被烧烤美食“治愈”的彩色漫画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: anime-style
 tags: ["彩色", "漫画", "四格", "烤肉", "啤酒", "男人", "日系", "美食"]
 recommended_models: 
   - banana-pro

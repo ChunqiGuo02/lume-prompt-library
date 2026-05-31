@@ -3,7 +3,7 @@ id: 3d_concept-the-half-version-0152
 title: "创建超现实不可能的图像"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "教室", "海底", "鲨鱼", "章鱼", "课堂", "分割", "奇幻"]
 recommended_models: 
   - banana-pro

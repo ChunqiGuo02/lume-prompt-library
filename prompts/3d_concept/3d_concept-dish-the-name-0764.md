@@ -3,7 +3,7 @@ id: 3d_concept-dish-the-name-0764
 title: "蛋班尼克微型厨房展示盒"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["食玩", "微缩", "模型", "厨师", "透明", "美式", "美食", "手工"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-the-subject-underground-0420
 title: "城市剖面立体模型展示"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["四合院", "地铁", "模型", "写实", "剖面", "秋景", "黄色", "土壤"]
 recommended_models: 
   - banana-pro

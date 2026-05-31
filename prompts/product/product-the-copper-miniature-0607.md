@@ -3,7 +3,7 @@ id: product-the-copper-miniature-0607
 title: "硬币上的微型林肯纪念堂景观"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微缩", "硬币", "建筑", "樱花", "微距", "移轴", "铜色", "暖光"]
 recommended_models: 
   - banana-pro

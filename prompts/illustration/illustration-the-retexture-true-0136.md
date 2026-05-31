@@ -3,7 +3,7 @@ id: illustration-the-retexture-true-0136
 title: "有趣的块状 3D 世界"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "可爱", "Q版", "电脑", "暖色调", "软萌", "立体", "卡通"]
 recommended_models: 
   - banana-pro

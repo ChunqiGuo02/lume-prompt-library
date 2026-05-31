@@ -3,7 +3,7 @@ id: product-watch-the-pocket-0460
 title: "微型工匠修复古董怀表，展现时光、匠心与协作之美"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微缩", "微距", "怀表", "齿轮", "工人", "写实", "暖调", "浅景深"]
 recommended_models: 
   - banana-pro

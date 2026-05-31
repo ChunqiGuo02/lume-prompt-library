@@ -3,7 +3,7 @@ id: 3d_concept-type-city-transport-0249
 title: "城市交通站点微缩模型设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["简约", "3D", "微缩", "模型", "建筑", "船", "码头", "雨棚"]
 recommended_models: 
   - banana-pro

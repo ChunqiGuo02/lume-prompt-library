@@ -3,7 +3,7 @@ id: character-argument-name-default-0195
 title: "香蕉兔奇幻冒险2"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["可爱", "卡通", "Q版", "兔子", "紫色", "香蕉", "胡萝卜", "星星"]
 recommended_models: 
   - banana-pro

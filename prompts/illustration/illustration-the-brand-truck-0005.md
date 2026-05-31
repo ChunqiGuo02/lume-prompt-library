@@ -3,7 +3,7 @@ id: illustration-the-brand-truck-0005
 title: "3D零食卡通世界"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "可爱", "卡通", "餐车", "暖色调", "马卡龙", "童趣", "治愈"]
 recommended_models: 
   - banana-pro

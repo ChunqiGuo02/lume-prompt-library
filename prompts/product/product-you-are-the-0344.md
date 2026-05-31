@@ -3,7 +3,7 @@ id: product-you-are-the-0344
 title: "内外兼修：服装不仅仅是制服"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微距", "微缩", "创意", "迷你", "厨师", "厨房", "服装", "精致"]
 recommended_models: 
   - banana-pro

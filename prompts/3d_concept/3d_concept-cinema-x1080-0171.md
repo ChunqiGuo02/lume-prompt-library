@@ -3,7 +3,7 @@ id: 3d_concept-cinema-x1080-0171
 title: "北京天坛微缩模型"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["北京", "天坛", "3D", "Q版", "微缩", "旅行", "盲盒", "潮玩"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: character-5xgnntwgkc-0026
 title: "五人穿彩色围裙头巾持厨具，正面站立于料理教室"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["动漫", "二次元", "多人", "比耶", "眼镜", "火焰", "狐狸", "校服"]
 recommended_models: 
   - banana-pro

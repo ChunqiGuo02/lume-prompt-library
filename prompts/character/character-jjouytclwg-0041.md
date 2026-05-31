@@ -3,7 +3,7 @@ id: character-jjouytclwg-0041
 title: "动态战斗场景中的日系少女角色特写"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["动漫", "少女", "黑发", "动感", "室内", "广角", "透视", "紧张"]
 recommended_models: 
   - banana-pro

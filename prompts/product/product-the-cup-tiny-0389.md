@@ -3,7 +3,7 @@ id: product-the-cup-tiny-0389
 title: "咖啡杯中的“微型巴黎”"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["创意", "微缩", "巴黎", "咖啡杯", "铁塔", "建筑", "河流", "俯视"]
 recommended_models: 
   - banana-pro

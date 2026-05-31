@@ -3,7 +3,7 @@ id: 3d_concept-the-text-word-0056
 title: "一个字的无限反射"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["赛博朋克", "黑客", "暗调", "霓虹", "橙红色", "文字投影", "超现实", "未来感"]
 recommended_models: 
   - banana-pro

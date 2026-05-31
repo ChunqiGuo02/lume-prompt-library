@@ -3,7 +3,7 @@ id: character-the-flat-cartoon-0008
 title: "90年代美国卡通片定格动画风格插画"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["复古", "卡通", "美式", "插画", "粗线", "平涂", "暖色调", "光头"]
 recommended_models: 
   - banana-pro

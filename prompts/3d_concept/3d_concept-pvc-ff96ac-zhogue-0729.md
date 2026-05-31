@@ -3,7 +3,7 @@ id: 3d_concept-pvc-ff96ac-zhogue-0729
 title: "自定义气球"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["粉色", "3D渲染", "装置艺术", "充气造型", "字母元素", "黑色背景", "写实风格", "亮面材质"]
 recommended_models: 
   - banana-pro

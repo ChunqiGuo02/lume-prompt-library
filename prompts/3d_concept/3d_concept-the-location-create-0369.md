@@ -3,7 +3,7 @@ id: 3d_concept-the-location-create-0369
 title: "微型大都市——实时3D天气效果，视觉效果极为震撼！"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["魔多", "微缩", "模型", "火山", "熔岩", "塔楼", "暗黑", "闪电"]
 recommended_models: 
   - banana-pro

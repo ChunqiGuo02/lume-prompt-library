@@ -3,7 +3,7 @@ id: 3d_concept-football-screen-phone-0399
 title: "手机屏幕化作微型足球场，光影逼真，沉浸感十足"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["写实", "足球", "微缩", "手机", "木桌", "室内", "日光", "暖调"]
 recommended_models: 
   - banana-pro

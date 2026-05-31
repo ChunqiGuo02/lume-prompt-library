@@ -3,7 +3,7 @@ id: 3d_concept-product-upload-0765
 title: "蛋糕微型景观创意展示"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["微缩", "蛋糕", "草莓", "创意", "治愈", "模型", "小人", "场景"]
 recommended_models: 
   - banana-pro

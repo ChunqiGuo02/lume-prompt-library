@@ -3,7 +3,7 @@ id: meme-ffffff-anime-style-shading-0038
 title: "六表情差分角色图，统一造型仅变表情"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "可爱", "二次元", "动漫", "少女", "萌系", "日系", "浅发"]
 recommended_models: 
   - banana-pro

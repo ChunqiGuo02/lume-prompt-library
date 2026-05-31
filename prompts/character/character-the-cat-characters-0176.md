@@ -3,7 +3,7 @@ id: character-the-cat-characters-0176
 title: "跨次元自拍：真人与经典动漫角色的欢乐合照"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["卡通", "动漫", "插画", "自拍", "客厅", "明亮", "热闹", "活力"]
 recommended_models: 
   - banana-pro

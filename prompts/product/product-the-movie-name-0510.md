@@ -3,7 +3,7 @@ id: product-the-movie-name-0510
 title: "星际穿越微缩场景设计"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["3D", "星际", "科幻", "太空", "微缩", "立体", "简约", "黑色"]
 recommended_models: 
   - banana-pro

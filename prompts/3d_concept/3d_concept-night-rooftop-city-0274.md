@@ -3,7 +3,7 @@ id: 3d_concept-night-rooftop-city-0274
 title: "夜景中男子触碰光之女子"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["夜晚", "天台", "城市", "全息", "发光", "男性", "女性", "月光"]
 recommended_models: 
   - banana-pro

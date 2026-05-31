@@ -3,7 +3,7 @@ id: story_board-msc1htprgt-0086
 title: "可爱搞笑风格的Teto角色设计"
 category: story_board
 subcategory: "09_故事分镜角色设定"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "可爱", "搞怪", "红发", "双马尾", "制服", "插画", "卡通"]
 recommended_models: 
   - banana-pro

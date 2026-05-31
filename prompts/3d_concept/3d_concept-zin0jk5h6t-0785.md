@@ -3,7 +3,7 @@ id: 3d_concept-zin0jk5h6t-0785
 title: "角色表情与姿态多场景生成模板"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["黏土", "可爱", "3D", "卡通", "红头发", "居家", "表情", "婚礼"]
 recommended_models: 
   - banana-pro

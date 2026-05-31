@@ -3,7 +3,7 @@ id: illustration-saiksf7att-0243
 title: "赛博朋克风格女性吸烟，面部烟雾与霓虹光效交织，数字故障艺术效"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["故障", "霓虹", "科幻", "女性", "吸烟", "烟雾", "迷幻", "深色"]
 recommended_models: 
   - banana-pro

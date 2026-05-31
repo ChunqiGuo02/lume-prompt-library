@@ -3,7 +3,7 @@ id: character-mcn83cgsnc-0145
 title: "红室双人沙发场景插画"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["二次元", "日系", "插画", "红色", "男孩", "天使", "翅膀", "松饼"]
 recommended_models: 
   - banana-pro

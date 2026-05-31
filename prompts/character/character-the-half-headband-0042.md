@@ -3,7 +3,7 @@ id: character-the-half-headband-0042
 title: "动漫与现实分割肖像"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["鸣人", "动漫", "写实", "二次元", "渲染", "对比", "金发", "蓝眼"]
 recommended_models: 
   - banana-pro

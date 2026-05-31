@@ -3,7 +3,7 @@ id: product-the-collectible-figurine-0479
 title: "微缩足球人偶精细上色场景"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["欧美女性", "手工", "涂装", "手办", "足球", "微缩", "模型", "画室"]
 recommended_models: 
   - banana-pro

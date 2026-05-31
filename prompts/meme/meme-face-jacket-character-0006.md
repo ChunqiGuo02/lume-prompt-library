@@ -3,7 +3,7 @@ id: meme-face-jacket-character-0006
 title: "3D卡通贴纸角色多表情设计_1"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["3D", "可爱", "Q版", "卡通", "贴纸", "表情", "男生", "红色"]
 recommended_models: 
   - banana-pro

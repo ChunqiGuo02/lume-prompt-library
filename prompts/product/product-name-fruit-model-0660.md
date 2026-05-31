@@ -3,7 +3,7 @@ id: product-name-fruit-model-0660
 title: "萌趣水果拟人化3D毛绒玩偶设计模板"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["梨", "毛绒", "可爱", "绿色", "拟人", "腮红", "树叶", "3D"]
 recommended_models: 
   - banana-pro

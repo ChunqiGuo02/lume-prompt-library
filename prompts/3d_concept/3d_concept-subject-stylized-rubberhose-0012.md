@@ -3,7 +3,7 @@ id: 3d_concept-subject-stylized-rubberhose-0012
 title: "3D橡皮管角色动态设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "卡通", "Q版", "吉他", "紫色", "动感", "渲染", "可爱"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-the-figure-vinyl-0366
 title: "卡通角色透明 vinyl 手办渲染预设_1"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["3D", "渲染", "潮玩", "手办", "透明", "亮面", "卡通", "可爱"]
 recommended_models: 
   - banana-pro

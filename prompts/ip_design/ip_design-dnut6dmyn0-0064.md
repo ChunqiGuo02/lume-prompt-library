@@ -3,7 +3,7 @@ id: ip_design-dnut6dmyn0-0064
 title: "动画番茄角色提供食物储存建议"
 category: ip_design
 subcategory: "04_动漫游戏视觉与IP改编"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Seedance 2.0", "番茄角色", "皮克斯风格", "红色调", "近景对话", "可爱卡通", "厨房场景", "说话动作"]
 recommended_models: []
 recommended_params:

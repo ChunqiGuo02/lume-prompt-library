@@ -3,7 +3,7 @@ id: character-nano-banana-pro-0067
 title: "四季森林精灵"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["拼贴", "可爱", "四季", "森林", "拟人", "草木", "花卉", "白桦"]
 recommended_models: 
   - banana-pro

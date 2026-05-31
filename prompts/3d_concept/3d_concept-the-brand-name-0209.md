@@ -3,7 +3,7 @@ id: 3d_concept-the-brand-name-0209
 title: "品牌领导骑行"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["科幻", "赛博", "摩托", "科技", "品牌", "霓虹", "光影", "夜景"]
 recommended_models: 
   - banana-pro

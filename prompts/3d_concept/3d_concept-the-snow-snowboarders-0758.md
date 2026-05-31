@@ -3,7 +3,7 @@ id: 3d_concept-the-snow-snowboarders-0758
 title: "薯片罐变雪道，迷你滑雪者驰骋雪山"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["品客", "微缩", "滑雪", "薯片", "雪景", "雪山", "蓝天", "创意"]
 recommended_models: 
   - banana-pro

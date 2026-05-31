@@ -3,7 +3,7 @@ id: character-nano-banana-pro-0025
 title: "九人角色客厅互动场景合成"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["动漫", "美少女", "万圣节", "客厅", "暖色调", "治愈", "欢聚", "插画"]
 recommended_models: 
   - banana-pro

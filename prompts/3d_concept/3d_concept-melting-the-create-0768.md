@@ -3,7 +3,7 @@ id: 3d_concept-melting-the-create-0768
 title: "融化奇幻涂色页"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["线稿", "填色画", "黑白", "迷幻", "超现实", "奇幻", "怪诞", "融化"]
 recommended_models: 
   - banana-pro

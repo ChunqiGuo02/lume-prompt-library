@@ -3,7 +3,7 @@ id: product-meme-name-the-0644
 title: "网红名场面微型艺术展柜"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微缩", "展览", "模型", "猫咪", "网络", "艺术", "幽默", "当代"]
 recommended_models: 
   - banana-pro

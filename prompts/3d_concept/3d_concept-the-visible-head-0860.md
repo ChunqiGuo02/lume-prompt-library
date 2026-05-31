@@ -3,7 +3,7 @@ id: 3d_concept-the-visible-head-0860
 title: "超现实悬浮人头肖像"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "悬浮", "人头", "蓝天", "白云", "橙色", "墨镜", "3D"]
 recommended_models: []
 recommended_params:

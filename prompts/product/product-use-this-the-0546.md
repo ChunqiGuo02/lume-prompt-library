@@ -3,7 +3,7 @@ id: product-use-this-the-0546
 title: "漫画分镜角色IP替换生成"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["企鹅", "可爱", "卡通", "漫画", "手办", "红色", "绿色", "创意"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-lush-hand-painted-anime-0474
 title: "未来科技感机器人特写"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["赛博朋克", "改造人", "机械", "黄色", "紫色", "霓虹", "科幻", "故障"]
 recommended_models: 
   - banana-pro

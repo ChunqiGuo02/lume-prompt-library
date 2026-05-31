@@ -3,7 +3,7 @@ id: 3d_concept-the-same-his-0429
 title: "数字幽灵：BMX AI"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["男子", "赛博朋克", "故障风", "红色", "绿色", "米白", "忧郁", "胶片"]
 recommended_models: 
   - banana-pro

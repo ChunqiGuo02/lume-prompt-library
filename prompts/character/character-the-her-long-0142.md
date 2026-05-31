@@ -3,7 +3,7 @@ id: character-the-her-long-0142
 title: "粉色系动漫少女头像"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["二次元", "动漫", "简约", "淡彩", "清新", "少女", "金发", "蓝眼"]
 recommended_models: []
 recommended_params:

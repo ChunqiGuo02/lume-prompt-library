@@ -3,7 +3,7 @@ id: 3d_concept-the-glowing-animals-0953
 title: "霓虹玻璃动物幻境"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["非洲", "草原", "动物", "霓虹", "玻璃", "透明", "黄昏", "梦幻"]
 recommended_models: 
   - banana-pro

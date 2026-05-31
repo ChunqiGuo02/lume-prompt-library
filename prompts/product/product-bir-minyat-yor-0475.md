@@ -3,7 +3,7 @@ id: product-bir-minyat-yor-0475
 title: "微缩模型中的城市生活切片"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["模型", "建筑", "暖色调", "剖面", "治愈", "手工", "街道", "微缩"]
 recommended_models: 
   - banana-pro

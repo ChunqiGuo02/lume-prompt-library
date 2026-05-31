@@ -3,7 +3,7 @@ id: product-chatgpt-voice-were-0670
 title: "角色化语音助手形象"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["蓝色", "卡通", "可爱", "3D", "潮玩", "手办", "拟人", "圆润"]
 recommended_models: []
 recommended_params:

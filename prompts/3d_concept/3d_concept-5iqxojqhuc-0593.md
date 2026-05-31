@@ -3,7 +3,7 @@ id: 3d_concept-5iqxojqhuc-0593
 title: "现实与未来之门的牵手瞬间"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["动漫风", "赛博风", "鸟居", "传送门", "霓虹", "都市", "牵手", "科幻"]
 recommended_models: 
   - banana-pro

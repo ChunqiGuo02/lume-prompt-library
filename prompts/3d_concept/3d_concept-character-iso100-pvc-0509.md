@@ -3,7 +3,7 @@ id: 3d_concept-character-iso100-pvc-0509
 title: "模型全息投影"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["Q版", "可爱", "青蓝色", "科技感", "全息投影", "卡通角色", "现代桌面", "产品摄影"]
 recommended_models: 
   - banana-pro

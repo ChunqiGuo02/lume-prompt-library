@@ -3,7 +3,7 @@ id: 3d_concept-4bf7b72efd-0819
 title: "赛博朋克街头摄影风格"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["赛博朋克", "霓虹", "蓝紫色", "粉色", "雨丝", "反光", "夜景", "科技感"]
 recommended_models: 
   - banana-pro

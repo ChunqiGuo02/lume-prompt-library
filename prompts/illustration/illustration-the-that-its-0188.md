@@ -3,7 +3,7 @@ id: illustration-the-that-its-0188
 title: "生成超现实奇幻森林与神话场景"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["奇幻", "魔法", "神话", "暮色", "古树", "灵狐", "独角兽", "法师"]
 recommended_models: []
 recommended_params:

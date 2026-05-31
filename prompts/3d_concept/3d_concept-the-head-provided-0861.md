@@ -3,7 +3,7 @@ id: 3d_concept-the-head-provided-0861
 title: "超现实悬浮头肖像"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "3D", "悬浮", "头像", "蓝天", "白云", "墨镜", "亮面"]
 recommended_models: []
 recommended_params:

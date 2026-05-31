@@ -3,7 +3,7 @@ id: product-the-character-thumb-0300
 title: "一张超现实的微距照片"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微距", "写实", "微缩", "人偶", "名人", "灰色", "针织", "影棚"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-the-paper-prompt-0477
 title: "微缩纸币艺术摄影"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微缩", "美元", "纸币", "白宫", "轿车", "拇指", "微距", "景深"]
 recommended_models: 
   - banana-pro

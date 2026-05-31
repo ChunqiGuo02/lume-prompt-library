@@ -3,7 +3,7 @@ id: ip_design-chibi-penguin-body-0071
 title: "古古嘎嘎收集可爱"
 category: ip_design
 subcategory: "04_动漫游戏视觉与IP改编"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Seedance 2.0", "可爱企鹅女孩", "3D动漫", "Chibi风格", "萌系动画", "白黑配色", "大眼睛", "柔和灯光"]
 recommended_models: []
 recommended_params:

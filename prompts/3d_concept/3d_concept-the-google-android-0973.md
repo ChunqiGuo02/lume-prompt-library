@@ -3,7 +3,7 @@ id: 3d_concept-the-google-android-0973
 title: "高对比度的科学渲染风格"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["蓝牙耳机", "X射线", "热成像", "伪彩色", "高对比", "黑背景", "未来感", "科技感"]
 recommended_models: 
   - banana-pro

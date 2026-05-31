@@ -3,7 +3,7 @@ id: character-the-anime-yellow-0043
 title: "动漫与现实在电视节目中完美结合"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["地铁", "二次元", "动画", "真人", "混合", "黄色", "耳机", "广告"]
 recommended_models: 
   - banana-pro

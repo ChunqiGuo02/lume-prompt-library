@@ -3,7 +3,7 @@ id: meme-make-character-design-0040
 title: "创建表情包图像合集"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["狮子", "卡通", "3D", "拟人", "表情", "角色", "设计", "可爱"]
 recommended_models: 
   - banana-pro

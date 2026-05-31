@@ -3,7 +3,7 @@ id: character-banbi-sma-mom-0078
 title: "宝宝按遥控器引发温馨互动的日常漫画"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["漫画", "亲子", "可爱", "日常", "温馨", "治愈", "日系", "萌系"]
 recommended_models: 
   - banana-pro

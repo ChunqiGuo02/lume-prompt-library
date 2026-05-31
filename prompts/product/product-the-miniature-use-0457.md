@@ -3,7 +3,7 @@ id: product-the-miniature-use-0457
 title: "微型农夫收割巨型向日葵"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微缩", "向日葵", "田园", "创意", "微距", "收割", "工人", "暖色调"]
 recommended_models: 
   - banana-pro

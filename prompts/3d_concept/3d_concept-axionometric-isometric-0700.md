@@ -3,7 +3,7 @@ id: 3d_concept-axionometric-isometric-0700
 title: "经典影视名场面微缩艺术呈现"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["阿甘正传", "3D", "微缩", "写实", "暖色调", "希望", "治愈", "影视"]
 recommended_models: 
   - banana-pro

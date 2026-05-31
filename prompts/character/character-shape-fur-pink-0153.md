@@ -3,7 +3,7 @@ id: character-shape-fur-pink-0153
 title: "萌系3D动物角色设计模板"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["可爱", "3D", "卡通", "兔子", "毛绒", "拟人", "暖色调", "珊瑚红"]
 recommended_models: 
   - banana-pro

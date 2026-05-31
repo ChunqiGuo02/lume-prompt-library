@@ -3,7 +3,7 @@ id: 3d_concept-the-head-her-0450
 title: "星穹之梦颅内宇宙"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "插画", "女性", "长发", "星空", "紫调", "梦幻", "迷幻"]
 recommended_models: 
   - banana-pro

@@ -1,0 +1,603 @@
+{
+  "ds_slug": "isometric-pastel-3d",
+  "ds_label": "等距粉彩 3D",
+  "matched_total": 50,
+  "candidate_pool": 52,
+  "top_tags": [
+    {
+      "tag": "微缩",
+      "count": 28
+    },
+    {
+      "tag": "3D",
+      "count": 27
+    },
+    {
+      "tag": "可爱",
+      "count": 15
+    },
+    {
+      "tag": "暖色调",
+      "count": 14
+    },
+    {
+      "tag": "卡通",
+      "count": 14
+    },
+    {
+      "tag": "模型",
+      "count": 11
+    },
+    {
+      "tag": "Q版",
+      "count": 8
+    },
+    {
+      "tag": "写实",
+      "count": 8
+    },
+    {
+      "tag": "创意",
+      "count": 8
+    },
+    {
+      "tag": "等距",
+      "count": 5
+    },
+    {
+      "tag": "治愈",
+      "count": 5
+    },
+    {
+      "tag": "立体",
+      "count": 4
+    },
+    {
+      "tag": "粉色",
+      "count": 4
+    },
+    {
+      "tag": "建筑",
+      "count": 4
+    },
+    {
+      "tag": "超现实",
+      "count": 4
+    },
+    {
+      "tag": "地标",
+      "count": 3
+    },
+    {
+      "tag": "黏土",
+      "count": 3
+    },
+    {
+      "tag": "迷你",
+      "count": 3
+    },
+    {
+      "tag": "人偶",
+      "count": 3
+    },
+    {
+      "tag": "简约",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "暖色调",
+      "count": 14
+    },
+    {
+      "tag": "粉色",
+      "count": 4
+    },
+    {
+      "tag": "紫色",
+      "count": 2
+    },
+    {
+      "tag": "复古",
+      "count": 1
+    },
+    {
+      "tag": "暖调",
+      "count": 1
+    },
+    {
+      "tag": "灰色",
+      "count": 1
+    },
+    {
+      "tag": "暖光",
+      "count": 1
+    },
+    {
+      "tag": "白色",
+      "count": 1
+    },
+    {
+      "tag": "霓虹",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "可爱",
+      "count": 15
+    },
+    {
+      "tag": "卡通",
+      "count": 14
+    },
+    {
+      "tag": "Q版",
+      "count": 8
+    },
+    {
+      "tag": "建筑",
+      "count": 4
+    },
+    {
+      "tag": "插画",
+      "count": 2
+    },
+    {
+      "tag": "少女",
+      "count": 1
+    },
+    {
+      "tag": "城市",
+      "count": 1
+    },
+    {
+      "tag": "室内",
+      "count": 1
+    },
+    {
+      "tag": "时尚",
+      "count": 1
+    },
+    {
+      "tag": "肖像",
+      "count": 1
+    },
+    {
+      "tag": "户外",
+      "count": 1
+    },
+    {
+      "tag": "人像",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 28,
+    "B": 22,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "3d_concept-state-the-landmark-0713",
+      "title": "美国微型3D立体景观探索",
+      "path": "prompts/3d_concept/3d_concept-state-the-landmark-0713.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "等距",
+        "3D",
+        "微缩",
+        "微型"
+      ]
+    },
+    {
+      "id": "illustration-the-poem-wind-0073",
+      "title": "古诗词3D等距微型艺术插画",
+      "path": "prompts/illustration/illustration-the-poem-wind-0073.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "等距",
+        "3D",
+        "微缩",
+        "微型"
+      ]
+    },
+    {
+      "id": "3d_concept-the-location-create-0369",
+      "title": "微型大都市——实时3D天气效果，视觉效果极为震撼！",
+      "path": "prompts/3d_concept/3d_concept-the-location-create-0369.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "3D",
+        "微缩",
+        "微型"
+      ]
+    },
+    {
+      "id": "illustration-the-brand-truck-0005",
+      "title": "3D零食卡通世界",
+      "path": "prompts/illustration/illustration-the-brand-truck-0005.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "3D",
+        "马卡龙",
+        "卡通"
+      ]
+    },
+    {
+      "id": "3d_concept-0ac83d7984-0129",
+      "title": "全聚德烤鸭店微缩模型",
+      "path": "prompts/3d_concept/3d_concept-0ac83d7984-0129.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "3D",
+        "微缩",
+        "迷你"
+      ]
+    },
+    {
+      "id": "illustration-product-the-cartoon-style-0003",
+      "title": "3D卡通雕塑风格",
+      "path": "prompts/illustration/illustration-product-the-cartoon-style-0003.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "3D",
+        "马卡龙",
+        "卡通"
+      ]
+    },
+    {
+      "id": "3d_concept-she-wooden-wall-0044",
+      "title": "Pixar风格少女倚木墙暖光写真",
+      "path": "prompts/3d_concept/3d_concept-she-wooden-wall-0044.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "3D",
+        "卡通"
+      ]
+    },
+    {
+      "id": "3d_concept-the-reference-true-0081",
+      "title": "两个世界碰撞了…… Gemini Nano Banana Pro",
+      "path": "prompts/3d_concept/3d_concept-the-reference-true-0081.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "粉色",
+        "卡通"
+      ]
+    },
+    {
+      "id": "3d_concept-octane-c4d-isometric-0136",
+      "title": "冬至美食城市微景观海报",
+      "path": "prompts/3d_concept/3d_concept-octane-c4d-isometric-0136.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "3D",
+        "微缩"
+      ]
+    },
+    {
+      "id": "3d_concept-famous-dishes-regions-0259",
+      "title": "墨西哥美食之旅",
+      "path": "prompts/3d_concept/3d_concept-famous-dishes-regions-0259.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "3D",
+        "微型"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "3d_concept-state-the-landmark-0713",
+      "path": "prompts/3d_concept/3d_concept-state-the-landmark-0713.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-poem-wind-0073",
+      "path": "prompts/illustration/illustration-the-poem-wind-0073.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-location-create-0369",
+      "path": "prompts/3d_concept/3d_concept-the-location-create-0369.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-brand-truck-0005",
+      "path": "prompts/illustration/illustration-the-brand-truck-0005.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-0ac83d7984-0129",
+      "path": "prompts/3d_concept/3d_concept-0ac83d7984-0129.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-product-the-cartoon-style-0003",
+      "path": "prompts/illustration/illustration-product-the-cartoon-style-0003.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-she-wooden-wall-0044",
+      "path": "prompts/3d_concept/3d_concept-she-wooden-wall-0044.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-reference-true-0081",
+      "path": "prompts/3d_concept/3d_concept-the-reference-true-0081.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-octane-c4d-isometric-0136",
+      "path": "prompts/3d_concept/3d_concept-octane-c4d-isometric-0136.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-famous-dishes-regions-0259",
+      "path": "prompts/3d_concept/3d_concept-famous-dishes-regions-0259.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-building-construction-0366",
+      "path": "prompts/3d_concept/3d_concept-the-building-construction-0366.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-miniature-tiny-the-0371",
+      "path": "prompts/3d_concept/3d_concept-miniature-tiny-the-0371.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-true-city-location-0376",
+      "path": "prompts/3d_concept/3d_concept-true-city-location-0376.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-her-top-0377",
+      "path": "prompts/3d_concept/3d_concept-the-her-top-0377.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-surreal-texture-slightly-0384",
+      "path": "prompts/3d_concept/3d_concept-surreal-texture-slightly-0384.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-football-screen-phone-0399",
+      "path": "prompts/3d_concept/3d_concept-football-screen-phone-0399.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-surface-type-aspect-0400",
+      "path": "prompts/3d_concept/3d_concept-surface-type-aspect-0400.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-city-detail-the-0410",
+      "path": "prompts/3d_concept/3d_concept-city-detail-the-0410.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-object-storm-0455",
+      "path": "prompts/3d_concept/3d_concept-the-object-storm-0455.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-isometric-pastel-home-0497",
+      "path": "prompts/3d_concept/3d_concept-isometric-pastel-home-0497.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-head-top-diorama-thinking-0499",
+      "path": "prompts/3d_concept/3d_concept-head-top-diorama-thinking-0499.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-axionometric-isometric-0700",
+      "path": "prompts/3d_concept/3d_concept-axionometric-isometric-0700.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-pvc-ff96ac-zhogue-0729",
+      "path": "prompts/3d_concept/3d_concept-pvc-ff96ac-zhogue-0729.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-snow-snowboarders-0758",
+      "path": "prompts/3d_concept/3d_concept-the-snow-snowboarders-0758.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-dish-the-name-0764",
+      "path": "prompts/3d_concept/3d_concept-dish-the-name-0764.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-face-dark-hair-0872",
+      "path": "prompts/3d_concept/3d_concept-face-dark-hair-0872.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-cute-character-smooth-0879",
+      "path": "prompts/3d_concept/3d_concept-cute-character-smooth-0879.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-should-the-characters-0027",
+      "path": "prompts/illustration/illustration-should-the-characters-0027.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-retexture-true-0136",
+      "path": "prompts/illustration/illustration-the-retexture-true-0136.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-she-her-teal-0146",
+      "path": "prompts/illustration/illustration-she-her-teal-0146.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-subject-stylized-rubberhose-0012",
+      "path": "prompts/3d_concept/3d_concept-subject-stylized-rubberhose-0012.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-akwpiltser-0013",
+      "path": "prompts/3d_concept/3d_concept-akwpiltser-0013.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-stylized-the-transform-0015",
+      "path": "prompts/3d_concept/3d_concept-stylized-the-transform-0015.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-cinema-x1080-0171",
+      "path": "prompts/3d_concept/3d_concept-cinema-x1080-0171.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-f8b0332cb7-0220",
+      "path": "prompts/3d_concept/3d_concept-f8b0332cb7-0220.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-type-city-transport-0249",
+      "path": "prompts/3d_concept/3d_concept-type-city-transport-0249.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-sw8ennsrlp-0319",
+      "path": "prompts/3d_concept/3d_concept-sw8ennsrlp-0319.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-household-object-architectural-0320",
+      "path": "prompts/3d_concept/3d_concept-household-object-architectural-0320.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-chocolate-being-0342",
+      "path": "prompts/3d_concept/3d_concept-the-chocolate-being-0342.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-una-con-maqueta-0362",
+      "path": "prompts/3d_concept/3d_concept-una-con-maqueta-0362.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-face-giant-0372",
+      "path": "prompts/3d_concept/3d_concept-the-face-giant-0372.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-eaf3846afb-0408",
+      "path": "prompts/3d_concept/3d_concept-eaf3846afb-0408.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-description-make-miniature-0605",
+      "path": "prompts/3d_concept/3d_concept-description-make-miniature-0605.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-make-miniature-full-body-0610",
+      "path": "prompts/3d_concept/3d_concept-make-miniature-full-body-0610.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-level-noob-pro-0694",
+      "path": "prompts/3d_concept/3d_concept-level-noob-pro-0694.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-product-upload-0765",
+      "path": "prompts/3d_concept/3d_concept-product-upload-0765.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-zin0jk5h6t-0785",
+      "path": "prompts/3d_concept/3d_concept-zin0jk5h6t-0785.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-cute-bioluminescent-animal-0949",
+      "path": "prompts/3d_concept/3d_concept-cute-bioluminescent-animal-0949.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-habitat-use-create-0052",
+      "path": "prompts/illustration/illustration-habitat-use-create-0052.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-e756175f50-0183",
+      "path": "prompts/illustration/illustration-e756175f50-0183.md",
+      "score": 21,
+      "quality": "B"
+    }
+  ]
+}

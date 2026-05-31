@@ -3,7 +3,7 @@ id: 3d_concept-the-armor-character-0117
 title: "像素艺术角色肖像生成"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["像素风", "肖像", "中世纪", "游侠", "兜帽", "皮甲", "故障", "霓虹"]
 recommended_models: 
   - banana-pro

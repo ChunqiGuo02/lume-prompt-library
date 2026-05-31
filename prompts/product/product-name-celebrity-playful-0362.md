@@ -3,7 +3,7 @@ id: product-name-celebrity-playful-0362
 title: "卡通明星云上飞行萌趣图"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "3D", "可爱", "海盗", "云朵", "暖色调", "渐变", "卡通"]
 recommended_models: 
   - banana-pro

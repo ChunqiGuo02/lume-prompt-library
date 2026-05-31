@@ -3,7 +3,7 @@ id: 3d_concept-the-ultra-real-night-0251
 title: "城市夜景电力网络可视化"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["城市", "夜景", "电网", "科技", "写实", "赛博", "车流", "光影"]
 recommended_models: 
   - banana-pro

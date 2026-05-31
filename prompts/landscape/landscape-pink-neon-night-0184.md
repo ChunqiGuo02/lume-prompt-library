@@ -3,7 +3,7 @@ id: landscape-pink-neon-night-0184
 title: "霓虹夜漂移：粉色跑车与钩针"
 category: landscape
 subcategory: "15_特定场景环境生成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["夜景", "霓虹", "粉色", "跑车", "都市", "街拍", "写实", "美女"]
 recommended_models: 
   - banana-pro

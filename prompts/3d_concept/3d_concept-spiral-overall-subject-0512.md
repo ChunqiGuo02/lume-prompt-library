@@ -3,7 +3,7 @@ id: 3d_concept-spiral-overall-subject-0512
 title: "橙色超跑驰骋未来都市螺旋高架"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["跑车", "橙色", "公路", "螺旋", "建筑", "城市", "航拍", "动态"]
 recommended_models: 
   - banana-pro

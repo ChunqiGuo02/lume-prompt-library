@@ -3,7 +3,7 @@ id: story_board-character-banana-this-0280
 title: "角色情绪与场景扩展设计"
 category: story_board
 subcategory: "09_故事分镜角色设定"
-aesthetic: null
+aesthetic: anime-style
 tags: ["猫耳", "短发", "女生", "插画", "动漫", "蓝色", "简约", "二次元"]
 recommended_models: 
   - banana-pro

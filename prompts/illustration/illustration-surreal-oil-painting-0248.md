@@ -3,7 +3,7 @@ id: illustration-surreal-oil-painting-0248
 title: "超现实主义油画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "油画", "梦境", "迷幻", "蜡烛", "小提琴", "眼睛", "树木"]
 recommended_models: 
   - banana-pro

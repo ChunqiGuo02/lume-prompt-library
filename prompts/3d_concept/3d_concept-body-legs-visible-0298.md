@@ -3,7 +3,7 @@ id: 3d_concept-body-legs-visible-0298
 title: "奢华机械昆虫超写实微距艺术创作"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["机械", "蚊虫", "金色", "血液", "玻璃", "微距", "科技", "写实"]
 recommended_models: 
   - banana-pro

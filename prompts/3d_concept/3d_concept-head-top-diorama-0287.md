@@ -3,7 +3,7 @@ id: 3d_concept-head-top-diorama-0287
 title: "头戴奇幻微缩世界"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "创意", "微缩", "造景", "人像", "科幻", "蒸汽", "雪景"]
 recommended_models: 
   - banana-pro

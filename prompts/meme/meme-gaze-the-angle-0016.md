@@ -3,7 +3,7 @@ id: meme-gaze-the-angle-0016
 title: "Q版少女俏皮眨眼吐舌，手扶脸颊，橙衣黑裤，大头小身，正视镜头"
 category: meme
 subcategory: "16_表情包趣味拼图"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "可爱", "二次元", "动漫", "棕色", "短发", "绿瞳", "橙色"]
 recommended_models: 
   - banana-pro

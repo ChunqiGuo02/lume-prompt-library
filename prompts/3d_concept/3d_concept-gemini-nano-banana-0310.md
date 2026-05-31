@@ -3,7 +3,7 @@ id: 3d_concept-gemini-nano-banana-0310
 title: "宇宙生命之树全景图"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["奇幻", "超现实", "宇宙", "星空", "世界树", "原子", "DNA", "文明"]
 recommended_models: 
   - banana-pro

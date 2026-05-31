@@ -3,7 +3,7 @@ id: product-the-figure-vinyl-0363
 title: "卡通角色3D手办渲染预设_1"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["3D", "渲染", "公仔", "潮玩", "手办", "可爱", "卡通", "暖色调"]
 recommended_models: 
   - banana-pro

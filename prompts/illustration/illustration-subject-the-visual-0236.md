@@ -3,7 +3,7 @@ id: illustration-subject-the-visual-0236
 title: "视觉爆炸式动漫海报设计"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: anime-style
 tags: ["少女", "水手服", "校服", "短发", "紫瞳", "二次元", "波普风", "高饱和"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: character-balanced-full-body-caricature-0080
 title: "将明星变成趣味十足的3D卡通肖像"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["3D", "卡通", "夸张", "男性", "西装", "大眼睛", "大头", "暖色调"]
 recommended_models: 
   - banana-pro

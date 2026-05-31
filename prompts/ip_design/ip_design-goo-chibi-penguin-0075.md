@@ -3,7 +3,7 @@ id: ip_design-goo-chibi-penguin-0075
 title: "可爱的企鹅女孩“古古嘎嘎”愤怒地在烹饪。"
 category: ip_design
 subcategory: "04_动漫游戏视觉与IP改编"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Seedance 2.0", "可爱卡通企鹅", "chibi风格", "夜市街头", "炒饭锅", "动画动作", "高饱和色彩", "柔光灯光"]
 recommended_models: []
 recommended_params:

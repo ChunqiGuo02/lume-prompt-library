@@ -3,7 +3,7 @@ id: illustration-she-her-teal-0146
 title: "梦幻少女肖像：温暖光影下的复古木墙前，色彩斑斓的服饰与柔和表"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "卡通", "可爱", "女孩", "暖色调", "撞色", "雀斑", "背带裤"]
 recommended_models: 
   - banana-pro

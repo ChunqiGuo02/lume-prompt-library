@@ -28,6 +28,13 @@ const DS_PRIORITY = [
   "luxury-product-ad",
   "architectural-analysis-academic",
   "sasaki-competition-board",
+  // Tier 3
+  "isometric-pastel-3d",
+  "cyberpunk-neon",
+  "microscope-3d",
+  "surreal-dreamy",
+  "anime-style",
+  "chibi-character",
 ];
 
 // 收集 path -> best DS

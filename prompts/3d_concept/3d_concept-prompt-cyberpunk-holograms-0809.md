@@ -3,7 +3,7 @@ id: 3d_concept-prompt-cyberpunk-holograms-0809
 title: "赛博朋克少女俯瞰霓虹都市"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["女性", "山峰", "霓虹", "未来", "城市", "科幻", "蓝色", "粉色"]
 recommended_models: 
   - banana-pro

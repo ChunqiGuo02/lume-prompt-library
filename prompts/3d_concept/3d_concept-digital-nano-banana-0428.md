@@ -3,7 +3,7 @@ id: 3d_concept-digital-nano-banana-0428
 title: "数字囚徒：光缆缠身的未来人"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["黑白", "单色调", "高对比", "赛博朋克", "超现实", "未来感", "霓虹", "线缆"]
 recommended_models: 
   - banana-pro

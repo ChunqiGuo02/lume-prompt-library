@@ -3,7 +3,7 @@ id: product-new-cute-character-0659
 title: "萌系3D角色设计风格"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["3D", "可爱", "毛绒", "玩偶", "卡通", "角色", "浅色调", "简约"]
 recommended_models: 
   - banana-pro

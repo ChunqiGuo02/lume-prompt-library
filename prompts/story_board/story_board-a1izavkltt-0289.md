@@ -3,7 +3,7 @@ id: story_board-a1izavkltt-0289
 title: "角色设计与姿势分离绘制"
 category: story_board
 subcategory: "09_故事分镜角色设定"
-aesthetic: null
+aesthetic: anime-style
 tags: ["二次元", "日系", "插画", "少女", "黑发", "长发", "圣诞", "服装"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-stylized-the-transform-0015
 title: "3D黏土风格角色重塑"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["黏土", "3D", "卡通", "可爱", "阿甘", "影视", "公路", "荒漠"]
 recommended_models: 
   - banana-pro

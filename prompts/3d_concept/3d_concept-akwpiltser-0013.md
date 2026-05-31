@@ -3,7 +3,7 @@ id: 3d_concept-akwpiltser-0013
 title: "3D立体图标集：水果表情、2月主题、90年代科技与在宅工作困"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["水果", "拟人", "表情", "可爱", "3D", "立体", "卡通", "图标"]
 recommended_models: 
   - banana-pro

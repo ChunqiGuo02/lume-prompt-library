@@ -3,7 +3,7 @@ id: 3d_concept-level-noob-pro-0694
 title: "纳米香蕉进阶之路海报"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "卡通", "可爱", "游戏", "地图", "海报", "进阶", "前端"]
 recommended_models: 
   - banana-pro

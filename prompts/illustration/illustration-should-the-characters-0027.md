@@ -3,7 +3,7 @@ id: illustration-should-the-characters-0027
 title: "任天堂风格的3D卡通插画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "Q版", "卡通", "可爱", "暖色调", "户外", "晴天", "绝命毒师"]
 recommended_models: 
   - banana-pro

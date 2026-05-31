@@ -3,7 +3,7 @@ id: illustration-character-sprinting-past-0203
 title: "穿越梦境迷宫"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["奔跑", "时钟", "门", "灯笼", "梦境", "插画", "奇幻", "童话"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-the-building-construction-0366
 title: "建筑蓝图幻化实景：多阶段施工共存的3D建筑可视化"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["三维", "建筑", "图纸", "微缩", "施工", "斗兽场", "创意", "写实"]
 recommended_models: 
   - banana-pro

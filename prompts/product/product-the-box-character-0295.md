@@ -3,7 +3,7 @@ id: product-the-box-character-0295
 title: "Youtooz风格3D chibi恐怖角色乙烯基收藏品"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "3D", "潮玩", "公仔", "恐怖", "影视", "周边", "收藏"]
 recommended_models: 
   - banana-pro

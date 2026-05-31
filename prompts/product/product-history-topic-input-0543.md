@@ -3,7 +3,7 @@ id: product-history-topic-input-0543
 title: "游戏历史微缩场景书页艺术"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["游戏", "书籍", "模型", "复古", "怀旧", "写实", "微缩", "桌面"]
 recommended_models: 
   - banana-pro

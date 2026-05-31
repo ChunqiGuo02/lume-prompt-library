@@ -3,7 +3,7 @@ id: 3d_concept-the-object-storm-0455
 title: "普通物件成避难所，微型人类在风暴中挣扎求生。"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["微缩", "模型", "创意", "火灾", "避难", "紧张", "人偶", "电器"]
 recommended_models: 
   - banana-pro

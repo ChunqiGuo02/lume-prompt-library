@@ -3,7 +3,7 @@ id: character-fox-police-anthropomorphic-0131
 title: "真人版疯狂动物城警官与狐狸搭档写真"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["狐狸", "真人", "警服", "蓝色", "超写实", "海报", "拟人", "微笑"]
 recommended_models: 
   - banana-pro

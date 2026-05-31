@@ -3,7 +3,7 @@ id: landscape-argument-name-default-0122
 title: "未来科技工程师工作场景"
 category: landscape
 subcategory: "15_特定场景环境生成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["程序员", "黑客", "深夜", "蓝色", "科技", "全息", "未来感", "专注"]
 recommended_models: 
   - banana-pro

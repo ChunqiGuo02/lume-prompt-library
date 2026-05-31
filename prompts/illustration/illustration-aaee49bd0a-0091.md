@@ -3,7 +3,7 @@ id: illustration-aaee49bd0a-0091
 title: "多角色串场漫画"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: anime-style
 tags: ["漫画", "动漫", "美少女", "战斗", "联动", "彩色", "群像", "热血"]
 recommended_models: 
   - banana-pro

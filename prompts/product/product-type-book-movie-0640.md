@@ -3,7 +3,7 @@ id: product-type-book-movie-0640
 title: "经典影视场景立体微缩模型展示"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["模型", "科幻", "末日", "摆件", "雕刻", "微缩", "恐怖", "生化"]
 recommended_models: 
   - banana-pro

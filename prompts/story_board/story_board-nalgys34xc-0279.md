@@ -3,7 +3,7 @@ id: story_board-nalgys34xc-0279
 title: "角色外观定制指南"
 category: story_board
 subcategory: "09_故事分镜角色设定"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "卡通", "女孩", "金发", "蓝瞳", "可爱", "休闲装", "暖色调"]
 recommended_models: 
   - banana-pro

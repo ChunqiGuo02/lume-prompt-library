@@ -3,7 +3,7 @@ id: product-key-characters-argument-0585
 title: "电影系列微缩景观模型"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["007", "Q版", "3D", "模型", "C4D", "盲盒", "暖色调", "电影"]
 recommended_models: 
   - banana-pro

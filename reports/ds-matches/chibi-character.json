@@ -1,0 +1,607 @@
+{
+  "ds_slug": "chibi-character",
+  "ds_label": "Q版卡通角色",
+  "matched_total": 50,
+  "candidate_pool": 457,
+  "top_tags": [
+    {
+      "tag": "可爱",
+      "count": 41
+    },
+    {
+      "tag": "卡通",
+      "count": 29
+    },
+    {
+      "tag": "Q版",
+      "count": 25
+    },
+    {
+      "tag": "3D",
+      "count": 21
+    },
+    {
+      "tag": "拟人",
+      "count": 8
+    },
+    {
+      "tag": "暖色调",
+      "count": 7
+    },
+    {
+      "tag": "萌系",
+      "count": 6
+    },
+    {
+      "tag": "插画",
+      "count": 6
+    },
+    {
+      "tag": "潮玩",
+      "count": 6
+    },
+    {
+      "tag": "二次元",
+      "count": 5
+    },
+    {
+      "tag": "毛绒",
+      "count": 4
+    },
+    {
+      "tag": "公仔",
+      "count": 4
+    },
+    {
+      "tag": "治愈",
+      "count": 4
+    },
+    {
+      "tag": "角色",
+      "count": 4
+    },
+    {
+      "tag": "动漫",
+      "count": 4
+    },
+    {
+      "tag": "手办",
+      "count": 4
+    },
+    {
+      "tag": "Seedance 2.0",
+      "count": 4
+    },
+    {
+      "tag": "玩偶",
+      "count": 3
+    },
+    {
+      "tag": "少女",
+      "count": 3
+    },
+    {
+      "tag": "蓝色",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "暖色调",
+      "count": 7
+    },
+    {
+      "tag": "蓝色",
+      "count": 3
+    },
+    {
+      "tag": "红色",
+      "count": 3
+    },
+    {
+      "tag": "绿色",
+      "count": 2
+    },
+    {
+      "tag": "紫色",
+      "count": 1
+    },
+    {
+      "tag": "棕色",
+      "count": 1
+    },
+    {
+      "tag": "灰色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "可爱",
+      "count": 41
+    },
+    {
+      "tag": "卡通",
+      "count": 29
+    },
+    {
+      "tag": "Q版",
+      "count": 25
+    },
+    {
+      "tag": "插画",
+      "count": 6
+    },
+    {
+      "tag": "二次元",
+      "count": 5
+    },
+    {
+      "tag": "动漫",
+      "count": 4
+    },
+    {
+      "tag": "少女",
+      "count": 3
+    },
+    {
+      "tag": "肖像",
+      "count": 2
+    },
+    {
+      "tag": "男性",
+      "count": 1
+    },
+    {
+      "tag": "自拍",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 23,
+    "B": 27,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "product-plush-the-high-quality-0365",
+      "title": "卡通角色毛绒玩偶",
+      "path": "prompts/product/product-plush-the-high-quality-0365.md",
+      "score": 61,
+      "hits": 6,
+      "hitKeywords": [
+        "Q版",
+        "卡通",
+        "萌",
+        "角色",
+        "玩偶",
+        "可爱"
+      ]
+    },
+    {
+      "id": "meme-argument-name-default-0120",
+      "title": "萌化角色跪地卖萌，护士装扮带猫耳尾巴",
+      "path": "prompts/meme/meme-argument-name-default-0120.md",
+      "score": 61,
+      "hits": 6,
+      "hitKeywords": [
+        "Q版",
+        "卡通",
+        "萌",
+        "角色",
+        "可爱",
+        "拟人"
+      ]
+    },
+    {
+      "id": "character-shape-fur-pink-0153",
+      "title": "萌系3D动物角色设计模板",
+      "path": "prompts/character/character-shape-fur-pink-0153.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "卡通",
+        "萌",
+        "角色",
+        "可爱",
+        "拟人"
+      ]
+    },
+    {
+      "id": "character-the-face-green-0154",
+      "title": "萌系Q版卡通人物，薄荷绿运动风，手持珍珠奶茶，3D可爱形象",
+      "path": "prompts/character/character-the-face-green-0154.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "Q版",
+        "卡通",
+        "萌",
+        "角色",
+        "可爱"
+      ]
+    },
+    {
+      "id": "product-18f72fdc3f-0372",
+      "title": "可爱动物硅胶腕托系列",
+      "path": "prompts/product/product-18f72fdc3f-0372.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "Q版",
+        "卡通",
+        "萌",
+        "可爱",
+        "拟人"
+      ]
+    },
+    {
+      "id": "product-new-cute-character-0659",
+      "title": "萌系3D角色设计风格",
+      "path": "prompts/product/product-new-cute-character-0659.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "卡通",
+        "萌",
+        "角色",
+        "玩偶",
+        "可爱"
+      ]
+    },
+    {
+      "id": "character-name-argument-default-0002",
+      "title": "16位像素风游戏角色设计",
+      "path": "prompts/character/character-name-argument-default-0002.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "Q版",
+        "卡通",
+        "角色",
+        "可爱"
+      ]
+    },
+    {
+      "id": "character-character-illustration-body-0016",
+      "title": "Q版悟空立体插画风格",
+      "path": "prompts/character/character-character-illustration-body-0016.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "Q版",
+        "卡通",
+        "角色",
+        "可爱"
+      ]
+    },
+    {
+      "id": "character-her-red-hair-0121",
+      "title": "生成可爱3D女孩与萌宠的温馨肖像",
+      "path": "prompts/character/character-her-red-hair-0121.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "卡通",
+        "萌",
+        "角色",
+        "可爱"
+      ]
+    },
+    {
+      "id": "character-body-head-the-0170",
+      "title": "超写实3D名人漫画肖像",
+      "path": "prompts/character/character-body-head-the-0170.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "Q版",
+        "卡通",
+        "大头",
+        "角色"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "product-plush-the-high-quality-0365",
+      "path": "prompts/product/product-plush-the-high-quality-0365.md",
+      "score": 61,
+      "quality": "B"
+    },
+    {
+      "id": "meme-argument-name-default-0120",
+      "path": "prompts/meme/meme-argument-name-default-0120.md",
+      "score": 61,
+      "quality": "B"
+    },
+    {
+      "id": "character-shape-fur-pink-0153",
+      "path": "prompts/character/character-shape-fur-pink-0153.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "character-the-face-green-0154",
+      "path": "prompts/character/character-the-face-green-0154.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "product-18f72fdc3f-0372",
+      "path": "prompts/product/product-18f72fdc3f-0372.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "product-new-cute-character-0659",
+      "path": "prompts/product/product-new-cute-character-0659.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "character-name-argument-default-0002",
+      "path": "prompts/character/character-name-argument-default-0002.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "character-character-illustration-body-0016",
+      "path": "prompts/character/character-character-illustration-body-0016.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "character-her-red-hair-0121",
+      "path": "prompts/character/character-her-red-hair-0121.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "character-body-head-the-0170",
+      "path": "prompts/character/character-body-head-the-0170.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "product-puzzle-character-pieces-0596",
+      "path": "prompts/product/product-puzzle-character-pieces-0596.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-cute-character-0005",
+      "path": "prompts/meme/meme-the-cute-character-0005.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "meme-face-jacket-character-0006",
+      "path": "prompts/meme/meme-face-jacket-character-0006.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "meme-ffffff-anime-style-shading-0038",
+      "path": "prompts/meme/meme-ffffff-anime-style-shading-0038.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "meme-the-character-body-0047",
+      "path": "prompts/meme/meme-the-character-body-0047.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "story_board-msc1htprgt-0086",
+      "path": "prompts/story_board/story_board-msc1htprgt-0086.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-nalgys34xc-0279",
+      "path": "prompts/story_board/story_board-nalgys34xc-0279.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-playful-caricature-this-0004",
+      "path": "prompts/character/character-playful-caricature-this-0004.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-a155f32253-0057",
+      "path": "prompts/character/character-a155f32253-0057.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-floating-the-nebula-0063",
+      "path": "prompts/character/character-floating-the-nebula-0063.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-nano-banana-pro-0067",
+      "path": "prompts/character/character-nano-banana-pro-0067.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-banbi-sma-mom-0078",
+      "path": "prompts/character/character-banbi-sma-mom-0078.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-82b7ff1fa3-0133",
+      "path": "prompts/character/character-82b7ff1fa3-0133.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "character-argument-name-default-0195",
+      "path": "prompts/character/character-argument-name-default-0195.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "product-sora-instagram-jimmy-0292",
+      "path": "prompts/product/product-sora-instagram-jimmy-0292.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "product-name-celebrity-playful-0362",
+      "path": "prompts/product/product-name-celebrity-playful-0362.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "product-pastel-figure-the-0379",
+      "path": "prompts/product/product-pastel-figure-the-0379.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "product-use-this-the-0546",
+      "path": "prompts/product/product-use-this-the-0546.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "product-a08a707e8b-0632",
+      "path": "prompts/product/product-a08a707e8b-0632.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "product-name-fruit-model-0660",
+      "path": "prompts/product/product-name-fruit-model-0660.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "product-chatgpt-voice-were-0670",
+      "path": "prompts/product/product-chatgpt-voice-were-0670.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "meme-gaze-the-angle-0016",
+      "path": "prompts/meme/meme-gaze-the-angle-0016.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "meme-make-character-design-0040",
+      "path": "prompts/meme/meme-make-character-design-0040.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "meme-e703490f9d-0108",
+      "path": "prompts/meme/meme-e703490f9d-0108.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "ip_design-dnut6dmyn0-0064",
+      "path": "prompts/ip_design/ip_design-dnut6dmyn0-0064.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "ip_design-chibi-penguin-body-0071",
+      "path": "prompts/ip_design/ip_design-chibi-penguin-body-0071.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "ip_design-goo-chibi-penguin-0075",
+      "path": "prompts/ip_design/ip_design-goo-chibi-penguin-0075.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "ip_design-the-character-chibi-0113",
+      "path": "prompts/ip_design/ip_design-the-character-chibi-0113.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "story_board-kyaraben-vertical-aspect-0085",
+      "path": "prompts/story_board/story_board-kyaraben-vertical-aspect-0085.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "story_board-snack-package-shape-0274",
+      "path": "prompts/story_board/story_board-snack-package-shape-0274.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-facial-cartoonish-the-0003",
+      "path": "prompts/character/character-facial-cartoonish-the-0003.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-nano-banana-pro-0021",
+      "path": "prompts/character/character-nano-banana-pro-0021.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-balanced-full-body-caricature-0080",
+      "path": "prompts/character/character-balanced-full-body-caricature-0080.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-the-out-prompt-0126",
+      "path": "prompts/character/character-the-out-prompt-0126.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-dark-limbs-shin-chan-0128",
+      "path": "prompts/character/character-dark-limbs-shin-chan-0128.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-fox-police-anthropomorphic-0131",
+      "path": "prompts/character/character-fox-police-anthropomorphic-0131.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "character-eyes-action-fine-0155",
+      "path": "prompts/character/character-eyes-action-fine-0155.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-box-character-0295",
+      "path": "prompts/product/product-the-box-character-0295.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-figure-vinyl-0363",
+      "path": "prompts/product/product-the-figure-vinyl-0363.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "product-the-figure-vinyl-0366",
+      "path": "prompts/product/product-the-figure-vinyl-0366.md",
+      "score": 32,
+      "quality": "A"
+    }
+  ]
+}

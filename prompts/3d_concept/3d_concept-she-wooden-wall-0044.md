@@ -3,7 +3,7 @@ id: 3d_concept-she-wooden-wall-0044
 title: "Pixar风格少女倚木墙暖光写真"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "卡通", "皮克斯", "少女", "雀斑", "辫子", "毛衣", "木墙"]
 recommended_models: 
   - banana-pro

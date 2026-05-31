@@ -3,7 +3,7 @@ id: character-characters-class-anime-0148
 title: "经典动漫英雄班级合影"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["动漫", "二次元", "日系", "英雄", "角色", "集体照", "校园", "体育馆"]
 recommended_models: 
   - banana-pro

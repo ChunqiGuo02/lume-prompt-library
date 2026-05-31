@@ -3,7 +3,7 @@ id: product-the-event-text-0367
 title: "历史事件微缩场景生成器"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["3D", "卡通", "微缩", "模型", "历史", "事件", "简约", "清晰"]
 recommended_models: 
   - banana-pro

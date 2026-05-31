@@ -3,7 +3,7 @@ id: character-facial-cartoonish-the-0003
 title: "3D卡通写实肖像生成"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["3D", "卡通", "肖像", "可爱", "少女", "棕发", "牛仔", "灰色"]
 recommended_models: 
   - banana-pro

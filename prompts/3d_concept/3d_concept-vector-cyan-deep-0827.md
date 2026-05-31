@@ -3,7 +3,7 @@ id: 3d_concept-vector-cyan-deep-0827
 title: "赛博朋克风格人像生成"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["插画", "霓虹", "暗黑", "矢量", "平面", "夜景", "人物", "撞色"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: product-watch-the-pocket-0473
 title: "微缩工匠协作修复古董，象征时间与匠心"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["微距", "微缩", "工人", "修桥", "暖色调", "暖光", "虚化", "协作"]
 recommended_models: 
   - banana-pro

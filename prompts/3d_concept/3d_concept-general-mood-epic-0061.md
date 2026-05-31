@@ -3,7 +3,7 @@ id: 3d_concept-general-mood-epic-0061
 title: "一年の記憶を漢字に凝縮"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: cyberpunk-neon
 tags: ["科技", "汉字", "机械", "代码", "未来", "城市", "超现实", "史诗"]
 recommended_models: 
   - banana-pro

@@ -3,7 +3,7 @@ id: 3d_concept-isometric-pastel-home-0497
 title: "梦幻悬浮办公场景设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["3D", "极简", "低饱和", "暖色调", "柔和", "书桌", "笔记本", "咖啡杯"]
 recommended_models: 
   - banana-pro

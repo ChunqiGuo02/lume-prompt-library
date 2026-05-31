@@ -3,7 +3,7 @@ id: product-the-room-you-0476
 title: "微缩立体房间场景生成器_1"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["3D", "Q版", "微缩", "等距", "手办", "程序员", "工位", "电脑"]
 recommended_models: 
   - banana-pro

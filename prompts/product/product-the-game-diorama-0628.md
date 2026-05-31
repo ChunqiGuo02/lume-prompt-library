@@ -3,7 +3,7 @@ id: product-the-game-diorama-0628
 title: "红色警戒微缩战场模型"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["游戏", "模型", "军事", "红警", "怀旧", "微缩", "场景", "立体"]
 recommended_models: 
   - banana-pro

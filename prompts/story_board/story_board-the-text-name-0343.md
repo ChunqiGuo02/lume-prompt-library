@@ -3,7 +3,7 @@ id: story_board-the-text-name-0343
 title: "音乐连接记忆"
 category: story_board
 subcategory: "09_故事分镜角色设定"
-aesthetic: null
+aesthetic: anime-style
 tags: ["漫画", "插画", "二次元", "科幻", "奇幻", "记忆", "音乐", "钢琴"]
 recommended_models: []
 recommended_params:

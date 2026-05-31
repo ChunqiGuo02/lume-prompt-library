@@ -3,7 +3,7 @@ id: product-the-movie-input-0584
 title: "电影场景玩具化展示盒_1"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: microscope-3d
 tags: ["手办", "模型", "潮玩", "科幻", "电影", "透明", "亚克力", "微缩"]
 recommended_models: 
   - banana-pro

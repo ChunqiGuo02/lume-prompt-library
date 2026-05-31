@@ -3,7 +3,7 @@ id: 3d_concept-the-her-top-0377
 title: "微缩女郎橙汁杯上休闲写真"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: isometric-pastel-3d
 tags: ["写实", "超现实", "反差", "女人", "橙汁", "粉色", "包包", "心形"]
 recommended_models: 
   - banana-pro

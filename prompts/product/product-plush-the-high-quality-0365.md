@@ -3,7 +3,7 @@ id: product-plush-the-high-quality-0365
 title: "卡通角色毛绒玩偶"
 category: product
 subcategory: "12_手工玩具手办"
-aesthetic: null
+aesthetic: chibi-character
 tags: ["Q版", "可爱", "毛绒", "玩偶", "公仔", "软萌", "足球", "国旗"]
 recommended_models: 
   - banana-pro

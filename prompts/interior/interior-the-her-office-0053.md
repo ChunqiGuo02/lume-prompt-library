@@ -3,7 +3,7 @@ id: interior-the-her-office-0053
 title: "水下办公室奇幻场景"
 category: interior
 subcategory: "15_特定场景环境生成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "水下", "办公", "职场", "西装", "笔记本", "鱼类", "珊瑚"]
 recommended_models: 
   - banana-pro

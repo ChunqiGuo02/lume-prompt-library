@@ -3,7 +3,7 @@ id: 3d_concept-the-side-room-0164
 title: "动漫角色与真人共处现代客厅的梦幻场景"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: surreal-dreamy
 tags: ["超现实", "现代", "客厅", "动漫", "卡通", "写实", "黄色", "创意"]
 recommended_models: 
   - banana-pro

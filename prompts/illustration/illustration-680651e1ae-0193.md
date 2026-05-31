@@ -3,7 +3,7 @@ id: illustration-680651e1ae-0193
 title: "痛车制作"
 category: illustration
 subcategory: "07_艺术插画创意风格"
-aesthetic: null
+aesthetic: anime-style
 tags: ["痛车", "跑车", "二次元", "动漫风", "富士山", "樱花", "日系", "晴天"]
 recommended_models: 
   - banana-pro

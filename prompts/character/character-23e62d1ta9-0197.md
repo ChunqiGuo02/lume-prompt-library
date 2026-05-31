@@ -3,7 +3,7 @@ id: character-23e62d1ta9-0197
 title: "骑乘飞马的酷炫角色空中疾驰幻想插画"
 category: character
 subcategory: "10_卡通漫画电影角色"
-aesthetic: null
+aesthetic: anime-style
 tags: ["动漫", "日系", "插画", "天马", "骑士", "盔甲", "披风", "天空"]
 recommended_models: 
   - banana-pro

@@ -1,0 +1,625 @@
+{
+  "ds_slug": "cyberpunk-neon",
+  "ds_label": "赛博朋克霓虹",
+  "matched_total": 50,
+  "candidate_pool": 80,
+  "top_tags": [
+    {
+      "tag": "霓虹",
+      "count": 34
+    },
+    {
+      "tag": "赛博朋克",
+      "count": 17
+    },
+    {
+      "tag": "夜景",
+      "count": 13
+    },
+    {
+      "tag": "未来",
+      "count": 12
+    },
+    {
+      "tag": "科幻",
+      "count": 11
+    },
+    {
+      "tag": "科技",
+      "count": 9
+    },
+    {
+      "tag": "城市",
+      "count": 9
+    },
+    {
+      "tag": "未来感",
+      "count": 7
+    },
+    {
+      "tag": "都市",
+      "count": 7
+    },
+    {
+      "tag": "雨夜",
+      "count": 6
+    },
+    {
+      "tag": "机械",
+      "count": 5
+    },
+    {
+      "tag": "故障",
+      "count": 5
+    },
+    {
+      "tag": "全息",
+      "count": 5
+    },
+    {
+      "tag": "女性",
+      "count": 5
+    },
+    {
+      "tag": "科技感",
+      "count": 4
+    },
+    {
+      "tag": "蓝色",
+      "count": 4
+    },
+    {
+      "tag": "写实",
+      "count": 4
+    },
+    {
+      "tag": "复古",
+      "count": 4
+    },
+    {
+      "tag": "代码",
+      "count": 3
+    },
+    {
+      "tag": "蓝紫色",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "霓虹",
+      "count": 34
+    },
+    {
+      "tag": "蓝色",
+      "count": 4
+    },
+    {
+      "tag": "复古",
+      "count": 4
+    },
+    {
+      "tag": "紫色",
+      "count": 3
+    },
+    {
+      "tag": "粉色",
+      "count": 3
+    },
+    {
+      "tag": "红色",
+      "count": 2
+    },
+    {
+      "tag": "绿色",
+      "count": 2
+    },
+    {
+      "tag": "黄色",
+      "count": 1
+    },
+    {
+      "tag": "黑白",
+      "count": 1
+    },
+    {
+      "tag": "金色",
+      "count": 1
+    },
+    {
+      "tag": "胶片",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "夜景",
+      "count": 13
+    },
+    {
+      "tag": "城市",
+      "count": 9
+    },
+    {
+      "tag": "女性",
+      "count": 5
+    },
+    {
+      "tag": "插画",
+      "count": 2
+    },
+    {
+      "tag": "肖像",
+      "count": 2
+    },
+    {
+      "tag": "建筑",
+      "count": 2
+    },
+    {
+      "tag": "街头",
+      "count": 2
+    },
+    {
+      "tag": "动漫",
+      "count": 1
+    },
+    {
+      "tag": "卡通",
+      "count": 1
+    },
+    {
+      "tag": "Q版",
+      "count": 1
+    },
+    {
+      "tag": "可爱",
+      "count": 1
+    },
+    {
+      "tag": "少女",
+      "count": 1
+    },
+    {
+      "tag": "男性",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 29,
+    "B": 21,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "landscape-you-resolution-aspect-0121",
+      "title": "未来科技工作站场景设定",
+      "path": "prompts/landscape/landscape-you-resolution-aspect-0121.md",
+      "score": 52,
+      "hits": 5,
+      "hitKeywords": [
+        "赛博朋克",
+        "霓虹",
+        "科技",
+        "未来",
+        "全息"
+      ]
+    },
+    {
+      "id": "3d_concept-lush-hand-painted-anime-0474",
+      "title": "未来科技感机器人特写",
+      "path": "prompts/3d_concept/3d_concept-lush-hand-painted-anime-0474.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "赛博朋克",
+        "霓虹",
+        "科技",
+        "未来",
+        "故障"
+      ]
+    },
+    {
+      "id": "3d_concept-4bf7b72efd-0819",
+      "title": "赛博朋克街头摄影风格",
+      "path": "prompts/3d_concept/3d_concept-4bf7b72efd-0819.md",
+      "score": 51,
+      "hits": 5,
+      "hitKeywords": [
+        "赛博朋克",
+        "霓虹",
+        "科技",
+        "夜景",
+        "反光"
+      ]
+    },
+    {
+      "id": "3d_concept-subject-augmented-reality-0033",
+      "title": "AI视觉数据叠加增强现实界面",
+      "path": "prompts/3d_concept/3d_concept-subject-augmented-reality-0033.md",
+      "score": 42,
+      "hits": 4,
+      "hitKeywords": [
+        "霓虹",
+        "科技",
+        "未来",
+        "全息"
+      ]
+    },
+    {
+      "id": "3d_concept-the-rear-futuristic-0825",
+      "title": "赛博朋克风奥迪超跑夜间疾驰",
+      "path": "prompts/3d_concept/3d_concept-the-rear-futuristic-0825.md",
+      "score": 41,
+      "hits": 4,
+      "hitKeywords": [
+        "赛博朋克",
+        "霓虹",
+        "未来",
+        "夜景"
+      ]
+    },
+    {
+      "id": "3d_concept-the-world-object-0655",
+      "title": "科幻巨物释放异世界，光影交织的未来都市奇观",
+      "path": "prompts/3d_concept/3d_concept-the-world-object-0655.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "霓虹",
+        "未来",
+        "未来都市"
+      ]
+    },
+    {
+      "id": "3d_concept-screen-frame-type-0803",
+      "title": "赛博怀旧三联画构图预设",
+      "path": "prompts/3d_concept/3d_concept-screen-frame-type-0803.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "赛博朋克",
+        "霓虹",
+        "故障"
+      ]
+    },
+    {
+      "id": "3d_concept-the-bike-smoke-0816",
+      "title": "赛博朋克机车疾驰海报",
+      "path": "prompts/3d_concept/3d_concept-the-bike-smoke-0816.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "赛博朋克",
+        "霓虹",
+        "夜景"
+      ]
+    },
+    {
+      "id": "3d_concept-vector-cyan-deep-0827",
+      "title": "赛博朋克风格人像生成",
+      "path": "prompts/3d_concept/3d_concept-vector-cyan-deep-0827.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "赛博朋克",
+        "霓虹",
+        "夜景"
+      ]
+    },
+    {
+      "id": "illustration-true-neon-reference-0013",
+      "title": "Neon Dreams：一部被揭示的赛博朋克风格肖像",
+      "path": "prompts/illustration/illustration-true-neon-reference-0013.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "赛博朋克",
+        "霓虹",
+        "故障"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "landscape-you-resolution-aspect-0121",
+      "path": "prompts/landscape/landscape-you-resolution-aspect-0121.md",
+      "score": 52,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-lush-hand-painted-anime-0474",
+      "path": "prompts/3d_concept/3d_concept-lush-hand-painted-anime-0474.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-4bf7b72efd-0819",
+      "path": "prompts/3d_concept/3d_concept-4bf7b72efd-0819.md",
+      "score": 51,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-subject-augmented-reality-0033",
+      "path": "prompts/3d_concept/3d_concept-subject-augmented-reality-0033.md",
+      "score": 42,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-rear-futuristic-0825",
+      "path": "prompts/3d_concept/3d_concept-the-rear-futuristic-0825.md",
+      "score": 41,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-world-object-0655",
+      "path": "prompts/3d_concept/3d_concept-the-world-object-0655.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-screen-frame-type-0803",
+      "path": "prompts/3d_concept/3d_concept-screen-frame-type-0803.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-bike-smoke-0816",
+      "path": "prompts/3d_concept/3d_concept-the-bike-smoke-0816.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-vector-cyan-deep-0827",
+      "path": "prompts/3d_concept/3d_concept-vector-cyan-deep-0827.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-true-neon-reference-0013",
+      "path": "prompts/illustration/illustration-true-neon-reference-0013.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-argument-name-default-0122",
+      "path": "prompts/landscape/landscape-argument-name-default-0122.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-text-word-0056",
+      "path": "prompts/3d_concept/3d_concept-the-text-word-0056.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-brand-name-0209",
+      "path": "prompts/3d_concept/3d_concept-the-brand-name-0209.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-retro-futuristic-classics-muscle-0260",
+      "path": "prompts/3d_concept/3d_concept-retro-futuristic-classics-muscle-0260.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-digital-nano-banana-0428",
+      "path": "prompts/3d_concept/3d_concept-digital-nano-banana-0428.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-qqdudovuv3-0804",
+      "path": "prompts/3d_concept/3d_concept-qqdudovuv3-0804.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-5056cb4827-0806",
+      "path": "prompts/3d_concept/3d_concept-5056cb4827-0806.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-prompt-cyberpunk-holograms-0809",
+      "path": "prompts/3d_concept/3d_concept-prompt-cyberpunk-holograms-0809.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-market-futuristic-cyberpunk-0812",
+      "path": "prompts/3d_concept/3d_concept-market-futuristic-cyberpunk-0812.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-glowing-japanese-0830",
+      "path": "prompts/3d_concept/3d_concept-the-glowing-japanese-0830.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-neon-one-0832",
+      "path": "prompts/3d_concept/3d_concept-the-neon-one-0832.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-neon-wireframe-visualization-0950",
+      "path": "prompts/3d_concept/3d_concept-neon-wireframe-visualization-0950.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-digital-green-1000",
+      "path": "prompts/3d_concept/3d_concept-the-digital-green-1000.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "illustration-saiksf7att-0243",
+      "path": "prompts/illustration/illustration-saiksf7att-0243.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-general-mood-epic-0061",
+      "path": "prompts/3d_concept/3d_concept-general-mood-epic-0061.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-body-legs-visible-0298",
+      "path": "prompts/3d_concept/3d_concept-body-legs-visible-0298.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-same-his-0429",
+      "path": "prompts/3d_concept/3d_concept-the-same-his-0429.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-digital-doppelganger-glitch-0431",
+      "path": "prompts/3d_concept/3d_concept-digital-doppelganger-glitch-0431.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-character-iso100-pvc-0509",
+      "path": "prompts/3d_concept/3d_concept-character-iso100-pvc-0509.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-spiral-overall-subject-0512",
+      "path": "prompts/3d_concept/3d_concept-spiral-overall-subject-0512.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-tesla-brand-0579",
+      "path": "prompts/3d_concept/3d_concept-the-tesla-brand-0579.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-5iqxojqhuc-0593",
+      "path": "prompts/3d_concept/3d_concept-5iqxojqhuc-0593.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-logo-all-0739",
+      "path": "prompts/3d_concept/3d_concept-the-logo-all-0739.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-step-original-0773",
+      "path": "prompts/3d_concept/3d_concept-the-step-original-0773.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-digital-red-0817",
+      "path": "prompts/3d_concept/3d_concept-the-digital-red-0817.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-motorcycle-hyper-realistic-0936",
+      "path": "prompts/3d_concept/3d_concept-the-motorcycle-hyper-realistic-0936.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-glowing-animals-0953",
+      "path": "prompts/3d_concept/3d_concept-the-glowing-animals-0953.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-slot-has-prompt-0957",
+      "path": "prompts/3d_concept/3d_concept-slot-has-prompt-0957.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-the-google-android-0973",
+      "path": "prompts/3d_concept/3d_concept-the-google-android-0973.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-the-are-surreal-0168",
+      "path": "prompts/illustration/illustration-the-are-surreal-0168.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "illustration-neon-true-floating-0173",
+      "path": "prompts/illustration/illustration-neon-true-floating-0173.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-the-shibuya-water-0120",
+      "path": "prompts/landscape/landscape-the-shibuya-water-0120.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-new-york-cyan-0159",
+      "path": "prompts/landscape/landscape-new-york-cyan-0159.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-flash-the-wet-0173",
+      "path": "prompts/landscape/landscape-flash-the-wet-0173.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "landscape-pink-neon-night-0184",
+      "path": "prompts/landscape/landscape-pink-neon-night-0184.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "3d_concept-ekwcbx0hy3-0035",
+      "path": "prompts/3d_concept/3d_concept-ekwcbx0hy3-0035.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-armor-character-0117",
+      "path": "prompts/3d_concept/3d_concept-the-armor-character-0117.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-the-ultra-real-night-0251",
+      "path": "prompts/3d_concept/3d_concept-the-ultra-real-night-0251.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-tg6vvwqi84-0252",
+      "path": "prompts/3d_concept/3d_concept-tg6vvwqi84-0252.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-night-rooftop-city-0274",
+      "path": "prompts/3d_concept/3d_concept-night-rooftop-city-0274.md",
+      "score": 21,
+      "quality": "B"
+    }
+  ]
+}
