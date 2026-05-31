@@ -3,7 +3,7 @@ id: graphic-the-boxing-text-0074
 title: "AI生成泰森大战奥特曼海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["拳击", "跨界", "对战", "复古", "紧张", "科技", "海报", "名人"]
 recommended_models: []
 recommended_params:

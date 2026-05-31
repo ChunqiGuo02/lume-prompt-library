@@ -3,7 +3,7 @@ id: graphic-rem-sleep-report-0471
 title: "可爱的睡眠报告海报-需上传数据"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["可爱", "Q版", "3D", "渲染", "睡眠", "海报", "数据", "分层"]
 recommended_models: 
   - banana-pro

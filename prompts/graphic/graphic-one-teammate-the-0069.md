@@ -3,7 +3,7 @@ id: graphic-one-teammate-the-0069
 title: "AI模型足球庆祝画面对比"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["足球", "庆祝", "对比", "体育", "摄影", "海报", "赛场", "动感"]
 recommended_models: 
   - banana-pro

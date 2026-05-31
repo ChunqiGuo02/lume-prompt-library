@@ -3,7 +3,7 @@ id: graphic-the-chinese-paper-0031
 title: "8090年代怀旧记忆海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["复古", "怀旧", "童年", "8090", "暖调", "拼贴", "回忆", "旧物"]
 recommended_models: []
 recommended_params:

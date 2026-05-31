@@ -40,6 +40,9 @@ const DS_PRIORITY = [
   "watercolor-illustration",
   "meme-pop-funny",
   "editorial-fashion-shoot",
+  // Tier 5
+  "editorial-poster",
+  "vintage-typography-poster",
 ];
 
 // 收集 path -> best DS

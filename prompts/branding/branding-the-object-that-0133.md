@@ -3,7 +3,7 @@ id: branding-the-object-that-0133
 title: "品牌字体"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["创意", "排版", "字体", "图形", "撞色", "简约", "海报", "方形"]
 recommended_models: 
   - banana-pro

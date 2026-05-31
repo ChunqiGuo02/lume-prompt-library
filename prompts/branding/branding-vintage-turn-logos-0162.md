@@ -3,7 +3,7 @@ id: branding-vintage-turn-logos-0162
 title: "复古徽章风格品牌标志设计"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: vintage-typography-poster
 tags: ["复古", "做旧", "徽章", "圆形", "标识", "推特", "暖色调", "衬线"]
 recommended_models: 
   - banana-pro

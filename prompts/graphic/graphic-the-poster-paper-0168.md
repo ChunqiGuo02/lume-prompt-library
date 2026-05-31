@@ -3,7 +3,7 @@ id: graphic-the-poster-paper-0168
 title: "GPT Image 2.0海报-2"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: vintage-typography-poster
 tags: ["拼贴", "复古", "海报", "做旧", "先锋", "宣传", "红色", "蓝色"]
 recommended_models: []
 recommended_params:

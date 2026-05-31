@@ -3,7 +3,7 @@ id: graphic-name-argument-default-0180
 title: "GPT-Image-2核心功能与性能对比"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["AI", "科技", "海报", "信息图", "黑金", "深蓝", "未来", "赛博"]
 recommended_models: 
   - banana-pro

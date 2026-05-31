@@ -3,7 +3,7 @@ id: graphic-the-red-car-0005
 title: "2024赛季F1新车发布会海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["F1", "赛车", "发布会", "新车", "黑色", "红色", "科技", "激情"]
 recommended_models: []
 recommended_params:

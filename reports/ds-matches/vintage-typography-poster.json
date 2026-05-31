@@ -1,0 +1,299 @@
+{
+  "ds_slug": "vintage-typography-poster",
+  "ds_label": "复古字体海报",
+  "matched_total": 12,
+  "candidate_pool": 12,
+  "top_tags": [
+    {
+      "tag": "复古",
+      "count": 11
+    },
+    {
+      "tag": "做旧",
+      "count": 10
+    },
+    {
+      "tag": "海报",
+      "count": 4
+    },
+    {
+      "tag": "怀旧",
+      "count": 3
+    },
+    {
+      "tag": "明信片",
+      "count": 2
+    },
+    {
+      "tag": "机械",
+      "count": 2
+    },
+    {
+      "tag": "暖色调",
+      "count": 2
+    },
+    {
+      "tag": "拼贴",
+      "count": 2
+    },
+    {
+      "tag": "太空",
+      "count": 2
+    },
+    {
+      "tag": "奇幻",
+      "count": 1
+    },
+    {
+      "tag": "魔法",
+      "count": 1
+    },
+    {
+      "tag": "冒险",
+      "count": 1
+    },
+    {
+      "tag": "创意",
+      "count": 1
+    },
+    {
+      "tag": "蒸汽朋克",
+      "count": 1
+    },
+    {
+      "tag": "古铜色",
+      "count": 1
+    },
+    {
+      "tag": "工业",
+      "count": 1
+    },
+    {
+      "tag": "齿轮",
+      "count": 1
+    },
+    {
+      "tag": "雕花",
+      "count": 1
+    },
+    {
+      "tag": "魔戒",
+      "count": 1
+    },
+    {
+      "tag": "手绘",
+      "count": 1
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "复古",
+      "count": 11
+    },
+    {
+      "tag": "暖色调",
+      "count": 2
+    },
+    {
+      "tag": "红色",
+      "count": 1
+    },
+    {
+      "tag": "蓝色",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [],
+  "quality_breakdown": {
+    "A": 0,
+    "B": 12,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "graphic-the-postcard-beacon-0534",
+      "title": "复古奇幻风格创意 retreat 明信片",
+      "path": "prompts/graphic/graphic-the-postcard-beacon-0534.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "做旧",
+        "明信片",
+        "复古"
+      ]
+    },
+    {
+      "id": "branding-logo-sculpted-name-0019",
+      "title": "3D蒸汽朋克Logo",
+      "path": "prompts/branding/branding-logo-sculpted-name-0019.md",
+      "score": 21,
+      "hits": 2,
+      "hitKeywords": [
+        "做旧",
+        "复古"
+      ]
+    },
+    {
+      "id": "branding-the-book-tea-0079",
+      "title": "一个复古茶包",
+      "path": "prompts/branding/branding-the-book-tea-0079.md",
+      "score": 21,
+      "hits": 2,
+      "hitKeywords": [
+        "做旧",
+        "复古"
+      ]
+    },
+    {
+      "id": "branding-vintage-turn-logos-0162",
+      "title": "复古徽章风格品牌标志设计",
+      "path": "prompts/branding/branding-vintage-turn-logos-0162.md",
+      "score": 21,
+      "hits": 2,
+      "hitKeywords": [
+        "做旧",
+        "复古"
+      ]
+    },
+    {
+      "id": "3d_concept-roman-booteen-coins-0155",
+      "title": "创意机械艺术币设计",
+      "path": "prompts/3d_concept/3d_concept-roman-booteen-coins-0155.md",
+      "score": 21,
+      "hits": 2,
+      "hitKeywords": [
+        "做旧",
+        "复古"
+      ]
+    },
+    {
+      "id": "graphic-make-the-wheatpaste-0010",
+      "title": "2025设计趋势浆糊海报生成",
+      "path": "prompts/graphic/graphic-make-the-wheatpaste-0010.md",
+      "score": 21,
+      "hits": 2,
+      "hitKeywords": [
+        "做旧",
+        "复古"
+      ]
+    },
+    {
+      "id": "graphic-the-poster-cream-0124",
+      "title": "ChatGPT Images 2.0复古海报",
+      "path": "prompts/graphic/graphic-the-poster-cream-0124.md",
+      "score": 21,
+      "hits": 2,
+      "hitKeywords": [
+        "复古海报",
+        "复古"
+      ]
+    },
+    {
+      "id": "graphic-the-left-red-0158",
+      "title": "EVA初号机复古机密海报",
+      "path": "prompts/graphic/graphic-the-left-red-0158.md",
+      "score": 21,
+      "hits": 2,
+      "hitKeywords": [
+        "做旧",
+        "复古"
+      ]
+    },
+    {
+      "id": "graphic-the-poster-paper-0168",
+      "title": "GPT Image 2.0海报-2",
+      "path": "prompts/graphic/graphic-the-poster-paper-0168.md",
+      "score": 21,
+      "hits": 2,
+      "hitKeywords": [
+        "做旧",
+        "复古"
+      ]
+    },
+    {
+      "id": "graphic-the-little-prince-0604",
+      "title": "小王子与SpaceX联名复古明信片",
+      "path": "prompts/graphic/graphic-the-little-prince-0604.md",
+      "score": 21,
+      "hits": 2,
+      "hitKeywords": [
+        "明信片",
+        "复古"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "graphic-the-postcard-beacon-0534",
+      "path": "prompts/graphic/graphic-the-postcard-beacon-0534.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-logo-sculpted-name-0019",
+      "path": "prompts/branding/branding-logo-sculpted-name-0019.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-book-tea-0079",
+      "path": "prompts/branding/branding-the-book-tea-0079.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-vintage-turn-logos-0162",
+      "path": "prompts/branding/branding-vintage-turn-logos-0162.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "3d_concept-roman-booteen-coins-0155",
+      "path": "prompts/3d_concept/3d_concept-roman-booteen-coins-0155.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-make-the-wheatpaste-0010",
+      "path": "prompts/graphic/graphic-make-the-wheatpaste-0010.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-poster-cream-0124",
+      "path": "prompts/graphic/graphic-the-poster-cream-0124.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-left-red-0158",
+      "path": "prompts/graphic/graphic-the-left-red-0158.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-poster-paper-0168",
+      "path": "prompts/graphic/graphic-the-poster-paper-0168.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-little-prince-0604",
+      "path": "prompts/graphic/graphic-the-little-prince-0604.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-redaction-case-0808",
+      "path": "prompts/graphic/graphic-the-redaction-case-0808.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-intent-topographic-map-0914",
+      "path": "prompts/graphic/graphic-intent-topographic-map-0914.md",
+      "score": 21,
+      "quality": "B"
+    }
+  ]
+}

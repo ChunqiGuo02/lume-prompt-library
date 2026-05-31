@@ -3,7 +3,7 @@ id: graphic-the-postcard-beacon-0534
 title: "复古奇幻风格创意 retreat 明信片"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: vintage-typography-poster
 tags: ["复古", "奇幻", "明信片", "做旧", "怀旧", "魔法", "冒险", "创意"]
 recommended_models: []
 recommended_params:

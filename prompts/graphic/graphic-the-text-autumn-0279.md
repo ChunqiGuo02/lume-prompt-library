@@ -3,7 +3,7 @@ id: graphic-the-text-autumn-0279
 title: "prompt_1_11-咖啡店秋季促销海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["海报", "秋季", "咖啡", "特惠", "暖色调", "枫叶", "温馨", "拉花"]
 recommended_models: 
   - banana-pro

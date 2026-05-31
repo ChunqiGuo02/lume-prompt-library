@@ -3,7 +3,7 @@ id: graphic-the-face-left-0519
 title: "埃隆·马斯克励志海报：梦想即力量"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["黑白", "人像", "马斯克", "海报", "文字", "拼接", "励志", "高对比"]
 recommended_models: 
   - banana-pro

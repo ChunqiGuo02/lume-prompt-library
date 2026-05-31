@@ -3,7 +3,7 @@ id: graphic-thinking-process-nano-0102
 title: "AI黑客松活动海报设计"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["手绘", "AI", "黑客松", "Gemini", "信息图", "赛事", "奖金", "编程"]
 recommended_models: 
   - banana-pro

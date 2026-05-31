@@ -3,7 +3,7 @@ id: graphic-the-apple-chinese-0077
 title: "AI生成罗永浩接任苹果CEO海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["罗永浩", "苹果", "科技", "海报", "AI生成", "商务", "深色", "简约"]
 recommended_models: []
 recommended_params:

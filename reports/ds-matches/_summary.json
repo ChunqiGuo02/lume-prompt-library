@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T09:32:54.072Z",
-  "ds_count": 20,
+  "generated_at": "2026-05-31T09:54:32.509Z",
+  "ds_count": 22,
   "summary": {
     "warm-cinematic-portrait": {
       "matched": 50,
@@ -1810,6 +1810,164 @@
         },
         {
           "tag": "暖调",
+          "count": 1
+        }
+      ]
+    },
+    "editorial-poster": {
+      "matched": 50,
+      "top_tags": [
+        {
+          "tag": "海报",
+          "count": 36
+        },
+        {
+          "tag": "科技",
+          "count": 10
+        },
+        {
+          "tag": "信息图",
+          "count": 9
+        },
+        {
+          "tag": "拼贴",
+          "count": 7
+        },
+        {
+          "tag": "复古",
+          "count": 7
+        },
+        {
+          "tag": "网格",
+          "count": 5
+        },
+        {
+          "tag": "简约",
+          "count": 5
+        },
+        {
+          "tag": "3D",
+          "count": 5
+        },
+        {
+          "tag": "人工智能",
+          "count": 4
+        },
+        {
+          "tag": "黑白",
+          "count": 4
+        }
+      ],
+      "color": [
+        {
+          "tag": "复古",
+          "count": 7
+        },
+        {
+          "tag": "黑白",
+          "count": 4
+        },
+        {
+          "tag": "暖色调",
+          "count": 3
+        },
+        {
+          "tag": "红色",
+          "count": 3
+        },
+        {
+          "tag": "蓝色",
+          "count": 3
+        },
+        {
+          "tag": "粉色",
+          "count": 2
+        },
+        {
+          "tag": "绿色",
+          "count": 2
+        },
+        {
+          "tag": "黑色",
+          "count": 2
+        },
+        {
+          "tag": "黄色",
+          "count": 1
+        },
+        {
+          "tag": "紫色",
+          "count": 1
+        },
+        {
+          "tag": "霓虹",
+          "count": 1
+        },
+        {
+          "tag": "暖调",
+          "count": 1
+        }
+      ]
+    },
+    "vintage-typography-poster": {
+      "matched": 12,
+      "top_tags": [
+        {
+          "tag": "复古",
+          "count": 11
+        },
+        {
+          "tag": "做旧",
+          "count": 10
+        },
+        {
+          "tag": "海报",
+          "count": 4
+        },
+        {
+          "tag": "怀旧",
+          "count": 3
+        },
+        {
+          "tag": "明信片",
+          "count": 2
+        },
+        {
+          "tag": "机械",
+          "count": 2
+        },
+        {
+          "tag": "暖色调",
+          "count": 2
+        },
+        {
+          "tag": "拼贴",
+          "count": 2
+        },
+        {
+          "tag": "太空",
+          "count": 2
+        },
+        {
+          "tag": "奇幻",
+          "count": 1
+        }
+      ],
+      "color": [
+        {
+          "tag": "复古",
+          "count": 11
+        },
+        {
+          "tag": "暖色调",
+          "count": 2
+        },
+        {
+          "tag": "红色",
+          "count": 1
+        },
+        {
+          "tag": "蓝色",
           "count": 1
         }
       ]

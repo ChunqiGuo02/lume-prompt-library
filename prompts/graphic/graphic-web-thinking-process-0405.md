@@ -3,7 +3,7 @@ id: graphic-web-thinking-process-0405
 title: "动效拼贴视频制作工具"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["界面", "视频", "编辑", "多彩", "明亮", "可爱", "PC端", "移动端"]
 recommended_models: 
   - banana-pro

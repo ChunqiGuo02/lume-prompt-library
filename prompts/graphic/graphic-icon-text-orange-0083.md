@@ -3,7 +3,7 @@ id: graphic-icon-text-orange-0083
 title: "AI电子内容销售入门指南"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["AI", "副业", "入门", "教程", "简约", "专业", "商务", "海报"]
 recommended_models: []
 recommended_params:

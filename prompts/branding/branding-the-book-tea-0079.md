@@ -3,7 +3,7 @@ id: branding-the-book-tea-0079
 title: "一个复古茶包"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: vintage-typography-poster
 tags: ["魔戒", "复古", "暖色调", "手绘", "茶包", "做旧", "吊牌", "写实"]
 recommended_models: 
   - banana-pro

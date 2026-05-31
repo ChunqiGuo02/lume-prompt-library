@@ -3,7 +3,7 @@ id: 3d_concept-roman-booteen-coins-0155
 title: "创意机械艺术币设计"
 category: 3d_concept
 subcategory: "04_创意脑洞特效合成"
-aesthetic: null
+aesthetic: vintage-typography-poster
 tags: ["硬币", "机械", "雕刻", "复古", "机关", "浮雕", "黄铜", "做旧"]
 recommended_models: 
   - banana-pro

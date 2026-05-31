@@ -3,7 +3,7 @@ id: graphic-the-poster-glowing-0085
 title: "AI科技主题电影海报设计"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["科幻", "科技", "未来", "智能", "海报", "人物", "场馆", "蓝色"]
 recommended_models: []
 recommended_params:

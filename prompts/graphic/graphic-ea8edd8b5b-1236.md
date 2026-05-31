@@ -3,7 +3,7 @@ id: graphic-ea8edd8b5b-1236
 title: "黑白动物的 16 位像素艺术海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["像素风", "复古", "黑白", "动物", "海报", "网格", "自然", "单色调"]
 recommended_models: 
   - banana-pro

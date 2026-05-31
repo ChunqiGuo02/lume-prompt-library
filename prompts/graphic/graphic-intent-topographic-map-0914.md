@@ -3,7 +3,7 @@ id: graphic-intent-topographic-map-0914
 title: "生成复古风格地形图海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: vintage-typography-poster
 tags: ["复古", "做旧", "地图", "山脉", "等高线", "罗盘", "湖泊", "米色"]
 recommended_models: []
 recommended_params:

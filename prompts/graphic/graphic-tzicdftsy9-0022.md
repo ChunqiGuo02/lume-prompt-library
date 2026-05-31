@@ -3,7 +3,7 @@ id: graphic-tzicdftsy9-0022
 title: "2026广州新春宣传海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["国潮", "广州", "新春", "喜庆", "红绸", "留白", "海报", "广州塔"]
 recommended_models: []
 recommended_params:

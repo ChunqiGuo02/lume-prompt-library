@@ -3,7 +3,7 @@ id: graphic-the-red-block-0087
 title: "AI网页设计冲刺活动海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["瑞士风", "现代风", "极简风", "粗野风", "人工智能", "网页设计", "设计活动", "科技感"]
 recommended_models: []
 recommended_params:

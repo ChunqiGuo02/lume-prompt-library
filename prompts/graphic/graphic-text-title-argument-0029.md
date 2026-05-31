@@ -3,7 +3,7 @@ id: graphic-text-title-argument-0029
 title: "3D电商直播宣传海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["直播", "带货", "促销", "电商", "紫色", "霓虹", "3D", "海报"]
 recommended_models: []
 recommended_params:

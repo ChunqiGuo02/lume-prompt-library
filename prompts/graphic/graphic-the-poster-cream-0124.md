@@ -3,7 +3,7 @@ id: graphic-the-poster-cream-0124
 title: "ChatGPT Images 2.0复古海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: vintage-typography-poster
 tags: ["复古", "怀旧", "科幻", "太空", "火箭", "地球", "飞船", "海报"]
 recommended_models: []
 recommended_params:

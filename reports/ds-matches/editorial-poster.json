@@ -1,0 +1,611 @@
+{
+  "ds_slug": "editorial-poster",
+  "ds_label": "编辑式海报排版",
+  "matched_total": 50,
+  "candidate_pool": 326,
+  "top_tags": [
+    {
+      "tag": "海报",
+      "count": 36
+    },
+    {
+      "tag": "科技",
+      "count": 10
+    },
+    {
+      "tag": "信息图",
+      "count": 9
+    },
+    {
+      "tag": "拼贴",
+      "count": 7
+    },
+    {
+      "tag": "复古",
+      "count": 7
+    },
+    {
+      "tag": "网格",
+      "count": 5
+    },
+    {
+      "tag": "简约",
+      "count": 5
+    },
+    {
+      "tag": "3D",
+      "count": 5
+    },
+    {
+      "tag": "人工智能",
+      "count": 4
+    },
+    {
+      "tag": "黑白",
+      "count": 4
+    },
+    {
+      "tag": "广告",
+      "count": 4
+    },
+    {
+      "tag": "商务",
+      "count": 4
+    },
+    {
+      "tag": "设计",
+      "count": 3
+    },
+    {
+      "tag": "暖色调",
+      "count": 3
+    },
+    {
+      "tag": "瑞士风",
+      "count": 3
+    },
+    {
+      "tag": "粗野风",
+      "count": 3
+    },
+    {
+      "tag": "红色",
+      "count": 3
+    },
+    {
+      "tag": "旅行",
+      "count": 3
+    },
+    {
+      "tag": "排版",
+      "count": 3
+    },
+    {
+      "tag": "动感",
+      "count": 3
+    }
+  ],
+  "top_color_tags": [
+    {
+      "tag": "复古",
+      "count": 7
+    },
+    {
+      "tag": "黑白",
+      "count": 4
+    },
+    {
+      "tag": "暖色调",
+      "count": 3
+    },
+    {
+      "tag": "红色",
+      "count": 3
+    },
+    {
+      "tag": "蓝色",
+      "count": 3
+    },
+    {
+      "tag": "粉色",
+      "count": 2
+    },
+    {
+      "tag": "绿色",
+      "count": 2
+    },
+    {
+      "tag": "黑色",
+      "count": 2
+    },
+    {
+      "tag": "黄色",
+      "count": 1
+    },
+    {
+      "tag": "紫色",
+      "count": 1
+    },
+    {
+      "tag": "霓虹",
+      "count": 1
+    },
+    {
+      "tag": "暖调",
+      "count": 1
+    }
+  ],
+  "top_element_tags": [
+    {
+      "tag": "可爱",
+      "count": 3
+    },
+    {
+      "tag": "Q版",
+      "count": 2
+    },
+    {
+      "tag": "动漫",
+      "count": 2
+    },
+    {
+      "tag": "肖像",
+      "count": 1
+    },
+    {
+      "tag": "人像",
+      "count": 1
+    },
+    {
+      "tag": "城市",
+      "count": 1
+    },
+    {
+      "tag": "建筑",
+      "count": 1
+    },
+    {
+      "tag": "二次元",
+      "count": 1
+    },
+    {
+      "tag": "插画",
+      "count": 1
+    },
+    {
+      "tag": "少女",
+      "count": 1
+    },
+    {
+      "tag": "街头",
+      "count": 1
+    }
+  ],
+  "quality_breakdown": {
+    "A": 18,
+    "B": 32,
+    "C": 0
+  },
+  "top10": [
+    {
+      "id": "graphic-the-grid-perfectly-0595",
+      "title": "实验性字体设计海报，动态模糊与网格布局结合",
+      "path": "prompts/graphic/graphic-the-grid-perfectly-0595.md",
+      "score": 32,
+      "hits": 3,
+      "hitKeywords": [
+        "海报",
+        "排版",
+        "网格"
+      ]
+    },
+    {
+      "id": "graphic-make-the-wheatpaste-0010",
+      "title": "2025设计趋势浆糊海报生成",
+      "path": "prompts/graphic/graphic-make-the-wheatpaste-0010.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "海报",
+        "排版",
+        "网格"
+      ]
+    },
+    {
+      "id": "graphic-the-red-block-0087",
+      "title": "AI网页设计冲刺活动海报",
+      "path": "prompts/graphic/graphic-the-red-block-0087.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "海报",
+        "排版",
+        "瑞士"
+      ]
+    },
+    {
+      "id": "graphic-the-position-icon-0336",
+      "title": "互联网模因生命周期信息图",
+      "path": "prompts/graphic/graphic-the-position-icon-0336.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "海报",
+        "排版",
+        "瑞士"
+      ]
+    },
+    {
+      "id": "graphic-the-name-textures-0474",
+      "title": "名人肖像拼贴海报",
+      "path": "prompts/graphic/graphic-the-name-textures-0474.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "海报",
+        "排版",
+        "网格"
+      ]
+    },
+    {
+      "id": "graphic-the-lake-map-0893",
+      "title": "瑞士3D复古旅游指南海报",
+      "path": "prompts/graphic/graphic-the-lake-map-0893.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "海报",
+        "排版",
+        "瑞士"
+      ]
+    },
+    {
+      "id": "graphic-the-attention-red-orange-0968",
+      "title": "短形式注意力税信息图海报",
+      "path": "prompts/graphic/graphic-the-attention-red-orange-0968.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "海报",
+        "排版",
+        "瑞士"
+      ]
+    },
+    {
+      "id": "graphic-ea8edd8b5b-1236",
+      "title": "黑白动物的 16 位像素艺术海报",
+      "path": "prompts/graphic/graphic-ea8edd8b5b-1236.md",
+      "score": 31,
+      "hits": 3,
+      "hitKeywords": [
+        "海报",
+        "排版",
+        "网格"
+      ]
+    },
+    {
+      "id": "branding-korean-hero-dish-0414",
+      "title": "韩式精致料理菜单设计展示",
+      "path": "prompts/branding/branding-korean-hero-dish-0414.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "排版",
+        "网格"
+      ]
+    },
+    {
+      "id": "graphic-the-him-collage-0003",
+      "title": "2000s怀旧拼贴风明星海报设计",
+      "path": "prompts/graphic/graphic-the-him-collage-0003.md",
+      "score": 22,
+      "hits": 2,
+      "hitKeywords": [
+        "海报",
+        "排版"
+      ]
+    }
+  ],
+  "matched": [
+    {
+      "id": "graphic-the-grid-perfectly-0595",
+      "path": "prompts/graphic/graphic-the-grid-perfectly-0595.md",
+      "score": 32,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-make-the-wheatpaste-0010",
+      "path": "prompts/graphic/graphic-make-the-wheatpaste-0010.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-red-block-0087",
+      "path": "prompts/graphic/graphic-the-red-block-0087.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-position-icon-0336",
+      "path": "prompts/graphic/graphic-the-position-icon-0336.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-name-textures-0474",
+      "path": "prompts/graphic/graphic-the-name-textures-0474.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-lake-map-0893",
+      "path": "prompts/graphic/graphic-the-lake-map-0893.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-attention-red-orange-0968",
+      "path": "prompts/graphic/graphic-the-attention-red-orange-0968.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-ea8edd8b5b-1236",
+      "path": "prompts/graphic/graphic-ea8edd8b5b-1236.md",
+      "score": 31,
+      "quality": "B"
+    },
+    {
+      "id": "branding-korean-hero-dish-0414",
+      "path": "prompts/branding/branding-korean-hero-dish-0414.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-the-him-collage-0003",
+      "path": "prompts/graphic/graphic-the-him-collage-0003.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-text-calendar-teal-0012",
+      "path": "prompts/graphic/graphic-text-calendar-teal-0012.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-one-teammate-the-0069",
+      "path": "prompts/graphic/graphic-one-teammate-the-0069.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-poster-text-meta-0070",
+      "path": "prompts/graphic/graphic-poster-text-meta-0070.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-thinking-process-nano-0102",
+      "path": "prompts/graphic/graphic-thinking-process-nano-0102.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-name-argument-default-0180",
+      "path": "prompts/graphic/graphic-name-argument-default-0180.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-the-text-autumn-0279",
+      "path": "prompts/graphic/graphic-the-text-autumn-0279.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-web-thinking-process-0405",
+      "path": "prompts/graphic/graphic-web-thinking-process-0405.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-rem-sleep-report-0471",
+      "path": "prompts/graphic/graphic-rem-sleep-report-0471.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-the-face-left-0519",
+      "path": "prompts/graphic/graphic-the-face-left-0519.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-octane-c4d-isometric-0521",
+      "path": "prompts/graphic/graphic-octane-c4d-isometric-0521.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-text-the-glass-0598",
+      "path": "prompts/graphic/graphic-text-the-glass-0598.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-the-panel-poster-0838",
+      "path": "prompts/graphic/graphic-the-panel-poster-0838.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-the-phrase-letters-1103",
+      "path": "prompts/graphic/graphic-the-phrase-letters-1103.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-component-position-subject-1212",
+      "path": "prompts/graphic/graphic-component-position-subject-1212.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "graphic-cubby-koki-1216",
+      "path": "prompts/graphic/graphic-cubby-koki-1216.md",
+      "score": 22,
+      "quality": "A"
+    },
+    {
+      "id": "branding-headline-argument-name-0010",
+      "path": "prompts/branding/branding-headline-argument-name-0010.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-headline-argument-name-0012",
+      "path": "prompts/branding/branding-headline-argument-name-0012.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-count-position-0031",
+      "path": "prompts/branding/branding-the-count-position-0031.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-the-object-that-0133",
+      "path": "prompts/branding/branding-the-object-that-0133.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "branding-graphic-design-poster-0299",
+      "path": "prompts/branding/branding-graphic-design-poster-0299.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-red-car-0005",
+      "path": "prompts/graphic/graphic-the-red-car-0005.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-jwvl3dnh9m-0013",
+      "path": "prompts/graphic/graphic-jwvl3dnh9m-0013.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-position-count-labels-0016",
+      "path": "prompts/graphic/graphic-position-count-labels-0016.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-japanese-shark-0019",
+      "path": "prompts/graphic/graphic-the-japanese-shark-0019.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-argument-name-default-0021",
+      "path": "prompts/graphic/graphic-argument-name-default-0021.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-tzicdftsy9-0022",
+      "path": "prompts/graphic/graphic-tzicdftsy9-0022.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-ktbzdngxpu-0027",
+      "path": "prompts/graphic/graphic-ktbzdngxpu-0027.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-text-title-argument-0029",
+      "path": "prompts/graphic/graphic-text-title-argument-0029.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-count-title-earth-0030",
+      "path": "prompts/graphic/graphic-count-title-earth-0030.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-chinese-paper-0031",
+      "path": "prompts/graphic/graphic-the-chinese-paper-0031.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-milan-red-0034",
+      "path": "prompts/graphic/graphic-the-milan-red-0034.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-anime-japanese-0035",
+      "path": "prompts/graphic/graphic-the-anime-japanese-0035.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-center-left-0045",
+      "path": "prompts/graphic/graphic-the-center-left-0045.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-make-wheatpaste-poster-0054",
+      "path": "prompts/graphic/graphic-make-wheatpaste-poster-0054.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-mark-position-name-0062",
+      "path": "prompts/graphic/graphic-mark-position-name-0062.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-boxing-text-0074",
+      "path": "prompts/graphic/graphic-the-boxing-text-0074.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-apple-chinese-0077",
+      "path": "prompts/graphic/graphic-the-apple-chinese-0077.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-chinese-apple-0078",
+      "path": "prompts/graphic/graphic-the-chinese-apple-0078.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-icon-text-orange-0083",
+      "path": "prompts/graphic/graphic-icon-text-orange-0083.md",
+      "score": 21,
+      "quality": "B"
+    },
+    {
+      "id": "graphic-the-poster-glowing-0085",
+      "path": "prompts/graphic/graphic-the-poster-glowing-0085.md",
+      "score": 21,
+      "quality": "B"
+    }
+  ]
+}

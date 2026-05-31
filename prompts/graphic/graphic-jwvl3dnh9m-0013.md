@@ -3,7 +3,7 @@ id: graphic-jwvl3dnh9m-0013
 title: "2026年4月16日真实风景日历"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["日历", "风景", "瑞士", "雪山", "湖泊", "春日", "清新", "治愈"]
 recommended_models: []
 recommended_params:

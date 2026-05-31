@@ -3,7 +3,7 @@ id: graphic-the-redaction-case-0808
 title: "机密调查档案文件"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: vintage-typography-poster
 tags: ["机密", "档案", "复古", "刑侦", "悬疑", "纸张", "做旧", "神秘"]
 recommended_models: []
 recommended_params:

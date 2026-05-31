@@ -3,7 +3,7 @@ id: branding-graphic-design-poster-0299
 title: "特朗普人物海报设计视觉呈现"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["特朗普", "海报", "黑白", "设计", "文字", "排版", "政治", "人物"]
 recommended_models: 
   - banana-pro

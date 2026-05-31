@@ -3,7 +3,7 @@ id: graphic-the-name-textures-0474
 title: "名人肖像拼贴海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["拼贴", "黑白", "海报", "致敬", "肖像", "红色", "动作", "网格"]
 recommended_models: []
 recommended_params:

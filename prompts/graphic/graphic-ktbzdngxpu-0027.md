@@ -3,7 +3,7 @@ id: graphic-ktbzdngxpu-0027
 title: "20种常见蔬菜英语海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["英语", "学习", "蔬菜", "信息图", "海报", "极简风", "写实风", "卡片"]
 recommended_models: []
 recommended_params:

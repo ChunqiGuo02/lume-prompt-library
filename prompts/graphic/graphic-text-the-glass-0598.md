@@ -3,7 +3,7 @@ id: graphic-text-the-glass-0598
 title: "对比图：中国手机维修市场"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["纪实", "手机", "维修", "市场", "拥挤", "海报", "对比", "数码"]
 recommended_models: 
   - banana-pro

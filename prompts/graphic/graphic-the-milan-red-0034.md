@@ -3,7 +3,7 @@ id: graphic-the-milan-red-0034
 title: "AC米兰姆巴佩转会海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["足球", "体育", "海报", "米兰", "姆巴佩", "红色", "黑色", "动感"]
 recommended_models: []
 recommended_params:

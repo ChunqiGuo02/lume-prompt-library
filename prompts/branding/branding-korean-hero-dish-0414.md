@@ -3,7 +3,7 @@ id: branding-korean-hero-dish-0414
 title: "韩式精致料理菜单设计展示"
 category: branding
 subcategory: "03_创意广告品牌设计"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["韩国", "料理", "菜单", "轻奢", "简约", "网格", "排版", "暖色调"]
 recommended_models: 
   - banana-pro

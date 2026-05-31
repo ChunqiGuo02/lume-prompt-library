@@ -3,7 +3,7 @@ id: graphic-position-count-labels-0016
 title: "2026年AI公司全景图"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["人工智能", "科技风", "未来感", "深蓝色", "信息图表", "网格布局", "企业榜单", "矢量设计"]
 recommended_models: []
 recommended_params:

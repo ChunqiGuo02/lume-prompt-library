@@ -3,7 +3,7 @@ id: graphic-cubby-koki-1216
 title: "高细节的3D信息图海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["3D", "可爱", "海报", "信息图", "小笼包", "厨师", "美食", "面食"]
 recommended_models: 
   - banana-pro

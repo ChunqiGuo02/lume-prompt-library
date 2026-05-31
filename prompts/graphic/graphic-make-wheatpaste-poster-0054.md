@@ -3,7 +3,7 @@ id: graphic-make-wheatpaste-poster-0054
 title: "AI实验室海报墙"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["砖墙", "海报", "人工智能", "街头", "拼贴", "做旧", "科技", "涂鸦"]
 recommended_models: []
 recommended_params:

@@ -3,7 +3,7 @@ id: graphic-component-position-subject-1212
 title: "高端饮品爆炸分解视觉海报设计"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["分解图", "超写实", "饮品", "美食", "海报", "信息图", "高端", "悬浮"]
 recommended_models: 
   - banana-pro

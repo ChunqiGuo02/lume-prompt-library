@@ -3,7 +3,7 @@ id: graphic-the-lake-map-0893
 title: "瑞士3D复古旅游指南海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["瑞士", "旅行", "复古", "海报", "信息图", "立体", "地图", "地标"]
 recommended_models: []
 recommended_params:

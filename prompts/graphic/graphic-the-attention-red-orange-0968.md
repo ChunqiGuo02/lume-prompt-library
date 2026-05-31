@@ -3,7 +3,7 @@ id: graphic-the-attention-red-orange-0968
 title: "短形式注意力税信息图海报"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["海报", "瑞士风", "粗野风", "信息图", "注意力", "短视频", "故障风", "红橙色"]
 recommended_models: []
 recommended_params:

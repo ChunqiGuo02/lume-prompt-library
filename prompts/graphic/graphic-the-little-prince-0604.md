@@ -3,7 +3,7 @@ id: graphic-the-little-prince-0604
 title: "小王子与SpaceX联名复古明信片"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: vintage-typography-poster
 tags: ["复古风", "明信片", "小王子", "航天", "太空", "怀旧", "手绘风", "深蓝色"]
 recommended_models: []
 recommended_params:

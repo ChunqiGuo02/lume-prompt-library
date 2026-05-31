@@ -3,7 +3,7 @@ id: graphic-the-grid-perfectly-0595
 title: "实验性字体设计海报，动态模糊与网格布局结合"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["海报", "粗野主义", "字体", "设计", "粉色", "黄色", "暖色调", "模糊"]
 recommended_models: 
   - banana-pro

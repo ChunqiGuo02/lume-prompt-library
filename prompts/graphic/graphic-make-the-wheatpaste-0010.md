@@ -3,7 +3,7 @@ id: graphic-make-the-wheatpaste-0010
 title: "2025设计趋势浆糊海报生成"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["海报", "做旧", "设计", "趋势", "拼贴", "复古", "环保", "网格"]
 recommended_models: []
 recommended_params:

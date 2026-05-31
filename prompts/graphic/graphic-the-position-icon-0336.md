@@ -3,7 +3,7 @@ id: graphic-the-position-icon-0336
 title: "互联网模因生命周期信息图"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["信息图", "海报", "瑞士风", "粗野风", "荧光绿", "拼贴", "极简", "高对比"]
 recommended_models: []
 recommended_params:

@@ -3,7 +3,7 @@ id: graphic-the-him-collage-0003
 title: "2000s怀旧拼贴风明星海报设计"
 category: graphic
 subcategory: "06_图文排版视觉传达"
-aesthetic: null
+aesthetic: editorial-poster
 tags: ["拼贴", "复古", "彩色", "青春", "贴纸", "怀旧", "波普", "彩虹"]
 recommended_models: 
   - banana-pro
