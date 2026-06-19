@@ -98,7 +98,7 @@ async function fetchTextWithRetry(url, attempts = 3) {
     try {
       const response = await fetch(url, {
         headers: {
-          "user-agent": "psyche-prompt-library-builder/1.0"
+          "user-agent": "lume-prompt-library-builder/1.0"
         }
       });
       if (!response.ok) {
@@ -529,9 +529,9 @@ function buildIndex(entries) {
 }
 
 function readmeText(totalPrompts) {
-  return `# psyche-prompt-library
+  return `# lume-prompt-library
 
-Psyche AI image and video generation prompt library, extracted from Leader Prompt Gallery for later Skill and PlanPack integration.
+Lume AI image and video generation prompt library, extracted from Leader Prompt Gallery for later Skill and PlanPack integration.
 
 ## Contents
 
@@ -809,7 +809,7 @@ async function writeOutputs(entries, sourceMap) {
 }
 
 async function main() {
-  if (path.basename(ROOT) !== "psyche-prompt-library") {
+  if (path.basename(ROOT) !== "lume-prompt-library") {
     throw new Error(`Unexpected repo root: ${ROOT}`);
   }
 

@@ -1,6 +1,6 @@
-# psyche-prompt-library
+# lume-prompt-library
 
-Psyche AI image and video generation prompt library, extracted from Leader Prompt Gallery for later Skill and PlanPack integration.
+Lume AI image and video generation prompt library, extracted from Leader Prompt Gallery for later Skill and PlanPack integration.
 
 ## Contents
 

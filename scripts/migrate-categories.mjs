@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Phase B-1 迁移：按 subcategory 重新归位 prompt 文件到 Psyche 新 13 大类。
+ * Phase B-1 迁移：按 subcategory 重新归位 prompt 文件到 Lume 新 13 大类。
  *
  * 输入：现有 prompts/<old_category>/<id>.md 全部 8672 个文件
  * 输出：prompts/<new_category>/<new_id>.md，并重建 index.json
