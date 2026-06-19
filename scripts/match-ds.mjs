@@ -19,7 +19,7 @@ import { dirname, join } from "node:path";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 
-// Tier 1: 5 个 PORTRAIT DS
+// Tier 1: 5 个 PORTRAIT DS + Tier 2: 5 个 BRANDING / GRAPHIC_DESIGN / ARCHITECTURE DS
 const DS_DEFINITIONS = {
   "warm-cinematic-portrait": {
     label: "暖光电影感人像",
@@ -53,6 +53,133 @@ const DS_DEFINITIONS = {
     label: "街头风人像",
     subcategoryFilter: ["05_人物肖像与写实摄影"],
     keywords: ["街头", "城市", "纪实", "自然光", "都市", "街拍", "city", "潮人", "街景", "霓虹", "Tokyo", "夜景", "街灯", "自拍", "OOTD"],
+    minHits: 2,
+    topN: 50,
+  },
+
+  // ─── Tier 2 (5 DS) ─────────────────────────────────────────────────
+  "clean-brand-shoot": {
+    label: "极简品牌广告",
+    subcategoryFilter: ["03_创意广告品牌设计", "02_广告营销电商宣传", "02_电商产品虚拟摄影"],
+    keywords: ["极简", "简约", "干净", "留白", "中性", "极简主义", "现代极简", "高级感", "premium", "北欧", "无印良品", "性冷淡", "商业摄影", "白底", "纯色背景", "克制"],
+    minHits: 2,
+    topN: 50,
+  },
+  "colorful-pop-brand": {
+    label: "撞色波普品牌",
+    subcategoryFilter: ["03_创意广告品牌设计", "06_图文排版视觉传达", "14_社交媒体营销", "04_创意脑洞特效合成"],
+    keywords: ["撞色", "波普", "孟菲斯", "memphis", "拼贴", "80年代", "高饱和", "鲜艳", "趣味", "创意", "y2k", "多巴胺", "渐变", "夸张", "几何", "复古迪斯科"],
+    minHits: 2,
+    topN: 50,
+  },
+  "luxury-product-ad": {
+    label: "高端产品广告",
+    subcategoryFilter: ["02_电商产品虚拟摄影", "02_广告营销电商宣传", "03_创意广告品牌设计"],
+    keywords: ["奢华", "高端", "暗调", "金属", "玻璃", "香水", "珠宝", "名表", "精修", "黑金", "戏剧光", "premium", "深色", "Chanel", "Dior", "Rolex", "黑色", "金色"],
+    minHits: 2,
+    topN: 50,
+  },
+  "architectural-analysis-academic": {
+    label: "建筑分析学术风",
+    subcategoryFilter: ["01_建筑室内空间设计"],
+    keywords: ["分析图", "建筑分析", "黑白线稿", "矢量", "单色", "轴测", "等距", "平面图", "立面图", "剖面图", "流线", "体块", "爆炸图", "概念图", "鸟瞰图", "总平面", "线稿", "竞赛图"],
+    minHits: 2,
+    topN: 50,
+  },
+  "sasaki-competition-board": {
+    label: "SASAKI 竞赛景观风",
+    subcategoryFilter: ["01_建筑室内空间设计"],
+    keywords: ["景观", "规划", "竞赛", "马卡龙", "矢量插画", "现代清新", "扁平", "鸟瞰", "湖蓝", "橙黄", "浅绿", "深绿", "浅粉", "鸟瞰图", "总平面", "公园", "广场", "绿地"],
+    minHits: 2,
+    topN: 50,
+  },
+
+  // ─── Tier 3 (6 DS: THREE_D × 4 + ANIMATION × 2) ──────────────────────
+  "isometric-pastel-3d": {
+    label: "等距粉彩 3D",
+    subcategoryFilter: ["04_创意脑洞特效合成", "07_艺术插画创意风格", "15_特定场景环境生成"],
+    keywords: ["等距", "轴测", "3D", "isometric", "微缩", "粉色", "马卡龙", "柔光", "C4D", "圆角", "低饱和", "粉嫩", "微型", "迷你", "卡通"],
+    minHits: 2,
+    topN: 50,
+  },
+  "cyberpunk-neon": {
+    label: "赛博朋克霓虹",
+    subcategoryFilter: ["04_创意脑洞特效合成", "15_特定场景环境生成", "07_艺术插画创意风格"],
+    keywords: ["赛博朋克", "cyberpunk", "霓虹", "科技", "未来", "夜景", "雨水", "紫蓝", "Blade Runner", "未来都市", "高反差", "玻璃", "反光", "潮湿", "故障", "全息"],
+    minHits: 2,
+    topN: 50,
+  },
+  "microscope-3d": {
+    label: "微缩世界 3D",
+    subcategoryFilter: ["12_手工玩具手办", "15_特定场景环境生成", "04_创意脑洞特效合成"],
+    keywords: ["微缩", "微距", "微型", "玩具", "手办", "桌面", "mini", "微观", "放大镜", "模型", "立体", "拟人化", "粘土", "迷你"],
+    minHits: 2,
+    topN: 50,
+  },
+  "surreal-dreamy": {
+    label: "超现实梦境",
+    subcategoryFilter: ["04_创意脑洞特效合成", "07_艺术插画创意风格", "15_特定场景环境生成"],
+    keywords: ["超现实", "梦幻", "悬浮", "surreal", "dreamy", "飘浮", "梦境", "奇幻", "玄幻", "漂浮", "失重", "魔幻", "云雾", "幻想"],
+    minHits: 2,
+    topN: 50,
+  },
+  "anime-style": {
+    label: "日系动漫风",
+    subcategoryFilter: ["04_动漫游戏视觉与IP改编", "10_卡通漫画电影角色", "07_艺术插画创意风格", "09_故事分镜角色设定"],
+    keywords: ["日系", "动漫", "二次元", "宫崎骏", "新海诚", "京阿尼", "ghibli", "清新", "抒情", "大眼", "动画", "漫画", "动漫画", "日式", "插画"],
+    minHits: 2,
+    topN: 50,
+  },
+  "chibi-character": {
+    label: "Q版卡通角色",
+    subcategoryFilter: ["09_故事分镜角色设定", "10_卡通漫画电影角色", "12_手工玩具手办", "04_动漫游戏视觉与IP改编", "16_表情包趣味拼图"],
+    keywords: ["Q版", "chibi", "卡通", "大头", "小身", "IP", "吉祥物", "头身比", "萌", "卡通形象", "角色", "玩偶", "可爱", "拟人", "Q萌"],
+    minHits: 2,
+    topN: 50,
+  },
+
+  // ─── Tier 4 (4 DS: 收尾) ─────────────────────────────────────────────
+  "flat-illustration": {
+    label: "扁平品牌插画",
+    subcategoryFilter: ["07_艺术插画创意风格", "06_图文排版视觉传达", "04_创意脑洞特效合成"],
+    keywords: ["扁平", "矢量", "插画", "几何", "品牌插画", "illustration", "简约", "现代", "双色", "多色", "大色块", "平面", "卡通插画", "flat", "vector"],
+    minHits: 2,
+    topN: 50,
+  },
+  "watercolor-illustration": {
+    label: "水彩插画",
+    subcategoryFilter: ["07_艺术插画创意风格", "06_图文排版视觉传达", "04_创意脑洞特效合成"],
+    keywords: ["水彩", "淡彩", "插画", "艺术", "晕染", "watercolor", "笔触", "留白", "纸纹", "艺术感", "手绘", "水墨", "国风", "彩绘", "绘本"],
+    minHits: 2,
+    topN: 50,
+  },
+  "meme-pop-funny": {
+    label: "表情包波普梗",
+    subcategoryFilter: ["16_表情包趣味拼图", "04_创意脑洞特效合成", "10_卡通漫画电影角色", "06_图文排版视觉传达"],
+    keywords: ["表情", "表情包", "梗", "meme", "趣味", "doge", "pepe", "微信表情", "抖音", "哈哈", "搞笑", "鬼畜", "诙谐", "夸张", "魔性"],
+    minHits: 2,
+    topN: 50,
+  },
+  "editorial-fashion-shoot": {
+    label: "时尚大片摄影",
+    subcategoryFilter: ["05_人物肖像与写实摄影", "03_创意广告品牌设计", "14_社交媒体营销"],
+    keywords: ["时尚大片", "editorial", "vogue", "bazaar", "戏剧光", "时装", "大片", "杂志大片", "高级造型", "时装周", "T台", "封面大片", "Harper", "时尚摄影"],
+    minHits: 2,
+    topN: 50,
+  },
+
+  // ─── Tier 5 (2 DS: GRAPHIC_DESIGN 收尾) ──────────────────────────────
+  "editorial-poster": {
+    label: "编辑式海报排版",
+    subcategoryFilter: ["06_图文排版视觉传达", "04_创意脑洞特效合成", "03_创意广告品牌设计"],
+    keywords: ["海报", "排版", "网格", "Swiss", "瑞士", "Helvetica", "Akzidenz", "极简版式", "编辑", "信息层次", "Müller-Brockmann", "平面设计", "现代主义", "无衬线", "Grid", "几何排版"],
+    minHits: 2,
+    topN: 50,
+  },
+  "vintage-typography-poster": {
+    label: "复古字体海报",
+    subcategoryFilter: ["06_图文排版视觉传达", "04_创意脑洞特效合成", "03_创意广告品牌设计"],
+    keywords: ["复古海报", "复古字体", "letterpress", "装饰字", "做旧", "旧报纸", "明信片", "装饰花边", "老式海报", "复古", "活字印刷", "民国海报", "上海月份牌", "胶版印刷", "复古排版"],
     minHits: 2,
     topN: 50,
   },
